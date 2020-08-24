@@ -1,0 +1,2180 @@
+Seed: 9698416455
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'W': 2}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Robo battlefield: [Island]
+Robo hand: [Island, Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Moat Piranhas, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'W': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Plains, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Atemis, All-Seeing, Island, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cerulean Drake
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter, Disenchant]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'W': 2, 'C': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Faerie Miscreant
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Faerie Miscreant]
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Sleep Paralysis
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Sleep Paralysis
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Sleep Paralysis]
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Stack: [Sleep Paralysis ETB, Disenchant]
+Resolving Disenchant
+Sleep Paralysis is destroyed
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'W': 2, 'C': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Brought Back, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Brought Back
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2, 'C': 2}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'W': 2, 'C': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2, 'C': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings, Loxodon Lifechanter]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Loxodon Lifechanter
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter ETB
+Robo battlefield: [Island, Island, Island, Plains, Faerie Miscreant, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Faerie Miscreant
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 3
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2, 'C': 2}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Leyline of Sanctity
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loxodon Lifechanter]
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 10 life
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 10
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Atemis, All-Seeing
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Atemis, All-Seeing
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 6
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Frilled Sea Serpent, Bishop of Wings]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frilled Sea Serpent
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Plains
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Cerulean Drake, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Rule of Law, Plains, Island]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Rule of Law
+Phase: Declare Attackers
+Attackers: [Cerulean Drake, Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Loxodon Lifechanter]
+Loxodon Lifechanter is blocking Cerulean Drake
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Cerulean Drake has taken lethal damage: 4
+Cerulean Drake dies
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing]
+Rand hand: [Plains, Island, Cavalier of Gales, Zephyr Charge]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Zephyr Charge
+Phase: End Phase
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand hand: [Plains, Cavalier of Gales]
+Rand life: 10
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand hand: [Plains, Cavalier of Gales]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand hand: [Plains, Cavalier of Gales]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand hand: [Plains, Cavalier of Gales]
+Rand life: 10
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Plains
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Pacifism
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Atemis, All-Seeing
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent, Plains]
+Robo hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand hand: [Cavalier of Gales, Eternal Isolation, Cavalier of Dawn, Inspiring Captain, Plains]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo  battlefield: [Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Frilled Sea Serpent, Plains]
+Robo  hand: [Inspired Charge, Captivating Gyre, Ajani, Strength of the Pride, Bishop of Wings, Frost Lynx]
+Robo  deck: [Island, Aerial Assault, Aether Gust, Fortress Crab, Plains, Plains, Island, Bone to Ash, Plains, Plains, Glaring Aegis, Island, Ancestral Blade, Boreal Elemental, Plains, Plains, Plains, Plains, Brought Back, Cavalier of Gales, Island, Island, Spectral Sailor, Island, Angel of Vitality, Plains, Island, Herald of the Sun, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains, Yoked Ox, Inspiring Captain, Island, Plains, Starfield Mystic, Convolute, Winged Words, Scholar of the Ages, Griffin Sentinel, Atemis, All-Seeing, Island, Angelic Gift, Plains, Plains, Gauntlet of Light, Island, Planar Cleansing, Island, Island, Plains, Plains, Plains, Leyline of Sanctity, Eternal Isolation, Flood of Tears, Portal of Sanctuary, Plains, Soulmender, Island, Plains, Island, Octoprophet, Island, Plains, Plains, Brineborn Cutthroat, Plains, Plains, Negate, Plains, Island, Island, Island, Sage's Row Denizen, Island, Air Elemental, Plains, Daybreak Chaplin, Moat Piranhas, Plains, Dungeon Geists, Devout Decree, Raise the Alarm, Renowned Weaponsmith, Cerulean Drake, Island, Griffin Protector, Moorland Inquisitor, Plains, Plains, Island, Mu Yanling, Sky Dancer, Island, Island, Island, Anticipate, Tale's End, Agent of Treachery, Sephara, Sky's Blade, Plains, Battalion Foot Soldier, Apostle of Purifying Light, Island, Island, Masterful Replication, Steadfast Sentry, Master Splicer, Cavalier of Dawn, Drawn from Dreams, Rule of Law, Pacifism, Island, Plains, Warden of Evos Isle, Loyal Pegasus, Plains, Hard Cover, Plains, Plains, Island, Plains, Plains, Dawning Angel, Metropolis Sprite, Island, Plains, Island, Moment of Heroism, Gods Willing, Zephyr Charge, Plains, Cloudkin Seer, Squad Captain, Sleep Paralysis, Fencing Ace, Plains, Plains, Hanged Executioner, Island, Unsummon]
+Robo  graveyard: [Island, Disenchant, Faerie Miscreant]
+Rand  battlefield: [Island, Plains, Moat Piranhas, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Atemis, All-Seeing, Island, Zephyr Charge]
+Rand  hand: [Cavalier of Gales, Eternal Isolation, Cavalier of Dawn, Inspiring Captain, Plains]
+Rand  deck: [Island, Plains, Island, Warden of Evos Isle, Aerial Assault, Plains, Aether Gust, Plains, Ancestral Blade, Plains, Island, Island, Island, Plains, Bishop of Wings, Faerie Miscreant, Plains, Island, Island, Anticipate, Boreal Elemental, Island, Island, Frilled Sea Serpent, Bone to Ash, Steadfast Sentry, Plains, Plains, Daybreak Chaplin, Drawn from Dreams, Griffin Sentinel, Island, Inspired Charge, Devout Decree, Island, Fencing Ace, Portal of Sanctuary, Metropolis Sprite, Hard Cover, Plains, Mu Yanling, Sky Dancer, Plains, Plains, Plains, Plains, Negate, Plains, Master Splicer, Island, Island, Herald of the Sun, Plains, Gauntlet of Light, Octoprophet, Island, Island, Starfield Mystic, Plains, Plains, Island, Plains, Angel of Vitality, Plains, Renowned Weaponsmith, Island, Squad Captain, Plains, Ajani, Strength of the Pride, Griffin Protector, Gods Willing, Sephara, Sky's Blade, Hanged Executioner, Plains, Spectral Sailor, Plains, Island, Moment of Heroism, Island, Island, Island, Island, Moorland Inquisitor, Tale's End, Sage's Row Denizen, Frost Lynx, Plains, Air Elemental, Island, Island, Battalion Foot Soldier, Agent of Treachery, Plains, Winged Words, Angelic Gift, Cloudkin Seer, Brineborn Cutthroat, Plains, Island, Island, Island, Plains, Island, Island, Loxodon Lifechanter, Island, Apostle of Purifying Light, Dawning Angel, Masterful Replication, Plains, Loyal Pegasus, Dungeon Geists, Island, Raise the Alarm, Plains, Yarok's Wavecrasher, Fortress Crab, Yoked Ox, Island, Glaring Aegis, Island, Plains, Plains, Flood of Tears, Convolute, Plains, Planar Cleansing, Soulmender, Unsummon, Disenchant, Plains, Island, Plains, Scholar of the Ages, Plains, Captivating Gyre, Plains]
+Rand  graveyard: [Island, Sleep Paralysis, Brought Back, Plains, Rule of Law, Cerulean Drake, Plains, Pacifism]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.524405
+Seed: 9698416455

@@ -1,0 +1,5023 @@
+Seed: 3606335957
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Soulmender, Island, Inspiring Captain, Plains, Loxodon Lifechanter, Moorland Inquisitor]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Soulmender, Island, Inspiring Captain, Plains, Loxodon Lifechanter, Moorland Inquisitor]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Soulmender, Island, Inspiring Captain, Plains, Loxodon Lifechanter, Moorland Inquisitor]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Moorland Inquisitor, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moorland Inquisitor
+{'C': 0}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Portal of Sanctuary, Plains, Sage's Row Denizen, Plains, Scholar of the Ages, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sage's Row Denizen
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor]
+Rand hand: [Plains, Island, Inspiring Captain, Loxodon Lifechanter, Renowned Weaponsmith]
+Rand life: 21
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen]
+Robo hand: [Portal of Sanctuary, Plains, Scholar of the Ages, Brought Back, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Portal of Sanctuary
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Island, Island, Plains, Sage's Row Denizen, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Sage's Row Denizen
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Sage's Row Denizen]
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sage's Row Denizen bounced
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith]
+Rand hand: [Island, Inspiring Captain, Loxodon Lifechanter, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary]
+Robo hand: [Scholar of the Ages, Brought Back, Plains, Fortress Crab, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Brought Back
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 23
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Sage's Row Denizen
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Sage's Row Denizen]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sage's Row Denizen bounced
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Plains, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover]
+Rand life: 24
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Sage's Row Denizen, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Sage's Row Denizen
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Sage's Row Denizen]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sage's Row Denizen bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Renowned Weaponsmith
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Renowned Weaponsmith]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith, Island, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 25
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Renowned Weaponsmith]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Sage's Row Denizen]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Sage's Row Denizen
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Sage's Row Denizen]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sage's Row Denizen bounced
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Plains, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Hard Cover, Sage's Row Denizen]
+Rand life: 26
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Moorland Inquisitor
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Moorland Inquisitor]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor ['Hard Cover'], Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Hard Cover]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Plains]
+Rand life: 27
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor ['Hard Cover'], Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Hard Cover]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 27
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Moorland Inquisitor ['Hard Cover'], Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Hard Cover]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 27
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Moorland Inquisitor ['Hard Cover']
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Moorland Inquisitor ['Hard Cover']]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Aerial Assault
+Moorland Inquisitor is destroyed
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 27
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 27
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 27
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Soulmender ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains]
+Robo hand: [Scholar of the Ages, Fortress Crab, Dungeon Geists, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Scholar of the Ages
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Scholar of the Ages
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Scholar of the Ages ETB targeting Aerial Assault
+{'C': 0}
+{'C': 0}
+Scholar of the Ages ETB targeting Brought Back
+ Targets:  []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Scholar of the Ages ETB
+Aerial Assault returned from graveyard to hand
+Brought Back returned from graveyard to hand
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel]
+Rand life: 28
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Stack: [Soulmender ability, Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Stack: [Soulmender ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Scholar of the Ages]
+Robo hand: [Fortress Crab, Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Brought Back]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Scholar of the Ages
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Scholar of the Ages]
+{'W': 2}
+{'C': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Portal of Sanctuary effect, Brought Back]
+Resolving Brought Back
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Scholar of the Ages bounced
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Fortress Crab
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Island, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Island, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab, Island]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher]
+Rand life: 29
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab, Island]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: [Renowned Weaponsmith ['Gauntlet of Light']]
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Renowned Weaponsmith ['Gauntlet of Light']
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab, Island]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Fortress Crab, Island]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Fortress Crab
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Fortress Crab]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Fortress Crab bounced
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Soulmender
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Pacifism
+ Targets:  [Pacifism targeting Soulmender]
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Pacifism
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism]
+Robo hand: [Dungeon Geists, Sage's Row Denizen, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary]
+Rand life: 30
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Inspiring Captain, Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Inspiring Captain
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Pacifism, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Aerial Assault, Scholar of the Ages, Fortress Crab]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Pacifism'], Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Sage's Row Denizen
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Sage's Row Denizen]
+{'C': 1}
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sage's Row Denizen bounced
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Soulmender ['Pacifism']
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Soulmender ['Pacifism']]
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Aerial Assault
+Soulmender is destroyed
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island, Sage's Row Denizen]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 2}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Sage's Row Denizen]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery, Ajani, Strength of the Pride]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: [Renowned Weaponsmith ['Gauntlet of Light']]
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Sage's Row Denizen]
+Sage's Row Denizen is blocking Renowned Weaponsmith ['Gauntlet of Light']
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Sage's Row Denizen has taken lethal damage: 5
+Sage's Row Denizen dies
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery, Ajani, Strength of the Pride]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 2}
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Ajani, Strength of the Pride
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Scholar of the Ages, Fortress Crab, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Scholar of the Ages
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Scholar of the Ages
+{'C': 0}
+Scholar of the Ages ETB targeting Moment of Heroism
+{'C': 0}
+Scholar of the Ages ETB targeting Aerial Assault
+ Targets:  []
+{'C': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Scholar of the Ages ETB
+Moment of Heroism returned from graveyard to hand
+Aerial Assault returned from graveyard to hand
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Scholar of the Ages]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Island, Dawning Angel, Moment of Heroism, Aerial Assault]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Scholar of the Ages
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Scholar of the Ages]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Scholar of the Ages bounced
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Island, Dawning Angel, Moment of Heroism, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Dawning Angel, Moment of Heroism, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Renowned Weaponsmith ['Gauntlet of Light'], Island, Plains, Gauntlet of Light, Plains]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Yarok's Wavecrasher, Portal of Sanctuary, Agent of Treachery]
+Rand life: 31
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Renowned Weaponsmith ['Gauntlet of Light'] bounced
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Dawning Angel, Moment of Heroism, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Dawning Angel, Moment of Heroism, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Dawning Angel, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Dawning Angel
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Fortress Crab, Dawning Angel, Moment of Heroism, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Yarok's Wavecrasher
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Yarok's Wavecrasher]
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Fortress Crab
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Convolute
+ Targets:  [Convolute targeting Fortress Crab]
+Robo Passes
+Rand Passes
+Stack: [Fortress Crab, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Fortress Crab is countered
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Loxodon Lifechanter, Sage's Row Denizen, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sage's Row Denizen
+Rand Passes
+Robo Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Sage's Row Denizen]
+Rand hand: [Loxodon Lifechanter, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith, Plains]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Sage's Row Denizen]
+Rand hand: [Loxodon Lifechanter, Griffin Sentinel, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith, Plains]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Sentinel
+Rand Passes
+Robo Passes
+Resolving Griffin Sentinel
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dungeon Geists, Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Sage's Row Denizen, Plains, Griffin Sentinel]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Dungeon Geists
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Sage's Row Denizen
+ Targets:  []
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Dungeon Geists]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages, Plains]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Sage's Row Denizen, Plains, Griffin Sentinel]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Dungeon Geists
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Dungeon Geists]
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Dungeon Geists bounced
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Aerial Assault, Scholar of the Ages, Plains, Dungeon Geists]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Sage's Row Denizen, Plains, Griffin Sentinel]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Sage's Row Denizen
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Sage's Row Denizen]
+Robo Passes
+Rand Passes
+Resolving Aerial Assault
+Sage's Row Denizen is destroyed
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher, Griffin Sentinel]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Moorland Inquisitor, Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moorland Inquisitor
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Moorland Inquisitor]
+Robo hand: [Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists, Steadfast Sentry]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moorland Inquisitor
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moorland Inquisitor]
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Portal of Sanctuary effect, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Moorland Inquisitor bounced
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dawning Angel, Scholar of the Ages, Plains, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Renowned Weaponsmith]
+Rand life: 31
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Yoked Ox]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Renowned Weaponsmith
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Renowned Weaponsmith]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Yoked Ox]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Inspired Charge
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moorland Inquisitor
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Moorland Inquisitor]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moorland Inquisitor
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moorland Inquisitor]
+{'C': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Moorland Inquisitor bounced
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Glaring Aegis]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher, Griffin Sentinel, Renowned Weaponsmith]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle, Glaring Aegis]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Yarok's Wavecrasher
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Yarok's Wavecrasher]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Glaring Aegis
+Glaring Aegis ETB trigger not put on stack, no legal targets for trigger
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Scholar of the Ages, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Scholar of the Ages
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Scholar of the Ages
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Scholar of the Ages ETB targeting Inspired Charge
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Scholar of the Ages ETB targeting Moment of Heroism
+ Targets:  []
+{'C': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Scholar of the Ages ETB
+Inspired Charge returned from graveyard to hand
+Moment of Heroism returned from graveyard to hand
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Island, Scholar of the Ages]
+Robo hand: [Dawning Angel, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor, Inspired Charge, Moment of Heroism]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Griffin Sentinel
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Griffin Sentinel]
+{'C': 2, 'W': 2}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Scholar of the Ages
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Scholar of the Ages]
+{'C': 2, 'W': 2}
+{'C': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Stack: [Moment of Heroism, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Scholar of the Ages bounced
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Moment of Heroism
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor, Inspired Charge, Scholar of the Ages]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor, Inspired Charge, Scholar of the Ages]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yarok's Wavecrasher ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yarok's Wavecrasher ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor, Inspired Charge, Scholar of the Ages]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis, Plains]
+Rand hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand life: 31
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Renowned Weaponsmith, Yoked Ox]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo  battlefield: [Island, Island, Plains, Plains, Portal of Sanctuary, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo  hand: [Dawning Angel, Dungeon Geists, Steadfast Sentry, Moorland Inquisitor, Inspired Charge, Scholar of the Ages]
+Robo  deck: [Plains, Plains, Faerie Miscreant, Frost Lynx, Plains, Island, Plains, Drawn from Dreams, Loyal Pegasus, Angelic Gift, Island, Plains, Octoprophet, Cavalier of Dawn, Island, Island, Plains, Metropolis Sprite, Frilled Sea Serpent, Island, Devout Decree, Plains, Loxodon Lifechanter, Master Splicer, Soulmender, Plains, Battalion Foot Soldier, Plains, Atemis, All-Seeing, Plains, Plains, Winged Words, Masterful Replication, Plains, Island, Plains, Raise the Alarm, Tale's End, Island, Island, Moat Piranhas, Plains, Griffin Protector, Disenchant, Rule of Law, Island, Plains, Island, Negate, Griffin Sentinel, Island, Glaring Aegis, Plains, Island, Bishop of Wings, Zephyr Charge, Plains, Cloudkin Seer, Island, Island, Plains, Plains, Daybreak Chaplin, Island, Aether Gust, Eternal Isolation, Yarok's Wavecrasher, Island, Island, Plains, Plains, Island, Hard Cover, Island, Warden of Evos Isle, Island, Ajani, Strength of the Pride, Squad Captain, Air Elemental, Island, Fencing Ace, Island, Herald of the Sun, Plains, Gods Willing, Planar Cleansing, Flood of Tears, Plains, Sephara, Sky's Blade, Island, Angel of Vitality, Plains, Island, Cerulean Drake, Ancestral Blade, Plains, Captivating Gyre, Island, Apostle of Purifying Light, Renowned Weaponsmith, Plains, Plains, Plains, Island, Plains, Boreal Elemental, Spectral Sailor, Hanged Executioner, Island, Sleep Paralysis, Plains, Island, Agent of Treachery, Brineborn Cutthroat, Yoked Ox, Plains, Island, Cavalier of Gales, Island, Island, Mu Yanling, Sky Dancer, Starfield Mystic, Island, Leyline of Sanctity, Plains, Bone to Ash, Island, Gauntlet of Light, Unsummon, Anticipate, Plains, Island, Island, Plains, Plains, Inspiring Captain, Island]
+Robo  graveyard: [Brought Back, Pacifism, Sage's Row Denizen, Fortress Crab, Convolute, Aerial Assault, Moment of Heroism]
+Rand  battlefield: [Plains, Island, Plains, Island, Plains, Plains, Yarok's Wavecrasher ['Glaring Aegis'], Plains, Griffin Sentinel, Zephyr Charge, Renowned Weaponsmith, Yoked Ox, Glaring Aegis, Plains]
+Rand  hand: [Loxodon Lifechanter, Portal of Sanctuary, Agent of Treachery, Warden of Evos Isle]
+Rand  deck: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Steadfast Sentry, Negate, Plains, Plains, Plains, Brineborn Cutthroat, Unsummon, Island, Island, Angelic Gift, Island, Fortress Crab, Ancestral Blade, Plains, Atemis, All-Seeing, Island, Plains, Island, Frost Lynx, Plains, Island, Island, Moment of Heroism, Plains, Bone to Ash, Island, Convolute, Disenchant, Island, Griffin Protector, Island, Plains, Cloudkin Seer, Plains, Herald of the Sun, Sephara, Sky's Blade, Plains, Plains, Plains, Tale's End, Island, Island, Squad Captain, Spectral Sailor, Island, Island, Island, Island, Island, Plains, Plains, Island, Brought Back, Plains, Island, Plains, Island, Captivating Gyre, Island, Boreal Elemental, Plains, Bishop of Wings, Winged Words, Plains, Island, Plains, Island, Island, Planar Cleansing, Octoprophet, Battalion Foot Soldier, Leyline of Sanctity, Cavalier of Dawn, Island, Loyal Pegasus, Fencing Ace, Gods Willing, Aether Gust, Masterful Replication, Plains, Island, Plains, Cavalier of Gales, Plains, Island, Island, Angel of Vitality, Rule of Law, Cerulean Drake, Hanged Executioner, Moat Piranhas, Plains, Pacifism, Drawn from Dreams, Plains, Island, Plains, Island, Frilled Sea Serpent, Air Elemental, Scholar of the Ages, Plains, Plains, Sleep Paralysis, Island, Inspired Charge, Island, Metropolis Sprite, Eternal Isolation, Raise the Alarm, Plains, Devout Decree, Island, Flood of Tears, Apostle of Purifying Light, Faerie Miscreant, Aerial Assault, Starfield Mystic, Island, Anticipate, Master Splicer, Plains, Dungeon Geists, Island, Daybreak Chaplin, Island, Mu Yanling, Sky Dancer]
+Rand  graveyard: [Plains, Hard Cover, Moorland Inquisitor, Inspiring Captain, Soulmender, Ajani, Strength of the Pride, Gauntlet of Light, Dawning Angel, Sage's Row Denizen]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:00.592057
+Seed: 3606335957

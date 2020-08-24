@@ -1,0 +1,33 @@
+Keyword abilities
+first strike
+lifelink
+flying
+vigilance
+double strike
+hexproof
+defender
+unblockable
+reach
+menace
+indestructible
+flash
+
+Other abils
+no_atk_alone: Can't attack alone
+no_block_alone: Can't block alone
+cant_attack: can't attack
+cant_block: can't block
+cant_be_double_blocked: can only be blocked by one creature
+tough_assign: assigns combat damage equal to its toughness rather than its power
+uncounterable: can't be countered
+all_uncounterable: [granted to players only] all spells are uncounterable
+stop_untap: doesn't untap during untap step
+stop_next_untap: doesn't untap during next untap step
+loses_[keyword]: overrides [keyword] instances
+loses_flying: overrides any flying instances
+loses_defender: overrides any defender instances
+cant_have_plus1_plus1: can't have any +1/+1 counters placed on it
+exile_on_death: if it would die, exile it instead
+etb_tapped: enters the battlefield tapped
+cast_from_yard: can be cast from graveyard
+cast_from_exile: can be cast from graveyard

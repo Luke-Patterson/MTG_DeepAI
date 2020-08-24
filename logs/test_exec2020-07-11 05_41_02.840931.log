@@ -1,0 +1,4251 @@
+Seed: 2571324602
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Hanged Executioner, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Moment of Heroism, Plains, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Hanged Executioner, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Moment of Heroism, Plains, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Hanged Executioner
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Moment of Heroism, Plains, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Rand battlefield: [Island]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Raise the Alarm, Scholar of the Ages, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Raise the Alarm
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Raise the Alarm
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Frost Lynx, Plains, Island, Cavalier of Gales, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frost Lynx
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Loyal Pegasus
+ Targets:  []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1]
+Robo hand: [Island, Moment of Heroism, Sleep Paralysis, Scholar of the Ages, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Loyal Pegasus does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Frost Lynx
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Frost Lynx]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Moment of Heroism
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Griffin Protector, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Griffin Protector
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Fortress Crab]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Fortress Crab
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Fortress Crab
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Griffin Protector]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab]
+Rand hand: [Plains, Island, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'C': 4, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 3}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island]
+Rand hand: [Plains, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Plains, Boreal Elemental]
+Robo life: 15
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island]
+Rand hand: [Plains, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island]
+Rand hand: [Plains, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island]
+Rand hand: [Plains, Cavalier of Gales, Plains, Dawning Angel]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 15
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Gales
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Gales
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Cavalier of Gales ETB]
+Resolving Cavalier of Gales ETB
+Rand draws 3 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales]
+Rand hand: [Plains, Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales]
+Rand hand: [Plains, Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains]
+Rand hand: [Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains]
+Rand hand: [Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains]
+Rand hand: [Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains]
+Rand hand: [Brineborn Cutthroat, Daybreak Chaplin, Negate, Ajani, Strength of the Pride]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brineborn Cutthroat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Brineborn Cutthroat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Griffin Protector Creature ETB
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Negate
+ Targets:  [Negate targeting Griffin Protector Creature ETB]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Negate]
+Resolving Negate
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat]
+Rand hand: [Daybreak Chaplin, Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat]
+Rand hand: [Daybreak Chaplin, Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Daybreak Chaplin
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Dawning Angel
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Dawning Angel ETB]
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Fortress Crab, Cavalier of Gales, Brineborn Cutthroat]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 1 life
+Robo loses 5 life
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel]
+Rand hand: [Ajani, Strength of the Pride, Plains]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+Rand Playing Plains
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains]
+Rand hand: [Ajani, Strength of the Pride]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Island, Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication]
+Robo life: 1
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains]
+Rand hand: [Ajani, Strength of the Pride]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication, Squad Captain]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains]
+Rand hand: [Ajani, Strength of the Pride]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication, Squad Captain]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains]
+Rand hand: [Ajani, Strength of the Pride]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication, Squad Captain]
+Robo life: 1
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ajani, Strength of the Pride
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride
+Rand battlefield: [Island, Plains, Island, Frost Lynx, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains, Ajani, Strength of the Pride]
+Rand hand: [Bone to Ash]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication, Squad Captain]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Griffin Protector, Cavalier of Gales]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Loyal Pegasus]
+Loyal Pegasus is blocking Frost Lynx
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 5 life
+Frost Lynx has taken lethal damage: 2
+Frost Lynx dies
+Rand  battlefield: [Island, Plains, Island, Island, Griffin Protector, Fortress Crab, Island, Cavalier of Gales, Plains, Brineborn Cutthroat, Daybreak Chaplin, Dawning Angel, Plains, Ajani, Strength of the Pride]
+Rand  hand: [Bone to Ash]
+Rand  deck: [Gauntlet of Light, Plains, Captivating Gyre, Atemis, All-Seeing, Boreal Elemental, Rule of Law, Inspired Charge, Plains, Yoked Ox, Portal of Sanctuary, Loyal Pegasus, Angelic Gift, Planar Cleansing, Plains, Flood of Tears, Plains, Island, Sage's Row Denizen, Plains, Griffin Sentinel, Cavalier of Dawn, Scholar of the Ages, Anticipate, Air Elemental, Plains, Winged Words, Plains, Agent of Treachery, Plains, Master Splicer, Fencing Ace, Island, Frilled Sea Serpent, Plains, Island, Apostle of Purifying Light, Cloudkin Seer, Hard Cover, Island, Sleep Paralysis, Soulmender, Pacifism, Bishop of Wings, Mu Yanling, Sky Dancer, Island, Island, Plains, Plains, Island, Steadfast Sentry, Masterful Replication, Moment of Heroism, Island, Island, Plains, Convolute, Plains, Plains, Island, Squad Captain, Island, Plains, Leyline of Sanctity, Island, Plains, Island, Plains, Plains, Plains, Plains, Starfield Mystic, Angel of Vitality, Drawn from Dreams, Gods Willing, Spectral Sailor, Plains, Octoprophet, Brought Back, Island, Island, Plains, Moorland Inquisitor, Island, Island, Plains, Plains, Island, Island, Ancestral Blade, Island, Island, Warden of Evos Isle, Plains, Dungeon Geists, Devout Decree, Aerial Assault, Tale's End, Island, Zephyr Charge, Eternal Isolation, Island, Moat Piranhas, Metropolis Sprite, Island, Yarok's Wavecrasher, Plains, Plains, Aether Gust, Disenchant, Glaring Aegis, Plains, Loxodon Lifechanter, Battalion Foot Soldier, Island, Plains, Island, Island, Island, Plains, Sephara, Sky's Blade, Plains, Island, Raise the Alarm, Plains, Island, Plains, Plains, Renowned Weaponsmith, Island, Faerie Miscreant, Island, Plains, Island, Unsummon, Island, Island, Island, Inspiring Captain, Island, Plains, Plains, Cerulean Drake, Plains, Herald of the Sun]
+Rand  graveyard: [Hanged Executioner, Negate, Frost Lynx]
+Robo  battlefield: [Plains, Loyal Pegasus, Island, Soldier 1/1, Island, Plains, Plains, Plains, Plains, Island]
+Robo  hand: [Sleep Paralysis, Scholar of the Ages, Boreal Elemental, Masterful Replication, Squad Captain]
+Robo  deck: [Island, Plains, Devout Decree, Island, Negate, Zephyr Charge, Cerulean Drake, Frilled Sea Serpent, Bishop of Wings, Portal of Sanctuary, Glaring Aegis, Cavalier of Dawn, Captivating Gyre, Plains, Island, Griffin Sentinel, Faerie Miscreant, Eternal Isolation, Island, Plains, Island, Island, Soulmender, Island, Ajani, Strength of the Pride, Frost Lynx, Plains, Plains, Plains, Warden of Evos Isle, Plains, Plains, Agent of Treachery, Anticipate, Gods Willing, Island, Island, Plains, Plains, Cloudkin Seer, Griffin Protector, Daybreak Chaplin, Unsummon, Plains, Plains, Plains, Loxodon Lifechanter, Plains, Island, Hanged Executioner, Plains, Plains, Spectral Sailor, Ancestral Blade, Plains, Island, Plains, Sephara, Sky's Blade, Island, Plains, Steadfast Sentry, Island, Plains, Plains, Plains, Convolute, Sage's Row Denizen, Island, Moat Piranhas, Hard Cover, Plains, Starfield Mystic, Apostle of Purifying Light, Cavalier of Gales, Plains, Pacifism, Plains, Angel of Vitality, Island, Angelic Gift, Island, Plains, Island, Disenchant, Island, Planar Cleansing, Plains, Island, Plains, Dawning Angel, Aether Gust, Island, Bone to Ash, Air Elemental, Plains, Plains, Plains, Moorland Inquisitor, Rule of Law, Renowned Weaponsmith, Winged Words, Plains, Drawn from Dreams, Plains, Battalion Foot Soldier, Inspired Charge, Island, Fortress Crab, Island, Island, Island, Island, Island, Island, Yoked Ox, Flood of Tears, Brought Back, Mu Yanling, Sky Dancer, Island, Inspiring Captain, Island, Metropolis Sprite, Master Splicer, Island, Fencing Ace, Island, Island, Leyline of Sanctity, Aerial Assault, Plains, Tale's End, Island, Island, Gauntlet of Light, Dungeon Geists, Brineborn Cutthroat, Yarok's Wavecrasher, Herald of the Sun, Plains, Octoprophet, Island, Plains, Atemis, All-Seeing, Island, Island]
+Robo  graveyard: [Island, Raise the Alarm, Moment of Heroism]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.649000
+Seed: 2571324602

@@ -1,0 +1,5843 @@
+Seed: 2269818850
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Rand draws 6 card
+Rand mulligans to 6
+Rand elects not to put Leyline of Sanctity into play at beginning of game
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Island, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Captivating Gyre, Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Plains, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Island, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Captivating Gyre, Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Plains, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Captivating Gyre, Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Plains, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Captivating Gyre, Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Plains, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Captivating Gyre, Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Plains, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Plains
+Rand discards Captivating Gyre
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Apostle of Purifying Light, Island, Air Elemental, Dawning Angel, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Apostle of Purifying Light
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Portal of Sanctuary, Plains, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+Robo Playing Plains
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Captivating Gyre
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Captivating Gyre]
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Captivating Gyre
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Portal of Sanctuary, Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Portal of Sanctuary
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Plains, Island, Air Elemental, Dawning Angel, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Plains
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Plains]
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Plains
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+Robo Playing Plains
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Island
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Island]
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Island
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Playing Island
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains]
+Robo hand: [Island, Air Elemental, Dawning Angel, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Playing Island
+{'C': 3, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dawning Angel
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Dawning Angel
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Dawning Angel ETB
+Robo gains 4 life
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island]
+Rand hand: [Island, Leyline of Sanctity, Ajani, Strength of the Pride, Plains, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Rand Playing Plains
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ajani, Strength of the Pride
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Ajani, Strength of the Pride
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Phase: End Phase
+{'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Ajani's Pridemate
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Ajani's Pridemate]
+{'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Ajani's Pridemate bounced
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel]
+Robo hand: [Air Elemental, Master Splicer, Island, Island, Brought Back]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+Rand Passes
+Resolving Brought Back
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Brought Back
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Brought Back]
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Brought Back
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'C': 3, 'U': 2}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Soulmender]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Gods Willing]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+{'C': 1}
+{'C': 0}
+{'W': 1}
+Gods Willing targeting Soulmender
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Soulmender]
+{'C': 1}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Soulmender
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soulmender]
+{'C': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gods Willing, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Soulmender bounced
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Gods Willing countered due to no legal targets
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Gods Willing
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Gods Willing]
+Rand Passes
+{'C': 2}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Gods Willing
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Island, Leyline of Sanctity, Plains, Island, Soulmender]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'W': 2, 'C': 2}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride +1 ability
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride +1 ability
+Rand gains 1 life
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island]
+Robo hand: [Air Elemental, Master Splicer, Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island]
+Rand hand: [Island, Leyline of Sanctity, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Air Elemental
+Robo Passes
+Rand Passes
+Resolving Air Elemental
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental]
+Robo hand: [Master Splicer, Island, Plains, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island]
+Rand hand: [Island, Leyline of Sanctity, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental]
+Robo hand: [Master Splicer, Island, Plains, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island]
+Rand hand: [Island, Leyline of Sanctity, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains]
+Robo hand: [Master Splicer, Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island]
+Rand hand: [Island, Leyline of Sanctity, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Leyline of Sanctity
+Rand Passes
+Robo Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains]
+Robo hand: [Master Splicer, Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Soulmender, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains]
+Robo hand: [Master Splicer, Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Soulmender, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Phase: End Phase
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Ajani's Pridemate
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Ajani's Pridemate]
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Ajani's Pridemate bounced
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains]
+Robo hand: [Master Splicer, Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity, Plains]
+Rand hand: [Island, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Island, Ajani, Strength of the Pride, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity, Plains]
+Rand hand: [Island, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Island, Ajani, Strength of the Pride, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity, Plains]
+Rand hand: [Island, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island]
+Robo hand: [Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Ajani, Strength of the Pride, Island, Leyline of Sanctity, Plains]
+Rand hand: [Island, Plains, Soulmender]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+Ajani, Strength of the Pride has no loyalty
+Ajani, Strength of the Pride dies
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island]
+Robo hand: [Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Ajani's Pridemate]
+Rand hand: [Island, Plains, Soulmender, Frost Lynx]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Ajani's Pridemate
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Ajani's Pridemate]
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Ajani's Pridemate bounced
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island]
+Robo hand: [Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains]
+Rand hand: [Island, Plains, Soulmender, Frost Lynx]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'W': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island]
+Robo hand: [Island, Ajani, Strength of the Pride]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Ajani, Strength of the Pride
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Ajani, Strength of the Pride]
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Ajani, Strength of the Pride
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Ajani, Strength of the Pride
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ajani, Strength of the Pride
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 15
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Soulmender]
+Rand hand: [Plains, Frost Lynx, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Soulmender
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soulmender]
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Soulmender bounced
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Frost Lynx, Island, Soulmender]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island]
+Rand hand: [Plains, Frost Lynx, Soulmender]
+Rand life: 15
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Air Elemental
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gods Willing
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island]
+Rand hand: [Plains, Frost Lynx, Soulmender]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Dawning Angel, Master Splicer]
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Gods Willing
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Gods Willing]
+{'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Gods Willing
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 3 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island]
+Rand hand: [Plains, Frost Lynx, Soulmender]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island]
+Rand hand: [Plains, Frost Lynx, Soulmender]
+Rand life: 9
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frost Lynx
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Dawning Angel
+ Targets:  []
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Frost Lynx
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Frost Lynx]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Frost Lynx Creature ETB, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Frost Lynx bounced
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains]
+Rand hand: [Plains, Soulmender, Frost Lynx]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender
+Phase: End Phase
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Soulmender]
+Rand hand: [Plains, Frost Lynx]
+Rand life: 9
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Dawning Angel does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Soulmender]
+Rand hand: [Plains, Frost Lynx]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Soulmender]
+Rand hand: [Plains, Frost Lynx]
+Rand life: 3
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Soulmender]
+Rand hand: [Plains, Frost Lynx]
+Rand life: 3
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 0}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Soulmender
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soulmender]
+{'C': 1}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Portal of Sanctuary effect, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Soulmender bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Plains, Soulmender]
+Rand hand: [Frost Lynx, Plains]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Plains, Soulmender]
+Rand hand: [Frost Lynx, Plains]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Frost Lynx
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Apostle of Purifying Light
+ Targets:  []
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate]
+Robo hand: [Island, Island]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Plains, Soulmender, Frost Lynx]
+Rand hand: [Plains]
+Rand life: 4
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Apostle of Purifying Light does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Robo battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate, Island]
+Robo hand: [Island, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Plains, Soulmender, Frost Lynx]
+Rand hand: [Plains]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel, Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 4 life
+Robo  battlefield: [Island, Plains, Apostle of Purifying Light, Plains, Plains, Island, Dawning Angel, Island, Air Elemental, Plains, Master Splicer, Golem 3/3, Island, Ajani, Strength of the Pride, Island, Ajani's Pridemate, Ajani's Pridemate, Island]
+Robo  hand: [Island, Plains]
+Robo  deck: [Plains, Island, Atemis, All-Seeing, Aether Gust, Island, Island, Island, Eternal Isolation, Cloudkin Seer, Plains, Scholar of the Ages, Plains, Fencing Ace, Plains, Island, Island, Cavalier of Gales, Octoprophet, Leyline of Sanctity, Plains, Hanged Executioner, Captivating Gyre, Plains, Island, Spectral Sailor, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Loxodon Lifechanter, Sleep Paralysis, Island, Island, Drawn from Dreams, Island, Brineborn Cutthroat, Plains, Metropolis Sprite, Unsummon, Frilled Sea Serpent, Hard Cover, Plains, Island, Plains, Bishop of Wings, Warden of Evos Isle, Planar Cleansing, Portal of Sanctuary, Plains, Boreal Elemental, Island, Island, Island, Island, Rule of Law, Island, Yoked Ox, Daybreak Chaplin, Tale's End, Plains, Renowned Weaponsmith, Convolute, Island, Plains, Plains, Island, Plains, Angelic Gift, Island, Battalion Foot Soldier, Angel of Vitality, Pacifism, Moorland Inquisitor, Anticipate, Plains, Griffin Protector, Plains, Agent of Treachery, Bone to Ash, Island, Zephyr Charge, Aerial Assault, Island, Plains, Squad Captain, Island, Island, Herald of the Sun, Plains, Flood of Tears, Gauntlet of Light, Plains, Plains, Plains, Steadfast Sentry, Plains, Faerie Miscreant, Yarok's Wavecrasher, Island, Island, Island, Ancestral Blade, Plains, Sage's Row Denizen, Plains, Inspiring Captain, Island, Negate, Island, Cavalier of Dawn, Sephara, Sky's Blade, Devout Decree, Dungeon Geists, Disenchant, Glaring Aegis, Plains, Soulmender, Fortress Crab, Plains, Moment of Heroism, Griffin Sentinel, Frost Lynx, Masterful Replication, Plains, Starfield Mystic, Plains, Island, Winged Words, Loyal Pegasus, Moat Piranhas, Island, Plains, Island, Cerulean Drake, Mu Yanling, Sky Dancer, Inspired Charge, Raise the Alarm, Plains]
+Robo  graveyard: []
+Rand  battlefield: [Island, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Plains, Plains, Soulmender, Frost Lynx]
+Rand  hand: [Plains]
+Rand  deck: [Plains, Plains, Plains, Island, Plains, Griffin Protector, Inspiring Captain, Plains, Island, Unsummon, Plains, Renowned Weaponsmith, Atemis, All-Seeing, Island, Plains, Sage's Row Denizen, Plains, Island, Spectral Sailor, Anticipate, Faerie Miscreant, Fortress Crab, Warden of Evos Isle, Daybreak Chaplin, Plains, Brineborn Cutthroat, Raise the Alarm, Island, Plains, Frilled Sea Serpent, Plains, Plains, Plains, Zephyr Charge, Scholar of the Ages, Island, Plains, Cavalier of Dawn, Winged Words, Plains, Dawning Angel, Cavalier of Gales, Island, Moment of Heroism, Island, Fencing Ace, Yarok's Wavecrasher, Loxodon Lifechanter, Convolute, Plains, Herald of the Sun, Island, Bone to Ash, Plains, Plains, Moorland Inquisitor, Plains, Plains, Plains, Plains, Griffin Sentinel, Air Elemental, Plains, Moat Piranhas, Island, Island, Island, Gauntlet of Light, Agent of Treachery, Island, Planar Cleansing, Ancestral Blade, Octoprophet, Island, Island, Sleep Paralysis, Steadfast Sentry, Island, Island, Plains, Island, Bishop of Wings, Island, Mu Yanling, Sky Dancer, Island, Aether Gust, Eternal Isolation, Drawn from Dreams, Tale's End, Squad Captain, Island, Plains, Boreal Elemental, Island, Apostle of Purifying Light, Angel of Vitality, Island, Negate, Island, Rule of Law, Plains, Metropolis Sprite, Plains, Master Splicer, Plains, Island, Island, Glaring Aegis, Cloudkin Seer, Flood of Tears, Island, Hard Cover, Cerulean Drake, Island, Island, Yoked Ox, Disenchant, Aerial Assault, Island, Brought Back, Plains, Angelic Gift, Island, Plains, Inspired Charge, Loyal Pegasus, Plains, Island, Plains, Starfield Mystic, Pacifism, Sephara, Sky's Blade, Island, Dungeon Geists, Battalion Foot Soldier, Plains, Island, Island, Hanged Executioner, Devout Decree, Plains, Masterful Replication]
+Rand  graveyard: []
+Rand loses! Player has 0 or less life
+Runtime: 0:00:09.862018
+Seed: 2269818850

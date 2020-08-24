@@ -1,0 +1,1807 @@
+Seed: 6025408809
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Frilled Sea Serpent, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Frilled Sea Serpent, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Frilled Sea Serpent, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Frilled Sea Serpent, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Frilled Sea Serpent, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Frilled Sea Serpent
+Robo battlefield: [Island]
+Robo hand: [Sephara, Sky's Blade, Island, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+Rand Passes
+Resolving Brineborn Cutthroat
+Robo battlefield: [Island, Island, Brineborn Cutthroat]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Brineborn Cutthroat]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Brineborn Cutthroat]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Apostle of Purifying Light, Island, Island, Cloudkin Seer, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Apostle of Purifying Light
+Rand Passes
+Robo Passes
+Stack: [Apostle of Purifying Light, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Island, Cloudkin Seer, Agent of Treachery, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Island
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Island]
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Island
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Brineborn Cutthroat ['+1/+1 counter']]
+Brineborn Cutthroat ['+1/+1 counter'] is blocking Apostle of Purifying Light
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Brineborn Cutthroat ['+1/+1 counter'] has taken lethal damage: 2
+Brineborn Cutthroat ['+1/+1 counter'] dies
+Apostle of Purifying Light has taken lethal damage: 3
+Apostle of Purifying Light dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Sephara, Sky's Blade, Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Sephara, Sky's Blade
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains]
+Rand hand: [Plains, Island, Cloudkin Seer, Agent of Treachery, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Moment of Heroism
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer]
+Rand hand: [Island, Agent of Treachery, Island, Plains, Griffin Sentinel, Island]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Sentinel
+Rand Passes
+Robo Passes
+Resolving Griffin Sentinel
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+Robo Passes
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel]
+Rand hand: [Island, Agent of Treachery, Plains, Island, Dungeon Geists]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dungeon Geists
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists
+{'C': 0}
+Dungeon Geists ETB abil targeting Cerulean Drake
+ Targets:  []
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists ETB abil
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Sage's Row Denizen, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sage's Row Denizen
+Robo Passes
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists]
+Rand hand: [Agent of Treachery, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+Rand Playing Plains
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Boreal Elemental
+Rand Passes
+Robo Passes
+Resolving Boreal Elemental
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Dungeon Geists]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer, Griffin Sentinel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant]
+Rand hand: [Agent of Treachery, Island, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Agent of Treachery
+Rand Passes
+Robo Passes
+Resolving Agent of Treachery
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Agent of Treachery ETB abil targeting Boreal Elemental
+ Targets:  []
+Rand Passes
+Robo Passes
+Resolving Agent of Treachery ETB abil
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Sage's Row Denizen, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel, Boreal Elemental]
+Griffin Sentinel is blocking Sage's Row Denizen
+Boreal Elemental is blocking Sage's Row Denizen
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Sage's Row Denizen has taken lethal damage: 4
+Sage's Row Denizen dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer, Griffin Sentinel, Agent of Treachery]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island]
+Robo hand: [Steadfast Sentry, Glaring Aegis, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Boreal Elemental
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Boreal Elemental]
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Glaring Aegis ETB targeting Dungeon Geists
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island, Plains, Glaring Aegis]
+Robo hand: [Steadfast Sentry, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental ['Glaring Aegis'], Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island, Plains, Glaring Aegis]
+Robo hand: [Steadfast Sentry, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental ['Glaring Aegis'], Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island, Plains, Glaring Aegis]
+Robo hand: [Steadfast Sentry, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental ['Glaring Aegis'], Faerie Miscreant, Island, Agent of Treachery, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Glaring Aegis
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Glaring Aegis]
+Rand Passes
+Robo Passes
+Resolving Disenchant
+Glaring Aegis is destroyed
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Cerulean Drake, Island, Island, Plains]
+Robo hand: [Steadfast Sentry, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery, Island, Island]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Dungeon Geists, Faerie Miscreant, Agent of Treachery]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Robo loses 1 life
+Robo loses 2 life
+Robo  battlefield: [Island, Island, Cerulean Drake, Island, Island, Plains]
+Robo  hand: [Steadfast Sentry, Pacifism, Aerial Assault, Aether Gust, Apostle of Purifying Light, Planar Cleansing]
+Robo  deck: [Island, Island, Island, Anticipate, Starfield Mystic, Island, Hard Cover, Island, Inspiring Captain, Flood of Tears, Soulmender, Plains, Loyal Pegasus, Cloudkin Seer, Air Elemental, Convolute, Angel of Vitality, Zephyr Charge, Ajani, Strength of the Pride, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Metropolis Sprite, Island, Plains, Disenchant, Island, Boreal Elemental, Winged Words, Island, Plains, Island, Island, Plains, Sleep Paralysis, Plains, Inspired Charge, Fencing Ace, Plains, Hanged Executioner, Renowned Weaponsmith, Island, Plains, Drawn from Dreams, Island, Dungeon Geists, Frilled Sea Serpent, Angelic Gift, Island, Cavalier of Gales, Island, Plains, Warden of Evos Isle, Island, Ancestral Blade, Island, Island, Plains, Daybreak Chaplin, Negate, Plains, Island, Atemis, All-Seeing, Island, Plains, Cavalier of Dawn, Leyline of Sanctity, Unsummon, Plains, Island, Plains, Master Splicer, Yoked Ox, Plains, Plains, Herald of the Sun, Scholar of the Ages, Plains, Faerie Miscreant, Masterful Replication, Moorland Inquisitor, Battalion Foot Soldier, Plains, Brought Back, Plains, Island, Island, Dawning Angel, Plains, Plains, Tale's End, Bishop of Wings, Plains, Plains, Eternal Isolation, Plains, Loxodon Lifechanter, Octoprophet, Island, Plains, Plains, Island, Plains, Island, Squad Captain, Island, Fortress Crab, Plains, Yarok's Wavecrasher, Plains, Plains, Plains, Mu Yanling, Sky Dancer, Griffin Protector, Plains, Island, Devout Decree, Island, Island, Plains, Spectral Sailor, Gauntlet of Light, Frost Lynx, Captivating Gyre, Island, Moat Piranhas, Plains, Griffin Sentinel, Gods Willing, Island, Plains, Plains, Bone to Ash, Portal of Sanctuary, Agent of Treachery, Island, Rule of Law, Raise the Alarm]
+Robo  graveyard: [Brineborn Cutthroat, Sephara, Sky's Blade, Moment of Heroism, Sage's Row Denizen, Glaring Aegis]
+Rand  battlefield: [Plains, Island, Plains, Plains, Cloudkin Seer, Island, Griffin Sentinel, Island, Dungeon Geists, Plains, Boreal Elemental, Faerie Miscreant, Island, Agent of Treachery, Island, Island]
+Rand  hand: []
+Rand  deck: [Soulmender, Island, Island, Scholar of the Ages, Island, Dawning Angel, Island, Bishop of Wings, Spectral Sailor, Plains, Island, Island, Moment of Heroism, Island, Plains, Plains, Convolute, Anticipate, Island, Island, Island, Loxodon Lifechanter, Moat Piranhas, Island, Steadfast Sentry, Winged Words, Raise the Alarm, Island, Island, Island, Metropolis Sprite, Pacifism, Mu Yanling, Sky Dancer, Flood of Tears, Bone to Ash, Leyline of Sanctity, Warden of Evos Isle, Island, Fencing Ace, Cavalier of Dawn, Atemis, All-Seeing, Herald of the Sun, Inspired Charge, Island, Starfield Mystic, Ajani, Strength of the Pride, Plains, Plains, Island, Aerial Assault, Plains, Hard Cover, Octoprophet, Glaring Aegis, Cavalier of Gales, Air Elemental, Sleep Paralysis, Plains, Island, Zephyr Charge, Plains, Yoked Ox, Hanged Executioner, Plains, Plains, Plains, Island, Rule of Law, Plains, Brineborn Cutthroat, Gods Willing, Plains, Griffin Protector, Island, Plains, Frost Lynx, Plains, Plains, Devout Decree, Masterful Replication, Plains, Sephara, Sky's Blade, Island, Island, Plains, Island, Planar Cleansing, Island, Plains, Plains, Island, Eternal Isolation, Plains, Plains, Plains, Plains, Plains, Plains, Moorland Inquisitor, Angel of Vitality, Island, Loyal Pegasus, Plains, Drawn from Dreams, Tale's End, Plains, Plains, Island, Captivating Gyre, Plains, Sage's Row Denizen, Angelic Gift, Unsummon, Ancestral Blade, Island, Master Splicer, Cerulean Drake, Battalion Foot Soldier, Fortress Crab, Daybreak Chaplin, Plains, Inspiring Captain, Island, Brought Back, Plains, Plains, Gauntlet of Light, Island, Island, Island, Squad Captain, Aether Gust, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Yarok's Wavecrasher, Negate, Portal of Sanctuary, Plains, Island]
+Rand  graveyard: [Frilled Sea Serpent, Apostle of Purifying Light, Disenchant]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:01.308047
+Seed: 6025408809

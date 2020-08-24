@@ -1,0 +1,7876 @@
+Seed: 9702320584
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Robo draws 4 card
+Robo mulligans to 4
+Robo draws 3 card
+Robo mulligans to 3
+Robo draws 2 card
+Robo mulligans to 2
+Robo draws 1 card
+Robo mulligans to 1
+Robo draws 0 card
+Robo mulligans to 0
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+Robo Playing Island
+{'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Zephyr Charge, Island, Fortress Crab, Island, Plains, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+Robo Playing Island
+{'W': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Plains, Island, Raise the Alarm]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Raise the Alarm
+Rand Passes
+Robo Passes
+Resolving Raise the Alarm
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+Robo Playing Island
+{'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1]
+Rand hand: [Island, Fortress Crab, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island]
+Rand hand: [Island, Fortress Crab, Island, Flood of Tears]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Metropolis Sprite
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Metropolis Sprite
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Metropolis Sprite
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Metropolis Sprite]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Metropolis Sprite]
+Robo hand: [Loyal Pegasus, Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Phase: First Main
+{'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'W': 1}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Master Splicer]
+Robo life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Master Splicer
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Master Splicer ETB
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Winged Words]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Winged Words
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Winged Words
+Rand draws 2 card
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge, Raise the Alarm]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loyal Pegasus, Master Splicer]
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge, Raise the Alarm]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Zephyr Charge, Plains, Soldier 1/1, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Flood of Tears, Island, Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Loyal Pegasus, Master Splicer, Golem 3/3]
+Robo hand: [Zephyr Charge, Raise the Alarm]
+Robo life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Flood of Tears
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Flood of Tears
+Loyal Pegasus bounced
+Golem 3/3 bounced
+Zephyr Charge bounced
+Soldier 1/1 bounced
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Island, Plains, Devout Decree, Zephyr Charge]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer]
+Robo hand: [Zephyr Charge, Raise the Alarm, Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Rand hand: [Island, Fortress Crab, Island, Plains, Devout Decree, Zephyr Charge]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer]
+Robo hand: [Zephyr Charge, Raise the Alarm, Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge
+Phase: End Phase
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Island, Devout Decree]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer]
+Robo hand: [Zephyr Charge, Raise the Alarm, Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Raise the Alarm
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Raise the Alarm
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Zephyr Charge
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Island, Devout Decree]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Island, Devout Decree]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge]
+Robo hand: [Loyal Pegasus]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge]
+Rand hand: [Island, Fortress Crab, Island, Devout Decree]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer, Loyal Pegasus]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Island, Fortress Crab, Devout Decree, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus]
+Robo hand: [Portal of Sanctuary, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Island, Master Splicer]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Bishop of Wings, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Bishop of Wings, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Bishop of Wings, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Bishop of Wings, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Bishop of Wings, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Bishop of Wings
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Loyal Pegasus, Plains, Island, Plains]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Cavalier of Dawn, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Loyal Pegasus
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Loyal Pegasus]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Cavalier of Dawn, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Loyal Pegasus
+ Targets:  []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Loyal Pegasus is destroyed
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3]
+Robo hand: [Portal of Sanctuary, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3]
+Robo hand: [Portal of Sanctuary, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn]
+Rand hand: [Fortress Crab, Devout Decree, Master Splicer, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Master Splicer
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Master Splicer, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Master Splicer
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Master Splicer ETB
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Master Splicer, Golem 3/3]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Master Splicer, Golem 3/3]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Master Splicer, Golem 3/3, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary]
+Robo life: 16
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Master Splicer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Master Splicer, Golem 3/3, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Master Splicer, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Declare Blockers
+Blockers: [Master Splicer]
+Master Splicer is blocking Master Splicer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 1
+Master Splicer dies
+Master Splicer has taken lethal damage: 1
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 16
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island]
+Robo hand: [Portal of Sanctuary, Agent of Treachery]
+Robo life: 11
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Agent of Treachery
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Agent of Treachery
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Agent of Treachery ETB abil targeting Golem 3/3
+ Targets:  []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Agent of Treachery ETB abil
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 11
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Agent of Treachery
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Agent of Treachery]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Agent of Treachery
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Agent of Treachery]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Bishop of Wings
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Bishop of Wings]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains]
+Rand hand: [Fortress Crab, Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fortress Crab
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Fortress Crab
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab]
+Rand hand: [Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab]
+Rand hand: [Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery, Island]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab]
+Rand hand: [Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery, Island]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab]
+Rand hand: [Devout Decree, Squad Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery, Island]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fortress Crab
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Fortress Crab]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Squad Captain
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Squad Captain, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 4 +1/+1 counters
+Rand battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Devout Decree, Island, Soulmender]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery, Island]
+Robo hand: [Portal of Sanctuary, Moat Piranhas]
+Robo life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Cavalier of Dawn, Fortress Crab]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 4 life
+Robo loses 1 life
+Rand  battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Island, Plains, Zephyr Charge, Island, Island, Island, Bishop of Wings, Cavalier of Dawn, Golem 3/3, Plains, Plains, Fortress Crab, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand  hand: [Devout Decree, Island, Soulmender]
+Rand  deck: [Brought Back, Island, Yoked Ox, Island, Pacifism, Island, Sleep Paralysis, Island, Convolute, Frilled Sea Serpent, Loyal Pegasus, Plains, Plains, Plains, Tale's End, Plains, Griffin Sentinel, Island, Island, Island, Island, Mu Yanling, Sky Dancer, Dawning Angel, Plains, Plains, Moat Piranhas, Plains, Plains, Island, Plains, Island, Plains, Island, Faerie Miscreant, Sage's Row Denizen, Drawn from Dreams, Negate, Herald of the Sun, Island, Apostle of Purifying Light, Metropolis Sprite, Inspiring Captain, Cavalier of Gales, Brineborn Cutthroat, Fencing Ace, Ancestral Blade, Inspired Charge, Island, Plains, Gods Willing, Island, Steadfast Sentry, Hanged Executioner, Moment of Heroism, Rule of Law, Dungeon Geists, Plains, Loxodon Lifechanter, Leyline of Sanctity, Angel of Vitality, Hard Cover, Plains, Bone to Ash, Plains, Unsummon, Frost Lynx, Sephara, Sky's Blade, Plains, Griffin Protector, Plains, Island, Yarok's Wavecrasher, Plains, Island, Ajani, Strength of the Pride, Island, Plains, Island, Plains, Island, Island, Warden of Evos Isle, Portal of Sanctuary, Island, Island, Planar Cleansing, Cerulean Drake, Plains, Plains, Island, Plains, Battalion Foot Soldier, Island, Masterful Replication, Gauntlet of Light, Anticipate, Plains, Plains, Eternal Isolation, Plains, Plains, Island, Starfield Mystic, Scholar of the Ages, Cloudkin Seer, Plains, Island, Plains, Moorland Inquisitor, Aerial Assault, Plains, Island, Renowned Weaponsmith, Island, Boreal Elemental, Atemis, All-Seeing, Glaring Aegis, Plains, Daybreak Chaplin, Island, Aether Gust, Captivating Gyre, Spectral Sailor, Island, Plains, Agent of Treachery, Plains, Disenchant, Island, Plains, Island, Island, Air Elemental, Angelic Gift, Plains, Octoprophet]
+Rand  graveyard: [Raise the Alarm, Winged Words, Flood of Tears, Master Splicer]
+Robo  battlefield: [Island, Island, Island, Plains, Soldier 1/1, Plains, Zephyr Charge, Plains, Island, Plains, Golem 3/3, Island, Agent of Treachery, Island]
+Robo  hand: [Portal of Sanctuary, Moat Piranhas]
+Robo  deck: [Cerulean Drake, Ancestral Blade, Dungeon Geists, Plains, Masterful Replication, Island, Winged Words, Daybreak Chaplin, Fortress Crab, Plains, Brineborn Cutthroat, Island, Island, Drawn from Dreams, Plains, Moment of Heroism, Island, Plains, Convolute, Captivating Gyre, Faerie Miscreant, Island, Warden of Evos Isle, Plains, Island, Cavalier of Gales, Leyline of Sanctity, Plains, Soulmender, Bishop of Wings, Island, Plains, Plains, Unsummon, Island, Island, Plains, Mu Yanling, Sky Dancer, Aerial Assault, Octoprophet, Spectral Sailor, Steadfast Sentry, Angel of Vitality, Anticipate, Island, Plains, Island, Hanged Executioner, Island, Island, Island, Dawning Angel, Aether Gust, Island, Island, Plains, Cavalier of Dawn, Island, Starfield Mystic, Plains, Renowned Weaponsmith, Eternal Isolation, Scholar of the Ages, Plains, Plains, Island, Squad Captain, Bone to Ash, Island, Plains, Tale's End, Island, Rule of Law, Plains, Island, Plains, Island, Plains, Ajani, Strength of the Pride, Glaring Aegis, Island, Plains, Griffin Protector, Fencing Ace, Plains, Plains, Plains, Island, Frilled Sea Serpent, Plains, Negate, Plains, Island, Island, Yarok's Wavecrasher, Frost Lynx, Plains, Plains, Hard Cover, Sephara, Sky's Blade, Island, Island, Devout Decree, Inspiring Captain, Plains, Plains, Island, Island, Gauntlet of Light, Island, Pacifism, Apostle of Purifying Light, Yoked Ox, Cloudkin Seer, Plains, Angelic Gift, Plains, Plains, Island, Gods Willing, Plains, Inspired Charge, Plains, Air Elemental, Sage's Row Denizen, Herald of the Sun, Island, Loxodon Lifechanter, Plains, Flood of Tears, Plains, Island, Planar Cleansing, Moorland Inquisitor, Plains, Island, Disenchant, Atemis, All-Seeing, Brought Back, Plains, Sleep Paralysis, Battalion Foot Soldier, Griffin Sentinel, Boreal Elemental]
+Robo  graveyard: [Metropolis Sprite, Raise the Alarm, Loyal Pegasus, Master Splicer]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:06.281298
+Seed: 9702320584

@@ -1,0 +1,2064 @@
+Seed: 2087368468
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Robo draws 4 card
+Robo mulligans to 4
+Robo draws 3 card
+Robo mulligans to 3
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Island, Plains, Plains, Sephara, Sky's Blade, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Island, Plains, Plains, Sephara, Sky's Blade, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Island, Plains, Plains, Sephara, Sky's Blade, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Plains, Plains, Sephara, Sky's Blade, Island, Brineborn Cutthroat]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+Rand Passes
+Resolving Brineborn Cutthroat
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Moment of Heroism, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Brineborn Cutthroat
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Brineborn Cutthroat]
+Robo Passes
+Rand Passes
+Resolving Moment of Heroism
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat]
+Robo hand: [Island, Island, Plains, Sephara, Sky's Blade, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+Rand Passes
+Robo Passes
+Stack: [Apostle of Purifying Light, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Moment of Heroism
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Moment of Heroism]
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Moment of Heroism
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island, Plains, Sephara, Sky's Blade, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Inspiring Captain, Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+Robo Passes
+Stack: [Inspiring Captain, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain]
+Rand hand: [Island, Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain, Island]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+Rand Passes
+Resolving Fortress Crab
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain, Island]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain, Island]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Apostle of Purifying Light, Inspiring Captain, Island]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+Rand Passes
+Robo Passes
+Stack: [Yarok's Wavecrasher, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Apostle of Purifying Light bounced
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter, Plains, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter, Plains, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+Rand Passes
+Robo Passes
+Stack: [Apostle of Purifying Light, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Griffin Sentinel
+Robo Passes
+Rand Passes
+Resolving Griffin Sentinel
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Fortress Crab, Griffin Sentinel]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yarok's Wavecrasher, Apostle of Purifying Light]
+Yarok's Wavecrasher is blocking Fortress Crab
+Apostle of Purifying Light is blocking Fortress Crab
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Fortress Crab has taken lethal damage: 6
+Fortress Crab dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Island, Sephara, Sky's Blade, Island, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Griffin Sentinel, Island]
+Robo hand: [Island, Sephara, Sky's Blade, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Fortress Crab
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Fortress Crab]
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Fortress Crab
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Fortress Crab]
+{'C': 2}
+Rand Passes
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Fortress Crab
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Inspiring Captain, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Griffin Sentinel, Island]
+Robo hand: [Island, Sephara, Sky's Blade, Plains, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain, Apostle of Purifying Light]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'] is blocking Inspiring Captain
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Inspiring Captain has taken lethal damage: 6
+Inspiring Captain dies
+Phase: End of Combat Step
+{'C': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Griffin Sentinel, Island]
+Robo hand: [Island, Sephara, Sky's Blade, Plains, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Inspiring Captain
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Inspiring Captain]
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Inspiring Captain
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Yarok's Wavecrasher, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Plains, Island, Griffin Sentinel, Island]
+Robo hand: [Island, Sephara, Sky's Blade, Plains, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Flood of Tears
+Robo Passes
+Rand Passes
+Resolving Flood of Tears
+Yarok's Wavecrasher bounced
+Apostle of Purifying Light bounced
+Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'] bounced
+Griffin Sentinel bounced
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter, Yarok's Wavecrasher, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter, Yarok's Wavecrasher, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Loxodon Lifechanter, Yarok's Wavecrasher, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loxodon Lifechanter
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Apostle of Purifying Light, Island]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher, Apostle of Purifying Light, Island]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Apostle of Purifying Light
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Apostle of Purifying Light
+Phase: End Phase
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Griffin Sentinel]
+Robo life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Griffin Sentinel
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Resolving Griffin Sentinel
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Moat Piranhas]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter']
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Resolving Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter']
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Sephara, Sky's Blade, Plains, Plains, Moat Piranhas]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moat Piranhas
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Resolving Moat Piranhas
+Phase: End Phase
+Robo Passes
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Apostle of Purifying Light]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Moat Piranhas]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Fencing Ace
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Stack: [Fencing Ace, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Fencing Ace
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Apostle of Purifying Light, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Moat Piranhas]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'] is blocking Apostle of Purifying Light
+{'C': 5, 'W': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Apostle of Purifying Light has taken lethal damage: 5
+Apostle of Purifying Light dies
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Moat Piranhas]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Moat Piranhas]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Battalion Foot Soldier
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Battalion Foot Soldier
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Moat Piranhas, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loxodon Lifechanter, Fencing Ace]
+Loxodon Lifechanter is blocking Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+Fencing Ace is blocking Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'] has taken lethal damage: 6
+Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'] dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace]
+Rand hand: [Atemis, All-Seeing, Dungeon Geists, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Battalion Foot Soldier, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dungeon Geists
+{'C': 2, 'W': 2}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspired Charge
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Dungeon Geists, Inspired Charge]
+Resolving Inspired Charge
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Moat Piranhas
+ Targets:  []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists ETB abil
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Battalion Foot Soldier, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Battalion Foot Soldier]
+Battalion Foot Soldier is blocking Fencing Ace
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Battalion Foot Soldier has taken lethal damage: 3
+Battalion Foot Soldier dies
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 18
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Moat Piranhas does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sephara, Sky's Blade
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Sephara, Sky's Blade
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists, Plains]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists, Plains]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists, Plains]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Moat Piranhas does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists, Plains]
+Rand hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Sephara, Sky's Blade]
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Dungeon Geists]
+Dungeon Geists is blocking Griffin Sentinel
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 7 life
+Rand  battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Loxodon Lifechanter, Island, Fencing Ace, Dungeon Geists, Plains]
+Rand  hand: [Atemis, All-Seeing, Yarok's Wavecrasher]
+Rand  deck: [Cloudkin Seer, Bishop of Wings, Squad Captain, Masterful Replication, Hanged Executioner, Air Elemental, Island, Plains, Griffin Protector, Island, Master Splicer, Plains, Plains, Plains, Island, Island, Island, Island, Island, Tale's End, Island, Negate, Griffin Sentinel, Island, Plains, Island, Zephyr Charge, Plains, Aerial Assault, Starfield Mystic, Moat Piranhas, Plains, Island, Drawn from Dreams, Plains, Island, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Octoprophet, Island, Disenchant, Renowned Weaponsmith, Sleep Paralysis, Devout Decree, Island, Loyal Pegasus, Island, Captivating Gyre, Island, Plains, Sage's Row Denizen, Plains, Island, Plains, Cerulean Drake, Rule of Law, Steadfast Sentry, Plains, Battalion Foot Soldier, Plains, Boreal Elemental, Winged Words, Island, Angelic Gift, Pacifism, Island, Plains, Island, Glaring Aegis, Daybreak Chaplin, Spectral Sailor, Plains, Leyline of Sanctity, Metropolis Sprite, Cavalier of Gales, Dawning Angel, Portal of Sanctuary, Plains, Plains, Brineborn Cutthroat, Island, Yoked Ox, Island, Island, Fortress Crab, Plains, Island, Convolute, Gauntlet of Light, Gods Willing, Angel of Vitality, Agent of Treachery, Ancestral Blade, Faerie Miscreant, Island, Island, Plains, Sephara, Sky's Blade, Aether Gust, Plains, Plains, Island, Eternal Isolation, Unsummon, Island, Hard Cover, Plains, Island, Island, Flood of Tears, Island, Plains, Plains, Island, Cavalier of Dawn, Herald of the Sun, Brought Back, Scholar of the Ages, Warden of Evos Isle, Island, Island, Frost Lynx, Plains, Raise the Alarm, Plains, Bone to Ash, Moorland Inquisitor, Plains, Plains, Frilled Sea Serpent, Island, Mu Yanling, Sky Dancer, Planar Cleansing, Soulmender, Island, Island, Plains, Island, Anticipate, Plains]
+Rand  graveyard: [Apostle of Purifying Light, Inspired Charge]
+Robo  battlefield: [Island, Plains, Island, Plains, Island, Island, Island, Griffin Sentinel, Plains, Moat Piranhas, Plains, Island, Sephara, Sky's Blade, Island]
+Robo  hand: []
+Robo  deck: [Island, Island, Squad Captain, Island, Eternal Isolation, Plains, Cloudkin Seer, Aether Gust, Moorland Inquisitor, Plains, Plains, Island, Island, Plains, Island, Yarok's Wavecrasher, Island, Yoked Ox, Frilled Sea Serpent, Island, Plains, Plains, Brought Back, Daybreak Chaplin, Plains, Atemis, All-Seeing, Plains, Scholar of the Ages, Tale's End, Steadfast Sentry, Gauntlet of Light, Island, Island, Leyline of Sanctity, Plains, Faerie Miscreant, Island, Plains, Island, Island, Plains, Renowned Weaponsmith, Fencing Ace, Island, Zephyr Charge, Drawn from Dreams, Warden of Evos Isle, Plains, Unsummon, Mu Yanling, Sky Dancer, Herald of the Sun, Island, Plains, Plains, Dungeon Geists, Masterful Replication, Inspiring Captain, Convolute, Plains, Dawning Angel, Rule of Law, Devout Decree, Raise the Alarm, Plains, Island, Plains, Bone to Ash, Island, Moment of Heroism, Plains, Island, Plains, Plains, Hanged Executioner, Captivating Gyre, Island, Glaring Aegis, Griffin Protector, Frost Lynx, Master Splicer, Loyal Pegasus, Island, Apostle of Purifying Light, Angel of Vitality, Island, Bishop of Wings, Island, Island, Gods Willing, Starfield Mystic, Island, Island, Cavalier of Gales, Plains, Boreal Elemental, Plains, Plains, Negate, Plains, Island, Plains, Soulmender, Island, Hard Cover, Island, Plains, Plains, Plains, Ajani, Strength of the Pride, Plains, Planar Cleansing, Sleep Paralysis, Plains, Disenchant, Aerial Assault, Island, Ancestral Blade, Angelic Gift, Inspired Charge, Plains, Agent of Treachery, Plains, Island, Island, Air Elemental, Pacifism, Plains, Plains, Island, Octoprophet, Metropolis Sprite, Plains, Plains, Winged Words, Cerulean Drake, Island, Portal of Sanctuary, Spectral Sailor, Plains, Cavalier of Dawn, Anticipate, Sage's Row Denizen, Island, Loxodon Lifechanter]
+Robo  graveyard: [Flood of Tears, Brineborn Cutthroat ['+1/+1 counter'], Battalion Foot Soldier]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:04.117016
+Seed: 2087368468

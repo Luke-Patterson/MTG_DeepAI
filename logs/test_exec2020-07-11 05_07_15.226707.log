@@ -1,0 +1,4031 @@
+Seed: 164425723
+Robo draws 7 card
+Rand draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Rand draws 3 card
+Rand mulligans to 3
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+Robo Playing Island
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 19
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor, Island]
+Robo hand: [Plains, Disenchant, Plains, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 19
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Warden of Evos Isle, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Warden of Evos Isle
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Island, Masterful Replication]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+Robo Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor ability
+Robo draws 1 card
+Robo battlefield: [Island, Spectral Sailor, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Spectral Sailor, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Spectral Sailor, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Hanged Executioner, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hanged Executioner
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Spectral Sailor, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor]
+Spectral Sailor is blocking Warden of Evos Isle
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Spectral Sailor has taken lethal damage: 2
+Spectral Sailor dies
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Warden of Evos Isle, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Frilled Sea Serpent, Plains, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride]
+Rand life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Warden of Evos Isle
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Warden of Evos Isle]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hanged Executioner ability
+Rand exiles Warden of Evos Isle
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Island, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant]
+Robo hand: [Disenchant, Plains, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Dawning Angel]
+Rand life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Dawning Angel
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Dawning Angel
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Plains, Masterful Replication, Plains, Aether Gust]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 22
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 21
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Dawning Angel
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Unsummon
+ Targets:  [Unsummon targeting Dawning Angel]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Unsummon
+Dawning Angel bounced
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Plains, Aether Gust, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Faerie Miscreant, Plains, Plains, Plains, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Yarok's Wavecrasher
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher ETB effect
+Faerie Miscreant bounced
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Faerie Miscreant]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains, Faerie Miscreant]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Yarok's Wavecrasher
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Yarok's Wavecrasher]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Moment of Heroism
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher, Faerie Miscreant]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 6 life
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Aerial Assault, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 14
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Yarok's Wavecrasher
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Yarok's Wavecrasher]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Aerial Assault
+Yarok's Wavecrasher is destroyed
+Rand gains 1 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Faerie Miscreant, Plains]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fencing Ace
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Fencing Ace
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Faerie Miscreant, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Spirit 1/1 Flying, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spirit 1/1 Flying]
+Spirit 1/1 Flying is blocking Faerie Miscreant
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 1
+Faerie Miscreant dies
+Spirit 1/1 Flying has taken lethal damage: 1
+Spirit 1/1 Flying dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Dawning Angel
+Rand Passes
+Robo Passes
+Resolving Dawning Angel
+Rand Passes
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Dawning Angel]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Ajani, Strength of the Pride, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Ajani, Strength of the Pride
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Dawning Angel, Plains, Ajani, Strength of the Pride]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 19
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Dawning Angel
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hard Cover
+ Targets:  [Hard Cover targeting Dawning Angel]
+Robo Passes
+Rand Passes
+Resolving Hard Cover
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Fencing Ace, Hard Cover]
+Robo hand: [Disenchant, Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Dawning Angel ['Hard Cover'], Plains, Ajani, Strength of the Pride]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Hard Cover
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Hard Cover]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Disenchant
+Hard Cover is destroyed
+Phase: Declare Blockers
+Blockers: [Dawning Angel]
+Dawning Angel is blocking Fencing Ace
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Fencing Ace has taken lethal damage: 3
+Fencing Ace dies
+Dawning Angel has taken lethal damage: 2
+Dawning Angel dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride]
+Rand hand: [Frilled Sea Serpent, Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun]
+Rand life: 19
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Frilled Sea Serpent
+Rand Passes
+Robo Passes
+Resolving Frilled Sea Serpent
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Leyline of Sanctity
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite]
+Rand life: 19
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride +1 ability
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride +1 ability
+Rand gains 3 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light]
+Rand life: 22
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Frilled Sea Serpent ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Ajani's Pridemate
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Ajani's Pridemate]
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hanged Executioner ETB, Hanged Executioner ability]
+Resolving Hanged Executioner ability
+Rand exiles Ajani's Pridemate
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride +1 ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ajani, Strength of the Pride +1 ability
+Rand gains 3 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Anticipate]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Anticipate
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Anticipate
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists]
+Rand life: 25
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 1 loyalty from combat
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists]
+Rand life: 25
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride +1 ability
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ajani, Strength of the Pride +1 ability
+Rand gains 3 life
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Metropolis Sprite, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Metropolis Sprite
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Metropolis Sprite]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words, Cloudkin Seer]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Metropolis Sprite]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 1 loyalty from combat
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words, Cloudkin Seer]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Metropolis Sprite]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words, Cloudkin Seer]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Metropolis Sprite]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Inspiring Captain, Dungeon Geists, Plains]
+Rand life: 28
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Metropolis Sprite Effect, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Metropolis Sprite Effect, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Robo battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo hand: [Masterful Replication, Aether Gust, Winged Words, Cloudkin Seer]
+Robo life: 3
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Inspiring Captain]
+Rand hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Dungeon Geists, Plains, Angel of Vitality]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 5 life
+Robo  battlefield: [Island, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Plains, Plains, Leyline of Sanctity, Island, Spirit 1/1 Flying]
+Robo  hand: [Masterful Replication, Aether Gust, Winged Words, Cloudkin Seer]
+Robo  deck: [Bishop of Wings, Island, Octoprophet, Frost Lynx, Sleep Paralysis, Frilled Sea Serpent, Plains, Plains, Island, Glaring Aegis, Plains, Daybreak Chaplin, Unsummon, Loyal Pegasus, Plains, Island, Battalion Foot Soldier, Island, Portal of Sanctuary, Island, Plains, Ancestral Blade, Anticipate, Island, Loxodon Lifechanter, Ajani, Strength of the Pride, Squad Captain, Plains, Warden of Evos Isle, Plains, Tale's End, Starfield Mystic, Master Splicer, Angel of Vitality, Flood of Tears, Island, Eternal Isolation, Cavalier of Dawn, Plains, Plains, Plains, Plains, Negate, Plains, Island, Inspiring Captain, Raise the Alarm, Plains, Plains, Angelic Gift, Island, Island, Plains, Convolute, Plains, Plains, Plains, Fortress Crab, Planar Cleansing, Dawning Angel, Metropolis Sprite, Island, Boreal Elemental, Island, Island, Island, Yoked Ox, Steadfast Sentry, Island, Plains, Herald of the Sun, Island, Island, Plains, Brineborn Cutthroat, Plains, Drawn from Dreams, Plains, Plains, Island, Griffin Protector, Plains, Plains, Plains, Island, Inspired Charge, Moat Piranhas, Brought Back, Plains, Island, Aerial Assault, Soulmender, Plains, Dungeon Geists, Agent of Treachery, Zephyr Charge, Sephara, Sky's Blade, Gods Willing, Island, Island, Captivating Gyre, Gauntlet of Light, Island, Renowned Weaponsmith, Island, Island, Island, Air Elemental, Apostle of Purifying Light, Sage's Row Denizen, Island, Plains, Mu Yanling, Sky Dancer, Island, Scholar of the Ages, Devout Decree, Island, Atemis, All-Seeing, Cavalier of Gales, Pacifism, Island, Island, Island, Griffin Sentinel, Plains, Bone to Ash, Rule of Law, Plains, Island, Cerulean Drake, Plains, Island, Island, Plains, Island, Moorland Inquisitor]
+Robo  graveyard: [Spectral Sailor, Moment of Heroism, Yarok's Wavecrasher, Faerie Miscreant, Hard Cover, Disenchant, Fencing Ace]
+Rand  battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Ajani, Strength of the Pride, Frilled Sea Serpent, Ajani's Pridemate, Inspiring Captain]
+Rand  hand: [Atemis, All-Seeing, Sephara, Sky's Blade, Herald of the Sun, Gauntlet of Light, Dungeon Geists, Plains, Angel of Vitality]
+Rand  deck: [Plains, Plains, Bishop of Wings, Spectral Sailor, Soulmender, Squad Captain, Negate, Gods Willing, Plains, Island, Island, Yarok's Wavecrasher, Fencing Ace, Octoprophet, Island, Raise the Alarm, Angelic Gift, Hard Cover, Plains, Plains, Island, Plains, Loxodon Lifechanter, Griffin Sentinel, Island, Plains, Plains, Island, Island, Plains, Inspired Charge, Cavalier of Dawn, Masterful Replication, Cavalier of Gales, Captivating Gyre, Island, Plains, Brought Back, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith, Island, Plains, Aether Gust, Plains, Island, Plains, Plains, Island, Island, Plains, Island, Agent of Treachery, Plains, Moment of Heroism, Island, Flood of Tears, Plains, Frost Lynx, Plains, Plains, Disenchant, Island, Ancestral Blade, Battalion Foot Soldier, Plains, Zephyr Charge, Plains, Plains, Bone to Ash, Scholar of the Ages, Island, Island, Island, Island, Plains, Plains, Plains, Moorland Inquisitor, Island, Plains, Glaring Aegis, Island, Steadfast Sentry, Plains, Island, Winged Words, Island, Island, Island, Daybreak Chaplin, Island, Island, Island, Island, Cerulean Drake, Island, Rule of Law, Faerie Miscreant, Master Splicer, Island, Brineborn Cutthroat, Tale's End, Island, Island, Moat Piranhas, Boreal Elemental, Griffin Protector, Planar Cleansing, Convolute, Island, Plains, Drawn from Dreams, Eternal Isolation, Leyline of Sanctity, Island, Fortress Crab, Plains, Yoked Ox, Starfield Mystic, Cloudkin Seer, Air Elemental, Mu Yanling, Sky Dancer, Loyal Pegasus, Sage's Row Denizen, Devout Decree, Island, Pacifism, Plains, Apostle of Purifying Light, Island, Plains, Sleep Paralysis, Island]
+Rand  graveyard: [Unsummon, Aerial Assault, Dawning Angel, Anticipate, Metropolis Sprite]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:04.954285
+Seed: 164425723

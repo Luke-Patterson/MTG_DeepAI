@@ -1,0 +1,6825 @@
+Seed: 6165784931
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Robo elects not to put Leyline of Sanctity into play at beginning of game
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 2}
+Robo Playing Plains
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Mu Yanling, Sky Dancer, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frost Lynx, Yoked Ox, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Mu Yanling, Sky Dancer, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frost Lynx, Yoked Ox, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Mu Yanling, Sky Dancer
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frost Lynx, Yoked Ox, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'W': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Plains, Island, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Frost Lynx, Island, Plains, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Plains, Island, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moat Piranhas
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loyal Pegasus
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Loyal Pegasus
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Yoked Ox
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus]
+Rand hand: [Frost Lynx, Island, Faerie Miscreant, Squad Captain, Drawn from Dreams, Master Splicer, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas]
+Robo hand: [Plains, Island, Leyline of Sanctity, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant]
+Rand hand: [Frost Lynx, Island, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+Robo Playing Plains
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Leyline of Sanctity
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant]
+Rand hand: [Frost Lynx, Island, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant]
+Rand hand: [Frost Lynx, Island, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant]
+Rand hand: [Frost Lynx, Island, Squad Captain, Drawn from Dreams, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Master Splicer
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Master Splicer
+Rand Passes
+Robo Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dawning Angel
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dawning Angel
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dawning Angel ETB
+Robo gains 4 life
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Master Splicer, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Dawning Angel]
+Moat Piranhas is blocking Master Splicer
+Dawning Angel is blocking Master Splicer
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 6
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel]
+Robo hand: [Island, Convolute, Gauntlet of Light, Cloudkin Seer]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cloudkin Seer
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cloudkin Seer
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer]
+Robo hand: [Island, Convolute, Gauntlet of Light, Plains, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer]
+Robo hand: [Island, Convolute, Gauntlet of Light, Plains, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus, Island, Faerie Miscreant, Island, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Loyal Pegasus
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Loyal Pegasus]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light]
+Robo hand: [Island, Convolute, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light]
+Robo hand: [Island, Convolute, Plains]
+Robo life: 24
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Loyal Pegasus ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light]
+Robo hand: [Island, Convolute, Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light]
+Robo hand: [Island, Convolute, Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Starfield Mystic
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Starfield Mystic
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Convolute
+ Targets:  [Convolute targeting Starfield Mystic]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Starfield Mystic, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Starfield Mystic is countered
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Cloudkin Seer]
+Moat Piranhas is blocking Yoked Ox
+Cloudkin Seer is blocking Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Yoked Ox has taken lethal damage: 5
+Yoked Ox dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Plains]
+Rand life: 15
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 15
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Faerie Miscreant, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Loyal Pegasus ['Gauntlet of Light'], Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Faerie Miscreant has taken lethal damage: 3
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge]
+Rand life: 11
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 11
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Frilled Sea Serpent
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Frilled Sea Serpent
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent]
+Robo hand: [Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Playing Island
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Zephyr Charge, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Zephyr Charge
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Zephyr Charge
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Gauntlet of Light, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Loyal Pegasus ['Gauntlet of Light'], Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loyal Pegasus ['Gauntlet of Light']]
+Loyal Pegasus ['Gauntlet of Light'] is blocking Frilled Sea Serpent
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Loyal Pegasus ['Gauntlet of Light'] has taken lethal damage: 4
+Loyal Pegasus ['Gauntlet of Light'] dies
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+Robo Playing Island
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: []
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Frilled Sea Serpent ability, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Robo battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo hand: [Agent of Treachery]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island, Island]
+Rand hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel, Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 4 life
+Robo  battlefield: [Plains, Island, Island, Moat Piranhas, Plains, Leyline of Sanctity, Island, Dawning Angel, Cloudkin Seer, Plains, Island, Island, Island, Plains, Plains, Frilled Sea Serpent, Island, Plains, Island]
+Robo  hand: [Agent of Treachery]
+Robo  deck: [Rule of Law, Island, Island, Island, Boreal Elemental, Island, Plains, Cavalier of Gales, Plains, Angel of Vitality, Herald of the Sun, Fortress Crab, Frost Lynx, Plains, Captivating Gyre, Flood of Tears, Island, Plains, Plains, Island, Hanged Executioner, Zephyr Charge, Bishop of Wings, Island, Island, Island, Dungeon Geists, Plains, Moorland Inquisitor, Winged Words, Island, Island, Aerial Assault, Island, Griffin Sentinel, Drawn from Dreams, Island, Plains, Plains, Plains, Brineborn Cutthroat, Island, Gods Willing, Plains, Fencing Ace, Faerie Miscreant, Island, Ancestral Blade, Yarok's Wavecrasher, Negate, Griffin Protector, Inspiring Captain, Island, Island, Atemis, All-Seeing, Planar Cleansing, Plains, Plains, Cerulean Drake, Plains, Spectral Sailor, Plains, Battalion Foot Soldier, Island, Island, Island, Island, Loyal Pegasus, Renowned Weaponsmith, Island, Angelic Gift, Master Splicer, Eternal Isolation, Plains, Hard Cover, Island, Moment of Heroism, Disenchant, Island, Plains, Raise the Alarm, Portal of Sanctuary, Plains, Sephara, Sky's Blade, Steadfast Sentry, Island, Sage's Row Denizen, Inspired Charge, Plains, Pacifism, Island, Plains, Island, Scholar of the Ages, Masterful Replication, Tale's End, Yoked Ox, Sleep Paralysis, Plains, Aether Gust, Plains, Island, Loxodon Lifechanter, Plains, Bone to Ash, Soulmender, Glaring Aegis, Island, Plains, Daybreak Chaplin, Island, Plains, Plains, Brought Back, Plains, Island, Devout Decree, Plains, Plains, Plains, Ajani, Strength of the Pride, Island, Island, Apostle of Purifying Light, Unsummon, Plains, Air Elemental, Plains, Anticipate, Plains, Plains, Cavalier of Dawn, Octoprophet, Squad Captain, Plains, Metropolis Sprite, Warden of Evos Isle, Plains]
+Robo  graveyard: [Mu Yanling, Sky Dancer, Starfield Mystic, Convolute, Gauntlet of Light]
+Rand  battlefield: [Plains, Plains, Island, Island, Golem 3/3, Plains, Plains, Plains, Plains, Island, Island, Plains, Zephyr Charge, Island, Island]
+Rand  hand: [Frost Lynx, Squad Captain, Drawn from Dreams, Portal of Sanctuary]
+Rand  deck: [Island, Island, Plains, Aether Gust, Island, Inspiring Captain, Plains, Plains, Island, Cavalier of Dawn, Unsummon, Fencing Ace, Agent of Treachery, Daybreak Chaplin, Plains, Loxodon Lifechanter, Winged Words, Island, Gauntlet of Light, Plains, Island, Angel of Vitality, Plains, Island, Plains, Plains, Soulmender, Island, Plains, Negate, Plains, Island, Island, Cloudkin Seer, Devout Decree, Frilled Sea Serpent, Convolute, Brineborn Cutthroat, Plains, Bishop of Wings, Island, Rule of Law, Dawning Angel, Cerulean Drake, Brought Back, Atemis, All-Seeing, Island, Disenchant, Moment of Heroism, Island, Griffin Protector, Plains, Metropolis Sprite, Griffin Sentinel, Island, Anticipate, Sage's Row Denizen, Island, Renowned Weaponsmith, Inspired Charge, Plains, Dungeon Geists, Island, Angelic Gift, Island, Island, Plains, Boreal Elemental, Moat Piranhas, Plains, Plains, Raise the Alarm, Scholar of the Ages, Plains, Starfield Mystic, Island, Island, Plains, Plains, Ancestral Blade, Mu Yanling, Sky Dancer, Island, Herald of the Sun, Island, Spectral Sailor, Gods Willing, Plains, Plains, Island, Plains, Pacifism, Plains, Warden of Evos Isle, Island, Plains, Bone to Ash, Air Elemental, Island, Island, Plains, Island, Island, Plains, Steadfast Sentry, Captivating Gyre, Plains, Battalion Foot Soldier, Island, Aerial Assault, Hanged Executioner, Fortress Crab, Sephara, Sky's Blade, Plains, Glaring Aegis, Island, Sleep Paralysis, Plains, Island, Island, Apostle of Purifying Light, Ajani, Strength of the Pride, Yarok's Wavecrasher, Island, Plains, Island, Moorland Inquisitor, Plains, Masterful Replication, Flood of Tears, Plains, Tale's End, Leyline of Sanctity, Island, Plains, Planar Cleansing, Octoprophet, Cavalier of Gales, Plains, Eternal Isolation, Hard Cover]
+Rand  graveyard: [Master Splicer, Yoked Ox, Faerie Miscreant, Loyal Pegasus]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:09.128307
+Seed: 6165784931

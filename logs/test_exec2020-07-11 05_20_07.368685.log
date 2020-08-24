@@ -1,0 +1,1405 @@
+Seed: 3909316211
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Yoked Ox, Island, Gauntlet of Light, Moment of Heroism, Plains, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Yoked Ox, Island, Gauntlet of Light, Moment of Heroism, Plains, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Yoked Ox, Island, Gauntlet of Light, Moment of Heroism, Plains, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Island, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox]
+Rand hand: [Plains, Island, Gauntlet of Light, Moment of Heroism, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Yoked Ox
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Yoked Ox]
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Moment of Heroism
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Island, Tale's End, Plains, Fortress Crab, Negate, Devout Decree]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox, Plains]
+Rand hand: [Plains, Island, Gauntlet of Light, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Yoked Ox]
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Gauntlet of Light
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Yoked Ox ['Gauntlet of Light']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Yoked Ox ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Angelic Gift
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Angelic Gift ETB
+Robo draws 1 card
+Robo battlefield: [Island, Island, Plains, Angelic Gift]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift]
+Robo hand: [Island, Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island]
+Robo hand: [Tale's End, Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light]
+Rand hand: [Plains, Island, Scholar of the Ages, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Tale's End targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Gauntlet of Light ability]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Inspired Charge, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Inspired Charge
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Gauntlet of Light', 'Angelic Gift']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains]
+Robo hand: [Fortress Crab, Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Fortress Crab
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab]
+Robo hand: [Negate, Devout Decree, Island, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab]
+Robo hand: [Negate, Devout Decree, Island, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island]
+Rand hand: [Island, Scholar of the Ages, Squad Captain, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Squad Captain
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Negate, Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Scholar of the Ages, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Gauntlet of Light ability]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Negate]
+Resolving Negate
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Squad Captain ['+1/+1 counter']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Squad Captain ['+1/+1 counter']
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island, Island]
+Robo hand: [Devout Decree, Island]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island, Plains]
+Rand hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Gauntlet of Light', 'Angelic Gift']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Robo  battlefield: [Island, Island, Plains, Angelic Gift, Island, Plains, Fortress Crab, Island, Island, Island]
+Robo  hand: [Devout Decree, Island]
+Robo  deck: [Pacifism, Loxodon Lifechanter, Winged Words, Cavalier of Gales, Island, Glaring Aegis, Moorland Inquisitor, Island, Mu Yanling, Sky Dancer, Island, Aerial Assault, Island, Island, Captivating Gyre, Convolute, Starfield Mystic, Island, Island, Island, Warden of Evos Isle, Herald of the Sun, Cavalier of Dawn, Island, Gods Willing, Island, Plains, Octoprophet, Boreal Elemental, Plains, Island, Plains, Daybreak Chaplin, Plains, Cerulean Drake, Island, Island, Renowned Weaponsmith, Plains, Plains, Cloudkin Seer, Plains, Griffin Sentinel, Leyline of Sanctity, Plains, Island, Plains, Plains, Aether Gust, Plains, Plains, Sage's Row Denizen, Metropolis Sprite, Brought Back, Island, Frost Lynx, Island, Island, Fencing Ace, Griffin Protector, Faerie Miscreant, Plains, Plains, Apostle of Purifying Light, Steadfast Sentry, Inspiring Captain, Disenchant, Island, Yoked Ox, Frilled Sea Serpent, Sleep Paralysis, Island, Island, Island, Plains, Squad Captain, Atemis, All-Seeing, Plains, Hanged Executioner, Unsummon, Portal of Sanctuary, Scholar of the Ages, Plains, Bone to Ash, Soulmender, Loyal Pegasus, Plains, Battalion Foot Soldier, Brineborn Cutthroat, Plains, Dawning Angel, Island, Island, Plains, Ancestral Blade, Moat Piranhas, Plains, Island, Rule of Law, Drawn from Dreams, Plains, Plains, Planar Cleansing, Island, Plains, Raise the Alarm, Ajani, Strength of the Pride, Flood of Tears, Plains, Dungeon Geists, Anticipate, Plains, Air Elemental, Island, Spectral Sailor, Island, Gauntlet of Light, Eternal Isolation, Bishop of Wings, Sephara, Sky's Blade, Island, Plains, Agent of Treachery, Island, Angel of Vitality, Master Splicer, Zephyr Charge, Island, Island, Plains, Island, Masterful Replication, Plains, Island, Plains, Plains, Moment of Heroism, Plains, Plains, Hard Cover, Island, Plains, Plains, Plains, Plains, Plains, Yarok's Wavecrasher, Plains]
+Robo  graveyard: [Tale's End, Inspired Charge, Negate]
+Rand  battlefield: [Plains, Yoked Ox ['Gauntlet of Light', 'Angelic Gift'], Plains, Island, Gauntlet of Light, Plains, Island, Island, Squad Captain ['+1/+1 counter'], Island, Plains]
+Rand  hand: [Scholar of the Ages, Plains, Atemis, All-Seeing]
+Rand  deck: [Fortress Crab, Island, Spectral Sailor, Mu Yanling, Sky Dancer, Master Splicer, Island, Bone to Ash, Plains, Portal of Sanctuary, Island, Island, Plains, Island, Island, Island, Warden of Evos Isle, Angelic Gift, Octoprophet, Island, Island, Gods Willing, Fencing Ace, Steadfast Sentry, Plains, Inspiring Captain, Plains, Island, Island, Island, Negate, Leyline of Sanctity, Battalion Foot Soldier, Cloudkin Seer, Island, Starfield Mystic, Plains, Island, Unsummon, Tale's End, Plains, Island, Plains, Sleep Paralysis, Island, Griffin Sentinel, Flood of Tears, Agent of Treachery, Plains, Hard Cover, Plains, Plains, Plains, Island, Ajani, Strength of the Pride, Sephara, Sky's Blade, Plains, Island, Hanged Executioner, Aerial Assault, Dawning Angel, Plains, Griffin Protector, Island, Plains, Eternal Isolation, Sage's Row Denizen, Plains, Island, Apostle of Purifying Light, Plains, Anticipate, Island, Yarok's Wavecrasher, Plains, Plains, Plains, Devout Decree, Bishop of Wings, Island, Island, Herald of the Sun, Island, Island, Island, Plains, Plains, Frost Lynx, Island, Plains, Cavalier of Dawn, Plains, Cerulean Drake, Zephyr Charge, Disenchant, Metropolis Sprite, Aether Gust, Rule of Law, Island, Pacifism, Soulmender, Drawn from Dreams, Plains, Island, Island, Raise the Alarm, Winged Words, Island, Daybreak Chaplin, Island, Plains, Captivating Gyre, Island, Inspired Charge, Angel of Vitality, Plains, Plains, Brineborn Cutthroat, Brought Back, Loxodon Lifechanter, Plains, Plains, Plains, Island, Island, Plains, Plains, Air Elemental, Loyal Pegasus, Ancestral Blade, Island, Masterful Replication, Boreal Elemental, Moorland Inquisitor, Plains, Planar Cleansing, Cavalier of Gales, Dungeon Geists, Convolute, Plains, Frilled Sea Serpent, Plains, Faerie Miscreant, Glaring Aegis, Plains, Island, Moat Piranhas, Renowned Weaponsmith]
+Rand  graveyard: [Moment of Heroism]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:00.888683
+Seed: 3909316211

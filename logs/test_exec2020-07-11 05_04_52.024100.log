@@ -1,0 +1,5651 @@
+Seed: 8604807471
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Robo draws 4 card
+Robo mulligans to 4
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Master Splicer, Island, Battalion Foot Soldier, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Master Splicer, Island, Battalion Foot Soldier, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Master Splicer, Island, Battalion Foot Soldier, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Master Splicer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Master Splicer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Master Splicer
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+Rand Playing Plains
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Rand battlefield: [Plains, Plains, Soulmender]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Island, Battalion Foot Soldier, Plains, Hard Cover]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Soulmender
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hard Cover
+ Targets:  [Hard Cover targeting Soulmender]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Hard Cover
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover']]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover']]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover']]
+Rand hand: [Island, Plains, Plains, Island, Tale's End]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Battalion Foot Soldier, Plains, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Battalion Foot Soldier
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Battalion Foot Soldier
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains]
+Rand hand: [Island, Plains, Island, Tale's End, Island]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier]
+Robo hand: [Plains, Aether Gust, Cloudkin Seer, Plains, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cloudkin Seer
+{'C': 2, 'U': 2}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Cloudkin Seer
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer]
+Robo hand: [Aether Gust, Plains, Yoked Ox, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer]
+Robo hand: [Aether Gust, Plains, Yoked Ox, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 2, 'U': 2}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Yoked Ox
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains]
+Rand hand: [Island, Tale's End, Island, Flood of Tears, Cavalier of Dawn]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer, Yoked Ox]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Apostle of Purifying Light
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer, Yoked Ox]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Island
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Island]
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Island
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer, Yoked Ox]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer, Yoked Ox]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Battalion Foot Soldier, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Apostle of Purifying Light]
+Apostle of Purifying Light is blocking Battalion Foot Soldier
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Apostle of Purifying Light has taken lethal damage: 2
+Apostle of Purifying Light dies
+Battalion Foot Soldier has taken lethal damage: 2
+Battalion Foot Soldier dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Cloudkin Seer]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cloudkin Seer
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Cloudkin Seer
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Cloudkin Seer ETB abil, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Plains, Bone to Ash, Plains]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Steadfast Sentry
+{'C': 2, 'U': 2}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Steadfast Sentry
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Tale's End, Flood of Tears, Cavalier of Dawn, Aerial Assault, Hanged Executioner]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Cloudkin Seer, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Tale's End targeting Soulmender ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Soulmender ability]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Tale's End]
+Resolving Tale's End
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Cloudkin Seer]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Aerial Assault
+Cloudkin Seer is destroyed
+Rand gains 1 life
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry]
+Robo hand: [Aether Gust, Plains, Bone to Ash]
+Robo life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner]
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry]
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains]
+Rand hand: [Flood of Tears, Cavalier of Dawn, Hanged Executioner]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Cavalier of Dawn
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Winged Words
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Winged Words
+Rand draws 2 card
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains, Plains]
+Rand hand: [Flood of Tears, Hanged Executioner, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains, Plains]
+Rand hand: [Flood of Tears, Hanged Executioner, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Hanged Executioner
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Hanged Executioner
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hanged Executioner ETB
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Flood of Tears, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Plains]
+Robo life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Cloudkin Seer, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Flood of Tears, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Steadfast Sentry, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Steadfast Sentry]
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Cloudkin Seer, Hanged Executioner]
+Cloudkin Seer is blocking Steadfast Sentry
+Hanged Executioner is blocking Yoked Ox
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Cloudkin Seer has taken lethal damage: 3
+Cloudkin Seer dies
+Steadfast Sentry has taken lethal damage: 2
+Steadfast Sentry dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Flood of Tears, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Flood of Tears, Negate, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+Negate targeting Hard Cover ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Negate
+ Targets:  [Negate targeting Hard Cover ability]
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Negate]
+Resolving Negate
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Hanged Executioner]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hanged Executioner ability
+Hanged Executioner ability countered due to no legal targets
+Phase: First Main
+{'C': 4, 'U': 2}
+{'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'U': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Anticipate
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains]
+Rand hand: [Flood of Tears, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Flood of Tears
+Phase: First Main
+{'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Faerie Miscreant
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains, Faerie Miscreant]
+Rand hand: [Plains, Inspiring Captain]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains, Faerie Miscreant]
+Rand hand: [Plains, Inspiring Captain]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Aether Gust, Bone to Ash, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Inspiring Captain
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Inspiring Captain]
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Inspiring Captain, Bone to Ash]
+Resolving Bone to Ash
+Inspiring Captain is countered
+Robo draws 1 card
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Soulmender ['Hard Cover'], Plains, Plains, Island, Plains, Plains, Spirit 1/1 Flying, Plains, Faerie Miscreant]
+Rand hand: [Plains]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Hard Cover, Island, Plains, Yoked Ox, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Aether Gust, Masterful Replication, Flood of Tears]
+Robo life: 17
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Flood of Tears
+Robo Passes
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Flood of Tears
+Soulmender ['Hard Cover'] bounced
+Spirit 1/1 Flying bounced
+Faerie Miscreant bounced
+Yoked Ox bounced
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Plains, Soulmender, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Yoked Ox]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Plains, Soulmender, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Yoked Ox]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+Robo Passes
+Rand Passes
+Resolving Yoked Ox
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Plains, Soulmender, Faerie Miscreant]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'U': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender]
+Rand hand: [Plains, Faerie Miscreant, Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender]
+Rand hand: [Plains, Faerie Miscreant, Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'W': 1}
+{'C': 0}
+Rand Playing Plains
+{'U': 1}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant]
+Rand hand: [Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant]
+Rand hand: [Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant]
+Rand hand: [Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant]
+Rand hand: [Yoked Ox]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'W': 1}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Playing Island
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Brought Back
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Faerie Miscreant, Yoked Ox, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 0}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Faerie Miscreant
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Unsummon
+ Targets:  [Unsummon targeting Faerie Miscreant]
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Unsummon
+Faerie Miscreant bounced
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island]
+Rand hand: [Faerie Miscreant]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Yoked Ox
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island]
+Rand hand: [Faerie Miscreant]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Faerie Miscreant]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Fortress Crab
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Faerie Miscreant]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Faerie Miscreant]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Faerie Miscreant]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 0}
+Rand Playing Island
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Faerie Miscreant, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Faerie Miscreant]
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox, Fortress Crab]
+Yoked Ox is blocking Faerie Miscreant
+Fortress Crab is blocking Faerie Miscreant
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 1
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island]
+Rand hand: []
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Brineborn Cutthroat
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Brineborn Cutthroat
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: []
+Rand life: 19
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Soulmender, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Soulmender bounced
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat, Yarok's Wavecrasher]
+Rand hand: [Soulmender]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Apostle of Purifying Light
+Robo Passes
+Rand Passes
+Stack: [Apostle of Purifying Light, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher]
+Rand hand: [Soulmender]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Steadfast Sentry
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Steadfast Sentry]
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Steadfast Sentry
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Cavalier of Dawn
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Cavalier of Dawn]
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Cavalier of Dawn
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher]
+Rand hand: [Soulmender]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Master Splicer
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Master Splicer]
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Master Splicer
+Phase: End Phase
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher]
+Rand hand: [Soulmender]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Winged Words
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Winged Words]
+Rand Passes
+{'C': 2}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Winged Words
+Phase: First Main
+{'W': 1}
+{'C': 3, 'U': 2}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Apostle of Purifying Light
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Apostle of Purifying Light]
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Stack: [Soulmender, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Apostle of Purifying Light
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Soulmender
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender]
+Rand hand: [Air Elemental]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox, Fortress Crab, Apostle of Purifying Light]
+Yoked Ox is blocking Yoked Ox
+Fortress Crab is blocking Yoked Ox
+Apostle of Purifying Light is blocking Yoked Ox
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender]
+Rand hand: [Air Elemental]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Air Elemental
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Air Elemental
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: []
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Unsummon
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Unsummon]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Anticipate
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Anticipate]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Cloudkin Seer
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Cloudkin Seer]
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Cloudkin Seer
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Aerial Assault
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Aerial Assault]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Inspiring Captain
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Inspiring Captain]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Tale's End
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Tale's End]
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Tale's End
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Inspiring Captain
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Aerial Assault
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Anticipate
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Unsummon
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: []
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: []
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Playing Plains
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Bone to Ash
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Bone to Ash]
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Bone to Ash
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: []
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: [Bishop of Wings]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat ['+1/+1 counter'], Air Elemental]
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Brineborn Cutthroat ['+1/+1 counter']
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental]
+Rand hand: [Bishop of Wings]
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 0}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Bishop of Wings
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings]
+Rand hand: []
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Hard Cover
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Hard Cover]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Negate
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Negate]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Battalion Foot Soldier
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Battalion Foot Soldier]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Negate
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Negate]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Cloudkin Seer
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Cloudkin Seer]
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Cloudkin Seer
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Hard Cover
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Hard Cover]
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Island
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Island]
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Island
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Hard Cover
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Negate
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Battalion Foot Soldier
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings]
+Rand hand: []
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings]
+Rand hand: []
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings]
+Rand hand: []
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moorland Inquisitor
+{'C': 0}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Moorland Inquisitor
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 21
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Apostle of Purifying Light, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat ['+1/+1 counter']]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Apostle of Purifying Light]
+Apostle of Purifying Light is blocking Brineborn Cutthroat ['+1/+1 counter']
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Brineborn Cutthroat ['+1/+1 counter'] has taken lethal damage: 2
+Brineborn Cutthroat ['+1/+1 counter'] dies
+Apostle of Purifying Light has taken lethal damage: 3
+Apostle of Purifying Light dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Protector
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Griffin Protector
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox, Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector]
+Robo hand: [Aether Gust, Masterful Replication, Angelic Gift]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Yoked Ox
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Yoked Ox]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Angelic Gift
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Angelic Gift ETB
+Robo draws 1 card
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift]
+Robo hand: [Aether Gust, Masterful Replication, Octoprophet]
+Robo life: 13
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Starfield Mystic
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Starfield Mystic
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift]
+Robo hand: [Aether Gust, Masterful Replication, Octoprophet]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: [Air Elemental, Moorland Inquisitor]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox, Fortress Crab, Griffin Protector]
+Yoked Ox is blocking Moorland Inquisitor
+Fortress Crab is blocking Moorland Inquisitor
+Griffin Protector is blocking Moorland Inquisitor
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 23
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift]
+Robo hand: [Aether Gust, Masterful Replication, Octoprophet]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 23
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift]
+Robo hand: [Aether Gust, Masterful Replication, Octoprophet]
+Robo life: 9
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Octoprophet
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Octoprophet
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Griffin Protector Creature ETB, Octoprophet ETB abil]
+Resolving Octoprophet ETB abil
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Griffin Protector Creature ETB
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 23
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 23
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: []
+Rand life: 23
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: [Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Yoked Ox, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Angelic Gift'], Yarok's Wavecrasher, Bishop of Wings, Starfield Mystic]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox, Fortress Crab, Octoprophet]
+Yoked Ox is blocking Yarok's Wavecrasher
+Fortress Crab is blocking Starfield Mystic
+Octoprophet is blocking Bishop of Wings
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Yoked Ox has taken lethal damage: 4
+Yoked Ox dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic]
+Rand hand: [Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Yarok's Wavecrasher, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island]
+Rand hand: []
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Yarok's Wavecrasher
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Yarok's Wavecrasher]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Eternal Isolation
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island]
+Rand hand: []
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island]
+Rand hand: []
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island]
+Rand hand: []
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Soulmender ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Griffin Protector, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Protector]
+Griffin Protector is blocking Air Elemental
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Griffin Protector has taken lethal damage: 4
+Griffin Protector dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Ajani, Strength of the Pride
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ajani, Strength of the Pride
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island]
+Rand hand: []
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Angelic Gift'], Air Elemental, Bishop of Wings, Starfield Mystic]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Starfield Mystic
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 0 loyalty from combat
+Robo loses 4 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 4
+stack: []
+None
+Turn 24 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Moorland Inquisitor, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moorland Inquisitor]
+Moorland Inquisitor is blocking Octoprophet
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Moorland Inquisitor has taken lethal damage: 3
+Moorland Inquisitor dies
+Octoprophet has taken lethal damage: 4
+Octoprophet dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Plains, Ajani, Strength of the Pride]
+Robo hand: [Aether Gust, Masterful Replication, Plains]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Starfield Mystic, Island, Island, Plains]
+Rand hand: []
+Rand life: 26
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Plains, Ajani, Strength of the Pride, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 4
+stack: []
+None
+Turn 24 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 0}
+Rand Playing Plains
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Starfield Mystic, Island, Island, Plains, Plains]
+Rand hand: []
+Rand life: 27
+stack: []
+Robo battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Plains, Ajani, Strength of the Pride, Plains]
+Robo hand: [Aether Gust, Masterful Replication]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Angelic Gift'], Air Elemental]
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Rand  battlefield: [Plains, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Yoked Ox ['Angelic Gift'], Island, Island, Soulmender, Air Elemental, Bishop of Wings, Starfield Mystic, Island, Island, Plains, Plains]
+Rand  hand: []
+Rand  deck: [Plains, Plains, Drawn from Dreams, Plains, Island, Island, Hard Cover, Plains, Plains, Island, Island, Island, Plains, Sage's Row Denizen, Cerulean Drake, Island, Island, Island, Fortress Crab, Zephyr Charge, Boreal Elemental, Island, Moment of Heroism, Plains, Island, Island, Plains, Disenchant, Island, Fencing Ace, Atemis, All-Seeing, Leyline of Sanctity, Anticipate, Plains, Renowned Weaponsmith, Squad Captain, Loyal Pegasus, Ajani, Strength of the Pride, Plains, Octoprophet, Island, Mu Yanling, Sky Dancer, Herald of the Sun, Bone to Ash, Frilled Sea Serpent, Island, Island, Brought Back, Sephara, Sky's Blade, Griffin Protector, Island, Island, Plains, Island, Plains, Daybreak Chaplin, Pacifism, Plains, Dungeon Geists, Ancestral Blade, Master Splicer, Island, Plains, Inspired Charge, Gods Willing, Plains, Sleep Paralysis, Glaring Aegis, Island, Plains, Island, Plains, Spectral Sailor, Aether Gust, Griffin Sentinel, Captivating Gyre, Angelic Gift, Plains, Frost Lynx, Plains, Island, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Devout Decree, Steadfast Sentry, Plains, Island, Island, Plains, Plains, Portal of Sanctuary, Gauntlet of Light, Metropolis Sprite, Cavalier of Gales, Island, Warden of Evos Isle, Scholar of the Ages, Plains, Plains, Island, Island, Angel of Vitality, Planar Cleansing, Agent of Treachery, Island, Battalion Foot Soldier, Rule of Law, Loxodon Lifechanter, Masterful Replication, Island, Convolute, Eternal Isolation, Plains, Island, Raise the Alarm, Dawning Angel, Yarok's Wavecrasher, Island]
+Rand  graveyard: [Flood of Tears, Faerie Miscreant, Brineborn Cutthroat, Moorland Inquisitor]
+Robo  battlefield: [Plains, Island, Island, Plains, Plains, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Island, Plains, Plains, Angelic Gift, Plains, Ajani, Strength of the Pride, Plains]
+Robo  hand: [Aether Gust, Masterful Replication]
+Robo  deck: [Island, Plains, Inspiring Captain, Agent of Treachery, Angel of Vitality, Gods Willing, Tale's End, Plains, Drawn from Dreams, Plains, Negate, Island, Island, Plains, Island, Pacifism, Plains, Raise the Alarm, Brineborn Cutthroat, Plains, Island, Leyline of Sanctity, Island, Island, Island, Island, Air Elemental, Plains, Boreal Elemental, Herald of the Sun, Fencing Ace, Island, Island, Island, Plains, Moat Piranhas, Spectral Sailor, Captivating Gyre, Gauntlet of Light, Dungeon Geists, Island, Plains, Plains, Plains, Bishop of Wings, Plains, Griffin Sentinel, Plains, Warden of Evos Isle, Soulmender, Plains, Cavalier of Gales, Plains, Island, Frilled Sea Serpent, Aerial Assault, Island, Island, Island, Yarok's Wavecrasher, Plains, Plains, Island, Starfield Mystic, Island, Island, Mu Yanling, Sky Dancer, Atemis, All-Seeing, Plains, Dawning Angel, Island, Planar Cleansing, Plains, Island, Inspired Charge, Plains, Island, Island, Island, Winged Words, Rule of Law, Sephara, Sky's Blade, Island, Glaring Aegis, Daybreak Chaplin, Island, Faerie Miscreant, Island, Loxodon Lifechanter, Metropolis Sprite, Hanged Executioner, Plains, Unsummon, Plains, Zephyr Charge, Devout Decree, Plains, Island, Sage's Row Denizen, Island, Island, Plains, Moorland Inquisitor, Island, Portal of Sanctuary, Convolute, Scholar of the Ages, Cavalier of Dawn, Moment of Heroism, Island, Cerulean Drake, Plains, Island, Plains, Plains, Frost Lynx, Ancestral Blade, Disenchant, Squad Captain, Island, Sleep Paralysis, Plains, Loyal Pegasus, Island, Island, Plains, Renowned Weaponsmith]
+Robo  graveyard: [Flood of Tears, Brought Back, Apostle of Purifying Light, Yoked Ox, Eternal Isolation, Griffin Protector, Octoprophet]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:15.582031
+Seed: 8604807471

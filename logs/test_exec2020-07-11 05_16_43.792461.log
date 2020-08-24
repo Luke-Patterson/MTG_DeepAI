@@ -1,0 +1,6551 @@
+Seed: 359431212
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'U': 1}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Faerie Miscreant
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Plains, Gods Willing, Disenchant]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 1}
+{'W': 2}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 1}
+{'W': 2}
+{'W': 1}
+Gods Willing targeting Faerie Miscreant
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Faerie Miscreant]
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Gods Willing
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Zephyr Charge
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Disenchant, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+Disenchant targeting Zephyr Charge
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Zephyr Charge]
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Disenchant
+Zephyr Charge is destroyed
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant, Plains, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Island, Yoked Ox]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant, Plains, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant, Plains, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant, Plains, Plains]
+Rand hand: [Plains, Gauntlet of Light, Cavalier of Dawn, Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Faerie Miscreant]
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains]
+Rand hand: [Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Starfield Mystic, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Starfield Mystic
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Starfield Mystic
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains]
+Rand hand: [Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains]
+Rand hand: [Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains]
+Rand hand: [Cavalier of Dawn, Plains, Bishop of Wings, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Bishop of Wings
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge, Yoked Ox, Convolute]
+Robo life: 14
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Yoked Ox
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Convolute
+ Targets:  [Convolute targeting Yoked Ox]
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Yoked Ox, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Yoked Ox is countered
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Dawn, Island, Herald of the Sun]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Starfield Mystic, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Starfield Mystic]
+Starfield Mystic is blocking Faerie Miscreant ['Gauntlet of Light']
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Starfield Mystic has taken lethal damage: 3
+Starfield Mystic dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island]
+Robo hand: [Flood of Tears, Planar Cleansing, Inspired Charge]
+Robo life: 14
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Inspired Charge
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 14
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ancestral Blade
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Ancestral Blade, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade ETB
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Bishop of Wings
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Bishop of Wings]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Plains, Plains, Bishop of Wings ['Ancestral Blade'], Island, Ancestral Blade, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains]
+Robo hand: [Flood of Tears, Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Flood of Tears
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Flood of Tears
+Faerie Miscreant ['Gauntlet of Light'] bounced
+Bishop of Wings ['Ancestral Blade'] bounced
+Ancestral Blade bounced
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Anticipate
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing, Fortress Crab]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains]
+Robo hand: [Planar Cleansing, Fortress Crab]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Fortress Crab
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Plains, Faerie Miscreant, Bishop of Wings, Ancestral Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ancestral Blade
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade ETB
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cavalier of Gales
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Cavalier of Gales
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Cavalier of Gales ETB
+Robo draws 3 card
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales]
+Robo hand: [Planar Cleansing, Plains]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales]
+Robo hand: [Planar Cleansing, Plains]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Faerie Miscreant, Bishop of Wings, Octoprophet, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Ancestral Blade, Soldier 1/1, Island, Faerie Miscreant]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Fortress Crab, Cavalier of Gales, Plains]
+Robo hand: [Planar Cleansing]
+Robo life: 13
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Planar Cleansing
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Planar Cleansing
+Fortress Crab is destroyed
+Cavalier of Gales is destroyed
+Soldier 1/1 ['Ancestral Blade'] is destroyed
+Ancestral Blade is destroyed
+Soldier 1/1 is destroyed
+Faerie Miscreant is destroyed
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Island]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Island]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Ancestral Blade
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade ETB
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Octoprophet, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Octoprophet
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Octoprophet
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Octoprophet ETB abil
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Starfield Mystic, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings, Starfield Mystic, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Starfield Mystic
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Starfield Mystic
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 13
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic]
+Rand hand: [Cavalier of Dawn, Herald of the Sun, Bishop of Wings]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 13
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Soldier 1/1 ['Ancestral Blade']
+ Targets:  []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Soldier 1/1 ['Ancestral Blade'] is destroyed
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn]
+Rand hand: [Herald of the Sun, Bishop of Wings, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Golem 3/3]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet, Starfield Mystic]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn]
+Rand hand: [Herald of the Sun, Bishop of Wings, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Golem 3/3]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Bishop of Wings
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings]
+Rand hand: [Herald of the Sun, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Golem 3/3]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Golem 3/3
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Golem 3/3]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings]
+Rand hand: [Herald of the Sun, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings]
+Rand hand: [Herald of the Sun, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings]
+Rand hand: [Herald of the Sun, Moat Piranhas]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 4, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Herald of the Sun
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Herald of the Sun
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Golem 3/3 ['Ancestral Blade']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Golem 3/3 ['Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Stack: [Bishop of Wings Angel ETB, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Bishop of Wings Angel ETB
+Rand gains 4 life
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade', '+1/+1 counter'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet, Starfield Mystic, Bishop of Wings]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 2 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade', '+1/+1 counter'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['Ancestral Blade', '+1/+1 counter'], Island]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 2
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Golem 3/3 ['Ancestral Blade', '+1/+1 counter']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Golem 3/3 ['Ancestral Blade', '+1/+1 counter']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['+1/+1 counter', 'Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent, Scholar of the Ages]
+Robo life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['+1/+1 counter', 'Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent, Scholar of the Ages]
+Robo life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1, Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun]
+Rand hand: [Moat Piranhas, Cloudkin Seer]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1, Golem 3/3 ['+1/+1 counter', 'Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent, Scholar of the Ages]
+Robo life: 2
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Soldier 1/1
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Soldier 1/1]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Soldier 1/1
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Soldier 1/1]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Stack: [Herald of the Sun ability, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Herald of the Sun ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1 ['+1/+1 counter'], Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun, Island, Cloudkin Seer]
+Rand hand: [Moat Piranhas, Masterful Replication]
+Rand life: 24
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['+1/+1 counter'], Golem 3/3 ['+1/+1 counter', 'Ancestral Blade'], Island]
+Robo hand: [Frilled Sea Serpent, Scholar of the Ages]
+Robo life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet, Starfield Mystic, Cavalier of Dawn, Herald of the Sun]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 2 life
+Robo loses 4 life
+Robo loses 4 life
+Rand  battlefield: [Island, Plains, Plains, Plains, Plains, Island, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Soldier 1/1 ['+1/+1 counter'], Island, Octoprophet, Island, Starfield Mystic, Cavalier of Dawn, Bishop of Wings, Herald of the Sun, Island, Cloudkin Seer]
+Rand  hand: [Moat Piranhas, Masterful Replication]
+Rand  deck: [Plains, Island, Angelic Gift, Frilled Sea Serpent, Hanged Executioner, Winged Words, Plains, Sephara, Sky's Blade, Ajani, Strength of the Pride, Island, Plains, Plains, Island, Plains, Island, Island, Frost Lynx, Island, Tale's End, Island, Eternal Isolation, Dungeon Geists, Scholar of the Ages, Leyline of Sanctity, Inspired Charge, Brineborn Cutthroat, Rule of Law, Yoked Ox, Plains, Plains, Plains, Island, Plains, Griffin Protector, Bone to Ash, Plains, Unsummon, Flood of Tears, Island, Plains, Raise the Alarm, Aerial Assault, Island, Plains, Plains, Drawn from Dreams, Atemis, All-Seeing, Dawning Angel, Plains, Island, Portal of Sanctuary, Island, Plains, Island, Inspiring Captain, Plains, Plains, Battalion Foot Soldier, Island, Yarok's Wavecrasher, Plains, Air Elemental, Island, Island, Master Splicer, Plains, Negate, Plains, Pacifism, Island, Island, Plains, Loxodon Lifechanter, Glaring Aegis, Brought Back, Anticipate, Plains, Island, Griffin Sentinel, Plains, Island, Island, Angel of Vitality, Zephyr Charge, Island, Spectral Sailor, Island, Plains, Hard Cover, Island, Island, Island, Metropolis Sprite, Island, Plains, Squad Captain, Island, Agent of Treachery, Island, Devout Decree, Moment of Heroism, Cavalier of Gales, Captivating Gyre, Island, Plains, Mu Yanling, Sky Dancer, Island, Boreal Elemental, Moorland Inquisitor, Convolute, Apostle of Purifying Light, Sage's Row Denizen, Plains, Plains, Fortress Crab, Island, Renowned Weaponsmith, Plains, Sleep Paralysis, Planar Cleansing, Island, Soulmender, Plains, Fencing Ace, Plains, Plains, Loyal Pegasus, Daybreak Chaplin, Steadfast Sentry, Plains, Island, Plains, Warden of Evos Isle, Island, Plains, Aether Gust, Cerulean Drake, Island]
+Rand  graveyard: [Gods Willing, Disenchant, Gauntlet of Light, Ancestral Blade, Faerie Miscreant]
+Robo  battlefield: [Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Ancestral Blade, Soldier 1/1 ['+1/+1 counter'], Golem 3/3 ['+1/+1 counter', 'Ancestral Blade'], Island]
+Robo  hand: [Frilled Sea Serpent, Scholar of the Ages]
+Robo  deck: [Island, Plains, Octoprophet, Island, Dawning Angel, Island, Plains, Island, Captivating Gyre, Plains, Island, Island, Gauntlet of Light, Plains, Brineborn Cutthroat, Plains, Rule of Law, Plains, Agent of Treachery, Winged Words, Island, Raise the Alarm, Island, Plains, Gods Willing, Yarok's Wavecrasher, Glaring Aegis, Ajani, Strength of the Pride, Island, Masterful Replication, Plains, Plains, Plains, Island, Battalion Foot Soldier, Plains, Island, Moment of Heroism, Fencing Ace, Plains, Plains, Island, Cavalier of Dawn, Griffin Protector, Soulmender, Daybreak Chaplin, Aerial Assault, Apostle of Purifying Light, Sephara, Sky's Blade, Bone to Ash, Plains, Island, Island, Plains, Mu Yanling, Sky Dancer, Frost Lynx, Island, Tale's End, Griffin Sentinel, Plains, Plains, Loxodon Lifechanter, Island, Island, Plains, Plains, Plains, Air Elemental, Island, Unsummon, Plains, Island, Plains, Loyal Pegasus, Plains, Brought Back, Island, Cerulean Drake, Plains, Squad Captain, Island, Island, Disenchant, Angelic Gift, Plains, Island, Plains, Negate, Moorland Inquisitor, Eternal Isolation, Warden of Evos Isle, Plains, Island, Island, Plains, Inspiring Captain, Metropolis Sprite, Plains, Plains, Plains, Island, Bishop of Wings, Devout Decree, Renowned Weaponsmith, Boreal Elemental, Angel of Vitality, Plains, Cloudkin Seer, Pacifism, Drawn from Dreams, Aether Gust, Island, Island, Atemis, All-Seeing, Dungeon Geists, Island, Faerie Miscreant, Moat Piranhas, Sage's Row Denizen, Island, Portal of Sanctuary, Sleep Paralysis, Hanged Executioner, Plains, Leyline of Sanctity, Master Splicer, Island, Island, Plains, Island, Plains, Hard Cover, Plains, Spectral Sailor, Island, Plains, Steadfast Sentry, Island, Herald of the Sun]
+Robo  graveyard: [Zephyr Charge, Yoked Ox, Convolute, Starfield Mystic, Inspired Charge, Flood of Tears, Anticipate, Fortress Crab, Cavalier of Gales, Planar Cleansing]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:00.973664
+Seed: 359431212

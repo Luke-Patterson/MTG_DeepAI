@@ -1,0 +1,9480 @@
+Seed: 8348398441
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Moorland Inquisitor, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moorland Inquisitor
+{'C': 2, 'U': 2}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Plains, Island, Moorland Inquisitor]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Unsummon, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'U': 1}
+Unsummon targeting Moorland Inquisitor
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Unsummon
+ Targets:  [Unsummon targeting Moorland Inquisitor]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Unsummon
+Moorland Inquisitor bounced
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Plains, Moat Piranhas, Devout Decree]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Island]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moorland Inquisitor
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Plains, Island, Moorland Inquisitor]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor]
+Robo hand: [Zephyr Charge, Plains, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Robo hand: [Zephyr Charge, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Pacifism]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Moorland Inquisitor
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Moorland Inquisitor]
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Pacifism
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains]
+Robo hand: [Zephyr Charge, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains]
+Robo hand: [Zephyr Charge, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Plains, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains]
+Robo hand: [Zephyr Charge, Fortress Crab, Bone to Ash, Captivating Gyre, Raise the Alarm]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism, Plains]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Raise the Alarm
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Raise the Alarm
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Zephyr Charge
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism, Plains]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism, Plains]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism, Plains]
+Rand hand: [Sleep Paralysis, Portal of Sanctuary, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Portal of Sanctuary
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Moat Piranhas, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1, Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Sleep Paralysis, Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Soldier 1/1
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Soldier 1/1]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Griffin Protector
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Griffin Protector]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Griffin Protector bounced
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1 ['Sleep Paralysis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1 ['Sleep Paralysis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island, Moat Piranhas]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Moat Piranhas
+Phase: End Phase
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Faerie Miscreant, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Protector]
+Griffin Protector is blocking Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 2
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Griffin Protector]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Drawn from Dreams]
+Rand life: 19
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Griffin Protector
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Griffin Protector]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Griffin Protector bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Drawn from Dreams
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Drawn from Dreams
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Moat Piranhas, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Moat Piranhas
+Phase: End Phase
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Frost Lynx]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frost Lynx
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Frost Lynx
+{'C': 0}
+Frost Lynx Creature ETB targeting Moat Piranhas
+ Targets:  []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Frost Lynx Creature ETB
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Loxodon Lifechanter, Griffin Protector, Island]
+Rand life: 19
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Moat Piranhas does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Loxodon Lifechanter
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Island, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Island, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1 ['Sleep Paralysis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1 ['Sleep Paralysis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Frost Lynx
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Frost Lynx]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Loxodon Lifechanter, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet]
+Rand life: 6
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Loxodon Lifechanter
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Loxodon Lifechanter]
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Loxodon Lifechanter bounced
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moorland Inquisitor ['Pacifism']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Frost Lynx
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Frost Lynx]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Zephyr Charge, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Loxodon Lifechanter, Disenchant]
+Rand life: 6
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Zephyr Charge
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Zephyr Charge]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Disenchant
+Zephyr Charge is destroyed
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Loxodon Lifechanter
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Warden of Evos Isle]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Warden of Evos Isle
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre]
+Rand life: 12
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'W': 2}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Loxodon Lifechanter
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Loxodon Lifechanter]
+{'W': 2}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Loxodon Lifechanter ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Loxodon Lifechanter bounced
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle]
+Robo hand: [Fortress Crab, Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 12
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fortress Crab
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Fortress Crab
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Warden of Evos Isle]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Loyal Pegasus, Atemis, All-Seeing, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Loyal Pegasus
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Brought Back, Loxodon Lifechanter]
+Rand life: 8
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Brought Back
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Loxodon Lifechanter
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Rand elects not to set life with Loxodon Lifechanter
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 8
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Frost Lynx, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Fortress Crab]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loxodon Lifechanter]
+Loxodon Lifechanter is blocking Frost Lynx
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Frost Lynx has taken lethal damage: 4
+Frost Lynx dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Loxodon Lifechanter]
+Rand hand: [Devout Decree, Griffin Protector, Moat Piranhas, Octoprophet, Captivating Gyre, Glaring Aegis]
+Rand life: 7
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Loxodon Lifechanter
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Loxodon Lifechanter]
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Loxodon Lifechanter bounced
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 7
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle, Fortress Crab]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab, Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Moat Piranhas]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Glaring Aegis, Loxodon Lifechanter]
+Rand life: 4
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'C': 5, 'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Fortress Crab
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Fortress Crab]
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Soldier 1/1 ['Sleep Paralysis']
+ Targets:  []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Glaring Aegis]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Loxodon Lifechanter, Soulmender, Moat Piranhas]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Glaring Aegis]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Loxodon Lifechanter, Soulmender, Moat Piranhas]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender
+Phase: End Phase
+{'C': 1}
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Plains, Loyal Pegasus]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Glaring Aegis, Soulmender]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 4
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Soldier 1/1 ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Plains, Loyal Pegasus, Island]
+Robo hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Glaring Aegis, Soulmender]
+Rand hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Loxodon Lifechanter, Moat Piranhas]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Loyal Pegasus]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Soulmender]
+Soulmender is blocking Fortress Crab ['Glaring Aegis']
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 2 life
+Robo  battlefield: [Plains, Island, Moorland Inquisitor ['Pacifism'], Plains, Soldier 1/1 ['Sleep Paralysis'], Island, Island, Island, Island, Warden of Evos Isle, Fortress Crab ['Glaring Aegis'], Plains, Loyal Pegasus, Island]
+Robo  hand: [Bone to Ash, Captivating Gyre, Master Splicer, Atemis, All-Seeing, Planar Cleansing, Moment of Heroism]
+Robo  deck: [Battalion Foot Soldier, Griffin Protector, Anticipate, Plains, Ancestral Blade, Plains, Agent of Treachery, Squad Captain, Plains, Griffin Sentinel, Plains, Island, Sage's Row Denizen, Apostle of Purifying Light, Dawning Angel, Plains, Plains, Island, Island, Island, Gods Willing, Plains, Island, Starfield Mystic, Island, Island, Cloudkin Seer, Aerial Assault, Island, Island, Plains, Island, Plains, Yarok's Wavecrasher, Yoked Ox, Brought Back, Island, Hard Cover, Plains, Island, Scholar of the Ages, Plains, Inspired Charge, Negate, Plains, Plains, Aether Gust, Steadfast Sentry, Island, Plains, Island, Island, Island, Island, Plains, Island, Masterful Replication, Angelic Gift, Air Elemental, Island, Pacifism, Bishop of Wings, Devout Decree, Flood of Tears, Disenchant, Ajani, Strength of the Pride, Plains, Spectral Sailor, Plains, Winged Words, Plains, Convolute, Daybreak Chaplin, Cavalier of Gales, Soulmender, Cerulean Drake, Plains, Hanged Executioner, Octoprophet, Boreal Elemental, Inspiring Captain, Metropolis Sprite, Plains, Island, Dungeon Geists, Island, Island, Plains, Plains, Leyline of Sanctity, Plains, Island, Cavalier of Dawn, Plains, Renowned Weaponsmith, Island, Plains, Island, Unsummon, Plains, Eternal Isolation, Plains, Island, Island, Plains, Island, Plains, Island, Rule of Law, Loxodon Lifechanter, Herald of the Sun, Brineborn Cutthroat, Island, Plains, Island, Plains, Plains, Fencing Ace, Tale's End, Plains, Sephara, Sky's Blade, Mu Yanling, Sky Dancer, Island, Portal of Sanctuary, Frilled Sea Serpent, Plains, Drawn from Dreams, Island, Plains, Plains, Angel of Vitality, Moat Piranhas, Island, Island, Sleep Paralysis, Plains, Gauntlet of Light, Plains, Glaring Aegis]
+Robo  graveyard: [Raise the Alarm, Faerie Miscreant, Zephyr Charge, Frost Lynx]
+Rand  battlefield: [Island, Plains, Pacifism, Plains, Plains, Portal of Sanctuary, Island, Sleep Paralysis, Island, Island, Island, Island, Glaring Aegis, Soulmender]
+Rand  hand: [Devout Decree, Griffin Protector, Octoprophet, Captivating Gyre, Loxodon Lifechanter, Moat Piranhas]
+Rand  deck: [Griffin Sentinel, Fencing Ace, Island, Plains, Moorland Inquisitor, Angelic Gift, Island, Island, Dungeon Geists, Boreal Elemental, Plains, Plains, Plains, Plains, Battalion Foot Soldier, Herald of the Sun, Steadfast Sentry, Island, Island, Plains, Plains, Ajani, Strength of the Pride, Island, Island, Island, Plains, Island, Cavalier of Gales, Flood of Tears, Plains, Yarok's Wavecrasher, Island, Plains, Plains, Inspired Charge, Squad Captain, Scholar of the Ages, Starfield Mystic, Island, Frilled Sea Serpent, Plains, Metropolis Sprite, Negate, Planar Cleansing, Plains, Island, Zephyr Charge, Spectral Sailor, Atemis, All-Seeing, Plains, Island, Plains, Agent of Treachery, Faerie Miscreant, Island, Mu Yanling, Sky Dancer, Island, Plains, Aerial Assault, Plains, Daybreak Chaplin, Sephara, Sky's Blade, Plains, Island, Yoked Ox, Plains, Apostle of Purifying Light, Dawning Angel, Hanged Executioner, Island, Island, Island, Plains, Bone to Ash, Island, Island, Sage's Row Denizen, Island, Plains, Plains, Island, Winged Words, Island, Plains, Fortress Crab, Island, Angel of Vitality, Island, Plains, Master Splicer, Eternal Isolation, Plains, Renowned Weaponsmith, Rule of Law, Island, Moment of Heroism, Island, Plains, Cerulean Drake, Gods Willing, Cavalier of Dawn, Island, Cloudkin Seer, Plains, Island, Frost Lynx, Plains, Plains, Island, Anticipate, Plains, Air Elemental, Plains, Hard Cover, Plains, Plains, Masterful Replication, Ancestral Blade, Loyal Pegasus, Plains, Tale's End, Island, Plains, Raise the Alarm, Island, Island, Leyline of Sanctity, Plains, Convolute, Gauntlet of Light, Plains, Bishop of Wings, Warden of Evos Isle, Brineborn Cutthroat, Plains, Inspiring Captain, Island, Aether Gust]
+Rand  graveyard: [Unsummon, Drawn from Dreams, Disenchant, Brought Back]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:07.589413
+Seed: 8348398441

@@ -1,0 +1,7351 @@
+Seed: 6510149500
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Plains, Boreal Elemental]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Plains, Boreal Elemental]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Plains
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Plains, Boreal Elemental]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Frost Lynx, Island, Plains, Plains, Hanged Executioner, Convolute, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Frost Lynx, Moorland Inquisitor, Bone to Ash, Island, Boreal Elemental, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moorland Inquisitor
+{'C': 2, 'U': 2}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Frost Lynx, Plains, Plains, Hanged Executioner, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains]
+Rand hand: [Island, Frost Lynx, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Frost Lynx
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Spirit 1/1 Flying
+ Targets:  []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Spirit 1/1 Flying does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor, Frost Lynx]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Plains, Island, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Island]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor, Frost Lynx]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Spirit 1/1 Flying]
+Spirit 1/1 Flying is blocking Moorland Inquisitor
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Spirit 1/1 Flying has taken lethal damage: 2
+Spirit 1/1 Flying dies
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Hanged Executioner, Island, Plains, Plains]
+Robo hand: [Frost Lynx, Plains, Convolute, Island, Island, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Hanged Executioner]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner ability
+Hanged Executioner ability countered due to no legal targets
+Phase: First Main
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Plains, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains]
+Robo hand: [Frost Lynx, Convolute, Island, Island, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island, Plains]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Frost Lynx
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Frost Lynx
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Convolute
+ Targets:  [Convolute targeting Frost Lynx]
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Frost Lynx, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Frost Lynx is countered
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Glaring Aegis]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island, Plains]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Glaring Aegis]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor, Plains, Island, Frost Lynx, Island, Island, Plains]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Moorland Inquisitor
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Moorland Inquisitor]
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Frost Lynx
+ Targets:  []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Glaring Aegis ETB
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis]
+Robo hand: [Island, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains]
+Rand hand: [Island, Bone to Ash, Boreal Elemental, Island, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis]
+Robo hand: [Island, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor ['Glaring Aegis']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis]
+Robo hand: [Island, Plains, Island]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis]
+Robo hand: [Island, Plains, Island]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Island, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 9
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor ['Glaring Aegis']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Moorland Inquisitor ['Glaring Aegis']
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Moorland Inquisitor ['Glaring Aegis']]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island]
+Robo hand: [Island, Island, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx, Island, Island, Plains, Island, Island, Plains, Sleep Paralysis]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light, Island]
+Rand life: 18
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Frost Lynx
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Frost Lynx]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Pacifism
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains]
+Robo hand: [Island, Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Starfield Mystic
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Starfield Mystic
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Metropolis Sprite
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Metropolis Sprite, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Robo Playing Island
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Atemis, All-Seeing
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Atemis, All-Seeing
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Renowned Weaponsmith
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Gauntlet of Light, Loxodon Lifechanter, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Gauntlet of Light, Loxodon Lifechanter, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Metropolis Sprite]
+Rand hand: [Bone to Ash, Boreal Elemental, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Boreal Elemental
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Boreal Elemental, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Boreal Elemental
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Gauntlet of Light, Loxodon Lifechanter, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental]
+Rand hand: [Bone to Ash, Gauntlet of Light, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Gauntlet of Light, Loxodon Lifechanter, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental]
+Rand hand: [Bone to Ash, Gauntlet of Light, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing]
+Robo hand: [Gauntlet of Light, Loxodon Lifechanter, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loxodon Lifechanter
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ETB
+Robo elects not to set life with Loxodon Lifechanter
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter]
+Robo hand: [Gauntlet of Light, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic, Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter]
+Robo hand: [Gauntlet of Light, Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Gauntlet of Light targeting Starfield Mystic
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Starfield Mystic]
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Boreal Elemental, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Boreal Elemental]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Atemis, All-Seeing]
+Atemis, All-Seeing is blocking Boreal Elemental
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Boreal Elemental has taken lethal damage: 4
+Boreal Elemental dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light]
+Robo hand: [Warden of Evos Isle, Cloudkin Seer]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Loxodon Lifechanter ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Cloudkin Seer
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Warden of Evos Isle
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Gauntlet of Light]
+Rand life: 18
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Bishop of Wings
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Bishop of Wings]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Bishop of Wings, Bone to Ash]
+Resolving Bone to Ash
+Bishop of Wings is countered
+Rand draws 1 card
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 18
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Loxodon Lifechanter ability, Atemis draw cards abil, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Loxodon Lifechanter ability, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loxodon Lifechanter]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 12 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island]
+Robo hand: [Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains]
+Rand hand: [Gauntlet of Light, Fortress Crab]
+Rand life: 6
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fortress Crab
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Fortress Crab
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island]
+Robo hand: [Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island]
+Robo hand: [Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island]
+Robo hand: [Island, Plains, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Gauntlet of Light ability, Gauntlet of Light ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Starfield Mystic ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Starfield Mystic ['Gauntlet of Light']
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains]
+Robo hand: [Plains, Plains, Plains, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Planar Cleansing
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Griffin Sentinel
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Anticipate
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Atemis draw cards abil, Anticipate]
+Resolving Anticipate
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Loyal Pegasus
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Cerulean Drake, Mu Yanling, Sky Dancer, Dawning Angel, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Starfield Mystic ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Cerulean Drake, Mu Yanling, Sky Dancer, Dawning Angel, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Plains
+Robo discards Cerulean Drake
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Mu Yanling, Sky Dancer, Dawning Angel]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Mu Yanling, Sky Dancer, Dawning Angel]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Mu Yanling, Sky Dancer, Dawning Angel]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Negate, Mu Yanling, Sky Dancer, Dawning Angel]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Mu Yanling, Sky Dancer
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+Negate targeting Mu Yanling, Sky Dancer
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Mu Yanling, Sky Dancer]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Mu Yanling, Sky Dancer, Negate]
+Resolving Negate
+Mu Yanling, Sky Dancer is countered
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Fortress Crab, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loxodon Lifechanter]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Loxodon Lifechanter
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Fortress Crab has taken lethal damage: 12
+Fortress Crab dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis']]
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Gods Willing, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Gods Willing
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Gauntlet of Light, Island]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Plains, Dawning Angel, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Loxodon Lifechanter ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Island, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Island, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing, Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Island, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Atemis, All-Seeing
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Atemis, All-Seeing]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Island, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Aether Gust, Octoprophet]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Plains, Island, Dawning Angel, Aether Gust, Octoprophet]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Bone to Ash
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Atemis draw cards abil, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Aether Gust
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Dawning Angel, Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Dawning Angel, Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Dawning Angel
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Octoprophet, Island, Disenchant, Yarok's Wavecrasher, Island, Plains, Yoked Ox]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis', 'Sleep Paralysis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Sleep Paralysis, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Sleep Paralysis
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Sleep Paralysis]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant, Loxodon Lifechanter ability, Loxodon Lifechanter ability, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant, Loxodon Lifechanter ability, Loxodon Lifechanter ability, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Spectral Sailor
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant, Loxodon Lifechanter ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Starfield Mystic ['Gauntlet of Light']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Starfield Mystic ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant, Loxodon Lifechanter ability, Gods Willing]
+Resolving Gods Willing
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Disenchant]
+Resolving Disenchant
+Sleep Paralysis is destroyed
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hard Cover ability, Starfield Mystic enchantment dies ability]
+Resolving Starfield Mystic enchantment dies ability
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Squad Captain
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light', '+1/+1 counter'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Octoprophet, Island, Yarok's Wavecrasher, Plains, Plains, Cavalier of Gales, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover, Island]
+Rand hand: [Gauntlet of Light]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle]
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Robo  battlefield: [Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Glaring Aegis, Plains, Island, Plains, Island, Starfield Mystic ['Gauntlet of Light', '+1/+1 counter'], Island, Atemis, All-Seeing ['Hard Cover'], Plains, Loxodon Lifechanter, Gauntlet of Light, Island, Warden of Evos Isle, Island, Plains, Plains, Plains, Plains, Island, Island]
+Robo  hand: [Octoprophet, Island, Yarok's Wavecrasher, Plains, Plains, Cavalier of Gales, Plains]
+Robo  deck: [Fencing Ace, Plains, Frilled Sea Serpent, Agent of Treachery, Battalion Foot Soldier, Rule of Law, Leyline of Sanctity, Plains, Island, Island, Angelic Gift, Winged Words, Plains, Island, Island, Inspired Charge, Brought Back, Sephara, Sky's Blade, Plains, Island, Plains, Sleep Paralysis, Plains, Island, Island, Plains, Island, Masterful Replication, Herald of the Sun, Plains, Island, Island, Apostle of Purifying Light, Soulmender, Cavalier of Dawn, Tale's End, Angel of Vitality, Island, Drawn from Dreams, Griffin Protector, Island, Plains, Captivating Gyre, Bishop of Wings, Air Elemental, Island, Island, Plains, Metropolis Sprite, Plains, Island, Sage's Row Denizen, Plains, Island, Unsummon, Fortress Crab, Ajani, Strength of the Pride, Moorland Inquisitor, Island, Ancestral Blade, Plains, Moment of Heroism, Island, Plains, Devout Decree, Island, Plains, Master Splicer, Aerial Assault, Zephyr Charge, Plains, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Island, Island, Plains, Island, Raise the Alarm, Steadfast Sentry, Plains, Dungeon Geists, Island, Daybreak Chaplin, Scholar of the Ages, Eternal Isolation, Moat Piranhas, Plains, Plains, Plains, Hard Cover, Plains, Pacifism, Inspiring Captain, Boreal Elemental, Flood of Tears]
+Robo  graveyard: [Plains, Frost Lynx, Convolute, Island, Renowned Weaponsmith, Cloudkin Seer, Faerie Miscreant, Island, Plains, Island, Planar Cleansing, Griffin Sentinel, Anticipate, Loyal Pegasus, Plains, Cerulean Drake, Mu Yanling, Sky Dancer, Negate, Island, Bone to Ash, Aether Gust, Plains, Island, Dawning Angel, Yoked Ox, Spectral Sailor, Gods Willing, Disenchant, Squad Captain]
+Rand  battlefield: [Plains, Island, Moorland Inquisitor ['Glaring Aegis'], Plains, Island, Frost Lynx ['Pacifism'], Island, Island, Plains, Island, Island, Plains, Island, Pacifism, Plains, Plains, Plains, Island, Plains, Island, Hard Cover, Island]
+Rand  hand: [Gauntlet of Light]
+Rand  deck: [Plains, Island, Anticipate, Fencing Ace, Squad Captain, Battalion Foot Soldier, Zephyr Charge, Island, Plains, Convolute, Air Elemental, Glaring Aegis, Mu Yanling, Sky Dancer, Plains, Unsummon, Island, Daybreak Chaplin, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Soulmender, Herald of the Sun, Atemis, All-Seeing, Plains, Island, Plains, Plains, Island, Griffin Protector, Disenchant, Ajani, Strength of the Pride, Island, Tale's End, Plains, Inspiring Captain, Plains, Plains, Apostle of Purifying Light, Plains, Loyal Pegasus, Steadfast Sentry, Plains, Warden of Evos Isle, Island, Devout Decree, Plains, Island, Plains, Island, Island, Plains, Aether Gust, Cerulean Drake, Island, Renowned Weaponsmith, Plains, Brineborn Cutthroat, Rule of Law, Island, Plains, Ancestral Blade, Island, Sage's Row Denizen, Master Splicer, Winged Words, Yoked Ox, Plains, Plains, Flood of Tears, Scholar of the Ages, Island, Dungeon Geists, Griffin Sentinel, Island, Spectral Sailor, Eternal Isolation, Loxodon Lifechanter, Aerial Assault, Captivating Gyre, Faerie Miscreant, Cloudkin Seer, Plains, Drawn from Dreams, Moat Piranhas, Angel of Vitality, Cavalier of Gales, Island, Island, Island, Moment of Heroism, Angelic Gift, Island, Hanged Executioner, Plains, Plains, Plains, Plains, Island, Agent of Treachery, Island, Portal of Sanctuary, Island, Plains, Yarok's Wavecrasher, Raise the Alarm, Brought Back, Plains, Inspired Charge, Island, Sephara, Sky's Blade, Octoprophet, Island, Island, Dawning Angel, Plains, Masterful Replication, Island, Starfield Mystic, Leyline of Sanctity, Cavalier of Dawn, Frilled Sea Serpent, Plains, Island, Plains, Planar Cleansing, Negate, Island]
+Rand  graveyard: [Metropolis Sprite, Boreal Elemental, Bishop of Wings, Bone to Ash, Fortress Crab, Gods Willing, Sleep Paralysis]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:16.212423
+Seed: 6510149500

@@ -1,0 +1,1519 @@
+Seed: 4995727613
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Loxodon Lifechanter, Yoked Ox, Plains, Island, Brought Back, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Loxodon Lifechanter, Yoked Ox, Plains, Island, Brought Back, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Loxodon Lifechanter, Yoked Ox, Plains, Island, Brought Back, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+Robo Playing Plains
+{'C': 5, 'W': 1}
+{'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Yoked Ox
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Island, Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island]
+Robo hand: [Loxodon Lifechanter, Island, Brought Back, Herald of the Sun, Plains, Sleep Paralysis, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'W': 1}
+{'W': 2}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+Rand Passes
+Resolving Brought Back
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox, Island, Plains]
+Robo hand: [Loxodon Lifechanter, Island, Herald of the Sun, Sleep Paralysis, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Yoked Ox
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Yoked Ox]
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Sleep Paralysis
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Air Elemental
+Rand Passes
+Robo Passes
+Resolving Air Elemental
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Plains, Aether Gust, Plains]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Yoked Ox ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+Robo Playing Plains
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental]
+Rand hand: [Plains, Island, Island, Island, Negate]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains]
+Robo hand: [Loxodon Lifechanter, Herald of the Sun, Aether Gust, Plains, Island]
+Robo life: 16
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Yoked Ox ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+Robo Playing Plains
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Herald of the Sun
+Robo Passes
+Rand Passes
+Resolving Herald of the Sun
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains, Island, Island, Negate, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island, Island, Negate, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island, Island, Negate, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island, Island, Negate, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island, Island]
+Robo life: 16
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Yoked Ox ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Herald of the Sun ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Negate
+ Targets:  [Negate targeting Herald of the Sun ability]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Herald of the Sun ability, Negate]
+Resolving Negate
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith
+Rand battlefield: [Island, Island, Island, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Herald of the Sun, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Herald of the Sun]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Air Elemental]
+Air Elemental is blocking Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Air Elemental has taken lethal damage: 4
+Air Elemental dies
+Herald of the Sun has taken lethal damage: 4
+Herald of the Sun dies
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Loxodon Lifechanter, Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Yoked Ox ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 5, 'W': 1}
+{'U': 1}
+Robo Playing Plains
+{'C': 5, 'W': 1}
+{'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Loxodon Lifechanter
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter ETB
+Robo elects not to set life with Loxodon Lifechanter
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Island, Island, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+Rand Playing Island
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Gales
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Cavalier of Gales
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Cavalier of Gales ETB
+Rand draws 3 card
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Island, Plains, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Island, Plains, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Island, Plains, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island]
+Robo life: 16
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Yoked Ox ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Rand battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Island, Plains, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo hand: [Aether Gust, Island, Warden of Evos Isle]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loxodon Lifechanter]
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 20 life
+Rand  battlefield: [Island, Island, Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand  hand: [Island, Plains, Island, Island]
+Rand  deck: [Plains, Plains, Island, Ancestral Blade, Island, Squad Captain, Atemis, All-Seeing, Sephara, Sky's Blade, Plains, Sage's Row Denizen, Starfield Mystic, Plains, Eternal Isolation, Unsummon, Zephyr Charge, Flood of Tears, Frost Lynx, Sleep Paralysis, Plains, Scholar of the Ages, Disenchant, Yarok's Wavecrasher, Plains, Captivating Gyre, Plains, Plains, Island, Island, Masterful Replication, Plains, Island, Island, Dungeon Geists, Cerulean Drake, Cloudkin Seer, Island, Plains, Island, Moorland Inquisitor, Plains, Loyal Pegasus, Island, Island, Fortress Crab, Battalion Foot Soldier, Devout Decree, Plains, Octoprophet, Drawn from Dreams, Plains, Yoked Ox, Plains, Hard Cover, Plains, Island, Bone to Ash, Island, Island, Raise the Alarm, Plains, Aerial Assault, Island, Griffin Protector, Island, Griffin Sentinel, Loxodon Lifechanter, Plains, Planar Cleansing, Island, Island, Master Splicer, Winged Words, Plains, Plains, Convolute, Hanged Executioner, Tale's End, Plains, Plains, Plains, Steadfast Sentry, Mu Yanling, Sky Dancer, Gods Willing, Plains, Plains, Daybreak Chaplin, Faerie Miscreant, Moat Piranhas, Plains, Plains, Plains, Island, Angel of Vitality, Island, Cavalier of Dawn, Aether Gust, Plains, Plains, Dawning Angel, Island, Island, Rule of Law, Frilled Sea Serpent, Island, Island, Renowned Weaponsmith, Plains, Pacifism, Island, Plains, Herald of the Sun, Plains, Portal of Sanctuary, Plains, Plains, Angelic Gift, Bishop of Wings, Island, Plains, Island, Island, Soulmender, Plains, Island, Leyline of Sanctity, Plains, Metropolis Sprite, Moment of Heroism, Ajani, Strength of the Pride, Island, Plains, Gauntlet of Light, Apostle of Purifying Light, Brought Back, Inspiring Captain, Boreal Elemental, Island, Anticipate, Warden of Evos Isle, Island, Glaring Aegis, Fencing Ace, Spectral Sailor, Inspired Charge, Brineborn Cutthroat, Agent of Treachery]
+Rand  graveyard: [Negate, Air Elemental]
+Robo  battlefield: [Plains, Yoked Ox ['Sleep Paralysis'], Island, Plains, Island, Sleep Paralysis, Plains, Plains, Island, Renowned Weaponsmith, Plains, Loxodon Lifechanter]
+Robo  hand: [Aether Gust, Island, Warden of Evos Isle]
+Robo  deck: [Dungeon Geists, Island, Plains, Inspiring Captain, Griffin Sentinel, Portal of Sanctuary, Plains, Unsummon, Island, Atemis, All-Seeing, Spectral Sailor, Island, Plains, Hanged Executioner, Island, Bishop of Wings, Plains, Island, Moat Piranhas, Cerulean Drake, Dawning Angel, Island, Island, Island, Plains, Plains, Daybreak Chaplin, Leyline of Sanctity, Plains, Bone to Ash, Fortress Crab, Soulmender, Master Splicer, Metropolis Sprite, Plains, Devout Decree, Plains, Island, Negate, Plains, Moorland Inquisitor, Anticipate, Apostle of Purifying Light, Plains, Island, Island, Island, Island, Octoprophet, Air Elemental, Plains, Cavalier of Dawn, Plains, Plains, Plains, Boreal Elemental, Frilled Sea Serpent, Plains, Plains, Plains, Island, Plains, Eternal Isolation, Planar Cleansing, Agent of Treachery, Plains, Captivating Gyre, Gods Willing, Island, Plains, Island, Island, Angel of Vitality, Island, Island, Island, Tale's End, Island, Plains, Plains, Frost Lynx, Plains, Faerie Miscreant, Plains, Drawn from Dreams, Battalion Foot Soldier, Steadfast Sentry, Island, Winged Words, Island, Convolute, Mu Yanling, Sky Dancer, Island, Aerial Assault, Moment of Heroism, Flood of Tears, Raise the Alarm, Hard Cover, Island, Plains, Pacifism, Scholar of the Ages, Plains, Plains, Island, Island, Starfield Mystic, Sephara, Sky's Blade, Island, Plains, Yarok's Wavecrasher, Inspired Charge, Griffin Protector, Fencing Ace, Cavalier of Gales, Angelic Gift, Island, Plains, Island, Plains, Rule of Law, Island, Squad Captain, Plains, Glaring Aegis, Island, Sage's Row Denizen, Gauntlet of Light, Ajani, Strength of the Pride, Plains, Plains, Disenchant, Island, Island, Masterful Replication, Plains, Island, Plains, Cloudkin Seer, Island, Zephyr Charge, Ancestral Blade, Loyal Pegasus, Brineborn Cutthroat]
+Robo  graveyard: [Island, Brought Back, Herald of the Sun]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:01.672490
+Seed: 4995727613

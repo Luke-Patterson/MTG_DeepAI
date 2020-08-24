@@ -1,0 +1,9938 @@
+Seed: 836462549
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Spectral Sailor, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Spectral Sailor, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Spectral Sailor, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+Rand Playing Island
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Spectral Sailor
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Island, Inspiring Captain, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor]
+Rand hand: [Island, Fencing Ace, Plains, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fencing Ace
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Fencing Ace
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace]
+Rand hand: [Island, Frost Lynx, Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frost Lynx
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Frost Lynx
+Frost Lynx Creature ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Inspiring Captain, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspiring Captain
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Inspiring Captain
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Inspiring Captain Creature ETB
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Hanged Executioner, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hanged Executioner
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hanged Executioner
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Frost Lynx, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Island, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Frost Lynx]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain]
+Inspiring Captain is blocking Frost Lynx
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Frost Lynx has taken lethal damage: 3
+Frost Lynx dies
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Island, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Anticipate
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Master Splicer
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Fencing Ace, Island, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Fencing Ace
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Fencing Ace]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Hanged Executioner ability
+Rand exiles Fencing Ace
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3]
+Robo hand: [Ajani, Strength of the Pride, Tale's End, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Tale's End targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Gauntlet of Light ability]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Tale's End]
+Resolving Tale's End
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Inspiring Captain, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Aerial Assault]
+Rand life: 17
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Inspiring Captain
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Inspiring Captain]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Aerial Assault
+Inspiring Captain is destroyed
+Rand gains 2 life
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains]
+Rand hand: [Sage's Row Denizen, Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sage's Row Denizen
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Sage's Row Denizen
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Master Splicer, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Sage's Row Denizen]
+Sage's Row Denizen is blocking Master Splicer
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 2
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust]
+Rand life: 19
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Island, Dawning Angel, Aether Gust, Plains, Plains, Gods Willing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Plains, Gods Willing]
+Rand life: 19
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Plains, Gods Willing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Plains, Gods Willing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Plains, Gods Willing]
+Rand life: 19
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Spectral Sailor ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Sage's Row Denizen
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Sage's Row Denizen]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Gods Willing
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Winged Words]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Spirit 1/1 Flying, Sage's Row Denizen]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Winged Words]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Winged Words
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Aether Gust, Plains, Bishop of Wings, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Dawning Angel
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Island, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Spirit 1/1 Flying, Sage's Row Denizen]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Island, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Bishop of Wings, Planar Cleansing, Mu Yanling, Sky Dancer]
+Rand life: 23
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'W': 2}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Bishop of Wings, Spectral Sailor ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Bishop of Wings, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Bishop of Wings
+Robo battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island, Island, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Planar Cleansing, Mu Yanling, Sky Dancer, Renowned Weaponsmith, Devout Decree]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Sage's Row Denizen]
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 2 life
+Robo  battlefield: [Plains, Island, Plains, Plains, Island, Golem 3/3, Plains, Plains, Plains, Plains]
+Robo  hand: [Ajani, Strength of the Pride, Boreal Elemental, Dungeon Geists, Flood of Tears, Masterful Replication, Inspired Charge, Scholar of the Ages]
+Robo  deck: [Brought Back, Glaring Aegis, Island, Ancestral Blade, Plains, Devout Decree, Island, Spectral Sailor, Winged Words, Disenchant, Island, Plains, Island, Moat Piranhas, Cavalier of Gales, Brineborn Cutthroat, Octoprophet, Plains, Portal of Sanctuary, Plains, Plains, Plains, Frilled Sea Serpent, Rule of Law, Unsummon, Gauntlet of Light, Island, Negate, Soulmender, Island, Fencing Ace, Agent of Treachery, Frost Lynx, Daybreak Chaplin, Sleep Paralysis, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Island, Dawning Angel, Island, Drawn from Dreams, Island, Island, Plains, Island, Plains, Fortress Crab, Pacifism, Angelic Gift, Aerial Assault, Island, Convolute, Zephyr Charge, Plains, Griffin Protector, Island, Plains, Starfield Mystic, Leyline of Sanctity, Yoked Ox, Island, Herald of the Sun, Island, Island, Cavalier of Dawn, Planar Cleansing, Island, Squad Captain, Plains, Bishop of Wings, Bone to Ash, Plains, Plains, Apostle of Purifying Light, Plains, Island, Island, Renowned Weaponsmith, Atemis, All-Seeing, Plains, Island, Cloudkin Seer, Island, Aether Gust, Loyal Pegasus, Moorland Inquisitor, Island, Island, Plains, Plains, Plains, Cerulean Drake, Hard Cover, Island, Griffin Sentinel, Island, Plains, Island, Angel of Vitality, Plains, Plains, Raise the Alarm, Island, Moment of Heroism, Plains, Eternal Isolation, Island, Mu Yanling, Sky Dancer, Sage's Row Denizen, Plains, Metropolis Sprite, Island, Loxodon Lifechanter, Island, Island, Gods Willing, Faerie Miscreant, Hanged Executioner, Steadfast Sentry, Island, Island, Plains, Plains, Captivating Gyre, Plains, Island, Plains, Air Elemental, Island, Plains, Yarok's Wavecrasher, Island, Plains, Plains, Island, Battalion Foot Soldier, Warden of Evos Isle, Island, Plains]
+Robo  graveyard: [Anticipate, Tale's End, Inspiring Captain, Master Splicer]
+Rand  battlefield: [Island, Spectral Sailor, Plains, Island, Spirit 1/1 Flying, Island, Island, Plains, Sage's Row Denizen, Plains, Plains, Island, Plains, Dawning Angel, Island, Island, Bishop of Wings]
+Rand  hand: [Atemis, All-Seeing, Plains, Aether Gust, Plains, Planar Cleansing, Mu Yanling, Sky Dancer, Renowned Weaponsmith, Devout Decree]
+Rand  deck: [Plains, Island, Angelic Gift, Island, Agent of Treachery, Starfield Mystic, Cavalier of Dawn, Island, Island, Island, Raise the Alarm, Sephara, Sky's Blade, Plains, Brineborn Cutthroat, Moment of Heroism, Steadfast Sentry, Island, Plains, Plains, Island, Air Elemental, Plains, Island, Island, Island, Boreal Elemental, Plains, Griffin Sentinel, Island, Plains, Octoprophet, Brought Back, Cloudkin Seer, Island, Squad Captain, Island, Island, Island, Apostle of Purifying Light, Plains, Plains, Anticipate, Island, Soulmender, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Hard Cover, Plains, Captivating Gyre, Tale's End, Zephyr Charge, Moorland Inquisitor, Plains, Island, Plains, Disenchant, Island, Island, Angel of Vitality, Plains, Cerulean Drake, Plains, Inspiring Captain, Island, Plains, Faerie Miscreant, Unsummon, Island, Plains, Glaring Aegis, Island, Plains, Cavalier of Gales, Island, Island, Plains, Sleep Paralysis, Ajani, Strength of the Pride, Plains, Ancestral Blade, Moat Piranhas, Master Splicer, Convolute, Scholar of the Ages, Battalion Foot Soldier, Eternal Isolation, Griffin Protector, Herald of the Sun, Masterful Replication, Yoked Ox, Daybreak Chaplin, Yarok's Wavecrasher, Flood of Tears, Plains, Loyal Pegasus, Island, Warden of Evos Isle, Plains, Rule of Law, Frilled Sea Serpent, Plains, Plains, Plains, Fortress Crab, Bone to Ash, Island, Metropolis Sprite, Dungeon Geists, Drawn from Dreams, Plains, Island, Plains, Island, Plains, Inspired Charge, Plains, Island, Gauntlet of Light, Island, Plains, Plains, Pacifism, Plains, Portal of Sanctuary, Loxodon Lifechanter, Negate, Plains, Island]
+Rand  graveyard: [Frost Lynx, Aerial Assault, Gods Willing, Winged Words]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:03.012976
+Seed: 836462549

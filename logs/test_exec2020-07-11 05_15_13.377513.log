@@ -1,0 +1,4254 @@
+Seed: 2226552567
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Atemis, All-Seeing, Island, Plains, Captivating Gyre, Plains, Griffin Protector, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Atemis, All-Seeing, Island, Plains, Captivating Gyre, Plains, Griffin Protector, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Atemis, All-Seeing, Island, Plains, Captivating Gyre, Plains, Griffin Protector, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Loyal Pegasus
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Agent of Treachery, Gods Willing, Spectral Sailor, Plains, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+Gods Willing targeting Loyal Pegasus
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Loyal Pegasus]
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gods Willing
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus, Plains]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Atemis, All-Seeing, Plains, Captivating Gyre, Plains, Griffin Protector, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus, Plains]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus, Plains]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus, Plains]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Apostle of Purifying Light
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Apostle of Purifying Light
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light]
+Robo hand: [Agent of Treachery, Spectral Sailor, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 2}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+{'C': 2, 'U': 1}
+{'C': 2}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Phase: End Phase
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Starfield Mystic
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Starfield Mystic
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Starfield Mystic]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Starfield Mystic]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Starfield Mystic]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Gods Willing
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Gods Willing]
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Gods Willing
+Robo battlefield: [Plains, Loyal Pegasus, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Starfield Mystic]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loyal Pegasus, Apostle of Purifying Light]
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Starfield Mystic]
+Starfield Mystic is blocking Loyal Pegasus
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Loyal Pegasus has taken lethal damage: 2
+Loyal Pegasus dies
+Starfield Mystic has taken lethal damage: 2
+Starfield Mystic dies
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Loyal Pegasus
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Loyal Pegasus]
+{'C': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Loyal Pegasus
+Phase: End Phase
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Griffin Protector, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Spectral Sailor ability
+Robo draws 1 card
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island]
+Robo hand: [Agent of Treachery, Convolute, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Apostle of Purifying Light, Spectral Sailor, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Apostle of Purifying Light
+ Targets:  []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Cavalier of Dawn ETB]
+Resolving Cavalier of Dawn ETB
+Apostle of Purifying Light is destroyed
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moat Piranhas
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas]
+Robo hand: [Agent of Treachery, Convolute, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Plains, Tale's End]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Tale's End, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Tale's End, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Tale's End, Island]
+Rand life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Gauntlet of Light ability]
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Tale's End]
+Resolving Tale's End
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Golem 3/3, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Captivating Gyre, Island]
+Rand life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cavalier of Dawn
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Golem 3/3
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Griffin Protector
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Cavalier of Dawn, Captivating Gyre targeting Golem 3/3, Captivating Gyre targeting Griffin Protector]
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Captivating Gyre
+Cavalier of Dawn bounced
+Golem 3/3 bounced
+Griffin Protector bounced
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains]
+Robo hand: [Agent of Treachery, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Robo Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor ability
+Robo draws 1 card
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Daybreak Chaplin
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Spectral Sailor, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Cavalier of Dawn, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Spectral Sailor
+ Targets:  []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Spectral Sailor is destroyed
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Yoked Ox
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains]
+Rand hand: [Atemis, All-Seeing, Plains, Griffin Protector]
+Rand life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Brought Back
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector]
+Rand hand: [Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Daybreak Chaplin, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Cavalier of Dawn]
+Cavalier of Dawn is blocking Daybreak Chaplin
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand gains 4 life
+Daybreak Chaplin has taken lethal damage: 4
+Daybreak Chaplin dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Bishop of Wings
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing, Negate]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing, Negate]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing, Negate]
+Rand life: 22
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Negate
+ Targets:  [Negate targeting Gauntlet of Light ability]
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Negate]
+Resolving Negate
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 11
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 22
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain, Battalion Foot Soldier]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain, Battalion Foot Soldier]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Battalion Foot Soldier
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yoked Ox
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 10
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Griffin Protector, Bishop of Wings]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Bishop of Wings
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Bishop of Wings, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing, Aerial Assault]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Bishop of Wings
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Bishop of Wings]
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Aerial Assault
+Bishop of Wings is destroyed
+Rand gains 1 life
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 23
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains, Island]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains, Island]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains, Island]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 23
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Steadfast Sentry
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Steadfast Sentry
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains, Island]
+Robo hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo life: 3
+stack: []
+Rand battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox, Steadfast Sentry]
+Rand hand: [Atemis, All-Seeing]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector, Yoked Ox]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Yoked Ox
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo  battlefield: [Plains, Plains, Island, Island, Plains, Moat Piranhas, Island, Plains, Golem 3/3, Yoked Ox, Plains, Island]
+Robo  hand: [Agent of Treachery, Convolute, Sage's Row Denizen, Zephyr Charge, Boreal Elemental, Flood of Tears, Squad Captain]
+Robo  deck: [Eternal Isolation, Sephara, Sky's Blade, Island, Anticipate, Plains, Frilled Sea Serpent, Plains, Plains, Island, Master Splicer, Island, Island, Bone to Ash, Island, Scholar of the Ages, Plains, Starfield Mystic, Dungeon Geists, Moorland Inquisitor, Cloudkin Seer, Plains, Negate, Island, Plains, Rule of Law, Masterful Replication, Leyline of Sanctity, Island, Gauntlet of Light, Devout Decree, Ajani, Strength of the Pride, Yarok's Wavecrasher, Inspired Charge, Cavalier of Dawn, Island, Loxodon Lifechanter, Island, Island, Island, Island, Fencing Ace, Griffin Sentinel, Island, Plains, Plains, Island, Herald of the Sun, Angelic Gift, Island, Plains, Fortress Crab, Island, Brineborn Cutthroat, Island, Warden of Evos Isle, Plains, Plains, Plains, Hard Cover, Plains, Winged Words, Angel of Vitality, Pacifism, Aerial Assault, Portal of Sanctuary, Island, Plains, Island, Island, Plains, Plains, Plains, Island, Drawn from Dreams, Plains, Plains, Island, Bishop of Wings, Inspiring Captain, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Plains, Griffin Protector, Island, Island, Brought Back, Island, Disenchant, Plains, Cerulean Drake, Plains, Plains, Renowned Weaponsmith, Captivating Gyre, Island, Ancestral Blade, Plains, Plains, Plains, Planar Cleansing, Frost Lynx, Raise the Alarm, Island, Island, Plains, Atemis, All-Seeing, Soulmender, Octoprophet, Plains, Cavalier of Gales, Dawning Angel, Sleep Paralysis, Unsummon, Plains, Moment of Heroism, Plains, Glaring Aegis, Aether Gust, Plains, Island, Plains, Metropolis Sprite, Air Elemental, Island, Island, Faerie Miscreant, Steadfast Sentry, Plains, Island, Island, Island, Hanged Executioner, Island, Tale's End, Plains]
+Robo  graveyard: [Apostle of Purifying Light, Spectral Sailor, Daybreak Chaplin, Battalion Foot Soldier]
+Rand  battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Cavalier of Dawn, Plains, Griffin Protector, Plains, Plains, Plains, Yoked Ox, Steadfast Sentry]
+Rand  hand: [Atemis, All-Seeing]
+Rand  deck: [Master Splicer, Plains, Island, Fencing Ace, Zephyr Charge, Daybreak Chaplin, Island, Loyal Pegasus, Island, Island, Island, Island, Herald of the Sun, Island, Island, Octoprophet, Island, Plains, Frilled Sea Serpent, Island, Loxodon Lifechanter, Island, Island, Island, Island, Plains, Island, Plains, Agent of Treachery, Plains, Portal of Sanctuary, Plains, Island, Winged Words, Island, Plains, Island, Mu Yanling, Sky Dancer, Bone to Ash, Island, Aether Gust, Brineborn Cutthroat, Inspired Charge, Plains, Air Elemental, Plains, Boreal Elemental, Plains, Squad Captain, Island, Cerulean Drake, Island, Plains, Plains, Plains, Island, Hard Cover, Moment of Heroism, Plains, Plains, Plains, Inspiring Captain, Moorland Inquisitor, Island, Apostle of Purifying Light, Faerie Miscreant, Spectral Sailor, Eternal Isolation, Fortress Crab, Plains, Island, Griffin Sentinel, Plains, Plains, Warden of Evos Isle, Pacifism, Plains, Island, Plains, Metropolis Sprite, Island, Plains, Island, Island, Frost Lynx, Leyline of Sanctity, Battalion Foot Soldier, Planar Cleansing, Plains, Yarok's Wavecrasher, Island, Plains, Island, Masterful Replication, Plains, Sephara, Sky's Blade, Island, Unsummon, Soulmender, Devout Decree, Moat Piranhas, Anticipate, Sleep Paralysis, Cloudkin Seer, Glaring Aegis, Angel of Vitality, Scholar of the Ages, Plains, Sage's Row Denizen, Hanged Executioner, Plains, Island, Island, Plains, Ancestral Blade, Convolute, Renowned Weaponsmith, Island, Disenchant, Plains, Cavalier of Gales, Flood of Tears, Island, Plains, Dawning Angel, Gauntlet of Light, Dungeon Geists, Plains, Island, Island, Island, Drawn from Dreams, Raise the Alarm, Rule of Law, Angelic Gift, Gods Willing, Ajani, Strength of the Pride, Plains, Island]
+Rand  graveyard: [Starfield Mystic, Tale's End, Captivating Gyre, Brought Back, Negate, Bishop of Wings, Aerial Assault]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:07.408123
+Seed: 2226552567

@@ -1,0 +1,6426 @@
+Seed: 6860126234
+Robo draws 7 card
+Rand draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Island, Island, Tale's End, Island, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Island, Island, Tale's End, Island, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Island, Island, Tale's End, Island, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Island, Tale's End, Island, Hard Cover, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Island, Tale's End, Island, Hard Cover, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand discards Hard Cover
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Plains, Daybreak Chaplin, Disenchant, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Tale's End, Island, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Tale's End, Island, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Tale's End, Island, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Frilled Sea Serpent, Island, Cerulean Drake, Tale's End, Island, Island, Renowned Weaponsmith]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+Robo Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin]
+Robo hand: [Island, Plains, Disenchant, Plains, Hanged Executioner]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Renowned Weaponsmith, Plains]
+Rand life: 19
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Disenchant, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 19
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner, Spirit 1/1 Flying]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island, Tale's End, Island, Island]
+Rand life: 17
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Renowned Weaponsmith fetch ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Renowned Weaponsmith fetch ability]
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: [Island, Disenchant, Plains, Dawning Angel]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 17
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Frilled Sea Serpent, Island, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Metropolis Sprite
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island, Metropolis Sprite]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island, Metropolis Sprite]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: End Phase
+{'U': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains]
+Robo hand: [Island, Disenchant, Dawning Angel, Island]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island]
+Rand hand: [Frilled Sea Serpent, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Cerulean Drake, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas]
+Rand hand: [Frilled Sea Serpent, Island, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Daybreak Chaplin, Hanged Executioner]
+Daybreak Chaplin is blocking Cerulean Drake
+Hanged Executioner is blocking Cerulean Drake
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Rand gains 1 life
+Cerulean Drake has taken lethal damage: 2
+Cerulean Drake dies
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas]
+Rand hand: [Frilled Sea Serpent, Island, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Protector
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector]
+Rand hand: [Frilled Sea Serpent, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island]
+Robo hand: [Island, Disenchant, Dawning Angel, Cerulean Drake]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Plains, Daybreak Chaplin, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Daybreak Chaplin
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand gains 3 life
+Daybreak Chaplin has taken lethal damage: 3
+Daybreak Chaplin dies
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Frilled Sea Serpent
+{'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Frilled Sea Serpent
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Cerulean Drake, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner, Spirit 1/1 Flying, Cerulean Drake]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Griffin Protector]
+Moat Piranhas is blocking Cerulean Drake
+Griffin Protector is blocking Cerulean Drake
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Cerulean Drake has taken lethal damage: 5
+Cerulean Drake dies
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Tale's End]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Gauntlet of Light ability]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Tale's End]
+Resolving Tale's End
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Spirit 1/1 Flying, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector, Frilled Sea Serpent]
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Spirit 1/1 Flying]
+Spirit 1/1 Flying is blocking Frilled Sea Serpent
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Spirit 1/1 Flying has taken lethal damage: 4
+Spirit 1/1 Flying dies
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Hanged Executioner, Plains, Plains, Island, Island, Island, Island]
+Robo hand: [Disenchant, Dawning Angel, Glaring Aegis]
+Robo life: 13
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Moat Piranhas, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Moat Piranhas
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Moat Piranhas]
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Hanged Executioner ability
+Rand exiles Moat Piranhas
+Phase: First Main
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dawning Angel
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Dawning Angel
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Dawning Angel ETB
+Robo gains 4 life
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Dawning Angel]
+Robo hand: [Disenchant, Glaring Aegis, Island]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Dawning Angel]
+Robo hand: [Disenchant, Glaring Aegis, Island]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Robo Playing Island
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Dawning Angel, Island]
+Robo hand: [Disenchant, Glaring Aegis]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Stack: [Frilled Sea Serpent ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Dawning Angel, Island]
+Robo hand: [Disenchant, Glaring Aegis]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Griffin Protector, Plains, Frilled Sea Serpent, Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Dawning Angel]
+Dawning Angel is blocking Griffin Protector
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Dawning Angel has taken lethal damage: 2
+Dawning Angel dies
+Griffin Protector has taken lethal damage: 3
+Griffin Protector dies
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island]
+Robo hand: [Disenchant, Glaring Aegis]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island]
+Robo hand: [Disenchant, Glaring Aegis]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Frilled Sea Serpent
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Frilled Sea Serpent]
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Renowned Weaponsmith
+ Targets:  []
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Glaring Aegis]
+Robo hand: [Disenchant, Frost Lynx]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent ['Glaring Aegis'], Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Glaring Aegis]
+Robo hand: [Disenchant, Frost Lynx]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent ['Glaring Aegis'], Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Frost Lynx
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Frilled Sea Serpent ['Glaring Aegis']
+ Targets:  []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Glaring Aegis
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Glaring Aegis]
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Stack: [Frost Lynx Creature ETB, Disenchant]
+Resolving Disenchant
+Glaring Aegis is destroyed
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Frost Lynx Creature ETB
+Phase: End Phase
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Frilled Sea Serpent does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frilled Sea Serpent
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Frilled Sea Serpent
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Frilled Sea Serpent, Island, Island, Island, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 17
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yarok's Wavecrasher
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Yarok's Wavecrasher
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Frilled Sea Serpent bounced
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher]
+Rand hand: [Plains, Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher]
+Rand hand: [Plains, Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moorland Inquisitor
+{'C': 5, 'U': 2}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frost Lynx, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx, Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Declare Blockers
+Blockers: [Renowned Weaponsmith, Yarok's Wavecrasher]
+Renowned Weaponsmith is blocking Frost Lynx
+Yarok's Wavecrasher is blocking Frost Lynx
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Frost Lynx has taken lethal damage: 5
+Frost Lynx dies
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 13
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Portal of Sanctuary
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Yarok's Wavecrasher, Plains, Portal of Sanctuary]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Yarok's Wavecrasher
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Yarok's Wavecrasher]
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Yarok's Wavecrasher bounced
+{'U': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Renowned Weaponsmith, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Frilled Sea Serpent, Yarok's Wavecrasher]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+{'U': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Renowned Weaponsmith bounced
+Phase: End Phase
+{'C': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Yarok's Wavecrasher]
+Rand hand: [Frilled Sea Serpent, Renowned Weaponsmith]
+Rand life: 13
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: [Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Yarok's Wavecrasher]
+Rand hand: [Frilled Sea Serpent, Renowned Weaponsmith]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent, Moorland Inquisitor]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yarok's Wavecrasher]
+Yarok's Wavecrasher is blocking Frilled Sea Serpent
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Yarok's Wavecrasher has taken lethal damage: 4
+Yarok's Wavecrasher dies
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor]
+Robo hand: [Plains]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Frilled Sea Serpent, Renowned Weaponsmith]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Frilled Sea Serpent, Renowned Weaponsmith]
+Rand life: 11
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Gods Willing]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+{'C': 1}
+{'U': 1}
+{'W': 1}
+Gods Willing targeting Renowned Weaponsmith
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Renowned Weaponsmith]
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gods Willing
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'U': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Renowned Weaponsmith
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Renowned Weaponsmith]
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Renowned Weaponsmith bounced
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary]
+Rand hand: [Frilled Sea Serpent, Renowned Weaponsmith]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Phase: End Phase
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 11
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 11
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'U': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Renowned Weaponsmith
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Renowned Weaponsmith]
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Renowned Weaponsmith bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith]
+Rand hand: [Frilled Sea Serpent, Island]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1}
+{'U': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frilled Sea Serpent
+{'C': 1}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Frilled Sea Serpent
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith, Island, Frilled Sea Serpent]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith, Island, Frilled Sea Serpent]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Frilled Sea Serpent]
+Frilled Sea Serpent is blocking Frilled Sea Serpent
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith, Island, Frilled Sea Serpent]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Renowned Weaponsmith, Island, Frilled Sea Serpent]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Renowned Weaponsmith
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Renowned Weaponsmith]
+{'C': 1}
+{'C': 1}
+{'U': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Renowned Weaponsmith bounced
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent, Moorland Inquisitor]
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Frilled Sea Serpent, Renowned Weaponsmith]
+Frilled Sea Serpent is blocking Moorland Inquisitor
+Renowned Weaponsmith is blocking Frilled Sea Serpent
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Renowned Weaponsmith has taken lethal damage: 4
+Renowned Weaponsmith dies
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Frilled Sea Serpent]
+Rand hand: [Loxodon Lifechanter]
+Rand life: 11
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 5, 'W': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Frilled Sea Serpent
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Frilled Sea Serpent]
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ETB, Portal of Sanctuary effect, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'C': 1}
+{'C': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ETB, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Frilled Sea Serpent bounced
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 6
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Metropolis Sprite, Island, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent, Moorland Inquisitor]
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loxodon Lifechanter]
+Loxodon Lifechanter is blocking Frilled Sea Serpent
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains]
+Robo hand: [Sage's Row Denizen, Masterful Replication, Metropolis Sprite, Island, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sage's Row Denizen
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Phase: End Phase
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Sage's Row Denizen]
+Robo hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent]
+Rand life: 4
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Loxodon Lifechanter
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Loxodon Lifechanter]
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Loxodon Lifechanter bounced
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Loxodon Lifechanter
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Rand elects not to set life with Loxodon Lifechanter
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Sage's Row Denizen]
+Robo hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent, Aerial Assault]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Sage's Row Denizen]
+Robo hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent, Aerial Assault]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Sage's Row Denizen]
+Robo hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent, Aerial Assault]
+Rand life: 4
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Stack: [Moorland Inquisitor ability, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Sage's Row Denizen, Island]
+Robo hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Frilled Sea Serpent, Aerial Assault]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent, Moorland Inquisitor, Sage's Row Denizen]
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loxodon Lifechanter]
+Loxodon Lifechanter is blocking Sage's Row Denizen
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 4 life
+Sage's Row Denizen has taken lethal damage: 4
+Sage's Row Denizen dies
+Robo  battlefield: [Island, Plains, Plains, Plains, Plains, Island, Island, Island, Island, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Island, Island]
+Robo  hand: [Masterful Replication, Metropolis Sprite, Brought Back]
+Robo  deck: [Bone to Ash, Inspired Charge, Renowned Weaponsmith, Steadfast Sentry, Fencing Ace, Cavalier of Gales, Island, Loyal Pegasus, Plains, Island, Island, Yoked Ox, Portal of Sanctuary, Atemis, All-Seeing, Plains, Island, Gods Willing, Island, Island, Battalion Foot Soldier, Island, Aerial Assault, Plains, Plains, Aether Gust, Captivating Gyre, Agent of Treachery, Plains, Plains, Plains, Island, Island, Eternal Isolation, Island, Spectral Sailor, Plains, Plains, Plains, Mu Yanling, Sky Dancer, Plains, Loxodon Lifechanter, Island, Island, Devout Decree, Plains, Island, Angel of Vitality, Unsummon, Plains, Plains, Rule of Law, Moat Piranhas, Island, Plains, Planar Cleansing, Gauntlet of Light, Plains, Pacifism, Sleep Paralysis, Yarok's Wavecrasher, Plains, Island, Warden of Evos Isle, Plains, Apostle of Purifying Light, Plains, Moment of Heroism, Fortress Crab, Island, Plains, Flood of Tears, Soulmender, Plains, Herald of the Sun, Plains, Island, Boreal Elemental, Island, Island, Island, Faerie Miscreant, Island, Island, Scholar of the Ages, Leyline of Sanctity, Hard Cover, Zephyr Charge, Plains, Island, Negate, Island, Octoprophet, Island, Cloudkin Seer, Convolute, Cavalier of Dawn, Island, Ancestral Blade, Plains, Island, Plains, Sephara, Sky's Blade, Island, Drawn from Dreams, Anticipate, Island, Master Splicer, Air Elemental, Island, Plains, Bishop of Wings, Plains, Plains, Griffin Sentinel, Dungeon Geists, Plains, Island, Squad Captain, Griffin Protector, Plains, Island, Angelic Gift, Plains, Ajani, Strength of the Pride, Island, Raise the Alarm, Starfield Mystic, Plains, Plains, Plains, Plains, Inspiring Captain, Brineborn Cutthroat, Plains]
+Robo  graveyard: [Daybreak Chaplin, Cerulean Drake, Tale's End, Dawning Angel, Glaring Aegis, Disenchant, Frost Lynx, Winged Words, Sage's Row Denizen]
+Rand  battlefield: [Island, Island, Plains, Island, Island, Island, Plains, Island, Island, Island, Plains, Plains, Portal of Sanctuary, Island, Plains, Loxodon Lifechanter]
+Rand  hand: [Frilled Sea Serpent, Aerial Assault]
+Rand  deck: [Plains, Island, Brought Back, Raise the Alarm, Island, Dawning Angel, Plains, Steadfast Sentry, Plains, Plains, Mu Yanling, Sky Dancer, Inspired Charge, Island, Plains, Agent of Treachery, Plains, Cavalier of Dawn, Aether Gust, Soulmender, Fortress Crab, Masterful Replication, Island, Island, Bishop of Wings, Island, Negate, Inspiring Captain, Convolute, Starfield Mystic, Atemis, All-Seeing, Island, Pacifism, Plains, Plains, Plains, Cloudkin Seer, Island, Ancestral Blade, Plains, Sephara, Sky's Blade, Plains, Island, Ajani, Strength of the Pride, Plains, Plains, Air Elemental, Rule of Law, Hanged Executioner, Angelic Gift, Island, Island, Island, Island, Plains, Island, Apostle of Purifying Light, Island, Island, Battalion Foot Soldier, Plains, Daybreak Chaplin, Plains, Island, Disenchant, Island, Island, Cavalier of Gales, Plains, Flood of Tears, Eternal Isolation, Brineborn Cutthroat, Spectral Sailor, Fencing Ace, Griffin Sentinel, Plains, Plains, Plains, Plains, Drawn from Dreams, Plains, Winged Words, Island, Zephyr Charge, Moorland Inquisitor, Island, Scholar of the Ages, Glaring Aegis, Sleep Paralysis, Island, Herald of the Sun, Dungeon Geists, Warden of Evos Isle, Boreal Elemental, Plains, Island, Frost Lynx, Plains, Plains, Island, Plains, Captivating Gyre, Anticipate, Angel of Vitality, Octoprophet, Sage's Row Denizen, Island, Island, Bone to Ash, Squad Captain, Island, Master Splicer, Plains, Plains, Island, Plains, Moment of Heroism, Plains, Plains, Devout Decree, Plains, Island, Yoked Ox, Island, Plains, Gauntlet of Light, Plains, Planar Cleansing, Unsummon, Faerie Miscreant, Island, Loyal Pegasus, Leyline of Sanctity, Plains, Plains]
+Rand  graveyard: [Island, Hard Cover, Tale's End, Metropolis Sprite, Cerulean Drake, Griffin Protector, Yarok's Wavecrasher, Gods Willing, Renowned Weaponsmith]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:15.181763
+Seed: 6860126234

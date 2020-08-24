@@ -1,0 +1,7709 @@
+Seed: 7797711765
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand elects not to put Leyline of Sanctity into play at beginning of game
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Spectral Sailor, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Faerie Miscreant, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Spectral Sailor, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Faerie Miscreant, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Spectral Sailor
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Faerie Miscreant, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Faerie Miscreant, Plains, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Faerie Miscreant, Plains, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Plains
+Rand discards Faerie Miscreant
+Robo battlefield: [Plains]
+Robo hand: [Plains, Plains, Island, Ancestral Blade, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Ancestral Blade
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade ETB
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Plains, Leyline of Sanctity, Spectral Sailor]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Plains, Plains, Island, Renowned Weaponsmith, Angelic Gift, Griffin Protector, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Soldier 1/1 ['Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Angelic Gift
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Angelic Gift ETB
+Robo draws 1 card
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade', 'Angelic Gift'], Plains, Angelic Gift]
+Robo hand: [Plains, Island, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade', 'Angelic Gift'], Plains, Angelic Gift]
+Robo hand: [Plains, Island, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade', 'Angelic Gift'], Plains, Angelic Gift]
+Robo hand: [Plains, Island, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade', 'Angelic Gift'], Plains, Angelic Gift]
+Robo hand: [Plains, Island, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade', 'Angelic Gift']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade', 'Angelic Gift']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Island, Plains, Island, Moat Piranhas, Leyline of Sanctity, Spectral Sailor, Dawning Angel]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Leyline of Sanctity
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity]
+Rand hand: [Island, Plains, Moat Piranhas, Spectral Sailor, Dawning Angel, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Spectral Sailor
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Spectral Sailor
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor]
+Rand hand: [Island, Plains, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor]
+Rand hand: [Island, Plains, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island]
+Robo hand: [Plains, Renowned Weaponsmith, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains]
+Rand hand: [Island, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains]
+Rand hand: [Island, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains]
+Rand hand: [Island, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains]
+Rand hand: [Island, Moat Piranhas, Dawning Angel, Planar Cleansing, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Renowned Weaponsmith, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas]
+Rand hand: [Dawning Angel, Planar Cleansing, Aerial Assault, Atemis, All-Seeing, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Renowned Weaponsmith]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Aerial Assault
+Renowned Weaponsmith is destroyed
+Rand gains 1 life
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Plains, Hanged Executioner]
+Rand life: 21
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hanged Executioner
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Hanged Executioner
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains]
+Robo hand: [Plains, Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Apostle of Purifying Light]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Apostle of Purifying Light
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Apostle of Purifying Light
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Spectral Sailor
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Spectral Sailor]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Spectral Sailor
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Island]
+Rand life: 21
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Plains
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Plains]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Aerial Assault
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Aerial Assault]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Aerial Assault
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Hanged Executioner, Spirit 1/1 Flying]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 21
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Faerie Miscreant
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Faerie Miscreant
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Renowned Weaponsmith
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Renowned Weaponsmith]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Renowned Weaponsmith
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Renowned Weaponsmith]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift', 'Ancestral Blade']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel]
+Rand life: 19
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner, Spirit 1/1 Flying]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Cloudkin Seer, Winged Words]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 19
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Cloudkin Seer]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains, Air Elemental]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Cloudkin Seer]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains, Air Elemental]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 2}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Air Elemental
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Air Elemental
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Cloudkin Seer, Air Elemental]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Cloudkin Seer, Air Elemental]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Spectral Sailor, Plains, Island, Moat Piranhas, Island, Plains, Hanged Executioner, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor, Hanged Executioner]
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Cloudkin Seer, Air Elemental]
+Cloudkin Seer is blocking Hanged Executioner
+Air Elemental is blocking Spectral Sailor
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Cloudkin Seer has taken lethal damage: 1
+Cloudkin Seer dies
+Spectral Sailor has taken lethal damage: 4
+Spectral Sailor dies
+Hanged Executioner has taken lethal damage: 2
+Hanged Executioner dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Cloudkin Seer
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Cloudkin Seer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Cloudkin Seer
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Air Elemental
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Hanged Executioner
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Hanged Executioner]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Ancestral Blade equip abil, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Hanged Executioner
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Spectral Sailor
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Spectral Sailor]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Spectral Sailor
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Spectral Sailor]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Ancestral Blade equip abil, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Rand exiles Spectral Sailor
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Ancestral Blade equip abil, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental ['Ancestral Blade']]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental ['Ancestral Blade']]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Angelic Gift']]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental, Plains]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation]
+Rand life: 15
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental, Plains]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental, Plains]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental, Plains]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Apostle of Purifying Light, Air Elemental, Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Spirit 1/1 Flying]
+Moat Piranhas is blocking Apostle of Purifying Light
+Spirit 1/1 Flying is blocking Apostle of Purifying Light
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Apostle of Purifying Light has taken lethal damage: 4
+Apostle of Purifying Light dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift', 'Ancestral Blade'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental, Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Air Elemental
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Portal of Sanctuary]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Portal of Sanctuary]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Portal of Sanctuary
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Winged Words, Plains]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant]
+Robo hand: [Griffin Protector, Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Griffin Protector
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Griffin Protector
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant, Griffin Protector]
+Robo hand: [Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Renowned Weaponsmith, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant, Griffin Protector]
+Robo hand: [Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant, Griffin Protector]
+Robo hand: [Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant, Griffin Protector]
+Robo hand: [Portal of Sanctuary, Agent of Treachery, Plains, Battalion Foot Soldier, Plains, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Agent of Treachery
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Agent of Treachery
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Agent of Treachery ETB abil targeting Air Elemental ['Ancestral Blade']
+ Targets:  []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Griffin Protector Creature ETB, Agent of Treachery ETB abil]
+Resolving Agent of Treachery ETB abil
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Faerie Miscreant, Griffin Protector, Plains, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant, Griffin Protector]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Renowned Weaponsmith]
+Moat Piranhas is blocking Faerie Miscreant
+Renowned Weaponsmith is blocking Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Faerie Miscreant has taken lethal damage: 4
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery]
+Robo hand: [Portal of Sanctuary, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Battalion Foot Soldier
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Battalion Foot Soldier
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Griffin Protector Creature ETB, Battalion Foot Soldier ETB]
+Resolving Battalion Foot Soldier ETB
+No cards found
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Griffin Protector Creature ETB
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Battalion Foot Soldier]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle]
+Rand life: 11
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Battalion Foot Soldier]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Battalion Foot Soldier]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Battalion Foot Soldier]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 11
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Loxodon Lifechanter
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Loxodon Lifechanter
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Griffin Protector Creature ETB, Loxodon Lifechanter ETB]
+Resolving Loxodon Lifechanter ETB
+Robo elects not to set life with Loxodon Lifechanter
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Battalion Foot Soldier, Loxodon Lifechanter]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Spirit 1/1 Flying, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental ['Ancestral Blade'], Griffin Protector, Agent of Treachery, Battalion Foot Soldier]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Spirit 1/1 Flying]
+Moat Piranhas is blocking Battalion Foot Soldier
+Spirit 1/1 Flying is blocking Griffin Protector
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Rand loses 2 life
+Battalion Foot Soldier has taken lethal damage: 3
+Battalion Foot Soldier dies
+Spirit 1/1 Flying has taken lethal damage: 3
+Spirit 1/1 Flying dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter]
+Robo hand: [Portal of Sanctuary, Plains, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter, Plains]
+Robo hand: [Portal of Sanctuary, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 4
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter, Plains]
+Robo hand: [Portal of Sanctuary, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute, Dungeon Geists]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter, Plains]
+Robo hand: [Portal of Sanctuary, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute, Dungeon Geists]
+Rand life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Dungeon Geists
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental ['Ancestral Blade'], Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter, Plains]
+Robo hand: [Portal of Sanctuary, Island, Sage's Row Denizen]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 4
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Loxodon Lifechanter ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Loxodon Lifechanter ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Loxodon Lifechanter
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Loxodon Lifechanter]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental, Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter ['Ancestral Blade'], Plains, Island]
+Robo hand: [Portal of Sanctuary, Sage's Row Denizen, Negate]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 5, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Robo  battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Angelic Gift'], Plains, Angelic Gift, Island, Island, Island, Plains, Plains, Plains, Air Elemental, Plains, Griffin Protector, Plains, Agent of Treachery, Loxodon Lifechanter ['Ancestral Blade'], Plains, Island]
+Robo  hand: [Portal of Sanctuary, Sage's Row Denizen, Negate]
+Robo  deck: [Aerial Assault, Sleep Paralysis, Plains, Plains, Inspired Charge, Island, Mu Yanling, Sky Dancer, Plains, Plains, Sephara, Sky's Blade, Cavalier of Gales, Island, Aether Gust, Dungeon Geists, Brought Back, Herald of the Sun, Plains, Devout Decree, Gods Willing, Soulmender, Brineborn Cutthroat, Daybreak Chaplin, Plains, Boreal Elemental, Hanged Executioner, Moorland Inquisitor, Glaring Aegis, Island, Island, Island, Island, Angel of Vitality, Plains, Captivating Gyre, Loyal Pegasus, Island, Inspiring Captain, Island, Plains, Plains, Plains, Anticipate, Island, Island, Island, Plains, Disenchant, Island, Plains, Plains, Flood of Tears, Bone to Ash, Gauntlet of Light, Scholar of the Ages, Island, Island, Unsummon, Island, Ajani, Strength of the Pride, Moment of Heroism, Bishop of Wings, Island, Metropolis Sprite, Plains, Island, Plains, Island, Island, Yoked Ox, Plains, Starfield Mystic, Raise the Alarm, Island, Warden of Evos Isle, Island, Master Splicer, Plains, Leyline of Sanctity, Island, Island, Cerulean Drake, Yarok's Wavecrasher, Frost Lynx, Masterful Replication, Island, Island, Plains, Plains, Eternal Isolation, Plains, Frilled Sea Serpent, Planar Cleansing, Island, Plains, Island, Island, Atemis, All-Seeing, Island, Island, Convolute, Fencing Ace, Plains, Plains, Plains, Island, Plains, Plains, Fortress Crab, Griffin Sentinel, Moat Piranhas, Island, Plains, Squad Captain, Octoprophet, Island, Drawn from Dreams, Cavalier of Dawn, Island, Plains, Island, Dawning Angel, Plains, Pacifism, Steadfast Sentry, Zephyr Charge, Plains, Tale's End, Hard Cover, Island, Plains, Rule of Law, Plains, Island]
+Robo  graveyard: [Apostle of Purifying Light, Winged Words, Faerie Miscreant, Battalion Foot Soldier]
+Rand  battlefield: [Plains, Plains, Plains, Island, Leyline of Sanctity, Plains, Island, Moat Piranhas, Island, Plains, Island, Island, Plains, Renowned Weaponsmith]
+Rand  hand: [Dawning Angel, Planar Cleansing, Atemis, All-Seeing, Griffin Sentinel, Eternal Isolation, Warden of Evos Isle, Convolute]
+Rand  deck: [Plains, Captivating Gyre, Raise the Alarm, Plains, Island, Plains, Island, Disenchant, Island, Frilled Sea Serpent, Plains, Island, Island, Sleep Paralysis, Island, Brineborn Cutthroat, Island, Plains, Plains, Ajani, Strength of the Pride, Frost Lynx, Battalion Foot Soldier, Plains, Cavalier of Gales, Plains, Air Elemental, Starfield Mystic, Mu Yanling, Sky Dancer, Island, Flood of Tears, Island, Devout Decree, Plains, Plains, Daybreak Chaplin, Glaring Aegis, Plains, Aether Gust, Island, Bone to Ash, Plains, Island, Boreal Elemental, Plains, Moorland Inquisitor, Cavalier of Dawn, Moment of Heroism, Island, Master Splicer, Plains, Island, Sephara, Sky's Blade, Apostle of Purifying Light, Island, Metropolis Sprite, Island, Loyal Pegasus, Zephyr Charge, Masterful Replication, Plains, Island, Island, Island, Inspired Charge, Plains, Gauntlet of Light, Island, Cloudkin Seer, Cerulean Drake, Plains, Plains, Plains, Yoked Ox, Brought Back, Steadfast Sentry, Scholar of the Ages, Pacifism, Angel of Vitality, Plains, Plains, Plains, Winged Words, Plains, Island, Island, Island, Soulmender, Plains, Sage's Row Denizen, Gods Willing, Island, Plains, Island, Drawn from Dreams, Fortress Crab, Island, Angelic Gift, Plains, Plains, Island, Island, Herald of the Sun, Octoprophet, Island, Unsummon, Plains, Plains, Rule of Law, Plains, Island, Plains, Inspiring Captain, Negate, Squad Captain, Griffin Protector, Hard Cover, Agent of Treachery, Yarok's Wavecrasher, Ancestral Blade, Island, Island, Plains, Tale's End, Island, Island, Anticipate, Bishop of Wings, Island, Loxodon Lifechanter, Island, Fencing Ace, Island, Plains, Plains]
+Rand  graveyard: [Portal of Sanctuary, Dungeon Geists]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:07.854158
+Seed: 7797711765

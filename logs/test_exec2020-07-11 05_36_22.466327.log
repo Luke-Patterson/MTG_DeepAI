@@ -1,0 +1,7775 @@
+Seed: 5216721536
+Robo draws 7 card
+Rand draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Island, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Island, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Robo battlefield: [Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Anticipate, Plains, Zephyr Charge, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+Rand Passes
+Resolving Anticipate
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Moat Piranhas, Griffin Sentinel, Island, Plains, Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Zephyr Charge, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Zephyr Charge
+{'W': 2}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas]
+Rand hand: [Island, Griffin Sentinel, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Sentinel
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Griffin Sentinel
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel]
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Griffin Sentinel
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Griffin Sentinel]
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Moat Piranhas
+ Targets:  []
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis']]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis']]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis']]
+Rand hand: [Island, Island, Plains, Cavalier of Dawn, Convolute]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis']]
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Plains, Brought Back]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas]
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis']]
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains]
+Rand hand: [Island, Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'U': 1}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis']]
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Brought Back, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Convolute, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Brought Back
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Convolute
+ Targets:  [Convolute targeting Brought Back]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Faerie Miscreant
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Faerie Miscreant]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Brought Back, Convolute, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Brought Back, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Brought Back is countered
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Griffin Sentinel ['Glaring Aegis']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Griffin Sentinel ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis'], Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Island, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Griffin Sentinel ['Glaring Aegis']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Griffin Sentinel ['Glaring Aegis']]
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Glaring Aegis
+Glaring Aegis ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains]
+Robo hand: [Ajani, Strength of the Pride, Griffin Protector, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 3, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Griffin Protector
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Moat Piranhas, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis]
+Rand hand: [Island, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'W': 2, 'C': 2}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Moat Piranhas
+ Targets:  []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Moat Piranhas is destroyed
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Protector]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Faerie Miscreant
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Faerie Miscreant]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity]
+Rand life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 13
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island]
+Robo hand: [Ajani, Strength of the Pride, Leyline of Sanctity]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Leyline of Sanctity
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Leyline of Sanctity, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Leyline of Sanctity, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity]
+Robo hand: [Ajani, Strength of the Pride, Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Faerie Miscreant
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Faerie Miscreant]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Ajani, Strength of the Pride
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Faerie Miscreant, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant, Cavalier of Dawn]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Protector]
+Griffin Protector is blocking Faerie Miscreant
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 4 loyalty from combat
+Faerie Miscreant has taken lethal damage: 2
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Protector]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Protector]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Ajani, Strength of the Pride 0 ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Griffin Protector, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears, Island]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Protector]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Cavalier of Dawn]
+Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'] is blocking Griffin Protector
+Cavalier of Dawn is blocking Griffin Protector
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Griffin Protector has taken lethal damage: 7
+Griffin Protector dies
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride]
+Robo hand: [Flood of Tears, Island]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears, Plains]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island]
+Robo hand: [Flood of Tears, Plains]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island, Plains]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Ajani, Strength of the Pride, Island, Plains]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 3 loyalty from combat
+Ajani, Strength of the Pride has no loyalty
+Ajani, Strength of the Pride dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing]
+Rand life: 20
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law]
+Rand life: 20
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 7
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Renowned Weaponsmith]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Cavalier of Dawn
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Cavalier of Dawn]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains, Renowned Weaponsmith]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Convolute]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains, Renowned Weaponsmith]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Convolute]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains, Renowned Weaponsmith]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Convolute]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Rule of Law, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Rule of Law
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Stack: [Rule of Law, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Resolving Rule of Law
+Robo battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains, Renowned Weaponsmith]
+Robo hand: [Flood of Tears, Portal of Sanctuary, Convolute]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains, Rule of Law]
+Rand hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Cavalier of Dawn]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 4 life
+Robo  battlefield: [Island, Island, Plains, Zephyr Charge, Glaring Aegis, Island, Plains, Plains, Island, Island, Leyline of Sanctity, Island, Island, Plains, Renowned Weaponsmith]
+Robo  hand: [Flood of Tears, Portal of Sanctuary, Convolute]
+Robo  deck: [Plains, Island, Island, Plains, Island, Island, Dawning Angel, Island, Island, Plains, Apostle of Purifying Light, Inspiring Captain, Masterful Replication, Plains, Island, Island, Plains, Air Elemental, Frost Lynx, Octoprophet, Dungeon Geists, Boreal Elemental, Frilled Sea Serpent, Island, Gauntlet of Light, Cavalier of Gales, Mu Yanling, Sky Dancer, Fortress Crab, Sephara, Sky's Blade, Sleep Paralysis, Plains, Island, Island, Planar Cleansing, Plains, Pacifism, Atemis, All-Seeing, Island, Soulmender, Drawn from Dreams, Plains, Yoked Ox, Island, Plains, Scholar of the Ages, Plains, Disenchant, Plains, Angel of Vitality, Plains, Island, Ancestral Blade, Island, Plains, Sage's Row Denizen, Battalion Foot Soldier, Island, Island, Moat Piranhas, Loxodon Lifechanter, Cerulean Drake, Plains, Brineborn Cutthroat, Plains, Plains, Winged Words, Plains, Island, Cloudkin Seer, Raise the Alarm, Island, Faerie Miscreant, Gods Willing, Hard Cover, Cavalier of Dawn, Plains, Plains, Captivating Gyre, Island, Daybreak Chaplin, Aether Gust, Hanged Executioner, Island, Griffin Sentinel, Metropolis Sprite, Herald of the Sun, Plains, Plains, Plains, Master Splicer, Plains, Plains, Island, Loyal Pegasus, Island, Warden of Evos Isle, Squad Captain, Plains, Plains, Plains, Rule of Law, Devout Decree, Island, Island, Tale's End, Plains, Bone to Ash, Plains, Plains, Plains, Plains, Angelic Gift, Steadfast Sentry, Yarok's Wavecrasher, Island, Plains, Plains, Plains, Agent of Treachery, Island, Starfield Mystic, Bishop of Wings, Island, Island, Island, Inspired Charge, Fencing Ace, Moorland Inquisitor, Island, Island, Eternal Isolation, Plains, Unsummon, Plains, Spectral Sailor, Island, Island, Aerial Assault, Negate]
+Robo  graveyard: [Anticipate, Brought Back, Moment of Heroism, Griffin Protector, Ajani, Strength of the Pride]
+Rand  battlefield: [Plains, Island, Island, Griffin Sentinel ['Glaring Aegis', 'Glaring Aegis'], Plains, Island, Island, Plains, Glaring Aegis, Island, Cavalier of Dawn, Golem 3/3, Island, Island, Plains, Rule of Law]
+Rand  hand: [Leyline of Sanctity, Frilled Sea Serpent, Planar Cleansing, Battalion Foot Soldier, Island]
+Rand  deck: [Scholar of the Ages, Plains, Island, Island, Renowned Weaponsmith, Island, Island, Boreal Elemental, Island, Negate, Plains, Inspired Charge, Soulmender, Yarok's Wavecrasher, Angelic Gift, Island, Island, Island, Island, Island, Gods Willing, Brought Back, Plains, Raise the Alarm, Plains, Sage's Row Denizen, Eternal Isolation, Apostle of Purifying Light, Plains, Loxodon Lifechanter, Plains, Hard Cover, Bishop of Wings, Island, Angel of Vitality, Warden of Evos Isle, Atemis, All-Seeing, Air Elemental, Flood of Tears, Plains, Ancestral Blade, Island, Tale's End, Drawn from Dreams, Plains, Yoked Ox, Plains, Portal of Sanctuary, Aerial Assault, Plains, Bone to Ash, Island, Island, Moment of Heroism, Sephara, Sky's Blade, Plains, Plains, Dungeon Geists, Plains, Island, Island, Plains, Island, Loyal Pegasus, Plains, Octoprophet, Brineborn Cutthroat, Steadfast Sentry, Plains, Masterful Replication, Aether Gust, Island, Plains, Mu Yanling, Sky Dancer, Island, Dawning Angel, Plains, Cavalier of Gales, Plains, Plains, Starfield Mystic, Island, Plains, Cerulean Drake, Agent of Treachery, Plains, Island, Plains, Plains, Spectral Sailor, Island, Plains, Fortress Crab, Cloudkin Seer, Gauntlet of Light, Frost Lynx, Island, Plains, Island, Island, Island, Squad Captain, Disenchant, Island, Metropolis Sprite, Zephyr Charge, Pacifism, Plains, Captivating Gyre, Anticipate, Plains, Hanged Executioner, Plains, Plains, Plains, Devout Decree, Island, Daybreak Chaplin, Herald of the Sun, Plains, Ajani, Strength of the Pride, Island, Plains, Fencing Ace, Unsummon, Inspiring Captain, Sleep Paralysis, Griffin Protector, Plains, Plains, Island, Island, Moorland Inquisitor, Plains, Master Splicer, Island, Winged Words, Plains]
+Rand  graveyard: [Island, Convolute, Moat Piranhas, Faerie Miscreant]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:01.955835
+Seed: 5216721536

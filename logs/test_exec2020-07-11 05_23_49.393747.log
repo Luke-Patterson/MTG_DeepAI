@@ -1,0 +1,5486 @@
+Seed: 9978770217
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 3, 'U': 2}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 3, 'U': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Plains, Squad Captain, Island, Island, Plains, Steadfast Sentry, Pacifism, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Plains, Squad Captain, Island, Island, Plains, Steadfast Sentry, Pacifism, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 3, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Plains, Squad Captain, Island, Island, Plains, Steadfast Sentry, Pacifism, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Plains, Squad Captain, Island, Plains, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Plains, Squad Captain, Island, Plains, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Plains
+Robo discards Plains
+Rand battlefield: [Plains]
+Rand hand: [Rule of Law, Bishop of Wings, Devout Decree, Plains, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 3, 'U': 2}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 3, 'U': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Bishop of Wings
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Rule of Law, Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 2}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 2}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Rule of Law
+Rand Passes
+Robo Passes
+Resolving Rule of Law
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Steadfast Sentry, Pacifism, Plains, Bone to Ash]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Steadfast Sentry
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Raise the Alarm
+Rand Passes
+Robo Passes
+Resolving Raise the Alarm
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Steadfast Sentry]
+Steadfast Sentry is blocking Bishop of Wings
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Pacifism, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Soldier 1/1
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Pacifism
+ Targets:  [Pacifism targeting Soldier 1/1]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Pacifism
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism]
+Robo hand: [Loyal Pegasus, Squad Captain, Island, Bone to Ash, Island]
+Robo life: 19
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus]
+Robo hand: [Squad Captain, Island, Bone to Ash, Inspiring Captain]
+Robo life: 19
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Inspiring Captain
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Inspiring Captain
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry, Loyal Pegasus]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Bishop of Wings]
+Bishop of Wings is blocking Steadfast Sentry
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Bishop of Wings has taken lethal damage: 4
+Bishop of Wings dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain]
+Robo hand: [Squad Captain, Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 3 +1/+1 counters
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Bone to Ash, Dungeon Geists]
+Robo life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dungeon Geists
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+Dungeon Geists ETB abil targeting Soldier 1/1 ['Pacifism']
+ Targets:  []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Bone to Ash]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Bone to Ash]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Daybreak Chaplin]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Bone to Ash]
+Robo life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Soldier 1/1 ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Daybreak Chaplin
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Daybreak Chaplin]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Daybreak Chaplin, Bone to Ash]
+Resolving Bone to Ash
+Daybreak Chaplin is countered
+Robo draws 1 card
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Soulmender]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Soulmender]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists]
+Robo hand: [Soulmender]
+Robo life: 19
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Soulmender
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Soulmender
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 14
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Soldier 1/1 ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ancestral Blade
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ancestral Blade
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ancestral Blade ETB
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 19
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Soldier 1/1 ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism', 'Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism', 'Ancestral Blade']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Renowned Weaponsmith
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Soldier 1/1 ['Pacifism', 'Ancestral Blade'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Island]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Island]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Pacifism']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 21
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Renowned Weaponsmith fetch ability, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 11
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Soldier 1/1 ['Pacifism', 'Ancestral Blade'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Moat Piranhas]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Moat Piranhas]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Moat Piranhas]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 22
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'U': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Rand battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Moat Piranhas]
+Rand life: 6
+stack: []
+Robo battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains, Island]
+Robo hand: [Sephara, Sky's Blade]
+Robo life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loyal Pegasus, Inspiring Captain, Dungeon Geists]
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 3 life
+Rand loses 3 life
+Rand  battlefield: [Plains, Plains, Plains, Rule of Law, Soldier 1/1 ['Pacifism', 'Ancestral Blade'], Plains, Island, Plains, Plains, Plains, Ancestral Blade, Soldier 1/1, Island]
+Rand  hand: [Devout Decree, Air Elemental, Masterful Replication, Frost Lynx, Moat Piranhas]
+Rand  deck: [Scholar of the Ages, Moorland Inquisitor, Island, Metropolis Sprite, Captivating Gyre, Flood of Tears, Tale's End, Angel of Vitality, Island, Island, Plains, Island, Plains, Fortress Crab, Sephara, Sky's Blade, Plains, Island, Plains, Island, Convolute, Plains, Plains, Eternal Isolation, Leyline of Sanctity, Island, Atemis, All-Seeing, Herald of the Sun, Island, Loyal Pegasus, Aether Gust, Drawn from Dreams, Island, Glaring Aegis, Fencing Ace, Squad Captain, Island, Plains, Planar Cleansing, Plains, Zephyr Charge, Angelic Gift, Plains, Octoprophet, Plains, Cavalier of Dawn, Moment of Heroism, Frilled Sea Serpent, Plains, Island, Faerie Miscreant, Plains, Plains, Ajani, Strength of the Pride, Pacifism, Griffin Sentinel, Island, Island, Plains, Plains, Island, Island, Island, Plains, Island, Hard Cover, Plains, Island, Steadfast Sentry, Cavalier of Gales, Plains, Agent of Treachery, Island, Plains, Island, Island, Plains, Island, Island, Island, Plains, Anticipate, Soulmender, Plains, Negate, Plains, Sleep Paralysis, Dungeon Geists, Bone to Ash, Plains, Plains, Plains, Dawning Angel, Disenchant, Yarok's Wavecrasher, Plains, Island, Brought Back, Aerial Assault, Yoked Ox, Plains, Island, Griffin Protector, Island, Inspiring Captain, Warden of Evos Isle, Plains, Island, Winged Words, Cerulean Drake, Plains, Plains, Island, Plains, Brineborn Cutthroat, Unsummon, Island, Island, Island, Portal of Sanctuary, Island, Gauntlet of Light, Gods Willing, Island, Sage's Row Denizen, Island, Hanged Executioner, Starfield Mystic, Battalion Foot Soldier, Plains, Master Splicer, Island, Inspired Charge, Cloudkin Seer, Apostle of Purifying Light, Island, Plains, Renowned Weaponsmith, Boreal Elemental, Mu Yanling, Sky Dancer, Island, Spectral Sailor, Loxodon Lifechanter, Island]
+Rand  graveyard: [Raise the Alarm, Bishop of Wings, Daybreak Chaplin]
+Robo  battlefield: [Island, Island, Plains, Steadfast Sentry, Island, Pacifism, Island, Loyal Pegasus, Island, Inspiring Captain, Island, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Island, Dungeon Geists, Soulmender, Island, Renowned Weaponsmith, Plains, Island]
+Robo  hand: [Sephara, Sky's Blade]
+Robo  deck: [Plains, Plains, Island, Plains, Plains, Plains, Sage's Row Denizen, Griffin Protector, Island, Island, Island, Plains, Island, Daybreak Chaplin, Anticipate, Rule of Law, Plains, Disenchant, Aerial Assault, Octoprophet, Island, Plains, Glaring Aegis, Captivating Gyre, Plains, Battalion Foot Soldier, Flood of Tears, Island, Island, Scholar of the Ages, Plains, Plains, Moorland Inquisitor, Angel of Vitality, Cavalier of Dawn, Eternal Isolation, Plains, Fortress Crab, Plains, Frost Lynx, Yarok's Wavecrasher, Leyline of Sanctity, Spectral Sailor, Cavalier of Gales, Plains, Hanged Executioner, Island, Island, Herald of the Sun, Loxodon Lifechanter, Aether Gust, Island, Inspired Charge, Plains, Convolute, Island, Hard Cover, Cerulean Drake, Gods Willing, Island, Frilled Sea Serpent, Plains, Island, Metropolis Sprite, Plains, Island, Plains, Tale's End, Island, Plains, Brought Back, Portal of Sanctuary, Atemis, All-Seeing, Plains, Devout Decree, Gauntlet of Light, Plains, Unsummon, Plains, Island, Brineborn Cutthroat, Faerie Miscreant, Island, Plains, Yoked Ox, Masterful Replication, Air Elemental, Moat Piranhas, Winged Words, Island, Island, Plains, Island, Island, Cloudkin Seer, Raise the Alarm, Island, Ajani, Strength of the Pride, Negate, Bishop of Wings, Island, Plains, Angelic Gift, Island, Plains, Moment of Heroism, Plains, Plains, Plains, Drawn from Dreams, Sleep Paralysis, Plains, Master Splicer, Dawning Angel, Plains, Mu Yanling, Sky Dancer, Planar Cleansing, Griffin Sentinel, Island, Plains, Plains, Fencing Ace, Agent of Treachery, Island, Ancestral Blade, Plains, Starfield Mystic, Warden of Evos Isle, Boreal Elemental, Plains, Island, Plains, Island, Apostle of Purifying Light, Island, Island, Plains, Zephyr Charge, Island]
+Robo  graveyard: [Plains, Plains, Bone to Ash]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:14.772195
+Seed: 9978770217

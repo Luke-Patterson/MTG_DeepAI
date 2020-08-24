@@ -1,0 +1,4772 @@
+Seed: 4651619461
+Robo draws 7 card
+Rand draws 7 card
+Robo puts Leyline of Sanctity into play at beginning of game
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'U': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains]
+Robo hand: [Plains, Metropolis Sprite, Island, Sage's Row Denizen, Boreal Elemental]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Metropolis Sprite
+Robo Passes
+{'W': 1}
+Rand Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Gods Willing, Rule of Law, Moorland Inquisitor, Island, Plains, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moorland Inquisitor
+{'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite]
+Robo hand: [Plains, Sage's Row Denizen, Boreal Elemental, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Metropolis Sprite, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Metropolis Sprite]
+Metropolis Sprite is blocking Moorland Inquisitor
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Metropolis Sprite has taken lethal damage: 2
+Metropolis Sprite dies
+Phase: End of Combat Step
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains]
+Robo hand: [Sage's Row Denizen, Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sage's Row Denizen
+{'C': 2, 'U': 2}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 2}
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island]
+Rand hand: [Gods Willing, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Moorland Inquisitor
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Moorland Inquisitor]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Moorland Inquisitor, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Sage's Row Denizen]
+Sage's Row Denizen is blocking Moorland Inquisitor
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Moorland Inquisitor has taken lethal damage: 2
+Moorland Inquisitor dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Mu Yanling, Sky Dancer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 2}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Mu Yanling, Sky Dancer
+Robo Passes
+Rand Passes
+Resolving Mu Yanling, Sky Dancer
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Sage's Row Denizen
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Sage's Row Denizen]
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island]
+Rand hand: [Rule of Law, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Rule of Law
+Rand Passes
+Robo Passes
+Resolving Rule of Law
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Faerie Miscreant
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Faerie Miscreant]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Mu Yanling +2 ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Mu Yanling +2 ability]
+Robo Passes
+Rand Passes
+Stack: [Mu Yanling +2 ability, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island]
+Rand hand: [Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Battalion Foot Soldier
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Battalion Foot Soldier
+Rand Passes
+Robo Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier]
+Rand hand: [Island, Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses 1 loyalty from combat
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier]
+Rand hand: [Island, Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand hand: [Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Sage's Row Denizen
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Sage's Row Denizen]
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand hand: [Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Boreal Elemental, Captivating Gyre, Bone to Ash, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand hand: [Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Boreal Elemental
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Boreal Elemental
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Phase: End Phase
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental]
+Robo hand: [Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island]
+Rand hand: [Daybreak Chaplin, Brought Back]
+Rand life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+Rand Passes
+{'C': 2, 'U': 2}
+Robo Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental]
+Robo hand: [Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Faerie Miscreant, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand hand: [Brought Back, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Boreal Elemental]
+Boreal Elemental is blocking Faerie Miscreant
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 3
+Faerie Miscreant dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental]
+Robo hand: [Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin]
+Rand hand: [Brought Back, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental]
+Robo hand: [Captivating Gyre, Bone to Ash]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Brought Back]
+Rand life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling -3 ability
+{'C': 0}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Mu Yanling -3 ability
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Brought Back]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen, Boreal Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Daybreak Chaplin]
+Daybreak Chaplin is blocking Sage's Row Denizen
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Robo gains 2 life
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 21
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Brought Back]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 21
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Brought Back]
+Rand life: 15
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Brought Back
+Phase: First Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 21
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 15
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Sage's Row Denizen
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Battalion Foot Soldier, Island, Daybreak Chaplin, Plains]
+Rand hand: [Yarok's Wavecrasher]
+Rand life: 13
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Battalion Foot Soldier bounced
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Daybreak Chaplin, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Boreal Elemental]
+Boreal Elemental is blocking Daybreak Chaplin
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo gains 3 life
+Daybreak Chaplin has taken lethal damage: 3
+Daybreak Chaplin dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Yarok's Wavecrasher
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Yarok's Wavecrasher]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yarok's Wavecrasher]
+Yarok's Wavecrasher is blocking Sage's Row Denizen
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher]
+Rand hand: [Battalion Foot Soldier]
+Rand life: 13
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Battalion Foot Soldier
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Battalion Foot Soldier
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Yarok's Wavecrasher, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Elemental Bird 4/4 Flying]
+Elemental Bird 4/4 Flying is blocking Yarok's Wavecrasher
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Yarok's Wavecrasher has taken lethal damage: 4
+Yarok's Wavecrasher dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 13
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Mu Yanling -3 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling -3 ability
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Island]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Island]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 11
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Battalion Foot Soldier]
+Rand hand: [Aether Gust]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Boreal Elemental, Elemental Bird 4/4 Flying]
+Boreal Elemental is blocking Battalion Foot Soldier
+Elemental Bird 4/4 Flying is blocking Battalion Foot Soldier
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Battalion Foot Soldier has taken lethal damage: 7
+Battalion Foot Soldier dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 11
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 11
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Boreal Elemental
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Boreal Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen, Boreal Elemental]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Mu Yanling, Sky Dancer, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Mu Yanling, Sky Dancer
+ Targets:  []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Mu Yanling, Sky Dancer is destroyed
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Golem 3/3
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hard Cover
+ Targets:  [Hard Cover targeting Golem 3/3]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hard Cover
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Steadfast Sentry]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Steadfast Sentry
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Island]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Metropolis Sprite
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Boreal Elemental, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Cavalier of Dawn, Metropolis Sprite]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Stack: [Metropolis Sprite Effect, Metropolis Sprite Effect, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Stack: [Metropolis Sprite Effect, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: Declare Blockers
+Blockers: [Boreal Elemental, Elemental Bird 4/4 Flying, Elemental Bird 4/4 Flying]
+Boreal Elemental is blocking Cavalier of Dawn
+Elemental Bird 4/4 Flying is blocking Cavalier of Dawn
+Elemental Bird 4/4 Flying is blocking Cavalier of Dawn
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Boreal Elemental has taken lethal damage: 4
+Boreal Elemental dies
+Cavalier of Dawn has taken lethal damage: 11
+Cavalier of Dawn dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Cavalier of Dawn
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island]
+Robo hand: [Captivating Gyre, Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Captivating Gyre
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Inspiring Captain, Frost Lynx]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Hard Cover ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Inspiring Captain
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust]
+Rand life: 6
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Anticipate
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Anticipate
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 6
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains]
+Robo hand: [Bone to Ash, Eternal Isolation, Soulmender, Frost Lynx, Rule of Law, Frilled Sea Serpent]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 6
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Frost Lynx
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Frost Lynx, Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Bone to Ash
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Frost Lynx, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Frost Lynx, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Frost Lynx
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Frost Lynx Creature ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Elemental Bird 4/4 Flying]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Aether Gust, Yoked Ox]
+Rand life: 2
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1}
+Rand Playing Plains
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island, Plains, Yoked Ox]
+Rand hand: [Aether Gust]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island, Plains, Yoked Ox]
+Rand hand: [Aether Gust]
+Rand life: 2
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Frilled Sea Serpent, Loyal Pegasus, Inspired Charge]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island, Plains, Yoked Ox]
+Rand hand: [Aether Gust]
+Rand life: 2
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Inspired Charge
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Inspired Charge, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Frilled Sea Serpent
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Inspired Charge, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Inspired Charge
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx, Plains]
+Robo hand: [Eternal Isolation, Soulmender, Rule of Law, Loyal Pegasus, Plains]
+Robo life: 23
+stack: []
+Rand battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island, Plains, Yoked Ox]
+Rand hand: [Aether Gust]
+Rand life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen, Elemental Bird 4/4 Flying, Elemental Bird 4/4 Flying, Frost Lynx]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Sage's Row Denizen
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 6 life
+Rand loses 6 life
+Rand loses 4 life
+Robo  battlefield: [Leyline of Sanctity, Plains, Island, Plains, Sage's Row Denizen, Island, Plains, Elemental Bird 4/4 Flying, Island, Elemental Bird 4/4 Flying, Island, Golem 3/3 ['Hard Cover'], Hard Cover, Island, Plains, Frost Lynx, Plains]
+Robo  hand: [Eternal Isolation, Soulmender, Rule of Law, Loyal Pegasus, Plains]
+Robo  deck: [Master Splicer, Masterful Replication, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Sleep Paralysis, Island, Herald of the Sun, Griffin Protector, Daybreak Chaplin, Ajani, Strength of the Pride, Island, Plains, Fortress Crab, Plains, Plains, Spectral Sailor, Plains, Island, Octoprophet, Hanged Executioner, Island, Island, Plains, Warden of Evos Isle, Cloudkin Seer, Plains, Island, Island, Flood of Tears, Plains, Island, Aerial Assault, Island, Brineborn Cutthroat, Moat Piranhas, Brought Back, Drawn from Dreams, Plains, Plains, Island, Island, Air Elemental, Plains, Moment of Heroism, Island, Pacifism, Disenchant, Island, Glaring Aegis, Island, Island, Planar Cleansing, Plains, Plains, Angel of Vitality, Cavalier of Gales, Plains, Plains, Renowned Weaponsmith, Anticipate, Battalion Foot Soldier, Island, Negate, Dawning Angel, Island, Plains, Plains, Unsummon, Apostle of Purifying Light, Gauntlet of Light, Plains, Starfield Mystic, Faerie Miscreant, Yoked Ox, Island, Island, Plains, Island, Plains, Plains, Scholar of the Ages, Island, Yarok's Wavecrasher, Plains, Plains, Zephyr Charge, Island, Plains, Island, Aether Gust, Atemis, All-Seeing, Cerulean Drake, Plains, Sephara, Sky's Blade, Convolute, Winged Words, Island, Squad Captain, Angelic Gift, Island, Island, Agent of Treachery, Devout Decree, Plains, Island, Island, Bishop of Wings, Gods Willing, Raise the Alarm, Island, Fencing Ace, Portal of Sanctuary, Plains, Plains, Island, Griffin Sentinel, Dungeon Geists, Moorland Inquisitor, Loxodon Lifechanter, Plains, Ancestral Blade, Island, Plains, Island, Island, Plains]
+Robo  graveyard: [Metropolis Sprite, Tale's End, Mu Yanling, Sky Dancer, Steadfast Sentry, Boreal Elemental, Cavalier of Dawn, Captivating Gyre, Inspiring Captain, Bone to Ash, Frilled Sea Serpent, Inspired Charge]
+Rand  battlefield: [Island, Plains, Island, Island, Rule of Law, Island, Island, Plains, Plains, Plains, Island, Island, Plains, Yoked Ox]
+Rand  hand: [Aether Gust]
+Rand  deck: [Plains, Zephyr Charge, Island, Island, Hard Cover, Island, Plains, Inspiring Captain, Brineborn Cutthroat, Sleep Paralysis, Sage's Row Denizen, Island, Island, Plains, Plains, Ajani, Strength of the Pride, Mu Yanling, Sky Dancer, Island, Cloudkin Seer, Glaring Aegis, Island, Octoprophet, Island, Plains, Squad Captain, Negate, Inspired Charge, Island, Loyal Pegasus, Island, Portal of Sanctuary, Island, Plains, Tale's End, Plains, Fencing Ace, Island, Island, Agent of Treachery, Eternal Isolation, Sephara, Sky's Blade, Aerial Assault, Boreal Elemental, Disenchant, Frost Lynx, Plains, Griffin Protector, Flood of Tears, Island, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Plains, Plains, Cerulean Drake, Plains, Plains, Griffin Sentinel, Devout Decree, Island, Island, Island, Plains, Atemis, All-Seeing, Angel of Vitality, Drawn from Dreams, Herald of the Sun, Plains, Spectral Sailor, Air Elemental, Pacifism, Plains, Island, Island, Plains, Hanged Executioner, Plains, Plains, Plains, Loxodon Lifechanter, Cavalier of Gales, Dungeon Geists, Captivating Gyre, Island, Starfield Mystic, Unsummon, Moat Piranhas, Plains, Moment of Heroism, Plains, Island, Ancestral Blade, Plains, Fortress Crab, Leyline of Sanctity, Winged Words, Plains, Plains, Dawning Angel, Plains, Island, Masterful Replication, Island, Island, Convolute, Angelic Gift, Apostle of Purifying Light, Frilled Sea Serpent, Island, Steadfast Sentry, Gauntlet of Light, Soulmender, Island, Warden of Evos Isle, Plains, Bone to Ash, Scholar of the Ages, Island, Island, Planar Cleansing, Master Splicer, Plains, Plains, Island, Plains, Plains, Bishop of Wings, Island, Plains, Raise the Alarm, Plains, Island]
+Rand  graveyard: [Gods Willing, Moorland Inquisitor, Faerie Miscreant, Brought Back, Daybreak Chaplin, Yarok's Wavecrasher, Battalion Foot Soldier, Metropolis Sprite, Cavalier of Dawn, Anticipate]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:15.955069
+Seed: 4651619461

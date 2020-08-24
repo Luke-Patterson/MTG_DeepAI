@@ -1,0 +1,1882 @@
+Seed: 2133028399
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Island, Masterful Replication]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Island, Masterful Replication]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Island, Masterful Replication]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Spectral Sailor, Brineborn Cutthroat, Island, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+Rand Passes
+Resolving Brineborn Cutthroat
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Island, Plains, Masterful Replication, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angel of Vitality
+Robo Passes
+Rand Passes
+Resolving Angel of Vitality
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Island, Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality]
+Robo hand: [Spectral Sailor, Gauntlet of Light, Winged Words, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality, Spectral Sailor]
+Robo hand: [Gauntlet of Light, Winged Words, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat]
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat, Plains, Angel of Vitality, Spectral Sailor]
+Robo hand: [Gauntlet of Light, Winged Words, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Brineborn Cutthroat
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Brineborn Cutthroat]
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light]
+Robo hand: [Winged Words, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Griffin Protector, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Stack: [Griffin Protector, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light]
+Robo hand: [Winged Words, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light]
+Robo hand: [Winged Words, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light]
+Robo hand: [Winged Words, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor ability
+Robo draws 1 card
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor, Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector]
+Rand hand: [Pacifism, Angelic Gift, Plains, Masterful Replication, Scholar of the Ages, Plains]
+Rand life: 16
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Spectral Sailor
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Spectral Sailor]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Stack: [Angelic Gift, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Angelic Gift
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Angelic Gift ETB
+Rand draws 1 card
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Spectral Sailor ['Angelic Gift'], Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island, Angelic Gift]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Angelic Gift']]
+Spectral Sailor ['Angelic Gift'] is blocking Griffin Protector
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Spectral Sailor ['Angelic Gift'] has taken lethal damage: 2
+Spectral Sailor ['Angelic Gift'] dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains]
+Robo hand: [Winged Words, Griffin Protector, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector, Island]
+Rand hand: [Pacifism, Plains, Masterful Replication, Scholar of the Ages, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Griffin Protector
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Griffin Protector]
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Pacifism, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Pacifism
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island]
+Robo hand: [Griffin Protector, Renowned Weaponsmith, Steadfast Sentry, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Negate targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Gauntlet of Light ability]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Negate]
+Resolving Negate
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism]
+Rand hand: [Masterful Replication, Scholar of the Ages, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 5, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Scholar of the Ages
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Stack: [Scholar of the Ages, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Scholar of the Ages
+ Targets:  []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Scholar of the Ages ETB]
+Resolving Scholar of the Ages ETB
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality]
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages]
+Rand hand: [Masterful Replication, Plains, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Renowned Weaponsmith
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Renowned Weaponsmith]
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Stack: [Sleep Paralysis, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis']]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Scholar of the Ages]
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis']]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis']]
+Robo hand: [Griffin Protector, Steadfast Sentry, Dungeon Geists]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Renowned Weaponsmith ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Griffin Protector
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality]
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis, Plains]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Scholar of the Ages]
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis, Plains]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector]
+Robo hand: [Steadfast Sentry, Dungeon Geists, Leyline of Sanctity]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis, Plains]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Renowned Weaponsmith ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Steadfast Sentry
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector, Steadfast Sentry]
+Robo hand: [Dungeon Geists, Leyline of Sanctity, Plains]
+Robo life: 14
+stack: []
+Rand battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis, Plains]
+Rand hand: [Masterful Replication, Plains, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Angel of Vitality, Griffin Protector]
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 8 life
+Rand loses 2 life
+Rand loses 3 life
+Robo  battlefield: [Plains, Island, Brineborn Cutthroat ['Gauntlet of Light', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Angel of Vitality, Plains, Gauntlet of Light, Plains, Island, Island, Renowned Weaponsmith ['Sleep Paralysis'], Griffin Protector, Steadfast Sentry]
+Robo  hand: [Dungeon Geists, Leyline of Sanctity, Plains]
+Robo  deck: [Plains, Raise the Alarm, Island, Plains, Griffin Sentinel, Devout Decree, Fencing Ace, Disenchant, Sephara, Sky's Blade, Bishop of Wings, Battalion Foot Soldier, Drawn from Dreams, Island, Loxodon Lifechanter, Hard Cover, Daybreak Chaplin, Island, Island, Plains, Plains, Plains, Plains, Pacifism, Plains, Moment of Heroism, Eternal Isolation, Tale's End, Herald of the Sun, Squad Captain, Flood of Tears, Island, Atemis, All-Seeing, Plains, Island, Aerial Assault, Island, Island, Master Splicer, Island, Island, Convolute, Plains, Plains, Plains, Plains, Rule of Law, Plains, Plains, Plains, Anticipate, Island, Island, Island, Fortress Crab, Plains, Moat Piranhas, Bone to Ash, Island, Glaring Aegis, Dawning Angel, Plains, Masterful Replication, Angelic Gift, Plains, Island, Island, Air Elemental, Plains, Ajani, Strength of the Pride, Captivating Gyre, Plains, Island, Plains, Inspired Charge, Island, Plains, Scholar of the Ages, Unsummon, Frost Lynx, Boreal Elemental, Mu Yanling, Sky Dancer, Cavalier of Gales, Island, Metropolis Sprite, Warden of Evos Isle, Island, Planar Cleansing, Yarok's Wavecrasher, Cloudkin Seer, Cavalier of Dawn, Plains, Island, Island, Ancestral Blade, Plains, Zephyr Charge, Island, Plains, Starfield Mystic, Island, Plains, Agent of Treachery, Island, Sleep Paralysis, Gods Willing, Aether Gust, Yoked Ox, Island, Plains, Plains, Island, Plains, Moorland Inquisitor, Island, Island, Octoprophet, Inspiring Captain, Island, Plains, Apostle of Purifying Light, Plains, Island, Faerie Miscreant, Island, Plains, Island, Plains, Sage's Row Denizen, Island, Hanged Executioner, Island, Frilled Sea Serpent, Brought Back, Cerulean Drake, Island, Plains, Soulmender, Portal of Sanctuary, Island, Loyal Pegasus, Island, Plains, Plains]
+Robo  graveyard: [Spectral Sailor, Winged Words, Negate]
+Rand  battlefield: [Island, Island, Island, Plains, Griffin Protector ['Pacifism'], Island, Plains, Pacifism, Plains, Scholar of the Ages, Plains, Sleep Paralysis, Plains]
+Rand  hand: [Masterful Replication, Plains, Plains]
+Rand  deck: [Leyline of Sanctity, Island, Ancestral Blade, Island, Plains, Air Elemental, Disenchant, Mu Yanling, Sky Dancer, Rule of Law, Island, Warden of Evos Isle, Island, Plains, Aether Gust, Island, Plains, Plains, Island, Plains, Cavalier of Gales, Plains, Plains, Tale's End, Plains, Island, Island, Sage's Row Denizen, Faerie Miscreant, Anticipate, Planar Cleansing, Steadfast Sentry, Plains, Frost Lynx, Island, Plains, Apostle of Purifying Light, Island, Island, Sephara, Sky's Blade, Winged Words, Renowned Weaponsmith, Plains, Plains, Plains, Plains, Flood of Tears, Island, Island, Bone to Ash, Island, Master Splicer, Plains, Battalion Foot Soldier, Atemis, All-Seeing, Cloudkin Seer, Raise the Alarm, Island, Island, Drawn from Dreams, Inspiring Captain, Captivating Gyre, Plains, Island, Aerial Assault, Boreal Elemental, Plains, Island, Dungeon Geists, Island, Plains, Moorland Inquisitor, Angel of Vitality, Bishop of Wings, Negate, Metropolis Sprite, Loxodon Lifechanter, Starfield Mystic, Hanged Executioner, Plains, Fencing Ace, Island, Cerulean Drake, Gauntlet of Light, Yoked Ox, Cavalier of Dawn, Spectral Sailor, Plains, Island, Island, Brought Back, Plains, Island, Plains, Agent of Treachery, Island, Inspired Charge, Plains, Plains, Fortress Crab, Ajani, Strength of the Pride, Dawning Angel, Octoprophet, Island, Island, Soulmender, Island, Plains, Squad Captain, Island, Unsummon, Daybreak Chaplin, Portal of Sanctuary, Island, Plains, Eternal Isolation, Plains, Plains, Plains, Hard Cover, Glaring Aegis, Loyal Pegasus, Convolute, Island, Yarok's Wavecrasher, Moat Piranhas, Gods Willing, Island, Herald of the Sun, Devout Decree, Moment of Heroism, Island, Plains, Frilled Sea Serpent, Island, Island, Griffin Sentinel, Plains, Island, Island, Brineborn Cutthroat, Plains, Island, Plains, Plains, Zephyr Charge]
+Rand  graveyard: [Angelic Gift]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:06.880839
+Seed: 2133028399

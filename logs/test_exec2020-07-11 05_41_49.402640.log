@@ -1,0 +1,5627 @@
+Seed: 3054351328
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Tale's End, Convolute, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Tale's End, Convolute, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Tale's End, Convolute, Hard Cover, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Plains
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus]
+Robo hand: [Metropolis Sprite, Hanged Executioner, Island, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Metropolis Sprite
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Plains, Loyal Pegasus, Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus, Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus, Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Island, Plains, Tale's End, Convolute, Hard Cover, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Loyal Pegasus
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Loyal Pegasus]
+{'C': 2, 'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: Declare Attackers
+Attackers: [Metropolis Sprite]
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Metropolis Sprite]
+Robo hand: [Hanged Executioner, Island, Planar Cleansing, Island, Glaring Aegis]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Island]
+Robo hand: [Hanged Executioner, Planar Cleansing, Island, Glaring Aegis]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Island, Plains, Tale's End, Convolute, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Island]
+Robo hand: [Hanged Executioner, Planar Cleansing, Island, Glaring Aegis]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Tale's End, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Island]
+Robo hand: [Hanged Executioner, Planar Cleansing, Island, Glaring Aegis]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Tale's End, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover'], Island, Island]
+Robo hand: [Hanged Executioner, Planar Cleansing, Island, Glaring Aegis]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Tale's End, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Hard Cover ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Hard Cover ability]
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Hard Cover ability, Tale's End]
+Resolving Tale's End
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'W': 1}
+Glaring Aegis targeting Loyal Pegasus ['Hard Cover']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Loyal Pegasus ['Hard Cover']]
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Glaring Aegis
+Glaring Aegis ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Convolute, Plains, Island, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Battalion Foot Soldier
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 0}
+Robo Passes
+Resolving Battalion Foot Soldier
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis]
+Robo hand: [Hanged Executioner, Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Hanged Executioner
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Master Splicer
+{'C': 2, 'U': 2}
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Master Splicer
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Fencing Ace
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Fencing Ace
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace]
+Rand hand: [Island, Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island]
+Rand hand: [Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island]
+Rand hand: [Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island]
+Rand hand: [Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island]
+Rand hand: [Convolute, Plains, Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Battalion Foot Soldier
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Unsummon
+ Targets:  [Unsummon targeting Battalion Foot Soldier]
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Unsummon
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Convolute
+ Targets:  [Convolute targeting Unsummon]
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Unsummon, Convolute]
+Resolving Convolute
+{'C': 4}
+Rand does not pay for Convolute
+Unsummon is countered
+Phase: First Main
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3]
+Robo hand: [Planar Cleansing, Bone to Ash, Convolute]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Convolute
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Master Splicer, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Fencing Ace]
+Fencing Ace is blocking Master Splicer
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 1
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Bone to Ash, Battalion Foot Soldier]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Battalion Foot Soldier
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Battalion Foot Soldier
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Battalion Foot Soldier ETB, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Bone to Ash
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier]
+Robo hand: [Planar Cleansing, Agent of Treachery, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier]
+Robo hand: [Planar Cleansing, Agent of Treachery, Island]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Loyal Pegasus ['Hard Cover', 'Glaring Aegis'], Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox]
+Rand hand: [Cavalier of Dawn]
+Rand life: 18
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Loyal Pegasus ['Hard Cover', 'Glaring Aegis']
+ Targets:  []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Loyal Pegasus ['Glaring Aegis'] is destroyed
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 18
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn]
+Rand hand: [Soulmender]
+Rand life: 16
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Golem 3/3
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Golem 3/3]
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Soulmender, Disenchant]
+Resolving Disenchant
+Golem 3/3 is destroyed
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Battalion Foot Soldier, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Fencing Ace, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Fencing Ace, Cavalier of Dawn, Soulmender]
+Fencing Ace is blocking Battalion Foot Soldier
+Cavalier of Dawn is blocking Battalion Foot Soldier
+Soulmender is blocking Battalion Foot Soldier
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Battalion Foot Soldier has taken lethal damage: 7
+Battalion Foot Soldier dies
+Fencing Ace has taken lethal damage: 2
+Fencing Ace dies
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender]
+Rand hand: []
+Rand life: 16
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 0}
+Rand Playing Island
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier, Yoked Ox, Cavalier of Dawn]
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm, Brought Back]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm, Brought Back]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm, Brought Back]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 0}
+Rand Playing Plains
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Robo battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm, Brought Back]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island, Plains]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier, Yoked Ox, Cavalier of Dawn]
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 4 life
+Robo  battlefield: [Plains, Island, Island, Island, Glaring Aegis, Island, Golem 3/3, Island, Island, Golem 3/3, Island]
+Robo  hand: [Planar Cleansing, Agent of Treachery, Raise the Alarm, Brought Back]
+Robo  deck: [Dawning Angel, Aether Gust, Griffin Sentinel, Plains, Plains, Eternal Isolation, Portal of Sanctuary, Drawn from Dreams, Plains, Inspiring Captain, Plains, Sage's Row Denizen, Plains, Angel of Vitality, Gods Willing, Herald of the Sun, Octoprophet, Plains, Plains, Plains, Fortress Crab, Spectral Sailor, Plains, Boreal Elemental, Plains, Plains, Brineborn Cutthroat, Faerie Miscreant, Unsummon, Scholar of the Ages, Plains, Island, Island, Plains, Captivating Gyre, Sephara, Sky's Blade, Plains, Squad Captain, Plains, Dungeon Geists, Island, Island, Plains, Moat Piranhas, Plains, Griffin Protector, Cloudkin Seer, Island, Aerial Assault, Rule of Law, Island, Island, Island, Flood of Tears, Zephyr Charge, Island, Plains, Fencing Ace, Yoked Ox, Atemis, All-Seeing, Island, Plains, Island, Plains, Island, Island, Cavalier of Dawn, Island, Island, Ancestral Blade, Steadfast Sentry, Island, Plains, Island, Plains, Island, Plains, Frost Lynx, Island, Plains, Island, Plains, Hard Cover, Ajani, Strength of the Pride, Island, Angelic Gift, Plains, Daybreak Chaplin, Plains, Island, Yarok's Wavecrasher, Anticipate, Devout Decree, Tale's End, Bishop of Wings, Sleep Paralysis, Island, Starfield Mystic, Soulmender, Renowned Weaponsmith, Plains, Mu Yanling, Sky Dancer, Plains, Apostle of Purifying Light, Disenchant, Cerulean Drake, Island, Frilled Sea Serpent, Moorland Inquisitor, Plains, Plains, Warden of Evos Isle, Moment of Heroism, Island, Island, Plains, Island, Plains, Air Elemental, Plains, Island, Island, Loxodon Lifechanter, Island, Island, Island, Masterful Replication, Plains, Inspired Charge, Cavalier of Gales, Leyline of Sanctity, Negate, Pacifism, Winged Words, Island, Plains, Plains, Gauntlet of Light, Plains, Plains]
+Robo  graveyard: [Plains, Metropolis Sprite, Hanged Executioner, Island, Convolute, Master Splicer, Bone to Ash, Loyal Pegasus ['Glaring Aegis'], Battalion Foot Soldier]
+Rand  battlefield: [Plains, Island, Plains, Island, Battalion Foot Soldier, Island, Plains, Yoked Ox, Cavalier of Dawn, Soulmender, Island, Plains]
+Rand  hand: []
+Rand  deck: [Steadfast Sentry, Agent of Treachery, Island, Plains, Angelic Gift, Plains, Inspired Charge, Leyline of Sanctity, Plains, Sage's Row Denizen, Starfield Mystic, Plains, Plains, Gauntlet of Light, Plains, Plains, Island, Dawning Angel, Island, Hanged Executioner, Mu Yanling, Sky Dancer, Brought Back, Island, Plains, Island, Plains, Sephara, Sky's Blade, Island, Fortress Crab, Flood of Tears, Plains, Plains, Aether Gust, Aerial Assault, Anticipate, Island, Bishop of Wings, Island, Island, Squad Captain, Island, Octoprophet, Plains, Island, Island, Boreal Elemental, Island, Island, Cloudkin Seer, Ajani, Strength of the Pride, Plains, Plains, Scholar of the Ages, Apostle of Purifying Light, Frost Lynx, Plains, Island, Masterful Replication, Cerulean Drake, Yarok's Wavecrasher, Plains, Ancestral Blade, Plains, Frilled Sea Serpent, Plains, Faerie Miscreant, Island, Island, Planar Cleansing, Island, Brineborn Cutthroat, Island, Island, Loxodon Lifechanter, Eternal Isolation, Spectral Sailor, Island, Air Elemental, Raise the Alarm, Island, Captivating Gyre, Portal of Sanctuary, Metropolis Sprite, Plains, Plains, Plains, Island, Dungeon Geists, Island, Island, Island, Island, Plains, Winged Words, Plains, Griffin Protector, Moorland Inquisitor, Warden of Evos Isle, Glaring Aegis, Plains, Plains, Loyal Pegasus, Griffin Sentinel, Negate, Sleep Paralysis, Plains, Devout Decree, Drawn from Dreams, Zephyr Charge, Island, Island, Plains, Inspiring Captain, Herald of the Sun, Island, Plains, Island, Renowned Weaponsmith, Plains, Moat Piranhas, Bone to Ash, Island, Island, Plains, Daybreak Chaplin, Plains, Plains, Atemis, All-Seeing, Plains, Plains, Island, Island, Pacifism, Plains, Angel of Vitality, Island, Cavalier of Gales, Plains, Gods Willing, Moment of Heroism, Master Splicer, Island, Plains, Rule of Law]
+Rand  graveyard: [Tale's End, Unsummon, Convolute, Hard Cover, Disenchant, Fencing Ace]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.534761
+Seed: 3054351328

@@ -1,0 +1,3300 @@
+Seed: 4268401070
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Rand draws 3 card
+Rand mulligans to 3
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Spectral Sailor, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Spectral Sailor, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Spectral Sailor, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'U': 1}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'U': 1}
+{'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Island, Devout Decree]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Island, Plains, Plains, Island, Soulmender]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Soulmender
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Island, Devout Decree, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender]
+Robo hand: [Boreal Elemental, Island, Plains, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender, Plains]
+Robo hand: [Boreal Elemental, Island, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender, Plains]
+Robo hand: [Boreal Elemental, Island, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender, Plains]
+Robo hand: [Boreal Elemental, Island, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender, Plains]
+Robo hand: [Boreal Elemental, Island, Island, Cavalier of Gales, Plains]
+Robo life: 21
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Portal of Sanctuary
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Spectral Sailor, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Spectral Sailor
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Spectral Sailor]
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Spectral Sailor bounced
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains, Spectral Sailor]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'U': 1}
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Island, Devout Decree, Island, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains, Spectral Sailor]
+Robo life: 22
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains, Spectral Sailor]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains, Spectral Sailor]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Soulmender, Plains, Island, Portal of Sanctuary]
+Robo hand: [Boreal Elemental, Island, Cavalier of Gales, Plains, Spectral Sailor]
+Robo life: 22
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Soulmender
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soulmender]
+{'C': 0}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Soulmender bounced
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'U': 1}
+{'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'U': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Soulmender
+Robo Passes
+Rand Passes
+Resolving Soulmender
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Spectral Sailor, Plains]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Spectral Sailor, Plains]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'U': 1}
+{'C': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Island, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains]
+Robo life: 22
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains]
+Robo life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains]
+Robo life: 22
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains]
+Robo life: 22
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor ability
+Robo draws 1 card
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Spectral Sailor
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Spectral Sailor]
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Portal of Sanctuary effect, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Spectral Sailor bounced
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Spectral Sailor
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor]
+Robo hand: [Boreal Elemental, Cavalier of Gales, Plains, Plains, Brineborn Cutthroat]
+Robo life: 23
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brineborn Cutthroat
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Brineborn Cutthroat
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cavalier of Gales
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales ETB
+Robo draws 3 card
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Island, Plains, Loxodon Lifechanter]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Soulmender, Island, Spectral Sailor, Brineborn Cutthroat, Plains, Cavalier of Gales]
+Robo hand: [Boreal Elemental, Island, Aerial Assault, Plains]
+Robo life: 24
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cavalier of Dawn
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Soulmender
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soulmender]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Cavalier of Dawn, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Soulmender bounced
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Spectral Sailor
+ Targets:  []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn ETB
+Spectral Sailor is destroyed
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Boreal Elemental, Aerial Assault, Plains, Soulmender]
+Robo life: 24
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'W': 1}
+{'C': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Boreal Elemental
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Boreal Elemental
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental]
+Robo hand: [Aerial Assault, Plains, Soulmender, Plains]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Cavalier of Gales
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cavalier of Gales]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Cavalier of Gales bounced
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental]
+Robo hand: [Aerial Assault, Plains, Soulmender, Plains, Cavalier of Gales]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Playing Plains
+{'W': 1}
+{'C': 2, 'U': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Soulmender
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Plains, Loxodon Lifechanter, Pacifism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat, Plains, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental, Plains, Soulmender]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 24
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loxodon Lifechanter
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Stack: [Loxodon Lifechanter, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Loxodon Lifechanter ETB
+Rand elects not to set life with Loxodon Lifechanter
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental, Plains, Soulmender]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental, Plains, Soulmender]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 24
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental, Plains, Soulmender]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 24
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 1}
+{'C': 0}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Boreal Elemental
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Boreal Elemental]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Stack: [Soulmender ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Boreal Elemental bounced
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Boreal Elemental
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Boreal Elemental
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Soulmender, Plains, Boreal Elemental]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Soulmender, Plains, Boreal Elemental]
+Robo hand: [Aerial Assault, Plains, Cavalier of Gales]
+Robo life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Soulmender
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Soulmender]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Aerial Assault
+Soulmender is destroyed
+Robo gains 1 life
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree, Pacifism, Moment of Heroism]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Plains, Boreal Elemental]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 26
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Golem 3/3
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Golem 3/3]
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Moment of Heroism, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Moment of Heroism
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Loxodon Lifechanter
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Loxodon Lifechanter]
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Pacifism, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Pacifism
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Plains, Boreal Elemental]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Plains, Boreal Elemental]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 26
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Cavalier of Dawn, Golem 3/3, Plains, Plains, Boreal Elemental]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 26
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Cavalier of Dawn
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cavalier of Dawn]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Cavalier of Dawn bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cavalier of Gales
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Cavalier of Gales
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Cavalier of Gales ETB
+Robo draws 3 card
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales]
+Robo hand: [Cavalier of Dawn, Island, Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales]
+Robo hand: [Cavalier of Dawn, Island, Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Playing Island
+{'C': 2, 'W': 3}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cavalier of Dawn
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+ Targets:  []
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Cavalier of Dawn ETB
+Brineborn Cutthroat ['+1/+1 counter'] is destroyed
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism]
+Rand hand: [Rule of Law, Inspiring Captain, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Loxodon Lifechanter ability
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Playing Island
+{'W': 1, 'C': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island, Inspiring Captain]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island, Inspiring Captain]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island, Inspiring Captain]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Boreal Elemental, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Boreal Elemental
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Boreal Elemental]
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Boreal Elemental bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Boreal Elemental
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Boreal Elemental
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island, Inspiring Captain]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental]
+Robo hand: [Tale's End, Plains, Gauntlet of Light]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Gales, Cavalier of Dawn]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain]
+Inspiring Captain is blocking Cavalier of Dawn
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Inspiring Captain has taken lethal damage: 4
+Inspiring Captain dies
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3, Boreal Elemental]
+Robo hand: [Tale's End, Plains, Gauntlet of Light]
+Robo life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Golem 3/3
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Golem 3/3]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light]
+Robo hand: [Tale's End, Plains]
+Robo life: 26
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'W': 1}
+Rand Activating Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ability, Loxodon Lifechanter ability]
+Resolving Loxodon Lifechanter ability
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Loxodon Lifechanter ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Loxodon Lifechanter ability]
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Loxodon Lifechanter ability, Tale's End]
+Resolving Tale's End
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree, Brought Back]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light]
+Robo hand: [Plains]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree, Brought Back]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light]
+Robo hand: [Plains]
+Robo life: 26
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree, Brought Back]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Cavalier of Gales, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light]
+Robo hand: [Plains]
+Robo life: 26
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Cavalier of Gales
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cavalier of Gales]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Cavalier of Gales bounced
+Rand battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Rule of Law, Devout Decree, Brought Back]
+Rand life: 4
+stack: []
+Robo battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light, Plains]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Boreal Elemental]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 5, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Rand loses 3 life
+Rand  battlefield: [Island, Island, Island, Island, Island, Island, Island, Island, Island, Plains, Loxodon Lifechanter ['Pacifism'], Plains, Pacifism, Island]
+Rand  hand: [Rule of Law, Devout Decree, Brought Back]
+Rand  deck: [Yoked Ox, Plains, Air Elemental, Island, Plains, Metropolis Sprite, Island, Agent of Treachery, Eternal Isolation, Island, Squad Captain, Gods Willing, Unsummon, Island, Flood of Tears, Plains, Island, Griffin Sentinel, Yarok's Wavecrasher, Island, Daybreak Chaplin, Convolute, Gauntlet of Light, Angelic Gift, Faerie Miscreant, Frost Lynx, Disenchant, Island, Plains, Plains, Loyal Pegasus, Plains, Island, Plains, Island, Brineborn Cutthroat, Leyline of Sanctity, Sephara, Sky's Blade, Plains, Plains, Plains, Portal of Sanctuary, Sage's Row Denizen, Island, Renowned Weaponsmith, Raise the Alarm, Plains, Zephyr Charge, Negate, Island, Herald of the Sun, Ancestral Blade, Island, Fencing Ace, Aerial Assault, Sleep Paralysis, Scholar of the Ages, Island, Island, Island, Plains, Plains, Plains, Griffin Protector, Apostle of Purifying Light, Warden of Evos Isle, Island, Island, Cloudkin Seer, Island, Island, Steadfast Sentry, Island, Plains, Island, Island, Bone to Ash, Hard Cover, Plains, Island, Plains, Moorland Inquisitor, Dungeon Geists, Master Splicer, Plains, Angel of Vitality, Plains, Inspired Charge, Cavalier of Gales, Island, Soulmender, Island, Island, Moat Piranhas, Plains, Plains, Spectral Sailor, Plains, Plains, Plains, Starfield Mystic, Battalion Foot Soldier, Plains, Anticipate, Fortress Crab, Island, Plains, Plains, Hanged Executioner, Bishop of Wings, Drawn from Dreams, Plains, Aether Gust, Boreal Elemental, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Dawning Angel, Frilled Sea Serpent, Captivating Gyre, Winged Words, Island, Island, Ajani, Strength of the Pride, Cavalier of Dawn, Atemis, All-Seeing, Glaring Aegis, Tale's End, Masterful Replication, Plains, Octoprophet, Cerulean Drake, Plains, Plains, Planar Cleansing, Mu Yanling, Sky Dancer, Plains, Plains]
+Rand  graveyard: [Moment of Heroism, Inspiring Captain]
+Robo  battlefield: [Island, Plains, Plains, Island, Portal of Sanctuary, Island, Island, Plains, Island, Golem 3/3, Plains, Plains, Island, Cavalier of Dawn, Golem 3/3 ['Gauntlet of Light'], Boreal Elemental, Gauntlet of Light, Plains]
+Robo  hand: [Plains, Cavalier of Gales]
+Robo  deck: [Brought Back, Inspiring Captain, Negate, Plains, Disenchant, Master Splicer, Faerie Miscreant, Plains, Island, Island, Plains, Island, Frost Lynx, Island, Inspired Charge, Plains, Plains, Island, Moment of Heroism, Island, Plains, Moorland Inquisitor, Daybreak Chaplin, Island, Island, Hanged Executioner, Island, Moat Piranhas, Starfield Mystic, Hard Cover, Island, Loxodon Lifechanter, Plains, Island, Convolute, Pacifism, Plains, Plains, Plains, Cerulean Drake, Masterful Replication, Plains, Island, Plains, Ajani, Strength of the Pride, Planar Cleansing, Island, Eternal Isolation, Renowned Weaponsmith, Herald of the Sun, Apostle of Purifying Light, Island, Plains, Plains, Sage's Row Denizen, Plains, Island, Griffin Sentinel, Island, Angelic Gift, Yarok's Wavecrasher, Mu Yanling, Sky Dancer, Squad Captain, Island, Plains, Island, Island, Bishop of Wings, Plains, Zephyr Charge, Bone to Ash, Devout Decree, Plains, Griffin Protector, Captivating Gyre, Leyline of Sanctity, Plains, Gods Willing, Plains, Island, Plains, Island, Island, Sephara, Sky's Blade, Island, Steadfast Sentry, Island, Plains, Anticipate, Plains, Island, Agent of Treachery, Dungeon Geists, Octoprophet, Cloudkin Seer, Plains, Island, Plains, Island, Warden of Evos Isle, Dawning Angel, Island, Sleep Paralysis, Flood of Tears, Atemis, All-Seeing, Battalion Foot Soldier, Raise the Alarm, Frilled Sea Serpent, Plains, Fortress Crab, Aether Gust, Island, Drawn from Dreams, Glaring Aegis, Yoked Ox, Fencing Ace, Angel of Vitality, Loyal Pegasus, Island, Plains, Plains, Unsummon, Rule of Law, Plains, Metropolis Sprite, Winged Words, Plains, Island, Plains, Scholar of the Ages, Ancestral Blade, Air Elemental, Island, Plains, Island, Island, Plains, Island, Plains]
+Robo  graveyard: [Spectral Sailor, Soulmender, Aerial Assault, Brineborn Cutthroat ['+1/+1 counter'], Tale's End]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:06.996663
+Seed: 4268401070

@@ -1,0 +1,5043 @@
+Seed: 8373620673
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Boreal Elemental, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Boreal Elemental, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Boreal Elemental, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Boreal Elemental, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Boreal Elemental, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Plains
+Robo discards Boreal Elemental
+Rand battlefield: [Island]
+Rand hand: [Island, Convolute, Eternal Isolation, Plains, Planar Cleansing, Cloudkin Seer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Island, Island, Plains, Plains, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Cloudkin Seer, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cloudkin Seer
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains]
+Robo hand: [Plains, Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'W': 1}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Loyal Pegasus
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Loyal Pegasus]
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis']]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis']]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis']]
+Robo hand: [Plains, Island, Island, Plains, Captivating Gyre, Plains]
+Robo life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Loyal Pegasus ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis]
+Rand hand: [Island, Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+Rand Playing Island
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains]
+Robo hand: [Island, Island, Plains, Captivating Gyre, Plains, Plains]
+Robo life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Loyal Pegasus ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+Rand Playing Island
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Plains, Island]
+Robo life: 16
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Loyal Pegasus ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Octoprophet
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Octoprophet
+Rand Passes
+Robo Passes
+Resolving Octoprophet ETB abil
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Rand Playing Plains
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains]
+Rand hand: [Convolute, Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains]
+Robo hand: [Island, Island, Captivating Gyre, Plains, Island, Plains]
+Robo life: 16
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Loyal Pegasus ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Loyal Pegasus ['Sleep Paralysis']
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cloudkin Seer
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Octoprophet
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Loyal Pegasus ['Sleep Paralysis'], Captivating Gyre targeting Cloudkin Seer, Captivating Gyre targeting Octoprophet]
+Robo Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Captivating Gyre
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Convolute
+ Targets:  [Convolute targeting Captivating Gyre]
+Robo Passes
+Rand Passes
+Stack: [Captivating Gyre, Convolute]
+Resolving Convolute
+{'C': 4}
+Robo does not pay for Convolute
+Captivating Gyre is countered
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Angel of Vitality
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Angel of Vitality
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains, Angel of Vitality]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer, Octoprophet]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains, Angel of Vitality]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Cloudkin Seer, Plains, Sleep Paralysis, Island, Island, Octoprophet, Plains, Angel of Vitality]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Loyal Pegasus ['Sleep Paralysis'], Plains, Plains, Plains, Island]
+Robo hand: [Island, Plains, Island, Plains, Flood of Tears]
+Robo life: 11
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Loyal Pegasus ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Flood of Tears
+Robo Passes
+Rand Passes
+Resolving Flood of Tears
+Cloudkin Seer bounced
+Sleep Paralysis bounced
+Octoprophet bounced
+Angel of Vitality bounced
+Loyal Pegasus bounced
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Plains, Loyal Pegasus]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Plains, Loyal Pegasus]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Loyal Pegasus
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains]
+Rand hand: [Eternal Isolation, Planar Cleansing, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Loyal Pegasus]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Planar Cleansing
+Rand Passes
+Robo Passes
+Resolving Planar Cleansing
+Loyal Pegasus is destroyed
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Bone to Ash, Cloudkin Seer, Sleep Paralysis, Octoprophet, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Octoprophet
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Octoprophet
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Octoprophet]
+Rand Passes
+Robo Passes
+Stack: [Octoprophet, Bone to Ash]
+Resolving Bone to Ash
+Octoprophet is countered
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality, Yoked Ox]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality, Yoked Ox]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Island, Plains, Plains, Plains]
+Robo life: 11
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox]
+Rand hand: [Eternal Isolation, Cloudkin Seer, Sleep Paralysis, Angel of Vitality]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Angel of Vitality, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Angel of Vitality, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Angel of Vitality
+Rand Passes
+Robo Passes
+Resolving Angel of Vitality
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Angel of Vitality
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Angel of Vitality]
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 9
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island]
+Robo hand: [Plains, Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains]
+Rand hand: [Eternal Isolation, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin]
+Robo hand: [Plains, Island, Island]
+Robo life: 7
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Air Elemental
+Robo Passes
+Rand Passes
+Resolving Air Elemental
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Air Elemental]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Air Elemental]
+Robo hand: [Plains, Island, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Eternal Isolation, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Air Elemental, Island]
+Robo hand: [Plains, Plains]
+Robo life: 7
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Air Elemental
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Air Elemental]
+Rand Passes
+Robo Passes
+Resolving Eternal Isolation
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Island, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island]
+Robo hand: [Plains, Plains]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Cloudkin Seer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island]
+Rand hand: [Island, Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island]
+Robo hand: [Plains, Plains]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island]
+Robo hand: [Plains, Plains]
+Robo life: 5
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Squad Captain
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 5
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Master Splicer
+Rand Passes
+Robo Passes
+Resolving Master Splicer
+Rand Passes
+Robo Passes
+Resolving Master Splicer ETB
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3]
+Rand hand: [Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 3
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Plains]
+Robo life: 3
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 3
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 3
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3, Island]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 3
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Master Splicer, Golem 3/3, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 3
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer, Master Splicer]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Squad Captain ['+1/+1 counter']]
+Squad Captain ['+1/+1 counter'] is blocking Master Splicer
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Master Splicer has taken lethal damage: 3
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains]
+Rand hand: []
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin, Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Squad Captain ['+1/+1 counter']
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Daybreak Chaplin]
+Daybreak Chaplin is blocking Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 1
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin, Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains]
+Rand hand: [Spectral Sailor]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Playing Island
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Spectral Sailor
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor]
+Rand hand: []
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Spectral Sailor ability, Gauntlet of Light ability, Spectral Sailor ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Spectral Sailor ability, Gauntlet of Light ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Spectral Sailor ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Fortress Crab
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island, Fortress Crab]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox, Cloudkin Seer]
+Yoked Ox is blocking Squad Captain ['+1/+1 counter']
+Cloudkin Seer is blocking Squad Captain ['+1/+1 counter']
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island, Fortress Crab]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island, Fortress Crab]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Angel of Vitality ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand hand: [Soulmender, Loxodon Lifechanter, Plains]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island, Fortress Crab]
+Robo hand: [Devout Decree]
+Robo life: 1
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Spectral Sailor]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Squad Captain ['+1/+1 counter']]
+Squad Captain ['+1/+1 counter'] is blocking Yoked Ox
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Rand  battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Plains, Yoked Ox, Island, Cloudkin Seer, Angel of Vitality ['Sleep Paralysis'], Plains, Sleep Paralysis, Plains, Plains, Island, Island, Golem 3/3, Island, Plains, Plains, Island, Spectral Sailor, Plains]
+Rand  hand: [Soulmender, Loxodon Lifechanter, Plains]
+Rand  deck: [Inspiring Captain, Cerulean Drake, Herald of the Sun, Boreal Elemental, Yarok's Wavecrasher, Island, Plains, Zephyr Charge, Island, Plains, Island, Plains, Island, Island, Island, Plains, Bishop of Wings, Frilled Sea Serpent, Loyal Pegasus, Island, Inspired Charge, Drawn from Dreams, Plains, Leyline of Sanctity, Apostle of Purifying Light, Cavalier of Dawn, Plains, Fortress Crab, Island, Plains, Plains, Plains, Rule of Law, Warden of Evos Isle, Fencing Ace, Brineborn Cutthroat, Raise the Alarm, Glaring Aegis, Starfield Mystic, Plains, Agent of Treachery, Battalion Foot Soldier, Masterful Replication, Island, Sephara, Sky's Blade, Plains, Plains, Devout Decree, Portal of Sanctuary, Island, Plains, Squad Captain, Dungeon Geists, Hanged Executioner, Aether Gust, Moorland Inquisitor, Island, Sage's Row Denizen, Plains, Plains, Island, Captivating Gyre, Frost Lynx, Griffin Protector, Plains, Plains, Plains, Island, Plains, Plains, Plains, Plains, Ajani, Strength of the Pride, Hard Cover, Flood of Tears, Angelic Gift, Aerial Assault, Island, Pacifism, Plains, Plains, Island, Island, Faerie Miscreant, Island, Island, Brought Back, Island, Island, Winged Words, Tale's End, Island, Unsummon, Negate, Atemis, All-Seeing, Disenchant, Plains, Moment of Heroism, Scholar of the Ages, Ancestral Blade, Air Elemental, Anticipate, Plains, Dawning Angel, Island, Plains, Plains, Island, Steadfast Sentry, Island, Plains, Mu Yanling, Sky Dancer, Island, Gods Willing, Island, Island, Daybreak Chaplin, Island, Island, Gauntlet of Light, Griffin Sentinel, Metropolis Sprite, Plains, Island, Island, Moat Piranhas, Renowned Weaponsmith, Cavalier of Gales]
+Rand  graveyard: [Convolute, Planar Cleansing, Octoprophet, Bone to Ash, Eternal Isolation, Master Splicer]
+Robo  battlefield: [Island, Plains, Plains, Plains, Plains, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Daybreak Chaplin, Island, Island, Plains, Squad Captain ['+1/+1 counter'], Plains, Island, Island, Island, Island, Fortress Crab]
+Robo  hand: [Devout Decree]
+Robo  deck: [Inspiring Captain, Octoprophet, Dawning Angel, Island, Tale's End, Eternal Isolation, Plains, Island, Moat Piranhas, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Scholar of the Ages, Sephara, Sky's Blade, Ajani, Strength of the Pride, Island, Yoked Ox, Aether Gust, Island, Island, Island, Island, Island, Island, Leyline of Sanctity, Plains, Plains, Renowned Weaponsmith, Warden of Evos Isle, Atemis, All-Seeing, Plains, Plains, Island, Plains, Pacifism, Sleep Paralysis, Sage's Row Denizen, Bone to Ash, Plains, Hanged Executioner, Island, Island, Angelic Gift, Island, Soulmender, Master Splicer, Island, Plains, Plains, Plains, Island, Plains, Ancestral Blade, Plains, Plains, Cerulean Drake, Island, Planar Cleansing, Moment of Heroism, Winged Words, Plains, Dungeon Geists, Frost Lynx, Anticipate, Inspired Charge, Steadfast Sentry, Herald of the Sun, Gods Willing, Agent of Treachery, Plains, Island, Rule of Law, Convolute, Island, Gauntlet of Light, Griffin Sentinel, Island, Hard Cover, Plains, Griffin Protector, Aerial Assault, Portal of Sanctuary, Fencing Ace, Island, Brought Back, Plains, Negate, Cloudkin Seer, Cavalier of Dawn, Glaring Aegis, Plains, Masterful Replication, Plains, Zephyr Charge, Island, Plains, Apostle of Purifying Light, Island, Disenchant, Island, Drawn from Dreams, Bishop of Wings, Angel of Vitality, Island, Moorland Inquisitor, Plains, Plains, Plains, Plains, Cavalier of Gales, Unsummon, Plains, Island, Loxodon Lifechanter, Plains, Raise the Alarm, Battalion Foot Soldier, Island, Plains, Plains, Island, Spectral Sailor, Brineborn Cutthroat, Frilled Sea Serpent, Plains, Island, Island, Starfield Mystic, Yarok's Wavecrasher, Island, Air Elemental, Metropolis Sprite]
+Robo  graveyard: [Plains, Boreal Elemental, Captivating Gyre, Flood of Tears, Loyal Pegasus]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:06.295118
+Seed: 8373620673

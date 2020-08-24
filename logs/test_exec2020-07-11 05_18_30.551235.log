@@ -1,0 +1,1065 @@
+Seed: 6577873182
+Rand draws 7 card
+Robo draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Robo draws 4 card
+Robo mulligans to 4
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Plains, Plains, Squad Captain, Metropolis Sprite, Plains, Fencing Ace, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Plains, Plains, Squad Captain, Metropolis Sprite, Plains, Fencing Ace, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Plains, Plains, Squad Captain, Metropolis Sprite, Plains, Fencing Ace, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Squad Captain, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Squad Captain, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Squad Captain
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Drawn from Dreams, Gods Willing, Fencing Ace]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fencing Ace
+Rand Passes
+Robo Passes
+Resolving Fencing Ace
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Fencing Ace, Island, Eternal Isolation]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fencing Ace
+Robo Passes
+{'W': 1}
+Rand Passes
+Resolving Fencing Ace
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace]
+Rand hand: [Plains, Island, Drawn from Dreams, Gods Willing, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Fencing Ace
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Fencing Ace]
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace]
+Robo hand: [Island, Plains, Metropolis Sprite, Plains, Eternal Isolation, Plains]
+Robo life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Metropolis Sprite
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace, Island]
+Rand hand: [Plains, Drawn from Dreams, Island, Sleep Paralysis]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Drawn from Dreams
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Drawn from Dreams
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace, Plains, Metropolis Sprite]
+Robo hand: [Island, Plains, Eternal Isolation, Plains, Gauntlet of Light]
+Robo life: 16
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Fencing Ace
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Fencing Ace]
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace, Island, Plains]
+Rand hand: [Plains, Island, Sleep Paralysis, Masterful Replication]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Fencing Ace
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Fencing Ace]
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite Effect
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 12
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis]
+Rand hand: [Island, Masterful Replication, Island]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Fencing Ace ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis, Island]
+Rand hand: [Island, Masterful Replication, Plains]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis, Island]
+Rand hand: [Island, Masterful Replication, Plains]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis, Island]
+Rand hand: [Island, Masterful Replication, Plains]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Metropolis Sprite, Plains, Gauntlet of Light, Island]
+Robo hand: [Island, Eternal Isolation, Plains, Plains]
+Robo life: 16
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Metropolis Sprite Effect, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis, Island]
+Rand hand: [Island, Masterful Replication, Plains]
+Rand life: 6
+stack: []
+Robo battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Island, Plains]
+Robo hand: [Island, Eternal Isolation, Plains, Drawn from Dreams]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 3 life
+Rand  battlefield: [Island, Plains, Fencing Ace ['Sleep Paralysis'], Island, Plains, Plains, Sleep Paralysis, Island]
+Rand  hand: [Island, Masterful Replication, Plains]
+Rand  deck: [Hanged Executioner, Island, Mu Yanling, Sky Dancer, Squad Captain, Winged Words, Island, Island, Unsummon, Island, Island, Metropolis Sprite, Leyline of Sanctity, Sephara, Sky's Blade, Boreal Elemental, Soulmender, Dungeon Geists, Plains, Plains, Island, Plains, Plains, Zephyr Charge, Aether Gust, Plains, Battalion Foot Soldier, Frost Lynx, Renowned Weaponsmith, Plains, Plains, Plains, Captivating Gyre, Daybreak Chaplin, Cloudkin Seer, Yarok's Wavecrasher, Moorland Inquisitor, Eternal Isolation, Island, Island, Plains, Island, Apostle of Purifying Light, Griffin Protector, Cavalier of Dawn, Island, Plains, Griffin Sentinel, Island, Faerie Miscreant, Plains, Loyal Pegasus, Frilled Sea Serpent, Spectral Sailor, Yoked Ox, Plains, Disenchant, Island, Master Splicer, Island, Air Elemental, Plains, Island, Plains, Loxodon Lifechanter, Sage's Row Denizen, Island, Plains, Plains, Agent of Treachery, Island, Plains, Island, Moat Piranhas, Starfield Mystic, Bone to Ash, Plains, Island, Convolute, Devout Decree, Plains, Plains, Anticipate, Inspired Charge, Portal of Sanctuary, Ajani, Strength of the Pride, Island, Island, Gauntlet of Light, Island, Plains, Plains, Aerial Assault, Herald of the Sun, Island, Island, Plains, Cavalier of Gales, Island, Island, Atemis, All-Seeing, Flood of Tears, Plains, Inspiring Captain, Island, Plains, Raise the Alarm, Cerulean Drake, Plains, Angelic Gift, Island, Bishop of Wings, Ancestral Blade, Fortress Crab, Island, Angel of Vitality, Island, Island, Negate, Plains, Planar Cleansing, Island, Plains, Plains, Plains, Plains, Island, Plains, Brineborn Cutthroat, Hard Cover, Plains, Plains, Octoprophet, Moment of Heroism, Island, Island, Pacifism, Island, Rule of Law, Dawning Angel, Glaring Aegis, Island, Plains, Island, Plains, Plains, Warden of Evos Isle, Steadfast Sentry, Brought Back, Tale's End, Scholar of the Ages]
+Rand  graveyard: [Gods Willing, Drawn from Dreams]
+Robo  battlefield: [Plains, Island, Fencing Ace ['Gauntlet of Light'], Plains, Plains, Gauntlet of Light, Island, Plains]
+Robo  hand: [Island, Eternal Isolation, Plains, Drawn from Dreams]
+Robo  deck: [Island, Plains, Renowned Weaponsmith, Sleep Paralysis, Island, Atemis, All-Seeing, Plains, Moorland Inquisitor, Anticipate, Daybreak Chaplin, Glaring Aegis, Plains, Island, Plains, Island, Griffin Protector, Island, Island, Plains, Plains, Winged Words, Boreal Elemental, Devout Decree, Disenchant, Soulmender, Island, Plains, Island, Plains, Island, Plains, Island, Yarok's Wavecrasher, Master Splicer, Plains, Tale's End, Island, Air Elemental, Aether Gust, Ancestral Blade, Herald of the Sun, Brought Back, Island, Plains, Island, Island, Brineborn Cutthroat, Agent of Treachery, Faerie Miscreant, Octoprophet, Island, Moat Piranhas, Island, Fortress Crab, Sage's Row Denizen, Island, Island, Island, Bishop of Wings, Steadfast Sentry, Zephyr Charge, Frost Lynx, Leyline of Sanctity, Frilled Sea Serpent, Rule of Law, Ajani, Strength of the Pride, Island, Cerulean Drake, Island, Plains, Island, Plains, Island, Island, Angel of Vitality, Battalion Foot Soldier, Inspired Charge, Plains, Moment of Heroism, Plains, Island, Island, Plains, Gods Willing, Plains, Portal of Sanctuary, Raise the Alarm, Island, Loyal Pegasus, Plains, Island, Dungeon Geists, Island, Unsummon, Island, Island, Plains, Plains, Bone to Ash, Convolute, Starfield Mystic, Plains, Plains, Island, Plains, Aerial Assault, Negate, Hard Cover, Island, Flood of Tears, Cavalier of Dawn, Plains, Planar Cleansing, Scholar of the Ages, Masterful Replication, Plains, Cavalier of Gales, Loxodon Lifechanter, Spectral Sailor, Plains, Plains, Griffin Sentinel, Apostle of Purifying Light, Plains, Cloudkin Seer, Plains, Dawning Angel, Inspiring Captain, Island, Island, Yoked Ox, Plains, Pacifism, Plains, Island, Captivating Gyre, Plains, Warden of Evos Isle, Island, Angelic Gift, Plains, Mu Yanling, Sky Dancer, Plains, Plains, Plains, Sephara, Sky's Blade, Hanged Executioner, Island]
+Robo  graveyard: [Squad Captain, Metropolis Sprite]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:02.528491
+Seed: 6577873182

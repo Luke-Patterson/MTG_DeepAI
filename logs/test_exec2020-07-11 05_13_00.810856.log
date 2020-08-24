@@ -1,0 +1,4606 @@
+Seed: 4348697252
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+Rand Playing Island
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Fortress Crab, Daybreak Chaplin, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Daybreak Chaplin
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis
+Glaring Aegis ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin ['Glaring Aegis']]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Island, Atemis, All-Seeing, Steadfast Sentry]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Steadfast Sentry
+Rand Passes
+Robo Passes
+Resolving Steadfast Sentry
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Steadfast Sentry]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Steadfast Sentry]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Steadfast Sentry]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Steadfast Sentry]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin ['Glaring Aegis']]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Steadfast Sentry]
+Steadfast Sentry is blocking Daybreak Chaplin ['Glaring Aegis']
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand gains 3 life
+Steadfast Sentry has taken lethal damage: 2
+Steadfast Sentry dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Mu Yanling, Sky Dancer, Plains, Atemis, All-Seeing, Plains]
+Rand life: 21
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Mu Yanling, Sky Dancer
+Rand Passes
+Robo Passes
+Resolving Mu Yanling, Sky Dancer
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Daybreak Chaplin ['Glaring Aegis']
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Daybreak Chaplin ['Glaring Aegis']]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin ['Glaring Aegis'], Plains, Glaring Aegis, Plains]
+Robo hand: [Fortress Crab, Cavalier of Dawn, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cavalier of Dawn
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Glaring Aegis
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn ETB
+Glaring Aegis is destroyed
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand gains 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer]
+Rand hand: [Island, Plains, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Master Splicer
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Master Splicer
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Mu Yanling -3 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Mu Yanling -3 ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Master Splicer, Golem 3/3, Elemental Bird 4/4 Flying]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Master Splicer, Golem 3/3, Elemental Bird 4/4 Flying]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Master Splicer]
+Master Splicer is blocking Daybreak Chaplin
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand gains 1 life
+Master Splicer has taken lethal damage: 1
+Master Splicer dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying]
+Rand hand: [Island, Atemis, All-Seeing, Plains, Dawning Angel]
+Rand life: 23
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Faerie Miscreant
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Faerie Miscreant]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Mu Yanling +2 ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake]
+Robo hand: [Fortress Crab, Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fortress Crab
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Fortress Crab
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Faerie Miscreant, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Cerulean Drake]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Faerie Miscreant, Elemental Bird 4/4 Flying]
+Faerie Miscreant is blocking Cavalier of Dawn
+Elemental Bird 4/4 Flying is blocking Cavalier of Dawn
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses 1 loyalty from combat
+Faerie Miscreant has taken lethal damage: 3
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Atemis, All-Seeing, Plains, Dawning Angel, Negate]
+Rand life: 23
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Cerulean Drake
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Cerulean Drake]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Cerulean Drake, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Golem 3/3, Elemental Bird 4/4 Flying, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Elemental Bird 4/4 Flying
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Golem 3/3
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cerulean Drake
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Elemental Bird 4/4 Flying, Captivating Gyre targeting Golem 3/3, Captivating Gyre targeting Cerulean Drake]
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Captivating Gyre
+Elemental Bird 4/4 Flying bounced
+Golem 3/3 bounced
+Cerulean Drake bounced
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Negate, Island]
+Rand life: 23
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Negate
+ Targets:  [Negate targeting Gauntlet of Light ability]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Negate]
+Resolving Negate
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Fortress Crab
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Fortress Crab]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Mu Yanling +2 ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Cerulean Drake]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake]
+Robo hand: [Sephara, Sky's Blade, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake]
+Robo hand: [Sephara, Sky's Blade, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sephara, Sky's Blade
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Sephara, Sky's Blade
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains]
+Rand life: 23
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Golem 3/3
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Golem 3/3]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn, Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Plains, Hard Cover]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Cavalier of Dawn
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Cavalier of Dawn]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Hard Cover
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 23
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Atemis, All-Seeing
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis, All-Seeing
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin, Sephara, Sky's Blade]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 7 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Mu Yanling, Sky Dancer, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling -8 ability
+{'C': 0}
+Mu Yanling, Sky Dancer has no loyalty
+Mu Yanling, Sky Dancer dies
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Mu Yanling -8 ability
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+Rand Playing Island
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Frilled Sea Serpent
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Apostle of Purifying Light
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Zephyr Charge
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: [Plains, Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Atemis, All-Seeing]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing]
+Robo hand: [Plains, Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains]
+Robo hand: [Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel]
+Rand life: 10
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains]
+Robo hand: [Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains]
+Robo hand: [Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 5, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains]
+Robo hand: [Plains, Island, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 10
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Atemis draw cards abil, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Aether Gust
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Scholar of the Ages
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Scholar of the Ages
+{'C': 0}
+{'C': 0}
+Scholar of the Ages ETB targeting Captivating Gyre
+{'C': 0}
+Scholar of the Ages ETB targeting Aether Gust
+ Targets:  []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Scholar of the Ages ETB
+Captivating Gyre returned from graveyard to hand
+Aether Gust returned from graveyard to hand
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages]
+Robo hand: [Plains, Dungeon Geists, Plains, Island, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Atemis, All-Seeing]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages]
+Robo hand: [Plains, Dungeon Geists, Plains, Island, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo hand: [Plains, Dungeon Geists, Plains, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter]
+Rand life: 5
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo hand: [Plains, Dungeon Geists, Plains, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter, Squad Captain]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo hand: [Plains, Dungeon Geists, Plains, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter, Squad Captain]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 4, 'W': 1}
+{'C': 5, 'W': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo hand: [Plains, Dungeon Geists, Plains, Captivating Gyre, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter, Squad Captain]
+Rand life: 5
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Atemis draw cards abil, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Dungeon Geists
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo hand: [Plains, Captivating Gyre, Aether Gust, Steadfast Sentry, Island, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter, Squad Captain]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Sephara, Sky's Blade, Atemis, All-Seeing, Scholar of the Ages]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 7 life
+Rand loses 4 life
+Rand loses 3 life
+Robo  battlefield: [Plains, Plains, Daybreak Chaplin, Plains, Plains, Plains, Cavalier of Dawn ['Hard Cover'], Golem 3/3, Island, Fortress Crab, Island, Plains, Cerulean Drake, Island, Sephara, Sky's Blade, Atemis, All-Seeing, Plains, Scholar of the Ages, Island]
+Robo  hand: [Captivating Gyre, Aether Gust, Steadfast Sentry, Plains, Plains, Plains, Battalion Foot Soldier, Island, Loxodon Lifechanter]
+Robo  deck: [Plains, Island, Yarok's Wavecrasher, Island, Sleep Paralysis, Island, Loyal Pegasus, Air Elemental, Sage's Row Denizen, Brineborn Cutthroat, Plains, Pacifism, Eternal Isolation, Starfield Mystic, Island, Island, Plains, Angelic Gift, Plains, Island, Plains, Island, Bishop of Wings, Mu Yanling, Sky Dancer, Fencing Ace, Plains, Island, Cloudkin Seer, Moment of Heroism, Hard Cover, Cavalier of Gales, Anticipate, Faerie Miscreant, Plains, Island, Warden of Evos Isle, Island, Plains, Negate, Plains, Planar Cleansing, Plains, Griffin Sentinel, Plains, Hanged Executioner, Island, Island, Moat Piranhas, Master Splicer, Masterful Replication, Island, Frost Lynx, Island, Devout Decree, Inspiring Captain, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Aerial Assault, Boreal Elemental, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Bone to Ash, Plains, Island, Drawn from Dreams, Island, Disenchant, Moorland Inquisitor, Island, Spectral Sailor, Agent of Treachery, Plains, Island, Plains, Island, Winged Words, Inspired Charge, Plains, Griffin Protector, Plains, Leyline of Sanctity, Octoprophet, Island, Brought Back, Island, Plains, Plains, Gauntlet of Light, Ancestral Blade, Island, Dawning Angel, Island, Tale's End, Portal of Sanctuary, Ajani, Strength of the Pride, Squad Captain, Plains, Gods Willing, Soulmender, Yoked Ox, Island, Plains, Metropolis Sprite, Island, Plains, Convolute, Raise the Alarm, Angel of Vitality, Island, Plains, Flood of Tears, Herald of the Sun, Unsummon]
+Robo  graveyard: [Glaring Aegis, Island, Plains, Island, Frilled Sea Serpent, Apostle of Purifying Light, Zephyr Charge, Island, Plains, Dungeon Geists, Plains, Island]
+Rand  battlefield: [Island, Plains, Island, Plains, Plains, Island, Plains, Island, Plains, Hard Cover, Island]
+Rand  hand: [Atemis, All-Seeing, Dawning Angel, Loxodon Lifechanter, Squad Captain]
+Rand  deck: [Inspired Charge, Masterful Replication, Island, Island, Fortress Crab, Ancestral Blade, Island, Moat Piranhas, Portal of Sanctuary, Plains, Tale's End, Dungeon Geists, Unsummon, Devout Decree, Air Elemental, Yarok's Wavecrasher, Plains, Plains, Cerulean Drake, Island, Yoked Ox, Octoprophet, Island, Plains, Renowned Weaponsmith, Plains, Island, Island, Hanged Executioner, Ajani, Strength of the Pride, Plains, Plains, Aether Gust, Island, Plains, Angel of Vitality, Spectral Sailor, Island, Planar Cleansing, Island, Zephyr Charge, Plains, Island, Loyal Pegasus, Plains, Plains, Plains, Sephara, Sky's Blade, Disenchant, Cloudkin Seer, Sage's Row Denizen, Leyline of Sanctity, Plains, Anticipate, Plains, Plains, Plains, Flood of Tears, Island, Plains, Island, Agent of Treachery, Island, Brought Back, Island, Moorland Inquisitor, Gods Willing, Island, Inspiring Captain, Plains, Plains, Island, Brineborn Cutthroat, Plains, Island, Convolute, Island, Soulmender, Island, Island, Starfield Mystic, Scholar of the Ages, Gauntlet of Light, Plains, Cavalier of Gales, Moment of Heroism, Frilled Sea Serpent, Plains, Island, Island, Island, Plains, Cavalier of Dawn, Angelic Gift, Island, Battalion Foot Soldier, Island, Metropolis Sprite, Plains, Island, Plains, Raise the Alarm, Plains, Herald of the Sun, Bone to Ash, Griffin Protector, Frost Lynx, Island, Plains, Plains, Plains, Daybreak Chaplin, Plains, Plains, Sleep Paralysis, Island, Plains, Island, Bishop of Wings, Glaring Aegis, Boreal Elemental, Plains, Drawn from Dreams, Plains, Island, Captivating Gyre, Island, Winged Words, Island, Plains, Apostle of Purifying Light, Rule of Law, Griffin Sentinel, Pacifism, Island, Fencing Ace, Island, Eternal Isolation, Warden of Evos Isle, Aerial Assault, Plains, Island]
+Rand  graveyard: [Steadfast Sentry, Master Splicer, Faerie Miscreant, Negate, Mu Yanling, Sky Dancer]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:14.187497
+Seed: 4348697252

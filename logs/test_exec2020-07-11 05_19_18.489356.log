@@ -1,0 +1,5589 @@
+Seed: 8131045427
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Playing Island
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Faerie Miscreant
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Disenchant, Island, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Disenchant, Island, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Disenchant, Island, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Anticipate, Island, Master Splicer, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Anticipate
+Robo Passes
+Rand Passes
+Resolving Anticipate
+Robo battlefield: [Island, Faerie Miscreant, Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant, Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant, Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Faerie Miscreant
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Faerie Miscreant]
+Rand Passes
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover]
+Rand hand: [Disenchant, Island, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains]
+Robo hand: [Plains, Rule of Law, Angel of Vitality, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island]
+Rand hand: [Disenchant, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Master Splicer
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Rule of Law
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Rule of Law
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island]
+Rand hand: [Disenchant, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island]
+Rand hand: [Disenchant, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island]
+Rand hand: [Disenchant, Moat Piranhas, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law]
+Robo hand: [Plains, Angel of Vitality, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Angel of Vitality
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Angel of Vitality
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law, Island, Angel of Vitality]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law, Island, Angel of Vitality]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Rule of Law, Island, Angel of Vitality]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains]
+Rand hand: [Disenchant, Angelic Gift, Octoprophet, Herald of the Sun, Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Rule of Law
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Rule of Law]
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Disenchant
+Rule of Law is destroyed
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Angel of Vitality
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Angel of Vitality]
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Angelic Gift
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Angelic Gift ETB
+Rand draws 1 card
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift']]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift']]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift']]
+Robo hand: [Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift']]
+Robo hand: [Plains, Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift']]
+Robo hand: [Plains, Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Playing Island
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island]
+Robo hand: [Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ajani, Strength of the Pride
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island]
+Robo hand: [Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island]
+Robo hand: [Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride +1 ability
+{'C': 0}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride +1 ability
+Rand gains 2 life
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island]
+Robo hand: [Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 21
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: First Main
+{'C': 0}
+Robo Playing Plains
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality ['Angelic Gift']]
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 2 loyalty from combat
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab]
+Rand life: 21
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab, Masterful Replication]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Fortress Crab, Masterful Replication]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fortress Crab
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Fortress Crab
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains]
+Robo hand: [Island, Island, Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication]
+Rand life: 21
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 0}
+Robo Playing Island
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality ['Angelic Gift']]
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication]
+Rand life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab]
+Rand hand: [Octoprophet, Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Octoprophet
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Octoprophet
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Octoprophet ETB abil
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island]
+Robo hand: [Island, Island, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab, Octoprophet]
+Rand hand: [Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 0}
+Robo Playing Island
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab, Octoprophet]
+Rand hand: [Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab, Octoprophet]
+Rand hand: [Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Fortress Crab, Octoprophet]
+Rand hand: [Herald of the Sun, Cavalier of Dawn, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'W': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Fortress Crab
+ Targets:  []
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Fortress Crab is destroyed
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride 0 ability
+{'C': 0}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride 0 ability
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island]
+Robo hand: [Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Faerie Miscreant ['Hard Cover']
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Faerie Miscreant ['Hard Cover']]
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sleep Paralysis
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis]
+Robo hand: [Island, Plains, Island, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis]
+Robo hand: [Island, Plains, Island, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dungeon Geists
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Golem 3/3
+ Targets:  []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists]
+Robo hand: [Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing]
+Rand life: 19
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ajani, Strength of the Pride -2 ability
+{'C': 0}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Ajani, Strength of the Pride -2 ability
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists]
+Robo hand: [Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists]
+Robo hand: [Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists]
+Robo hand: [Island, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Moat Piranhas, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hanged Executioner
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 0}
+{'C': 3, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Moat Piranhas
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Moat Piranhas]
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Hanged Executioner ETB, Hanged Executioner ability]
+Resolving Hanged Executioner ability
+Rand exiles Moat Piranhas
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists, Island, Spirit 1/1 Flying]
+Robo hand: [Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality ['Angelic Gift']]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Ajani, Strength of the Pride loses 2 loyalty from combat
+Ajani, Strength of the Pride has no loyalty
+Ajani, Strength of the Pride dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists, Island, Spirit 1/1 Flying]
+Robo hand: [Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists, Island, Spirit 1/1 Flying]
+Robo hand: [Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Squad Captain]
+Rand life: 19
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 4, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Squad Captain
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 4 +1/+1 counters
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Dungeon Geists, Island, Spirit 1/1 Flying]
+Robo hand: [Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet, Cavalier of Dawn]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Dungeon Geists, Spirit 1/1 Flying]
+Dungeon Geists is blocking Cavalier of Dawn
+Spirit 1/1 Flying is blocking Cavalier of Dawn
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Dungeon Geists has taken lethal damage: 3
+Dungeon Geists dies
+Spirit 1/1 Flying has taken lethal damage: 1
+Spirit 1/1 Flying dies
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island]
+Robo hand: [Plains, Island]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island]
+Robo hand: [Plains, Island]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'W': 3}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Angel of Vitality ['Angelic Gift'], Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Angelic Gift, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Angel of Vitality ['Angelic Gift']]
+Angel of Vitality ['Angelic Gift'] is blocking Cavalier of Dawn
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Angel of Vitality ['Angelic Gift'] has taken lethal damage: 4
+Angel of Vitality ['Angelic Gift'] dies
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains]
+Robo hand: [Island, Planar Cleansing]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Golem 3/3
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Golem 3/3]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Octoprophet
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Octoprophet]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 17
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 6 life
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages]
+Rand life: 19
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Faerie Miscreant ['Hard Cover', 'Sleep Paralysis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Faerie Miscreant ['Hard Cover', 'Sleep Paralysis']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island]
+Robo hand: [Planar Cleansing, Soulmender, Yoked Ox]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Yoked Ox
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'W': 1}
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island]
+Rand hand: [Herald of the Sun, Masterful Replication, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade]
+Rand life: 19
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Golem 3/3 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Masterful Replication
+ Targets:  [Masterful Replication targeting None]
+ Mode:  Create Golems
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Masterful Replication
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island, Plains, Yoked Ox]
+Robo hand: [Planar Cleansing, Soulmender]
+Robo life: 1
+stack: []
+Rand battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island, Golem 3/3, Golem 3/3]
+Rand hand: [Herald of the Sun, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade, Daybreak Chaplin]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Cavalier of Dawn
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Robo  battlefield: [Island, Faerie Miscreant ['Hard Cover', 'Sleep Paralysis'], Plains, Island, Island, Island, Plains, Island, Island, Island, Sleep Paralysis, Island, Plains, Island, Plains, Yoked Ox]
+Robo  hand: [Planar Cleansing, Soulmender]
+Robo  deck: [Moment of Heroism, Plains, Island, Gauntlet of Light, Raise the Alarm, Sephara, Sky's Blade, Devout Decree, Warden of Evos Isle, Plains, Island, Hard Cover, Boreal Elemental, Plains, Brineborn Cutthroat, Plains, Island, Plains, Disenchant, Cloudkin Seer, Cerulean Drake, Fortress Crab, Plains, Plains, Inspiring Captain, Island, Plains, Island, Sage's Row Denizen, Moat Piranhas, Plains, Frost Lynx, Island, Island, Plains, Island, Island, Island, Loyal Pegasus, Yarok's Wavecrasher, Captivating Gyre, Plains, Starfield Mystic, Plains, Island, Aerial Assault, Island, Tale's End, Daybreak Chaplin, Plains, Plains, Plains, Plains, Island, Zephyr Charge, Unsummon, Griffin Sentinel, Ajani, Strength of the Pride, Plains, Flood of Tears, Island, Plains, Plains, Island, Island, Inspired Charge, Plains, Portal of Sanctuary, Island, Metropolis Sprite, Island, Atemis, All-Seeing, Frilled Sea Serpent, Dawning Angel, Island, Herald of the Sun, Bone to Ash, Convolute, Plains, Glaring Aegis, Air Elemental, Plains, Winged Words, Island, Plains, Plains, Octoprophet, Plains, Spectral Sailor, Cavalier of Dawn, Plains, Island, Eternal Isolation, Loxodon Lifechanter, Island, Brought Back, Battalion Foot Soldier, Mu Yanling, Sky Dancer, Steadfast Sentry, Bishop of Wings, Squad Captain, Island, Island, Plains, Aether Gust, Moorland Inquisitor, Island, Masterful Replication, Plains, Leyline of Sanctity, Scholar of the Ages, Plains, Plains, Plains, Apostle of Purifying Light, Plains, Island, Cavalier of Gales, Gods Willing, Island, Fencing Ace, Plains, Ancestral Blade, Agent of Treachery, Plains, Griffin Protector, Pacifism, Negate, Angelic Gift, Renowned Weaponsmith, Island, Plains, Drawn from Dreams]
+Robo  graveyard: [Anticipate, Master Splicer, Island, Rule of Law, Island, Plains, Island, Plains, Island, Dungeon Geists, Angel of Vitality]
+Rand  battlefield: [Island, Hard Cover, Island, Plains, Plains, Octoprophet, Plains, Cavalier of Dawn, Golem 3/3, Ajani's Pridemate, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Zephyr Charge, Island, Golem 3/3, Golem 3/3]
+Rand  hand: [Herald of the Sun, Planar Cleansing, Scholar of the Ages, Sephara, Sky's Blade, Daybreak Chaplin]
+Rand  deck: [Island, Island, Dawning Angel, Dungeon Geists, Drawn from Dreams, Plains, Yarok's Wavecrasher, Faerie Miscreant, Plains, Flood of Tears, Air Elemental, Island, Brought Back, Island, Island, Island, Plains, Plains, Gods Willing, Agent of Treachery, Sleep Paralysis, Captivating Gyre, Cerulean Drake, Plains, Spectral Sailor, Plains, Plains, Tale's End, Plains, Island, Raise the Alarm, Atemis, All-Seeing, Loxodon Lifechanter, Pacifism, Yoked Ox, Bone to Ash, Plains, Plains, Devout Decree, Negate, Island, Aether Gust, Island, Cavalier of Gales, Aerial Assault, Plains, Plains, Loyal Pegasus, Ancestral Blade, Island, Plains, Winged Words, Hanged Executioner, Plains, Soulmender, Leyline of Sanctity, Island, Plains, Cloudkin Seer, Island, Island, Island, Island, Plains, Renowned Weaponsmith, Mu Yanling, Sky Dancer, Battalion Foot Soldier, Sage's Row Denizen, Plains, Plains, Plains, Island, Plains, Griffin Protector, Plains, Plains, Plains, Plains, Island, Griffin Sentinel, Island, Brineborn Cutthroat, Moment of Heroism, Inspiring Captain, Steadfast Sentry, Plains, Island, Plains, Apostle of Purifying Light, Frost Lynx, Bishop of Wings, Warden of Evos Isle, Starfield Mystic, Plains, Eternal Isolation, Island, Anticipate, Metropolis Sprite, Island, Island, Plains, Island, Convolute, Fencing Ace, Plains, Rule of Law, Inspired Charge, Island, Island, Island, Plains, Island, Island, Glaring Aegis, Plains, Island, Master Splicer, Angel of Vitality, Island, Island, Portal of Sanctuary, Island, Plains, Plains, Gauntlet of Light, Island, Frilled Sea Serpent, Unsummon, Plains, Plains, Island, Island, Plains, Island, Island, Boreal Elemental, Island, Plains, Plains, Moorland Inquisitor]
+Rand  graveyard: [Disenchant, Fortress Crab, Ajani, Strength of the Pride, Angelic Gift, Masterful Replication]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:03.812872
+Seed: 8131045427

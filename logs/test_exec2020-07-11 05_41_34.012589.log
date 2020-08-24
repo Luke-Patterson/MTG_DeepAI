@@ -1,0 +1,3705 @@
+Seed: 4670024547
+Rand draws 7 card
+Robo draws 7 card
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Island, Plains, Eternal Isolation, Dawning Angel, Plains, Daybreak Chaplin]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+Rand Passes
+Robo Passes
+Resolving Daybreak Chaplin
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Squad Captain, Plains, Moat Piranhas, Ancestral Blade, Plains, Tale's End]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Ancestral Blade
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade ETB
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Plains, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Plains]
+Robo life: 19
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains]
+Rand hand: [Island, Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cerulean Drake
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Plains, Moat Piranhas, Plains, Tale's End, Unsummon]
+Robo life: 19
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']]
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 19
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Frost Lynx
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+Frost Lynx Creature ETB targeting Soldier 1/1 ['Ancestral Blade']
+ Targets:  []
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains]
+Robo hand: [Squad Captain, Moat Piranhas, Plains, Tale's End, Unsummon, Island]
+Robo life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Soldier 1/1 ['Ancestral Blade'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moat Piranhas
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island]
+Rand hand: [Eternal Isolation, Dawning Angel, Drawn from Dreams]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Dawning Angel
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Plains]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin, Frost Lynx]
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Plains]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+Rand Playing Plains
+{'C': 2, 'U': 2}
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Daybreak Chaplin, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains]
+Rand hand: [Eternal Isolation, Drawn from Dreams]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Squad Captain, Plains, Tale's End, Unsummon, Plains]
+Robo life: 15
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Soldier 1/1 ['Ancestral Blade'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Daybreak Chaplin
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Unsummon
+ Targets:  [Unsummon targeting Daybreak Chaplin]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Unsummon]
+Resolving Unsummon
+Daybreak Chaplin bounced
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Moat Piranhas]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Daybreak Chaplin]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Moat Piranhas ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Daybreak Chaplin]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Moat Piranhas ['Ancestral Blade'], Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Daybreak Chaplin]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas, Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 15
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Daybreak Chaplin
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Sleep Paralysis]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas, Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake, Dawning Angel]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Drawn from Dreams, Sleep Paralysis]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas, Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Drawn from Dreams
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Drawn from Dreams
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Plains, Island, Moat Piranhas, Plains]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Soldier 1/1 ['Ancestral Blade'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Moat Piranhas]
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Moat Piranhas ['Ancestral Blade'], Plains, Island]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Moat Piranhas ['Ancestral Blade'], Plains, Island]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Eternal Isolation, Sleep Paralysis, Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Moat Piranhas ['Ancestral Blade'], Plains, Island]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspired Charge
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Inspired Charge
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Moat Piranhas ['Ancestral Blade']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Moat Piranhas ['Ancestral Blade']]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Eternal Isolation
+Rand battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand hand: [Sleep Paralysis, Island]
+Rand life: 24
+stack: []
+Robo battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Plains, Island]
+Robo hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake, Dawning Angel, Daybreak Chaplin]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 5 life
+Robo loses 3 life
+Rand  battlefield: [Island, Plains, Plains, Island, Cerulean Drake, Frost Lynx, Island, Dawning Angel, Plains, Daybreak Chaplin]
+Rand  hand: [Sleep Paralysis, Island]
+Rand  deck: [Island, Cavalier of Gales, Warden of Evos Isle, Island, Moorland Inquisitor, Bone to Ash, Planar Cleansing, Plains, Moat Piranhas, Plains, Yoked Ox, Island, Boreal Elemental, Island, Leyline of Sanctity, Island, Agent of Treachery, Island, Island, Plains, Rule of Law, Loxodon Lifechanter, Island, Soulmender, Island, Devout Decree, Octoprophet, Plains, Plains, Steadfast Sentry, Battalion Foot Soldier, Aether Gust, Island, Island, Gods Willing, Angel of Vitality, Island, Island, Moment of Heroism, Hard Cover, Plains, Fortress Crab, Griffin Protector, Starfield Mystic, Island, Plains, Island, Flood of Tears, Air Elemental, Negate, Plains, Plains, Mu Yanling, Sky Dancer, Fencing Ace, Island, Apostle of Purifying Light, Plains, Loyal Pegasus, Plains, Island, Herald of the Sun, Plains, Island, Plains, Ancestral Blade, Island, Renowned Weaponsmith, Plains, Winged Words, Cavalier of Dawn, Plains, Disenchant, Hanged Executioner, Island, Island, Island, Plains, Scholar of the Ages, Gauntlet of Light, Plains, Bishop of Wings, Dungeon Geists, Captivating Gyre, Plains, Sephara, Sky's Blade, Zephyr Charge, Island, Island, Frilled Sea Serpent, Portal of Sanctuary, Island, Squad Captain, Plains, Brought Back, Island, Pacifism, Aerial Assault, Island, Brineborn Cutthroat, Island, Sage's Row Denizen, Island, Island, Master Splicer, Angelic Gift, Plains, Plains, Raise the Alarm, Island, Unsummon, Plains, Island, Anticipate, Plains, Plains, Plains, Metropolis Sprite, Island, Ajani, Strength of the Pride, Plains, Plains, Masterful Replication, Plains, Plains, Cloudkin Seer, Griffin Sentinel, Inspiring Captain, Plains, Plains, Plains, Plains, Convolute, Atemis, All-Seeing, Plains, Yarok's Wavecrasher, Island, Island, Island, Plains, Glaring Aegis, Plains, Plains, Island, Spectral Sailor, Plains, Faerie Miscreant, Tale's End]
+Rand  graveyard: [Drawn from Dreams, Inspired Charge, Eternal Isolation]
+Robo  battlefield: [Plains, Plains, Ancestral Blade, Soldier 1/1, Plains, Plains, Island, Plains, Island]
+Robo  hand: [Squad Captain, Tale's End, Plains, Cloudkin Seer]
+Robo  deck: [Moorland Inquisitor, Island, Steadfast Sentry, Moment of Heroism, Plains, Island, Herald of the Sun, Plains, Daybreak Chaplin, Pacifism, Island, Aether Gust, Island, Island, Bishop of Wings, Fencing Ace, Negate, Plains, Island, Raise the Alarm, Plains, Island, Plains, Hanged Executioner, Renowned Weaponsmith, Yoked Ox, Plains, Island, Plains, Planar Cleansing, Plains, Inspiring Captain, Loyal Pegasus, Island, Plains, Plains, Plains, Gauntlet of Light, Frilled Sea Serpent, Sephara, Sky's Blade, Griffin Sentinel, Plains, Masterful Replication, Glaring Aegis, Sage's Row Denizen, Battalion Foot Soldier, Island, Plains, Island, Island, Island, Air Elemental, Island, Bone to Ash, Warden of Evos Isle, Island, Portal of Sanctuary, Angelic Gift, Island, Agent of Treachery, Plains, Island, Island, Island, Plains, Island, Sleep Paralysis, Cerulean Drake, Plains, Island, Plains, Master Splicer, Zephyr Charge, Plains, Frost Lynx, Dungeon Geists, Island, Plains, Winged Words, Eternal Isolation, Island, Drawn from Dreams, Cavalier of Gales, Plains, Gods Willing, Anticipate, Plains, Rule of Law, Brought Back, Starfield Mystic, Plains, Faerie Miscreant, Convolute, Scholar of the Ages, Soulmender, Cavalier of Dawn, Island, Metropolis Sprite, Leyline of Sanctity, Boreal Elemental, Apostle of Purifying Light, Island, Mu Yanling, Sky Dancer, Spectral Sailor, Island, Plains, Island, Ajani, Strength of the Pride, Island, Hard Cover, Captivating Gyre, Plains, Griffin Protector, Dawning Angel, Island, Plains, Atemis, All-Seeing, Island, Inspired Charge, Plains, Plains, Devout Decree, Island, Fortress Crab, Island, Plains, Plains, Plains, Island, Brineborn Cutthroat, Aerial Assault, Plains, Island, Yarok's Wavecrasher, Island, Octoprophet, Island, Disenchant, Island, Plains, Flood of Tears, Island, Island, Plains, Plains, Angel of Vitality, Plains, Moat Piranhas, Loxodon Lifechanter]
+Robo  graveyard: [Unsummon]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:00.124666
+Seed: 4670024547

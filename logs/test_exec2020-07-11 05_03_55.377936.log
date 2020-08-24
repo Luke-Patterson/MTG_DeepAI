@@ -1,0 +1,4521 @@
+Seed: 6492921652
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Plains, Winged Words, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Plains, Winged Words, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Plains, Winged Words, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Anticipate, Cavalier of Dawn, Plains, Plains, Negate, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Anticipate
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Anticipate
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Island, Pacifism]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+Robo Playing Island
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+Robo Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake]
+Rand hand: [Plains, Island, Plains, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Pacifism, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake, Plains]
+Rand hand: [Plains, Island, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Cerulean Drake
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Pacifism
+ Targets:  [Pacifism targeting Cerulean Drake]
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Pacifism
+Robo battlefield: [Island, Plains, Island, Pacifism]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains]
+Rand hand: [Plains, Island, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Pacifism]
+Robo hand: [Cavalier of Dawn, Plains, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains]
+Rand hand: [Plains, Island, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Robo Playing Plains
+{'C': 2, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains]
+Rand hand: [Plains, Island, Winged Words, Plains, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Winged Words
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Winged Words
+Rand draws 2 card
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains]
+Robo hand: [Cavalier of Dawn, Plains, Negate, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cavalier of Dawn
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Cavalier of Dawn
+ Targets:  []
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cavalier of Dawn ETB
+Cavalier of Dawn is destroyed
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island]
+Rand hand: [Plains, Island, Plains, Island, Warden of Evos Isle, Portal of Sanctuary, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Warden of Evos Isle
+Rand Passes
+Robo Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3]
+Robo hand: [Negate, Aerial Assault, Island, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Master Splicer ETB
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Master Splicer ETB]
+Robo Passes
+Rand Passes
+Stack: [Master Splicer ETB, Negate]
+Resolving Negate
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 16
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Anticipate
+Rand Passes
+Robo Passes
+Resolving Anticipate
+Phase: First Main
+{'C': 2, 'U': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle, Yoked Ox]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle, Yoked Ox]
+Rand hand: [Island, Plains, Island, Portal of Sanctuary, Plains, Island]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Portal of Sanctuary
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer]
+Robo hand: [Aerial Assault, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle, Yoked Ox, Island, Portal of Sanctuary]
+Rand hand: [Island, Plains, Island, Plains]
+Rand life: 16
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fencing Ace
+Robo Passes
+Rand Passes
+Resolving Fencing Ace
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace]
+Robo hand: [Aerial Assault, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Warden of Evos Isle, Yoked Ox, Island, Portal of Sanctuary]
+Rand hand: [Island, Plains, Island, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3, Master Splicer]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Warden of Evos Isle, Yoked Ox]
+Warden of Evos Isle is blocking Golem 3/3
+Yoked Ox is blocking Golem 3/3
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Warden of Evos Isle has taken lethal damage: 2
+Warden of Evos Isle dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace]
+Robo hand: [Aerial Assault, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Yoked Ox, Island, Portal of Sanctuary]
+Rand hand: [Island, Plains, Island, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Steadfast Sentry
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace, Steadfast Sentry]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Yoked Ox, Island, Portal of Sanctuary]
+Rand hand: [Island, Plains, Island, Plains]
+Rand life: 15
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Yoked Ox
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Yoked Ox]
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Yoked Ox bounced
+Phase: First Main
+{'W': 1}
+{'C': 1}
+Rand Playing Island
+{'W': 1}
+{'C': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Yoked Ox
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Yoked Ox
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace, Steadfast Sentry]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Island, Portal of Sanctuary, Island, Yoked Ox]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace, Steadfast Sentry]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Island, Portal of Sanctuary, Island, Yoked Ox]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Pacifism, Plains, Plains, Golem 3/3, Island, Master Splicer, Fencing Ace, Steadfast Sentry]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Cerulean Drake ['Pacifism'], Plains, Island, Plains, Island, Portal of Sanctuary, Island, Yoked Ox]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Planar Cleansing
+Robo Passes
+Rand Passes
+Resolving Planar Cleansing
+Pacifism is destroyed
+Golem 3/3 is destroyed
+Master Splicer is destroyed
+Fencing Ace is destroyed
+Steadfast Sentry is destroyed
+Cerulean Drake is destroyed
+Portal of Sanctuary is destroyed
+Yoked Ox is destroyed
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2, 'C': 2}
+Rand Playing Island
+{'W': 2, 'C': 2}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Leyline of Sanctity
+Rand Passes
+Robo Passes
+Resolving Leyline of Sanctity
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moat Piranhas
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains]
+Rand hand: [Plains, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Drawn from Dreams
+Robo Passes
+Rand Passes
+Resolving Drawn from Dreams
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island]
+Robo hand: [Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island]
+Rand hand: [Plains, Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Squad Captain
+Rand Passes
+Robo Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 0 +1/+1 counters
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain]
+Rand hand: [Plains, Plains]
+Rand life: 15
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Squad Captain, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Squad Captain
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Squad Captain has taken lethal damage: 3
+Squad Captain dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Convolute]
+Rand life: 15
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Boreal Elemental
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Boreal Elemental
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Convolute
+ Targets:  [Convolute targeting Boreal Elemental]
+Rand Passes
+Robo Passes
+Stack: [Boreal Elemental, Convolute]
+Resolving Convolute
+{'C': 4}
+Rand does not pay for Convolute
+Boreal Elemental is countered
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Leyline of Sanctity, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Leyline of Sanctity
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Leyline of Sanctity]
+Rand Passes
+Robo Passes
+Resolving Disenchant
+Leyline of Sanctity is destroyed
+Phase: First Main
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas, Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Moat Piranhas
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Moat Piranhas]
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Sleep Paralysis'], Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Sleep Paralysis]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Sleep Paralysis'], Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Sleep Paralysis]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Sleep Paralysis'], Island, Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Sleep Paralysis]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Moat Piranhas ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+Rand Passes
+Resolving Loyal Pegasus
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Sleep Paralysis'], Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Sleep Paralysis]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Sleep Paralysis'], Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: [Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Sleep Paralysis]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Moat Piranhas ['Sleep Paralysis']
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Moat Piranhas ['Sleep Paralysis']]
+Robo Passes
+Rand Passes
+Resolving Aerial Assault
+Moat Piranhas is destroyed
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Renowned Weaponsmith
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Renowned Weaponsmith]
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Moment of Heroism
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fortress Crab
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Fortress Crab
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: [Moat Piranhas]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island]
+Rand hand: [Moat Piranhas]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Moat Piranhas
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Dawning Angel
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: [Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Renowned Weaponsmith, Fortress Crab, Island, Moat Piranhas, Dawning Angel]
+Rand hand: [Cavalier of Dawn]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Renowned Weaponsmith
+ Targets:  []
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Renowned Weaponsmith is destroyed
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+Rand Passes
+Resolving Brineborn Cutthroat
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Brineborn Cutthroat]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Brineborn Cutthroat]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Brineborn Cutthroat]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 24 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Brineborn Cutthroat]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Dawning Angel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Brineborn Cutthroat]
+Brineborn Cutthroat is blocking Fortress Crab
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Brineborn Cutthroat has taken lethal damage: 1
+Brineborn Cutthroat dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 24 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Ancestral Blade
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade ETB
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']]
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 25 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Loyal Pegasus, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel, Cavalier of Dawn]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Loyal Pegasus]
+Loyal Pegasus is blocking Cavalier of Dawn
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Loyal Pegasus has taken lethal damage: 4
+Loyal Pegasus dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Moat Piranhas, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 25 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Moat Piranhas
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Moat Piranhas]
+Robo Passes
+Rand Passes
+Stack: [Hanged Executioner ETB, Hanged Executioner ability]
+Resolving Hanged Executioner ability
+Rand exiles Moat Piranhas
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Spirit 1/1 Flying
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Spirit 1/1 Flying]
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Fortress Crab, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 26 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher
+Rand Passes
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Fortress Crab bounced
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: []
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher]
+Rand hand: [Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: []
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher]
+Rand hand: [Fortress Crab]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Fortress Crab
+Rand Passes
+Robo Passes
+Resolving Fortress Crab
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: []
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 26 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Spirit 1/1 Flying]
+Robo hand: [Devout Decree]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Soldier 1/1 ['Ancestral Blade'], Spirit 1/1 Flying]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Fortress Crab]
+Fortress Crab is blocking Soldier 1/1 ['Ancestral Blade']
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Spirit 1/1 Flying]
+Robo hand: [Devout Decree]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Spirit 1/1 Flying
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Spirit 1/1 Flying]
+Robo Passes
+Rand Passes
+Resolving Ancestral Blade equip abil
+Soldier 1/1 has taken lethal damage: 1
+Soldier 1/1 dies
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: [Devout Decree]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Turn 27 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: [Devout Decree]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3]
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: [Devout Decree]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: [Devout Decree]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Turn 27 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Spirit 1/1 Flying ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Spirit 1/1 Flying ['Ancestral Blade']]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Spirit 1/1 Flying ['Ancestral Blade']]
+Robo hand: [Devout Decree, Herald of the Sun]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Dawning Angel, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Spirit 1/1 Flying ['Ancestral Blade']]
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Dawning Angel]
+Dawning Angel is blocking Spirit 1/1 Flying ['Ancestral Blade']
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Spirit 1/1 Flying ['Ancestral Blade'] has taken lethal damage: 3
+Spirit 1/1 Flying ['Ancestral Blade'] dies
+Dawning Angel has taken lethal damage: 2
+Dawning Angel dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade]
+Robo hand: [Devout Decree, Herald of the Sun]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Herald of the Sun
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun
+Phase: End Phase
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun]
+Robo hand: [Devout Decree]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: []
+Rand life: 18
+stack: []
+None
+Turn 28 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun]
+Robo hand: [Devout Decree]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: [Loyal Pegasus]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher]
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun]
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun]
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Herald of the Sun ability, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Herald of the Sun ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Devout Decree]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender]
+Rand hand: [Loyal Pegasus]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loyal Pegasus
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Loyal Pegasus
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Devout Decree]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 28 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Herald of the Sun ability, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Herald of the Sun ability, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Herald of the Sun ability, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun ability
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Devout Decree, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Devout Decree, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 3, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+Ancestral Blade equip abil targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', 'Ancestral Blade']]
+Robo hand: [Devout Decree, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus]
+Rand hand: []
+Rand life: 19
+stack: []
+None
+Turn 29 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 0}
+Rand Playing Island
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Robo battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', 'Ancestral Blade']]
+Robo hand: [Devout Decree, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3, Fortress Crab, Loyal Pegasus]
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', 'Ancestral Blade']]
+Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', 'Ancestral Blade'] is blocking Fortress Crab
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 2 life
+Robo  battlefield: [Island, Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Plains, Island, Ancestral Blade, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter', 'Ancestral Blade']]
+Robo  hand: [Devout Decree, Daybreak Chaplin]
+Robo  deck: [Agent of Treachery, Plains, Cerulean Drake, Boreal Elemental, Plains, Angel of Vitality, Island, Flood of Tears, Plains, Plains, Glaring Aegis, Island, Plains, Sleep Paralysis, Eternal Isolation, Portal of Sanctuary, Island, Plains, Island, Plains, Island, Soulmender, Loxodon Lifechanter, Island, Plains, Disenchant, Island, Squad Captain, Dawning Angel, Unsummon, Sage's Row Denizen, Yarok's Wavecrasher, Plains, Spectral Sailor, Plains, Plains, Renowned Weaponsmith, Sephara, Sky's Blade, Cloudkin Seer, Warden of Evos Isle, Plains, Island, Island, Inspiring Captain, Island, Atemis, All-Seeing, Plains, Island, Plains, Octoprophet, Leyline of Sanctity, Mu Yanling, Sky Dancer, Island, Metropolis Sprite, Island, Plains, Cavalier of Gales, Masterful Replication, Plains, Island, Gods Willing, Island, Apostle of Purifying Light, Plains, Island, Island, Griffin Protector, Plains, Raise the Alarm, Island, Gauntlet of Light, Starfield Mystic, Island, Air Elemental, Island, Plains, Moorland Inquisitor, Yoked Ox, Island, Plains, Hard Cover, Bone to Ash, Angelic Gift, Plains, Island, Plains, Tale's End, Frost Lynx, Battalion Foot Soldier, Island, Winged Words, Plains, Plains, Island, Plains, Plains, Fortress Crab, Inspired Charge, Plains, Bishop of Wings, Island, Brought Back, Island, Island, Dungeon Geists, Convolute, Plains, Griffin Sentinel, Island, Faerie Miscreant, Plains, Plains, Zephyr Charge, Island, Aether Gust, Plains, Scholar of the Ages, Rule of Law, Captivating Gyre, Plains, Frilled Sea Serpent, Plains, Island, Island, Ajani, Strength of the Pride, Island]
+Robo  graveyard: [Anticipate, Cavalier of Dawn, Negate, Pacifism, Master Splicer, Fencing Ace, Steadfast Sentry, Planar Cleansing, Drawn from Dreams, Moat Piranhas, Aerial Assault, Moment of Heroism, Brineborn Cutthroat, Loyal Pegasus]
+Rand  battlefield: [Plains, Island, Plains, Island, Plains, Island, Island, Island, Plains, Island, Plains, Plains, Plains, Island, Island, Cavalier of Dawn, Golem 3/3, Plains, Island, Yarok's Wavecrasher, Fortress Crab, Soulmender, Loyal Pegasus, Island]
+Rand  hand: []
+Rand  deck: [Plains, Atemis, All-Seeing, Island, Island, Island, Moment of Heroism, Island, Metropolis Sprite, Island, Plains, Island, Plains, Island, Ancestral Blade, Dungeon Geists, Mu Yanling, Sky Dancer, Daybreak Chaplin, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Inspiring Captain, Masterful Replication, Raise the Alarm, Glaring Aegis, Steadfast Sentry, Plains, Plains, Cloudkin Seer, Flood of Tears, Plains, Bishop of Wings, Angelic Gift, Ajani, Strength of the Pride, Island, Island, Island, Unsummon, Plains, Griffin Protector, Frilled Sea Serpent, Sage's Row Denizen, Plains, Bone to Ash, Gauntlet of Light, Herald of the Sun, Aerial Assault, Island, Island, Griffin Sentinel, Island, Octoprophet, Island, Plains, Island, Gods Willing, Hanged Executioner, Plains, Plains, Moorland Inquisitor, Plains, Scholar of the Ages, Island, Plains, Island, Hard Cover, Island, Planar Cleansing, Frost Lynx, Fencing Ace, Rule of Law, Aether Gust, Plains, Brought Back, Zephyr Charge, Plains, Plains, Air Elemental, Plains, Faerie Miscreant, Plains, Battalion Foot Soldier, Drawn from Dreams, Island, Plains, Island, Plains, Island, Plains, Pacifism, Island, Island, Eternal Isolation, Plains, Island, Captivating Gyre, Brineborn Cutthroat, Negate, Devout Decree, Island, Spectral Sailor, Island, Island, Inspired Charge, Plains, Plains, Plains, Plains, Cavalier of Gales, Apostle of Purifying Light, Island, Plains, Island, Agent of Treachery, Plains, Angel of Vitality, Plains, Loxodon Lifechanter, Starfield Mystic, Master Splicer, Tale's End, Island, Plains]
+Rand  graveyard: [Winged Words, Anticipate, Warden of Evos Isle, Cerulean Drake, Portal of Sanctuary, Yoked Ox, Squad Captain, Boreal Elemental, Convolute, Leyline of Sanctity, Disenchant, Sleep Paralysis, Renowned Weaponsmith, Dawning Angel]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:06.199524
+Seed: 6492921652

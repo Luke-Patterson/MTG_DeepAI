@@ -1,0 +1,4583 @@
+Seed: 2184460446
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Robo draws 6 card
+Robo mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Plains, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Plains, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Plains
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Island, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo discards Island
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Faerie Miscreant, Island, Sleep Paralysis, Winged Words, Cavalier of Dawn]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Warden of Evos Isle, Moat Piranhas, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moat Piranhas
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Winged Words, Cavalier of Dawn, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Winged Words
+Rand Passes
+Robo Passes
+Resolving Winged Words
+Rand draws 2 card
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas]
+Robo hand: [Island, Warden of Evos Isle, Island, Plains, Island, Island]
+Robo life: 19
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Warden of Evos Isle
+Robo Passes
+Rand Passes
+Resolving Warden of Evos Isle
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island]
+Rand hand: [Inspiring Captain, Cloudkin Seer, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer
+Rand Passes
+Robo Passes
+Resolving Cloudkin Seer ETB abil
+Rand draws 1 card
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains, Dungeon Geists, Gods Willing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+{'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Plains, Dungeon Geists, Gods Willing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'W': 1}
+{'W': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Faerie Miscreant
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Faerie Miscreant]
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle]
+Robo hand: [Island, Island, Plains, Island, Cavalier of Gales]
+Robo life: 19
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 3}
+Robo Playing Island
+{'C': 1, 'U': 3}
+{'C': 1, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cavalier of Gales
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales ETB
+Robo draws 3 card
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Cloudkin Seer, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Warden of Evos Isle, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cloudkin Seer]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Warden of Evos Isle, Cavalier of Gales]
+Warden of Evos Isle is blocking Cloudkin Seer
+Cavalier of Gales is blocking Cloudkin Seer
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Cloudkin Seer has taken lethal damage: 7
+Cloudkin Seer dies
+Warden of Evos Isle has taken lethal damage: 2
+Warden of Evos Isle dies
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales]
+Robo hand: [Island, Plains, Island, Cerulean Drake, Plains]
+Robo life: 19
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Cerulean Drake
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake]
+Robo hand: [Island, Plains, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake]
+Robo hand: [Island, Plains, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Dungeon Geists, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 3}
+{'U': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dungeon Geists
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Cerulean Drake
+ Targets:  []
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Dungeon Geists ETB abil
+Rand battlefield: [Plains, Island, Faerie Miscreant, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Plains, Planar Cleansing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Faerie Miscreant
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Faerie Miscreant has taken lethal damage: 3
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Plains, Planar Cleansing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Planar Cleansing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains]
+Robo hand: [Island, Island, Plains, Plains]
+Robo life: 19
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Planar Cleansing]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Gales]
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Planar Cleansing]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists, Plains]
+Rand hand: [Inspiring Captain, Sleep Paralysis, Cavalier of Dawn, Planar Cleansing]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Dungeon Geists
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Dungeon Geists]
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Resolving Anticipate
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Gales]
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Inspired Charge]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'U': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspired Charge
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Inspired Charge
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island]
+Robo hand: [Island, Plains, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+Robo Playing Plains
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis]
+Rand hand: [Inspiring Captain, Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspiring Captain
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Cerulean Drake, Plains, Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Island, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Cerulean Drake does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Cerulean Drake
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Cerulean Drake]
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Aerial Assault
+Cerulean Drake is destroyed
+Robo gains 1 life
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light, Fortress Crab]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fortress Crab
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Fortress Crab
+Rand battlefield: [Plains, Island, Island, Plains, Island, Renowned Weaponsmith, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Renowned Weaponsmith, Inspiring Captain]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Loyal Pegasus]
+Moat Piranhas is blocking Renowned Weaponsmith
+Loyal Pegasus is blocking Renowned Weaponsmith
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Renowned Weaponsmith has taken lethal damage: 5
+Renowned Weaponsmith dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Apostle of Purifying Light]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Apostle of Purifying Light]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains]
+Robo hand: [Island, Island]
+Robo life: 17
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Resolving Brineborn Cutthroat
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Apostle of Purifying Light]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Apostle of Purifying Light]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Apostle of Purifying Light]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat, Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Warden of Evos Isle
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Warden of Evos Isle]
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Warden of Evos Isle
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Warden of Evos Isle]
+{'C': 2}
+Rand Passes
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Warden of Evos Isle
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 1, 'U': 1}
+{'C': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Stack: [Moat Piranhas, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Resolving Moat Piranhas
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Apostle of Purifying Light, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Cavalier of Gales, Loyal Pegasus, Brineborn Cutthroat ['+1/+1 counter']]
+Moat Piranhas is blocking Apostle of Purifying Light
+Cavalier of Gales is blocking Apostle of Purifying Light
+Loyal Pegasus is blocking Apostle of Purifying Light
+Brineborn Cutthroat ['+1/+1 counter'] is blocking Apostle of Purifying Light
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Apostle of Purifying Light has taken lethal damage: 13
+Apostle of Purifying Light dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island]
+Robo hand: [Island]
+Robo life: 17
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Loyal Pegasus, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Island]
+Robo hand: [Plains]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Loyal Pegasus, Brineborn Cutthroat ['+1/+1 counter']]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain, Fortress Crab]
+Inspiring Captain is blocking Loyal Pegasus
+Fortress Crab is blocking Loyal Pegasus
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Loyal Pegasus has taken lethal damage: 4
+Loyal Pegasus dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Island]
+Robo hand: [Plains]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Inspiring Captain, Island, Fortress Crab, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Planar Cleansing]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Cavalier of Gales, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter'], Island, Island]
+Robo hand: [Plains]
+Robo life: 17
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cavalier of Gales
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Inspiring Captain
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Moat Piranhas
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Cavalier of Gales, Captivating Gyre targeting Inspiring Captain, Captivating Gyre targeting Moat Piranhas]
+Rand Passes
+Robo Passes
+Stack: [Captivating Gyre, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Captivating Gyre
+Cavalier of Gales bounced
+Inspiring Captain bounced
+Moat Piranhas bounced
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island]
+Robo hand: [Plains, Cavalier of Gales]
+Robo life: 16
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cavalier of Gales
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales
+Robo Passes
+Rand Passes
+Resolving Cavalier of Gales ETB
+Robo draws 3 card
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island, Cavalier of Gales]
+Robo hand: [Plains, Gods Willing, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Cavalier of Gales
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Cavalier of Gales]
+Robo Passes
+Rand Passes
+Resolving Gods Willing
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island, Cavalier of Gales]
+Robo hand: [Plains, Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Dungeon Geists ['Sleep Paralysis'], Plains, Sleep Paralysis, Island, Fortress Crab]
+Rand hand: [Cavalier of Dawn, Planar Cleansing, Inspiring Captain, Moat Piranhas]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Moat Piranhas, Island, Island, Plains, Island, Island, Plains, Plains, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Island, Island, Cavalier of Gales, Plains]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Dungeon Geists ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Planar Cleansing
+Rand Passes
+Robo Passes
+Stack: [Planar Cleansing, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Planar Cleansing
+Dungeon Geists is destroyed
+Fortress Crab is destroyed
+Moat Piranhas is destroyed
+Brineborn Cutthroat ['+1/+1 counter'] is destroyed
+Cavalier of Gales is destroyed
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Cavalier of Dawn, Inspiring Captain, Moat Piranhas, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Cavalier of Dawn, Inspiring Captain, Moat Piranhas, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+Robo Passes
+Resolving Moat Piranhas
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Inspiring Captain]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frilled Sea Serpent
+Robo Passes
+Rand Passes
+Resolving Frilled Sea Serpent
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Inspiring Captain]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Inspiring Captain]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent]
+Robo hand: [Plains]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas]
+Rand hand: [Cavalier of Dawn, Inspiring Captain]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Inspiring Captain
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Island]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain]
+Rand hand: [Cavalier of Dawn, Island]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain, Island]
+Rand hand: [Cavalier of Dawn]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Inspiring Captain
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Inspiring Captain]
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain ['Sleep Paralysis'], Island]
+Rand hand: [Cavalier of Dawn]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain ['Sleep Paralysis'], Island]
+Rand hand: [Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain ['Sleep Paralysis'], Island]
+Rand hand: [Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Inspiring Captain ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Warden of Evos Isle
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Warden of Evos Isle
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain ['Sleep Paralysis'], Island, Warden of Evos Isle]
+Rand hand: [Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Moat Piranhas, Inspiring Captain ['Sleep Paralysis'], Island, Warden of Evos Isle]
+Rand hand: [Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Moat Piranhas
+ Targets:  []
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Moat Piranhas is destroyed
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Warden of Evos Isle, Cavalier of Dawn, Golem 3/3]
+Rand hand: []
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Frilled Sea Serpent, Plains, Sleep Paralysis]
+Robo hand: []
+Robo life: 16
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Frilled Sea Serpent
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Warden of Evos Isle
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cavalier of Dawn
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Frilled Sea Serpent, Captivating Gyre targeting Warden of Evos Isle, Captivating Gyre targeting Cavalier of Dawn]
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Captivating Gyre
+Frilled Sea Serpent bounced
+Warden of Evos Isle bounced
+Cavalier of Dawn bounced
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Inspiring Captain ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 16
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frilled Sea Serpent
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Frilled Sea Serpent
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Frilled Sea Serpent ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Inspiring Captain ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains, Island]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains, Island]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 5, 'U': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains, Island]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent]
+Robo hand: [Hanged Executioner]
+Robo life: 16
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+{'C': 5, 'U': 2}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+Robo Activating Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Hanged Executioner ETB, Frilled Sea Serpent ability]
+Resolving Frilled Sea Serpent ability
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Hanged Executioner ETB
+Rand battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains, Island]
+Rand hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Fencing Ace]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: [Frilled Sea Serpent]
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Rand  battlefield: [Plains, Island, Island, Plains, Island, Plains, Island, Plains, Inspiring Captain ['Sleep Paralysis'], Island, Golem 3/3, Plains, Island]
+Rand  hand: [Warden of Evos Isle, Cavalier of Dawn]
+Rand  deck: [Island, Atemis, All-Seeing, Devout Decree, Cavalier of Gales, Drawn from Dreams, Plains, Plains, Island, Scholar of the Ages, Unsummon, Island, Plains, Plains, Plains, Plains, Disenchant, Ancestral Blade, Island, Yarok's Wavecrasher, Angelic Gift, Aether Gust, Plains, Hard Cover, Plains, Island, Island, Island, Plains, Island, Dawning Angel, Plains, Starfield Mystic, Hanged Executioner, Raise the Alarm, Island, Loyal Pegasus, Moorland Inquisitor, Plains, Plains, Fencing Ace, Island, Agent of Treachery, Island, Daybreak Chaplin, Anticipate, Eternal Isolation, Pacifism, Island, Gauntlet of Light, Island, Griffin Sentinel, Island, Bishop of Wings, Flood of Tears, Squad Captain, Island, Plains, Island, Plains, Cerulean Drake, Frost Lynx, Convolute, Island, Island, Island, Plains, Island, Plains, Sage's Row Denizen, Plains, Island, Plains, Island, Air Elemental, Master Splicer, Plains, Island, Portal of Sanctuary, Plains, Spectral Sailor, Bone to Ash, Ajani, Strength of the Pride, Battalion Foot Soldier, Aerial Assault, Steadfast Sentry, Island, Plains, Island, Rule of Law, Island, Zephyr Charge, Tale's End, Plains, Metropolis Sprite, Plains, Soulmender, Plains, Angel of Vitality, Negate, Island, Island, Island, Leyline of Sanctity, Plains, Griffin Protector, Plains, Brought Back, Frilled Sea Serpent, Mu Yanling, Sky Dancer, Brineborn Cutthroat, Plains, Island, Octoprophet, Sephara, Sky's Blade, Yoked Ox, Plains, Plains, Island, Island, Loxodon Lifechanter, Masterful Replication, Plains, Glaring Aegis, Herald of the Sun, Plains, Boreal Elemental, Plains, Island, Island, Plains, Plains, Plains, Moment of Heroism, Island]
+Rand  graveyard: [Plains, Winged Words, Gods Willing, Cloudkin Seer, Faerie Miscreant, Inspired Charge, Renowned Weaponsmith, Apostle of Purifying Light, Captivating Gyre, Sleep Paralysis, Dungeon Geists, Fortress Crab, Planar Cleansing, Moat Piranhas]
+Robo  battlefield: [Island, Island, Island, Island, Plains, Island, Island, Plains, Plains, Island, Island, Plains, Plains, Sleep Paralysis, Frilled Sea Serpent, Hanged Executioner, Spirit 1/1 Flying]
+Robo  hand: [Fencing Ace]
+Robo  deck: [Plains, Herald of the Sun, Plains, Plains, Island, Inspired Charge, Agent of Treachery, Angel of Vitality, Faerie Miscreant, Plains, Plains, Island, Atemis, All-Seeing, Plains, Island, Aether Gust, Spectral Sailor, Devout Decree, Island, Island, Moorland Inquisitor, Island, Plains, Steadfast Sentry, Fortress Crab, Island, Island, Island, Renowned Weaponsmith, Island, Angelic Gift, Battalion Foot Soldier, Planar Cleansing, Plains, Island, Island, Plains, Mu Yanling, Sky Dancer, Glaring Aegis, Brought Back, Flood of Tears, Rule of Law, Island, Hard Cover, Island, Moment of Heroism, Apostle of Purifying Light, Starfield Mystic, Island, Disenchant, Convolute, Yoked Ox, Ajani, Strength of the Pride, Island, Zephyr Charge, Plains, Island, Island, Dawning Angel, Master Splicer, Plains, Cavalier of Dawn, Plains, Plains, Island, Plains, Sephara, Sky's Blade, Ancestral Blade, Eternal Isolation, Plains, Plains, Boreal Elemental, Island, Plains, Inspiring Captain, Plains, Plains, Dungeon Geists, Portal of Sanctuary, Tale's End, Air Elemental, Plains, Griffin Protector, Island, Masterful Replication, Plains, Squad Captain, Plains, Plains, Griffin Sentinel, Plains, Plains, Plains, Frost Lynx, Gauntlet of Light, Pacifism, Island, Island, Plains, Loxodon Lifechanter, Plains, Metropolis Sprite, Bone to Ash, Negate, Plains, Plains, Scholar of the Ages, Leyline of Sanctity, Plains, Cloudkin Seer, Island, Unsummon, Island, Plains, Soulmender, Island, Bishop of Wings, Island, Island, Octoprophet, Daybreak Chaplin, Island, Plains, Yarok's Wavecrasher, Drawn from Dreams, Plains, Raise the Alarm, Plains, Island, Plains, Island, Sage's Row Denizen, Winged Words]
+Robo  graveyard: [Island, Island, Anticipate, Cerulean Drake, Aerial Assault, Loyal Pegasus, Gods Willing, Moat Piranhas, Brineborn Cutthroat ['+1/+1 counter'], Cavalier of Gales, Captivating Gyre]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:06.178605
+Seed: 2184460446

@@ -1,0 +1,35 @@
+list of trigger check points and locations
+
+begin_turn: effects that check at very beginning of turns, Game
+Beginning of Phases - all Game
+untap
+upkeep
+draw step
+first main
+beginning of combat
+end of combat
+second main
+end phase
+
+When object entering field: 'enter field', Card_types
+
+When life is gained: 'lifegain', Player
+
+When card is discarded: 'discard', Card_types
+
+when object leaves field and goes to graveyard: 'to_graveyard_from_field', Zones
+
+when creature or planeswalker leaves field and goes to graveyard: 'dies', Zones
+
+
+When a creature attacks: 'on attack', Card_types
+
+When a creature blocks: 'on block', Card_types
+
+When a spell is cast: 'cast spell', card_types
+
+When a card goes to graveyard from anywhere: 'graveyard_from_anywhere', Zones
+
+when an ability is activated: 'abil activated', abilities_effects
+
+When combat damage is dealt: 'combat damage dealt', Card_types

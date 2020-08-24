@@ -1,0 +1,5026 @@
+Seed: 8968895594
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'W': 2}
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+{'W': 2}
+{'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Island, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Island, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Loyal Pegasus, Island, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Plains, Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Unsummon]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'U': 1}
+Unsummon targeting Faerie Miscreant
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Unsummon
+ Targets:  [Unsummon targeting Faerie Miscreant]
+Rand Passes
+Robo Passes
+Resolving Unsummon
+Faerie Miscreant bounced
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'W': 2}
+{'U': 1}
+Rand Playing Plains
+{'U': 1}
+{'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'W': 2}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Island, Griffin Sentinel]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+Robo Playing Island
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Faerie Miscreant, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'W': 2}
+{'U': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Rand battlefield: [Island, Plains, Faerie Miscreant]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Island, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant]
+Rand hand: [Spectral Sailor, Bishop of Wings, Bone to Ash, Plains, Island, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'W': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'U': 1}
+{'W': 2}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Spectral Sailor
+{'C': 2, 'U': 2}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor]
+Rand hand: [Bishop of Wings, Bone to Ash, Plains, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Loyal Pegasus, Glaring Aegis, Hanged Executioner, Plains, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+Robo Playing Plains
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor]
+Rand hand: [Bishop of Wings, Bone to Ash, Plains, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor]
+Rand hand: [Bishop of Wings, Bone to Ash, Plains, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor]
+Rand hand: [Bishop of Wings, Bone to Ash, Plains, Inspiring Captain]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor, Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor, Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor, Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Griffin Sentinel, Leyline of Sanctity, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+Robo Playing Plains
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Sentinel
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Griffin Sentinel
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor, Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor, Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel]
+Robo hand: [Glaring Aegis, Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 2, 'W': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Spectral Sailor
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Spectral Sailor]
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Faerie Miscreant
+ Targets:  []
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Glaring Aegis ETB
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains]
+Rand hand: [Bishop of Wings, Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Resolving Bishop of Wings
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Inspired Charge]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Inspired Charge
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'W': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Faerie Miscreant, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Loyal Pegasus, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant, Spectral Sailor ['Glaring Aegis']]
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Loyal Pegasus]
+Loyal Pegasus is blocking Faerie Miscreant
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Faerie Miscreant has taken lethal damage: 2
+Faerie Miscreant dies
+Loyal Pegasus has taken lethal damage: 1
+Loyal Pegasus dies
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity, Squad Captain]
+Robo life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Squad Captain
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Squad Captain ['+1/+1 counter']]
+Squad Captain ['+1/+1 counter'] is blocking Bishop of Wings
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Leyline of Sanctity]
+Robo life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 4, 'U': 2}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Leyline of Sanctity
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Leyline of Sanctity
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Glaring Aegis']]
+Spectral Sailor ['Glaring Aegis'] is blocking Squad Captain ['+1/+1 counter']
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains]
+Rand hand: [Bone to Ash, Inspiring Captain, Masterful Replication, Cavalier of Dawn, Plains, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Inspiring Captain]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Inspiring Captain]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Inspiring Captain]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity]
+Robo hand: [Hanged Executioner, Drawn from Dreams, Flood of Tears]
+Robo life: 16
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Inspiring Captain]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Squad Captain ['+1/+1 counter'], Leyline of Sanctity, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Squad Captain ['+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain]
+Inspiring Captain is blocking Squad Captain ['+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Inspiring Captain has taken lethal damage: 3
+Inspiring Captain dies
+Squad Captain ['+1/+1 counter'] has taken lethal damage: 3
+Squad Captain ['+1/+1 counter'] dies
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Cavalier of Dawn, Plains, Inspired Charge, Plains]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspired Charge
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Inspired Charge
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Spirit 1/1 Flying
+ Targets:  []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Spirit 1/1 Flying is destroyed
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Glaring Aegis']]
+Spectral Sailor ['Glaring Aegis'] is blocking Griffin Sentinel
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Masterful Replication, Plains, Warden of Evos Isle]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Cavalier of Dawn]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel]
+Griffin Sentinel is blocking Bishop of Wings
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer]
+Robo life: 12
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Hanged Executioner, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Glaring Aegis']]
+Spectral Sailor ['Glaring Aegis'] is blocking Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Hanged Executioner has taken lethal damage: 2
+Hanged Executioner dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Plains, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 12
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Daybreak Chaplin
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Daybreak Chaplin
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Glaring Aegis']]
+Spectral Sailor ['Glaring Aegis'] is blocking Griffin Sentinel
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin]
+Rand hand: [Bone to Ash, Masterful Replication, Warden of Evos Isle, Island, Moat Piranhas]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Warden of Evos Isle
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Warden of Evos Isle
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 11
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor ['Glaring Aegis']]
+Spectral Sailor ['Glaring Aegis'] is blocking Griffin Sentinel
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Cavalier of Dawn, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Brineborn Cutthroat]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brineborn Cutthroat
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Brineborn Cutthroat, Spectral Sailor ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Brineborn Cutthroat, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Brineborn Cutthroat
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Cavalier of Dawn
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Cavalier of Dawn]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Eternal Isolation
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault, Plains]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel]
+Griffin Sentinel is blocking Warden of Evos Isle
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault, Plains]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault, Frost Lynx, Griffin Sentinel]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Daybreak Chaplin, Brineborn Cutthroat]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel]
+Griffin Sentinel is blocking Bishop of Wings
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Aerial Assault, Frost Lynx, Griffin Sentinel, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Aerial Assault
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Activating Spectral Sailor ability
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Spectral Sailor ability, Spectral Sailor ability]
+Resolving Spectral Sailor ability
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Spectral Sailor ability
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island, Octoprophet, Rule of Law, Plains, Plains]
+Rand life: 16
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island, Island]
+Robo hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Spectral Sailor ['Glaring Aegis'], Daybreak Chaplin, Warden of Evos Isle]
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 1 life
+Robo loses 2 life
+Rand  battlefield: [Island, Plains, Island, Spectral Sailor ['Glaring Aegis'], Plains, Plains, Bishop of Wings, Plains, Plains, Plains, Plains, Plains, Plains, Daybreak Chaplin, Island, Warden of Evos Isle, Brineborn Cutthroat, Plains, Island]
+Rand  hand: [Bone to Ash, Masterful Replication, Moat Piranhas, Aether Gust, Frost Lynx, Griffin Sentinel, Island, Octoprophet, Rule of Law, Plains, Plains]
+Rand  deck: [Mu Yanling, Sky Dancer, Island, Plains, Island, Island, Plains, Island, Master Splicer, Yoked Ox, Griffin Protector, Plains, Island, Convolute, Starfield Mystic, Boreal Elemental, Plains, Hanged Executioner, Moment of Heroism, Island, Plains, Plains, Dawning Angel, Plains, Sleep Paralysis, Plains, Cerulean Drake, Hard Cover, Cloudkin Seer, Plains, Drawn from Dreams, Plains, Plains, Island, Island, Angelic Gift, Apostle of Purifying Light, Leyline of Sanctity, Plains, Island, Island, Soulmender, Winged Words, Fencing Ace, Zephyr Charge, Island, Island, Plains, Loyal Pegasus, Plains, Island, Island, Island, Sage's Row Denizen, Island, Agent of Treachery, Plains, Raise the Alarm, Island, Island, Devout Decree, Yarok's Wavecrasher, Plains, Fortress Crab, Plains, Battalion Foot Soldier, Plains, Flood of Tears, Brought Back, Sephara, Sky's Blade, Portal of Sanctuary, Island, Island, Island, Island, Atemis, All-Seeing, Plains, Plains, Plains, Island, Steadfast Sentry, Island, Loxodon Lifechanter, Island, Plains, Island, Air Elemental, Island, Glaring Aegis, Disenchant, Island, Plains, Planar Cleansing, Island, Ancestral Blade, Renowned Weaponsmith, Moorland Inquisitor, Plains, Island, Plains, Negate, Gauntlet of Light, Pacifism, Dungeon Geists, Island, Scholar of the Ages, Herald of the Sun, Metropolis Sprite, Cavalier of Gales, Island, Island, Frilled Sea Serpent, Gods Willing, Island, Captivating Gyre, Anticipate, Plains, Angel of Vitality, Plains, Island, Plains, Ajani, Strength of the Pride, Tale's End, Plains, Squad Captain, Cavalier of Dawn, Island]
+Rand  graveyard: [Unsummon, Faerie Miscreant, Inspiring Captain, Inspired Charge, Eternal Isolation, Aerial Assault]
+Robo  battlefield: [Island, Island, Plains, Plains, Griffin Sentinel, Glaring Aegis, Plains, Leyline of Sanctity, Golem 3/3, Plains, Island, Plains, Island, Island]
+Robo  hand: [Drawn from Dreams, Flood of Tears, Master Splicer, Cavalier of Dawn]
+Robo  deck: [Raise the Alarm, Island, Island, Island, Plains, Dawning Angel, Plains, Island, Herald of the Sun, Plains, Zephyr Charge, Cloudkin Seer, Griffin Protector, Spectral Sailor, Island, Plains, Island, Island, Moment of Heroism, Island, Island, Mu Yanling, Sky Dancer, Winged Words, Island, Island, Island, Aerial Assault, Brought Back, Island, Negate, Warden of Evos Isle, Steadfast Sentry, Island, Island, Island, Pacifism, Island, Agent of Treachery, Boreal Elemental, Island, Island, Frilled Sea Serpent, Plains, Cavalier of Gales, Plains, Rule of Law, Convolute, Bone to Ash, Disenchant, Unsummon, Plains, Ajani, Strength of the Pride, Plains, Apostle of Purifying Light, Sage's Row Denizen, Air Elemental, Island, Plains, Island, Island, Plains, Plains, Frost Lynx, Plains, Island, Plains, Atemis, All-Seeing, Renowned Weaponsmith, Octoprophet, Island, Plains, Plains, Island, Angel of Vitality, Angelic Gift, Plains, Sephara, Sky's Blade, Eternal Isolation, Tale's End, Island, Plains, Plains, Gauntlet of Light, Masterful Replication, Battalion Foot Soldier, Plains, Island, Island, Island, Sleep Paralysis, Bishop of Wings, Daybreak Chaplin, Dungeon Geists, Plains, Plains, Devout Decree, Plains, Plains, Fencing Ace, Planar Cleansing, Gods Willing, Portal of Sanctuary, Fortress Crab, Scholar of the Ages, Metropolis Sprite, Starfield Mystic, Plains, Plains, Plains, Moorland Inquisitor, Plains, Island, Plains, Loxodon Lifechanter, Aether Gust, Moat Piranhas, Island, Island, Hard Cover, Brineborn Cutthroat, Yarok's Wavecrasher, Plains, Plains, Ancestral Blade, Plains, Anticipate, Island, Yoked Ox, Island, Captivating Gyre, Plains, Plains, Plains, Soulmender, Plains, Inspiring Captain, Faerie Miscreant, Island, Plains, Island, Cerulean Drake]
+Robo  graveyard: [Inspired Charge, Loyal Pegasus, Squad Captain, Hanged Executioner]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:06.582685
+Seed: 8968895594

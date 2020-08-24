@@ -1,0 +1,3485 @@
+Seed: 6565842455
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Raise the Alarm, Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Hard Cover, Island, Moment of Heroism, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Raise the Alarm, Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Hard Cover, Island, Moment of Heroism, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Raise the Alarm
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Hard Cover, Island, Moment of Heroism, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Island, Hard Cover, Island, Moment of Heroism, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Island, Hard Cover, Island, Moment of Heroism, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Moment of Heroism
+Rand discards Island
+Robo battlefield: [Island]
+Robo hand: [Plains, Plains, Inspiring Captain, Air Elemental, Fencing Ace, Rule of Law, Yarok's Wavecrasher]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Hard Cover, Island, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fencing Ace
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Fencing Ace
+Robo battlefield: [Island, Plains, Fencing Ace]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Hard Cover, Island, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Fencing Ace]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Hard Cover, Island, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Island, Hard Cover, Island, Island, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Fencing Ace
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Fencing Ace]
+Rand Passes
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover']]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover']]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover']]
+Robo hand: [Plains, Inspiring Captain, Air Elemental, Rule of Law, Yarok's Wavecrasher, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'W': 1, 'C': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Rule of Law
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Rule of Law
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover]
+Rand hand: [Plains, Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law]
+Robo hand: [Inspiring Captain, Air Elemental, Yarok's Wavecrasher, Island, Loxodon Lifechanter]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'W': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Inspiring Captain
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Stack: [Inspiring Captain, Hard Cover ability]
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Aether Gust
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Inspiring Captain
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Inspiring Captain Creature ETB
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Octoprophet
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Octoprophet
+Rand Passes
+{'C': 0}
+Robo Passes
+Resolving Octoprophet ETB abil
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Fencing Ace ['Hard Cover'], Plains, Rule of Law, Island, Inspiring Captain]
+Robo hand: [Air Elemental, Yarok's Wavecrasher, Loxodon Lifechanter, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Hard Cover, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Loxodon Lifechanter
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Yarok's Wavecrasher
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Yarok's Wavecrasher
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Yarok's Wavecrasher ETB effect
+Fencing Ace ['Hard Cover'] bounced
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet]
+Rand hand: [Island, Island, Plains, Bone to Ash, Plains]
+Rand life: 17
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Fencing Ace]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fencing Ace
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Fencing Ace
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Inspiring Captain, Yarok's Wavecrasher, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Octoprophet, Island]
+Rand hand: [Island, Plains, Bone to Ash, Plains, Captivating Gyre]
+Rand life: 17
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Yarok's Wavecrasher
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Octoprophet
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Inspiring Captain
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Yarok's Wavecrasher, Captivating Gyre targeting Octoprophet, Captivating Gyre targeting Inspiring Captain]
+Rand Passes
+Robo Passes
+Resolving Captivating Gyre
+Yarok's Wavecrasher bounced
+Octoprophet bounced
+Inspiring Captain bounced
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 17
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Renowned Weaponsmith
+Robo Passes
+{'C': 2, 'U': 2}
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith]
+Rand hand: [Plains, Bone to Ash, Plains, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Playing Plains
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Portal of Sanctuary, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Portal of Sanctuary
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Bone to Ash, Plains, Octoprophet]
+Rand life: 15
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 3, 'U': 1}
+{'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Octoprophet
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Octoprophet
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Resolving Octoprophet ETB abil
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Renowned Weaponsmith, Portal of Sanctuary]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Renowned Weaponsmith
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Renowned Weaponsmith]
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Portal of Sanctuary effect, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Renowned Weaponsmith bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+Robo Playing Island
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 1}
+Robo Passes
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet]
+Rand hand: [Plains, Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Sage's Row Denizen
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet]
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Fencing Ace, Portal of Sanctuary, Island, Renowned Weaponsmith]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Yarok's Wavecrasher, Inspiring Captain, Scholar of the Ages]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'U': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Fencing Ace
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Fencing Ace]
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Fencing Ace bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 1}
+{'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Yarok's Wavecrasher
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher
+{'C': 1}
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher ETB effect
+Renowned Weaponsmith bounced
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Fencing Ace, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Yarok's Wavecrasher]
+Robo hand: [Air Elemental, Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Fencing Ace, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Air Elemental
+Robo discards Fencing Ace
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Yarok's Wavecrasher]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'U': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Yarok's Wavecrasher
+ Targets:  []
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Yarok's Wavecrasher is destroyed
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Renowned Weaponsmith, Sage's Row Denizen]
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn]
+Rand hand: [Bone to Ash, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Tale's End, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Golem 3/3
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Golem 3/3]
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+Tale's End targeting Portal of Sanctuary effect
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Portal of Sanctuary effect]
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Portal of Sanctuary effect, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Golem 3/3, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Golem 3/3
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Golem 3/3]
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Portal of Sanctuary effect
+Golem 3/3 bounced
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Renowned Weaponsmith, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Renowned Weaponsmith
+Robo Passes
+{'C': 2, 'U': 2}
+{'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith
+Phase: End Phase
+{'C': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Renowned Weaponsmith]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angel of Vitality
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Angel of Vitality
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Renowned Weaponsmith]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Island]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet, Sage's Row Denizen]
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Renowned Weaponsmith]
+Renowned Weaponsmith is blocking Octoprophet
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Renowned Weaponsmith has taken lethal damage: 3
+Renowned Weaponsmith dies
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Island]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Glaring Aegis, Island]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet, Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'C': 5, 'U': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Octoprophet
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Octoprophet]
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Renowned Weaponsmith
+ Targets:  []
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Island, Agent of Treachery]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Island, Agent of Treachery]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Agent of Treachery]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Agent of Treachery]
+Robo life: 10
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Agent of Treachery]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Drawn from Dreams, Inspiring Captain, Scholar of the Ages, Agent of Treachery]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Drawn from Dreams
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Drawn from Dreams
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists, Plains]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists, Plains]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Warden of Evos Isle
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Warden of Evos Isle, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Warden of Evos Isle
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists]
+Robo life: 8
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen, Angel of Vitality]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Scholar of the Ages, Agent of Treachery, Dungeon Geists]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Bone to Ash]
+Rand life: 15
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Scholar of the Ages
+Robo Passes
+{'C': 2, 'U': 2}
+{'U': 1}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Scholar of the Ages
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Scholar of the Ages]
+Robo Passes
+{'U': 1}
+Rand Passes
+Stack: [Scholar of the Ages, Bone to Ash]
+Resolving Bone to Ash
+Scholar of the Ages is countered
+Rand draws 1 card
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Agent of Treachery, Dungeon Geists, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains]
+Robo hand: [Eternal Isolation, Inspiring Captain, Agent of Treachery, Dungeon Geists, Island]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains, Island]
+Robo hand: [Eternal Isolation, Inspiring Captain, Agent of Treachery, Dungeon Geists]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains, Island]
+Robo hand: [Eternal Isolation, Inspiring Captain, Agent of Treachery, Dungeon Geists]
+Robo life: 4
+stack: []
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle, Island]
+Rand hand: [Plains]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen, Warden of Evos Isle]
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Robo  battlefield: [Island, Plains, Plains, Rule of Law, Island, Portal of Sanctuary, Island, Island, Glaring Aegis, Island, Plains, Island]
+Robo  hand: [Eternal Isolation, Inspiring Captain, Agent of Treachery, Dungeon Geists]
+Robo  deck: [Boreal Elemental, Island, Island, Island, Plains, Plains, Plains, Plains, Inspired Charge, Island, Loyal Pegasus, Island, Moat Piranhas, Warden of Evos Isle, Hanged Executioner, Angel of Vitality, Moment of Heroism, Plains, Plains, Plains, Plains, Dawning Angel, Leyline of Sanctity, Squad Captain, Bone to Ash, Island, Island, Plains, Plains, Apostle of Purifying Light, Cavalier of Dawn, Island, Negate, Plains, Island, Sage's Row Denizen, Pacifism, Island, Plains, Cavalier of Gales, Faerie Miscreant, Island, Plains, Island, Planar Cleansing, Metropolis Sprite, Island, Island, Moorland Inquisitor, Gauntlet of Light, Masterful Replication, Sleep Paralysis, Soulmender, Plains, Devout Decree, Plains, Island, Sephara, Sky's Blade, Plains, Plains, Griffin Protector, Plains, Plains, Flood of Tears, Plains, Herald of the Sun, Cerulean Drake, Brineborn Cutthroat, Plains, Griffin Sentinel, Master Splicer, Plains, Bishop of Wings, Zephyr Charge, Island, Plains, Brought Back, Angelic Gift, Plains, Island, Yoked Ox, Captivating Gyre, Starfield Mystic, Island, Plains, Gods Willing, Island, Island, Island, Winged Words, Island, Island, Plains, Ancestral Blade, Island, Island, Island, Island, Plains, Disenchant, Island, Convolute, Aerial Assault, Island, Steadfast Sentry, Island, Atemis, All-Seeing, Anticipate, Ajani, Strength of the Pride, Frilled Sea Serpent, Unsummon, Plains, Mu Yanling, Sky Dancer, Plains, Island, Island, Plains, Cloudkin Seer, Plains, Daybreak Chaplin, Plains, Battalion Foot Soldier, Fortress Crab, Plains, Plains, Island, Plains, Octoprophet, Plains, Island, Hard Cover, Frost Lynx, Island, Plains, Spectral Sailor]
+Robo  graveyard: [Raise the Alarm, Plains, Aether Gust, Loxodon Lifechanter, Air Elemental, Fencing Ace, Yarok's Wavecrasher, Tale's End, Renowned Weaponsmith, Drawn from Dreams, Scholar of the Ages]
+Rand  battlefield: [Plains, Island, Plains, Plains, Island, Island, Renowned Weaponsmith, Plains, Plains, Octoprophet ['Glaring Aegis'], Plains, Sage's Row Denizen, Cavalier of Dawn, Island, Island, Angel of Vitality, Island, Warden of Evos Isle, Island]
+Rand  hand: [Plains]
+Rand  deck: [Pacifism, Planar Cleansing, Apostle of Purifying Light, Island, Plains, Island, Aerial Assault, Air Elemental, Plains, Glaring Aegis, Ancestral Blade, Cerulean Drake, Island, Sephara, Sky's Blade, Frost Lynx, Island, Island, Plains, Daybreak Chaplin, Negate, Aether Gust, Plains, Plains, Dawning Angel, Disenchant, Island, Plains, Plains, Island, Agent of Treachery, Bishop of Wings, Plains, Eternal Isolation, Faerie Miscreant, Plains, Island, Island, Island, Plains, Plains, Plains, Island, Unsummon, Plains, Inspiring Captain, Island, Island, Griffin Protector, Masterful Replication, Plains, Gods Willing, Island, Tale's End, Angelic Gift, Plains, Metropolis Sprite, Mu Yanling, Sky Dancer, Convolute, Loxodon Lifechanter, Island, Plains, Island, Brineborn Cutthroat, Moorland Inquisitor, Ajani, Strength of the Pride, Plains, Island, Island, Dungeon Geists, Starfield Mystic, Hanged Executioner, Anticipate, Drawn from Dreams, Plains, Plains, Plains, Cloudkin Seer, Island, Island, Island, Island, Plains, Plains, Boreal Elemental, Steadfast Sentry, Island, Spectral Sailor, Plains, Gauntlet of Light, Yoked Ox, Island, Battalion Foot Soldier, Atemis, All-Seeing, Plains, Leyline of Sanctity, Fortress Crab, Island, Plains, Loyal Pegasus, Moat Piranhas, Plains, Zephyr Charge, Griffin Sentinel, Brought Back, Winged Words, Plains, Island, Plains, Soulmender, Plains, Cavalier of Gales, Sleep Paralysis, Plains, Plains, Yarok's Wavecrasher, Master Splicer, Island, Plains, Devout Decree, Fencing Ace, Herald of the Sun, Rule of Law, Plains, Island, Scholar of the Ages, Squad Captain, Portal of Sanctuary, Island, Island, Island, Raise the Alarm, Flood of Tears, Plains, Frilled Sea Serpent, Inspired Charge, Island, Island]
+Rand  graveyard: [Moment of Heroism, Island, Hard Cover, Captivating Gyre, Bone to Ash]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.511500
+Seed: 6565842455

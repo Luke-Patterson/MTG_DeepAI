@@ -1,0 +1,592 @@
+Seed: 311948451
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Angelic Gift, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Island, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Angelic Gift, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Island, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Angelic Gift
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Plains, Island, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Island, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand discards Plains
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 3}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Aether Gust, Plains, Plains, Plains, Island, Inspired Charge, Renowned Weaponsmith, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 3}
+Robo Playing Plains
+{'C': 2, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Renowned Weaponsmith
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Aether Gust, Plains, Plains, Island, Inspired Charge, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Metropolis Sprite, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Metropolis Sprite
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Aether Gust, Plains, Plains, Island, Inspired Charge, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Aether Gust, Plains, Plains, Island, Inspired Charge, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Aether Gust, Plains, Plains, Island, Inspired Charge, Cavalier of Gales]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 3}
+{'U': 1}
+Robo Playing Island
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 3}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 3}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Metropolis Sprite]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 3, 'U': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'U': 3}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith, Island]
+Robo hand: [Aether Gust, Plains, Plains, Inspired Charge, Cavalier of Gales, Plains, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Island]
+Rand hand: [Plains, Plains, Yarok's Wavecrasher, Island, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+(Pdb) 

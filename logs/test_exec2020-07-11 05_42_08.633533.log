@@ -1,0 +1,4290 @@
+Seed: 142881774
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Rand draws 3 card
+Rand mulligans to 3
+Rand draws 2 card
+Rand mulligans to 2
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Renowned Weaponsmith, Island, Island, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Renowned Weaponsmith, Island, Island, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo battlefield: [Island]
+Robo hand: [Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Island, Renowned Weaponsmith, Island, Island, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Negate, Metropolis Sprite, Sephara, Sky's Blade, Plains, Rule of Law, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Metropolis Sprite
+Robo Passes
+Rand Passes
+Resolving Metropolis Sprite
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Renowned Weaponsmith, Island, Island, Apostle of Purifying Light, Squad Captain]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Metropolis Sprite]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Island, Herald of the Sun]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+{'U': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains]
+Rand hand: [Island, Apostle of Purifying Light, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Phase: End Phase
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Rule of Law, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'W': 1, 'C': 2}
+{'C': 4, 'W': 2}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Rule of Law
+{'C': 1, 'U': 1}
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Resolving Rule of Law
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light]
+Rand hand: [Island, Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Metropolis Sprite
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Metropolis Sprite]
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Metropolis Sprite
+{'U': 1}
+{'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law]
+Robo hand: [Island, Negate, Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Negate, Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Negate, Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Negate, Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island]
+Rand hand: [Squad Captain, Master Splicer, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Island
+{'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Island]
+{'U': 1}
+{'C': 2}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'U': 1}
+{'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Island
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ancestral Blade
+{'U': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Ancestral Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Ancestral Blade]
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Ancestral Blade, Negate]
+Resolving Negate
+Ancestral Blade is countered
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Apostle of Purifying Light, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Apostle of Purifying Light
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Unsummon
+ Targets:  [Unsummon targeting Apostle of Purifying Light]
+Robo Passes
+{'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Resolving Unsummon
+Apostle of Purifying Light bounced
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'U': 1}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains]
+Rand hand: [Squad Captain, Master Splicer, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Master Splicer
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Master Splicer
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Herald of the Sun, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Herald of the Sun
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun]
+Robo hand: [Sephara, Sky's Blade, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun]
+Robo hand: [Sephara, Sky's Blade, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3, Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Golem 3/3
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Golem 3/3]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Herald of the Sun]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 16
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 16
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Herald of the Sun ability
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 6 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter'], Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Anticipate
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Anticipate, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Anticipate
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 7 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 3
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains]
+Rand hand: [Squad Captain, Apostle of Purifying Light, Daybreak Chaplin]
+Rand life: 3
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Daybreak Chaplin
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 19
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains, Island, Daybreak Chaplin]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 3
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains, Island, Daybreak Chaplin]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 3
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Griffin Protector, Inspiring Captain]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter'], Island, Plains, Plains, Island, Daybreak Chaplin]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 3
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Protector
+{'C': 3, 'W': 1}
+Robo Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Golem 3/3 ['+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Golem 3/3 ['+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Griffin Protector, Herald of the Sun ability]
+Resolving Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Griffin Protector
+Robo battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains, Griffin Protector]
+Robo hand: [Sephara, Sky's Blade, Inspiring Captain, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter', '+1/+1 counter'], Island, Plains, Plains, Island, Daybreak Chaplin]
+Rand hand: [Squad Captain, Apostle of Purifying Light]
+Rand life: 3
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 7 life
+Robo  battlefield: [Island, Plains, Island, Plains, Rule of Law, Island, Plains, Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Island, Plains, Griffin Protector]
+Robo  hand: [Sephara, Sky's Blade, Inspiring Captain, Plains]
+Robo  deck: [Ancestral Blade, Moat Piranhas, Bishop of Wings, Island, Plains, Griffin Sentinel, Plains, Captivating Gyre, Brineborn Cutthroat, Plains, Agent of Treachery, Cloudkin Seer, Aether Gust, Soulmender, Loxodon Lifechanter, Island, Island, Atemis, All-Seeing, Masterful Replication, Plains, Plains, Hanged Executioner, Plains, Fortress Crab, Boreal Elemental, Bone to Ash, Cavalier of Dawn, Plains, Plains, Octoprophet, Island, Fencing Ace, Plains, Convolute, Aerial Assault, Brought Back, Steadfast Sentry, Frost Lynx, Island, Winged Words, Plains, Island, Plains, Plains, Glaring Aegis, Island, Island, Island, Plains, Gauntlet of Light, Angel of Vitality, Island, Loyal Pegasus, Squad Captain, Island, Island, Renowned Weaponsmith, Scholar of the Ages, Island, Dungeon Geists, Island, Island, Frilled Sea Serpent, Island, Plains, Island, Air Elemental, Plains, Island, Plains, Island, Zephyr Charge, Plains, Island, Plains, Mu Yanling, Sky Dancer, Island, Devout Decree, Starfield Mystic, Portal of Sanctuary, Sage's Row Denizen, Plains, Cavalier of Gales, Plains, Plains, Island, Angelic Gift, Island, Plains, Island, Plains, Ajani, Strength of the Pride, Plains, Pacifism, Warden of Evos Isle, Planar Cleansing, Plains, Disenchant, Drawn from Dreams, Cerulean Drake, Yoked Ox, Dawning Angel, Daybreak Chaplin, Leyline of Sanctity, Plains, Island, Flood of Tears, Plains, Island, Moment of Heroism, Sleep Paralysis, Hard Cover, Plains, Spectral Sailor, Island, Island, Island, Yarok's Wavecrasher, Moorland Inquisitor, Plains, Tale's End, Plains, Battalion Foot Soldier, Island, Plains, Master Splicer, Plains, Island, Faerie Miscreant, Eternal Isolation, Island, Island, Island, Island, Gods Willing, Raise the Alarm, Apostle of Purifying Light, Plains, Inspired Charge, Plains, Island, Plains]
+Robo  graveyard: [Negate, Unsummon, Anticipate]
+Rand  battlefield: [Island, Island, Renowned Weaponsmith, Plains, Island, Plains, Master Splicer, Golem 3/3 ['+1/+1 counter', '+1/+1 counter'], Island, Plains, Plains, Island, Daybreak Chaplin]
+Rand  hand: [Squad Captain, Apostle of Purifying Light]
+Rand  deck: [Cavalier of Gales, Battalion Foot Soldier, Frilled Sea Serpent, Island, Plains, Ajani, Strength of the Pride, Island, Plains, Moat Piranhas, Island, Plains, Soulmender, Cavalier of Dawn, Island, Bone to Ash, Island, Sage's Row Denizen, Griffin Protector, Plains, Plains, Brought Back, Moment of Heroism, Island, Island, Plains, Island, Plains, Plains, Plains, Plains, Island, Dungeon Geists, Island, Plains, Steadfast Sentry, Island, Plains, Cloudkin Seer, Devout Decree, Mu Yanling, Sky Dancer, Island, Aether Gust, Starfield Mystic, Plains, Frost Lynx, Island, Raise the Alarm, Spectral Sailor, Unsummon, Agent of Treachery, Portal of Sanctuary, Plains, Sephara, Sky's Blade, Fencing Ace, Moorland Inquisitor, Island, Winged Words, Cerulean Drake, Plains, Plains, Faerie Miscreant, Gauntlet of Light, Warden of Evos Isle, Masterful Replication, Island, Inspiring Captain, Hanged Executioner, Island, Planar Cleansing, Island, Island, Plains, Boreal Elemental, Plains, Griffin Sentinel, Scholar of the Ages, Drawn from Dreams, Anticipate, Plains, Aerial Assault, Bishop of Wings, Loxodon Lifechanter, Plains, Yarok's Wavecrasher, Plains, Gods Willing, Plains, Island, Plains, Plains, Plains, Atemis, All-Seeing, Plains, Angelic Gift, Plains, Island, Zephyr Charge, Dawning Angel, Plains, Island, Plains, Tale's End, Inspired Charge, Yoked Ox, Plains, Plains, Island, Flood of Tears, Plains, Plains, Negate, Island, Loyal Pegasus, Island, Plains, Glaring Aegis, Island, Sleep Paralysis, Eternal Isolation, Air Elemental, Island, Octoprophet, Island, Leyline of Sanctity, Island, Island, Captivating Gyre, Plains, Rule of Law, Disenchant, Island, Island, Hard Cover, Fortress Crab, Metropolis Sprite, Island, Angel of Vitality, Plains, Convolute, Brineborn Cutthroat, Island, Herald of the Sun, Pacifism, Island, Plains, Island, Island]
+Rand  graveyard: [Ancestral Blade]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:01.754868
+Seed: 142881774

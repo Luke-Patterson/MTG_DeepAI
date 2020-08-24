@@ -1,0 +1,1494 @@
+Seed: 4798789293
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Yoked Ox
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Pacifism, Warden of Evos Isle, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Pacifism, Warden of Evos Isle, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Faerie Miscreant, Pacifism, Warden of Evos Isle, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+Rand Playing Island
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Faerie Miscreant
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Warden of Evos Isle, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Warden of Evos Isle, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Warden of Evos Isle
+Robo battlefield: [Plains, Yoked Ox]
+Robo hand: [Brineborn Cutthroat, Scholar of the Ages, Plains, Frost Lynx, Island, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Brineborn Cutthroat
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant]
+Rand hand: [Pacifism, Plains, Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Faerie Miscreant
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Faerie Miscreant]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Pacifism, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Pacifism
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1, 'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter']]
+Robo hand: [Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Octoprophet]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Frost Lynx
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Frost Lynx
+{'C': 0}
+Frost Lynx Creature ETB targeting Faerie Miscreant ['Pacifism']
+ Targets:  []
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Resolving Frost Lynx Creature ETB
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Brineborn Cutthroat ['+1/+1 counter']]
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism]
+Rand hand: [Moment of Heroism, Plains, Aether Gust, Plains, Rule of Law, Island]
+Rand life: 17
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Faerie Miscreant ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Yoked Ox
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Yoked Ox]
+Rand Passes
+Robo Passes
+Stack: [Moment of Heroism, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'W': 1, 'C': 2}
+Rand Playing Island
+{'W': 1, 'C': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'W': 1, 'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx]
+Robo hand: [Scholar of the Ages, Island, Plains, Octoprophet, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 17
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Winged Words
+Robo Passes
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox, Frost Lynx]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island]
+Rand hand: [Plains, Aether Gust, Plains, Rule of Law, Plains]
+Rand life: 15
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1, 'C': 2}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Rule of Law
+Rand Passes
+Robo Passes
+Stack: [Rule of Law, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Rule of Law
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island]
+Robo hand: [Scholar of the Ages, Plains, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Boreal Elemental
+Robo Passes
+Rand Passes
+Resolving Boreal Elemental
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law]
+Rand hand: [Plains, Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Mu Yanling, Sky Dancer
+Rand Passes
+Robo Passes
+Stack: [Mu Yanling, Sky Dancer, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Rand Passes
+Robo Passes
+Resolving Mu Yanling, Sky Dancer
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Boreal Elemental
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Boreal Elemental]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental]
+Robo hand: [Scholar of the Ages, Octoprophet, Island, Plains, Dungeon Geists]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+Robo Playing Island
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dungeon Geists
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+Dungeon Geists ETB abil targeting Faerie Miscreant ['Pacifism']
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 13
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Faerie Miscreant ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Dungeon Geists
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Dungeon Geists]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island, Plains]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer]
+Rand hand: [Aether Gust, Plains, Island, Plains]
+Rand life: 13
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists]
+Robo hand: [Scholar of the Ages, Octoprophet, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer, Plains]
+Rand hand: [Aether Gust, Island, Plains]
+Rand life: 13
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 5, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Scholar of the Ages
+Robo Passes
+Rand Passes
+Resolving Scholar of the Ages
+{'C': 0}
+Scholar of the Ages ETB targeting Winged Words
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Scholar of the Ages ETB
+Winged Words returned from graveyard to hand
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer, Plains]
+Rand hand: [Aether Gust, Island, Plains]
+Rand life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Frost Lynx, Dungeon Geists]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 6 life
+Mu Yanling, Sky Dancer loses 2 loyalty from combat
+Mu Yanling, Sky Dancer loses 1 loyalty from combat
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer, Plains]
+Rand hand: [Aether Gust, Island, Plains]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Mu Yanling, Sky Dancer, Plains]
+Rand hand: [Aether Gust, Island, Plains]
+Rand life: 7
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Faerie Miscreant ['Pacifism'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling -3 ability
+{'C': 0}
+Mu Yanling, Sky Dancer has no loyalty
+Mu Yanling, Sky Dancer dies
+Rand Passes
+Robo Passes
+Resolving Mu Yanling -3 ability
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Aether Gust, Island, Plains, Island]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Aether Gust, Island, Plains, Island]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 7
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Boreal Elemental, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo hand: [Octoprophet, Island, Island, Negate, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Aether Gust, Plains, Island]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Frost Lynx, Boreal Elemental, Dungeon Geists, Scholar of the Ages]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Elemental Bird 4/4 Flying]
+Elemental Bird 4/4 Flying is blocking Boreal Elemental
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 6 life
+Rand loses 2 life
+Rand loses 3 life
+Rand loses 3 life
+Boreal Elemental has taken lethal damage: 4
+Boreal Elemental dies
+Robo  battlefield: [Plains, Yoked Ox, Island, Brineborn Cutthroat ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Frost Lynx, Island, Plains, Island, Dungeon Geists, Plains, Scholar of the Ages]
+Robo  hand: [Octoprophet, Island, Island, Negate, Plains, Plains]
+Robo  deck: [Island, Island, Plains, Convolute, Spectral Sailor, Island, Plains, Plains, Island, Island, Plains, Plains, Island, Flood of Tears, Plains, Glaring Aegis, Plains, Loxodon Lifechanter, Atemis, All-Seeing, Masterful Replication, Loyal Pegasus, Island, Squad Captain, Bishop of Wings, Aether Gust, Sleep Paralysis, Cloudkin Seer, Island, Battalion Foot Soldier, Island, Hard Cover, Plains, Portal of Sanctuary, Island, Island, Griffin Protector, Island, Gauntlet of Light, Island, Plains, Island, Island, Plains, Island, Master Splicer, Plains, Frilled Sea Serpent, Plains, Island, Dawning Angel, Zephyr Charge, Island, Yarok's Wavecrasher, Plains, Island, Ajani, Strength of the Pride, Island, Gods Willing, Plains, Ancestral Blade, Island, Inspiring Captain, Moat Piranhas, Island, Anticipate, Hanged Executioner, Plains, Plains, Island, Eternal Isolation, Island, Island, Island, Plains, Fencing Ace, Plains, Plains, Drawn from Dreams, Plains, Plains, Metropolis Sprite, Devout Decree, Cerulean Drake, Steadfast Sentry, Sage's Row Denizen, Plains, Plains, Cavalier of Dawn, Plains, Planar Cleansing, Plains, Moorland Inquisitor, Plains, Bone to Ash, Herald of the Sun, Starfield Mystic, Apostle of Purifying Light, Plains, Cavalier of Gales, Tale's End, Angel of Vitality, Island, Raise the Alarm, Leyline of Sanctity, Soulmender, Inspired Charge, Plains, Island, Plains, Angelic Gift, Disenchant, Renowned Weaponsmith, Fortress Crab, Brought Back, Island, Captivating Gyre, Plains, Sephara, Sky's Blade, Island, Plains, Daybreak Chaplin, Unsummon, Griffin Sentinel, Aerial Assault, Moment of Heroism, Island, Faerie Miscreant, Island, Island, Plains, Mu Yanling, Sky Dancer, Island, Air Elemental, Rule of Law, Island, Island, Pacifism, Plains, Plains, Plains, Warden of Evos Isle, Agent of Treachery]
+Robo  graveyard: [Winged Words, Boreal Elemental]
+Rand  battlefield: [Island, Faerie Miscreant ['Pacifism'], Plains, Pacifism, Island, Plains, Rule of Law, Plains, Plains, Elemental Bird 4/4 Flying, Island]
+Rand  hand: [Aether Gust, Plains, Island]
+Rand  deck: [Plains, Plains, Plains, Winged Words, Fortress Crab, Plains, Plains, Drawn from Dreams, Island, Tale's End, Island, Atemis, All-Seeing, Island, Plains, Unsummon, Squad Captain, Plains, Plains, Gauntlet of Light, Sephara, Sky's Blade, Island, Island, Plains, Zephyr Charge, Plains, Island, Plains, Island, Devout Decree, Island, Renowned Weaponsmith, Island, Griffin Sentinel, Island, Leyline of Sanctity, Plains, Plains, Hard Cover, Island, Island, Captivating Gyre, Plains, Cavalier of Gales, Fencing Ace, Hanged Executioner, Plains, Ajani, Strength of the Pride, Octoprophet, Anticipate, Frost Lynx, Spectral Sailor, Bone to Ash, Loyal Pegasus, Plains, Plains, Plains, Yarok's Wavecrasher, Ancestral Blade, Cavalier of Dawn, Island, Starfield Mystic, Island, Eternal Isolation, Inspiring Captain, Plains, Island, Island, Convolute, Soulmender, Plains, Island, Plains, Plains, Plains, Plains, Scholar of the Ages, Gods Willing, Sleep Paralysis, Plains, Island, Plains, Dungeon Geists, Moat Piranhas, Metropolis Sprite, Cloudkin Seer, Daybreak Chaplin, Apostle of Purifying Light, Plains, Island, Air Elemental, Glaring Aegis, Aerial Assault, Disenchant, Island, Island, Moorland Inquisitor, Island, Island, Master Splicer, Island, Frilled Sea Serpent, Yoked Ox, Battalion Foot Soldier, Cerulean Drake, Griffin Protector, Island, Island, Herald of the Sun, Island, Brineborn Cutthroat, Plains, Island, Plains, Island, Plains, Plains, Loxodon Lifechanter, Raise the Alarm, Planar Cleansing, Agent of Treachery, Negate, Sage's Row Denizen, Steadfast Sentry, Masterful Replication, Island, Portal of Sanctuary, Plains, Island, Island, Island, Inspired Charge, Island, Island, Plains, Angel of Vitality, Island, Island, Brought Back, Plains, Bishop of Wings, Angelic Gift, Plains, Dawning Angel, Plains, Boreal Elemental, Flood of Tears]
+Rand  graveyard: [Warden of Evos Isle, Moment of Heroism, Mu Yanling, Sky Dancer]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:09.768068
+Seed: 4798789293

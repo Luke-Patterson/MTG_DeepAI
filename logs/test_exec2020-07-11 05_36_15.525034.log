@@ -1,0 +1,5200 @@
+Seed: 3535369050
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Island, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Tale's End, Plains, Flood of Tears, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Island, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Tale's End, Plains, Flood of Tears, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Island, Island, Plains, Tale's End, Plains, Flood of Tears, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Island, Plains, Tale's End, Plains, Flood of Tears, Plains, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Island, Plains, Tale's End, Plains, Flood of Tears, Plains, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand discards Plains
+Robo battlefield: [Island]
+Robo hand: [Dungeon Geists, Starfield Mystic, Plains, Brought Back, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Starfield Mystic
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Starfield Mystic
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Starfield Mystic]
+Robo hand: [Dungeon Geists, Plains, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Island, Plains, Starfield Mystic, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Starfield Mystic]
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Starfield Mystic, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Starfield Mystic, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains]
+Rand hand: [Island, Plains, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Starfield Mystic
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Starfield Mystic]
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Aerial Assault
+Starfield Mystic is destroyed
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Cloudkin Seer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cloudkin Seer
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+{'W': 2}
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 4, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'W': 2}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains]
+Rand hand: [Island, Tale's End, Plains, Flood of Tears, Angel of Vitality, Island]
+Rand life: 17
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angel of Vitality
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Angel of Vitality
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 2}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains]
+Robo hand: [Dungeon Geists, Brought Back, Plains, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 17
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+Rand Passes
+Resolving Brought Back
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Plains, Flood of Tears, Island, Drawn from Dreams]
+Rand life: 16
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 2}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Drawn from Dreams
+Rand Passes
+Robo Passes
+Resolving Drawn from Dreams
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer, Plains, Plains]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 16
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Cloudkin Seer
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Cloudkin Seer]
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer ['Sleep Paralysis'], Plains, Plains, Island, Sleep Paralysis]
+Robo hand: [Dungeon Geists, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Angel of Vitality]
+Angel of Vitality is blocking Daybreak Chaplin
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+applying replacement effect Angel of Vitality +1 Gain Life
+Rand gains 3 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer ['Sleep Paralysis'], Plains, Plains, Island, Sleep Paralysis]
+Robo hand: [Dungeon Geists, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Daybreak Chaplin, Cloudkin Seer ['Sleep Paralysis'], Plains, Plains, Island, Sleep Paralysis]
+Robo hand: [Dungeon Geists, Squad Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Flood of Tears, Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Flood of Tears
+Rand Passes
+Robo Passes
+Resolving Flood of Tears
+Daybreak Chaplin bounced
+Sleep Paralysis bounced
+Angel of Vitality bounced
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Daybreak Chaplin, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Daybreak Chaplin, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island]
+Robo hand: [Dungeon Geists, Squad Captain, Plains, Daybreak Chaplin, Sleep Paralysis]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Squad Captain
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Plains, Daybreak Chaplin, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Plains, Daybreak Chaplin, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Angel of Vitality]
+Rand life: 19
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angel of Vitality
+Rand Passes
+Robo Passes
+Resolving Angel of Vitality
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Tale's End, Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Daybreak Chaplin
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Sleep Paralysis ETB
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Sleep Paralysis ETB]
+Robo Passes
+Rand Passes
+Stack: [Sleep Paralysis ETB, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis]
+Robo hand: [Dungeon Geists, Master Splicer, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis]
+Robo hand: [Dungeon Geists, Master Splicer, Portal of Sanctuary]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Portal of Sanctuary
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality, Plains]
+Rand hand: [Island, Eternal Isolation, Plains]
+Rand life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Cloudkin Seer, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Angel of Vitality, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Cloudkin Seer]
+Cloudkin Seer is blocking Angel of Vitality
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Cloudkin Seer has taken lethal damage: 2
+Cloudkin Seer dies
+Angel of Vitality has taken lethal damage: 2
+Angel of Vitality dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Squad Captain ['+1/+1 counter'], Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter']]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Squad Captain ['+1/+1 counter'] bounced
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer, Plains, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin ['Sleep Paralysis']]
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary]
+Robo hand: [Dungeon Geists, Master Splicer, Plains, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island]
+Rand hand: [Eternal Isolation, Plains, Plains]
+Rand life: 18
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Daybreak Chaplin ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+{'C': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Inspired Charge
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter']]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Squad Captain ['+1/+1 counter'] bounced
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Daybreak Chaplin ['Sleep Paralysis'], Sleep Paralysis, Portal of Sanctuary, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Squad Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Daybreak Chaplin ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Daybreak Chaplin ['Sleep Paralysis']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Daybreak Chaplin ['Sleep Paralysis']]
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sleep Paralysis bounced
+Daybreak Chaplin bounced
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Master Splicer ETB
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Eternal Isolation, Plains, Island]
+Rand life: 18
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Golem 3/3
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Golem 3/3]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Eternal Isolation
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains]
+Rand hand: [Plains, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Master Splicer]
+Robo hand: [Dungeon Geists, Squad Captain, Cerulean Drake, Sleep Paralysis, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Master Splicer
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Master Splicer]
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Master Splicer bounced
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+Robo Passes
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Daybreak Chaplin, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Daybreak Chaplin, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Cerulean Drake, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Squad Captain, Sleep Paralysis, Master Splicer, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 18
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Cerulean Drake
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cerulean Drake]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Cerulean Drake bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Island, Cerulean Drake, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Island, Cerulean Drake, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 1}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 1}
+{'C': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Cerulean Drake
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter'], Island, Cerulean Drake]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Plains, Plains]
+Rand life: 17
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Air Elemental
+Rand Passes
+Robo Passes
+Resolving Air Elemental
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter'], Island, Cerulean Drake]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter'], Island, Cerulean Drake]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Daybreak Chaplin, Squad Captain ['+1/+1 counter'], Island, Cerulean Drake]
+Robo hand: [Dungeon Geists, Sleep Paralysis, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Daybreak Chaplin
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Daybreak Chaplin]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Daybreak Chaplin bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Squad Captain ['+1/+1 counter']
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Squad Captain ['+1/+1 counter']]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Cerulean Drake, Plains, Sleep Paralysis]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Air Elemental]
+Air Elemental is blocking Cerulean Drake
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Cerulean Drake has taken lethal damage: 4
+Cerulean Drake dies
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Plains, Sleep Paralysis]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Daybreak Chaplin]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Plains, Sleep Paralysis, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Plains, Sleep Paralysis, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Plains, Sleep Paralysis, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Squad Captain ['+1/+1 counter', 'Sleep Paralysis'], Island, Plains, Sleep Paralysis, Daybreak Chaplin]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Squad Captain ['+1/+1 counter', 'Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter', 'Sleep Paralysis']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter', 'Sleep Paralysis']]
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Sleep Paralysis bounced
+Squad Captain ['+1/+1 counter'] bounced
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Raise the Alarm
+{'C': 1}
+Robo Passes
+Rand Passes
+Stack: [Squad Captain, Raise the Alarm]
+Resolving Raise the Alarm
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 2 +1/+1 counters
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island]
+Rand hand: [Plains]
+Rand life: 16
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 16
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter', '+1/+1 counter']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Squad Captain ['+1/+1 counter', '+1/+1 counter']]
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Portal of Sanctuary effect, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Portal of Sanctuary effect, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Squad Captain ['+1/+1 counter', '+1/+1 counter'] bounced
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Soldier 1/1, Island]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+{'C': 1}
+Portal of Sanctuary effect targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Soldier 1/1]
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Soldier 1/1 bounced
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+Robo Playing Plains
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 12
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Daybreak Chaplin, Island, Plains]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Squad Captain ['+1/+1 counter']]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1}
+Robo Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Daybreak Chaplin
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Daybreak Chaplin]
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Portal of Sanctuary effect
+Daybreak Chaplin bounced
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain ['+1/+1 counter']
+Robo Passes
+Rand Passes
+Resolving Squad Captain ['+1/+1 counter']
+Squad Captain enters the battlefield with 0 +1/+1 counters
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter']]
+Robo hand: [Dungeon Geists, Master Splicer, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Master Splicer
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Master Splicer
+{'C': 1}
+{'C': 1}
+Robo Passes
+Rand Passes
+Resolving Master Splicer ETB
+Phase: End Phase
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter'], Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sephara, Sky's Blade
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Sephara, Sky's Blade
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter'], Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 8
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter'], Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter'], Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Squad Captain ['+1/+1 counter'], Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin, Masterful Replication]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Sephara, Sky's Blade]
+Sephara, Sky's Blade is blocking Squad Captain ['+1/+1 counter']
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Robo gains 3 life
+Squad Captain ['+1/+1 counter'] has taken lethal damage: 7
+Squad Captain ['+1/+1 counter'] dies
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin, Masterful Replication]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 1}
+{'C': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin, Masterful Replication]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Robo hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin, Masterful Replication]
+Robo life: 7
+stack: []
+Rand battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island, Island]
+Rand hand: []
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sephara, Sky's Blade]
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 7 life
+Robo  battlefield: [Island, Plains, Plains, Plains, Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Plains, Island, Plains, Master Splicer, Golem 3/3]
+Robo  hand: [Dungeon Geists, Captivating Gyre, Sleep Paralysis, Hanged Executioner, Daybreak Chaplin, Masterful Replication]
+Robo  deck: [Sephara, Sky's Blade, Zephyr Charge, Inspiring Captain, Plains, Plains, Flood of Tears, Yoked Ox, Plains, Island, Atemis, All-Seeing, Plains, Renowned Weaponsmith, Island, Bone to Ash, Island, Plains, Island, Island, Plains, Island, Plains, Island, Plains, Island, Ancestral Blade, Island, Plains, Plains, Hard Cover, Fencing Ace, Steadfast Sentry, Octoprophet, Tale's End, Island, Mu Yanling, Sky Dancer, Island, Faerie Miscreant, Plains, Plains, Plains, Negate, Plains, Frost Lynx, Island, Island, Plains, Island, Moat Piranhas, Gauntlet of Light, Plains, Warden of Evos Isle, Yarok's Wavecrasher, Soulmender, Island, Island, Rule of Law, Island, Plains, Agent of Treachery, Unsummon, Cavalier of Gales, Island, Planar Cleansing, Plains, Convolute, Eternal Isolation, Island, Disenchant, Plains, Island, Cavalier of Dawn, Spectral Sailor, Island, Angel of Vitality, Pacifism, Glaring Aegis, Drawn from Dreams, Loxodon Lifechanter, Island, Plains, Loyal Pegasus, Air Elemental, Scholar of the Ages, Griffin Protector, Sage's Row Denizen, Winged Words, Brineborn Cutthroat, Plains, Fortress Crab, Plains, Plains, Gods Willing, Plains, Aerial Assault, Ajani, Strength of the Pride, Island, Plains, Plains, Herald of the Sun, Island, Apostle of Purifying Light, Plains, Island, Island, Battalion Foot Soldier, Metropolis Sprite, Island, Island, Island, Moorland Inquisitor, Plains, Plains, Frilled Sea Serpent, Aether Gust, Griffin Sentinel, Island, Island, Devout Decree, Island, Plains, Leyline of Sanctity, Boreal Elemental, Island, Bishop of Wings, Plains, Angelic Gift, Moment of Heroism, Island, Dawning Angel, Island, Island, Plains, Anticipate, Plains]
+Robo  graveyard: [Island, Starfield Mystic, Brought Back, Cloudkin Seer, Inspired Charge, Cerulean Drake, Raise the Alarm, Squad Captain]
+Rand  battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Plains, Plains, Plains, Island, Plains, Air Elemental, Island, Plains, Island, Island, Sephara, Sky's Blade, Island, Island]
+Rand  hand: []
+Rand  deck: [Plains, Daybreak Chaplin, Moorland Inquisitor, Plains, Unsummon, Island, Plains, Rule of Law, Spectral Sailor, Island, Cavalier of Gales, Leyline of Sanctity, Plains, Island, Island, Island, Zephyr Charge, Cavalier of Dawn, Plains, Plains, Inspired Charge, Hanged Executioner, Island, Plains, Yarok's Wavecrasher, Octoprophet, Moment of Heroism, Pacifism, Griffin Protector, Angelic Gift, Brought Back, Plains, Loxodon Lifechanter, Frilled Sea Serpent, Plains, Bone to Ash, Master Splicer, Plains, Island, Plains, Hard Cover, Island, Plains, Negate, Island, Plains, Steadfast Sentry, Frost Lynx, Inspiring Captain, Ancestral Blade, Plains, Sage's Row Denizen, Fencing Ace, Agent of Treachery, Devout Decree, Island, Moat Piranhas, Island, Aether Gust, Plains, Island, Island, Plains, Bishop of Wings, Plains, Warden of Evos Isle, Starfield Mystic, Island, Gods Willing, Island, Plains, Portal of Sanctuary, Mu Yanling, Sky Dancer, Disenchant, Plains, Atemis, All-Seeing, Planar Cleansing, Sleep Paralysis, Cloudkin Seer, Island, Plains, Plains, Island, Plains, Dungeon Geists, Plains, Cerulean Drake, Scholar of the Ages, Plains, Renowned Weaponsmith, Yoked Ox, Fortress Crab, Anticipate, Island, Island, Ajani, Strength of the Pride, Brineborn Cutthroat, Glaring Aegis, Island, Winged Words, Plains, Plains, Plains, Island, Masterful Replication, Apostle of Purifying Light, Plains, Loyal Pegasus, Plains, Island, Island, Griffin Sentinel, Island, Faerie Miscreant, Convolute, Captivating Gyre, Soulmender, Plains, Boreal Elemental, Battalion Foot Soldier, Herald of the Sun, Gauntlet of Light, Island, Island, Island, Plains, Island, Squad Captain, Raise the Alarm, Island, Dawning Angel, Metropolis Sprite, Island]
+Rand  graveyard: [Island, Plains, Aerial Assault, Drawn from Dreams, Flood of Tears, Tale's End, Angel of Vitality, Eternal Isolation]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:06.937324
+Seed: 3535369050

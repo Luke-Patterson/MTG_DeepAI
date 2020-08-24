@@ -1,0 +1,6809 @@
+Seed: 3984999489
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Ancestral Blade, Soulmender, Bishop of Wings, Island, Plains, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Ancestral Blade, Soulmender, Bishop of Wings, Island, Plains, Plains, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Ancestral Blade, Soulmender, Bishop of Wings, Island, Plains, Plains, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'W': 1}
+{'W': 2}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'W': 1}
+{'W': 2}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Island, Pacifism, Angelic Gift, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Soulmender
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Soulmender]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Angelic Gift
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Angelic Gift ETB
+Robo draws 1 card
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift']]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift']]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift']]
+Rand hand: [Ancestral Blade, Bishop of Wings, Island, Plains, Island, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 1, 'W': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Ancestral Blade
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Ancestral Blade ETB
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift]
+Robo hand: [Daybreak Chaplin, Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Yoked Ox, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Yoked Ox
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin, Plains, Yoked Ox]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Rand hand: [Bishop of Wings, Island, Island, Plains, Metropolis Sprite]
+Rand life: 21
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin, Plains, Yoked Ox]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin, Plains, Yoked Ox]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin, Plains, Yoked Ox]
+Robo hand: [Frost Lynx, Pacifism, Aether Gust, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Daybreak Chaplin
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Pacifism
+ Targets:  [Pacifism targeting Daybreak Chaplin]
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Pacifism
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism]
+Robo hand: [Frost Lynx, Aether Gust, Island, Ancestral Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism]
+Robo hand: [Frost Lynx, Aether Gust, Island, Ancestral Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Ancestral Blade
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade ETB
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frost Lynx, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island]
+Rand life: 22
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frost Lynx, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frost Lynx, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains]
+Rand hand: [Bishop of Wings, Island, Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Bishop of Wings
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade']]
+Robo hand: [Frost Lynx, Aether Gust]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings]
+Rand hand: [Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Yoked Ox
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings]
+Rand hand: [Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings]
+Rand hand: [Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings]
+Rand hand: [Island, Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 22
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Bishop of Wings
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Bishop of Wings]
+{'C': 2, 'W': 2}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspired Charge
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Ancestral Blade equip abil, Inspired Charge]
+Resolving Inspired Charge
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings ['Ancestral Blade']]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Plains]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain]
+Rand life: 23
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain, Octoprophet]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island]
+Rand hand: [Metropolis Sprite, Island, Inspiring Captain, Octoprophet]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspiring Captain
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain]
+Rand hand: [Metropolis Sprite, Island, Octoprophet]
+Rand life: 24
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Daybreak Chaplin ['Pacifism']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Daybreak Chaplin ['Pacifism']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain]
+Rand hand: [Metropolis Sprite, Island, Octoprophet]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain]
+Rand hand: [Metropolis Sprite, Island, Octoprophet]
+Rand life: 23
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain]
+Rand hand: [Metropolis Sprite, Island, Octoprophet]
+Rand life: 23
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Octoprophet
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Octoprophet
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Octoprophet ETB abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Bishop of Wings
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Bishop of Wings]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain]
+Inspiring Captain is blocking Yoked Ox ['Ancestral Blade']
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Yoked Ox ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet]
+Rand hand: [Metropolis Sprite, Island]
+Rand life: 24
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Metropolis Sprite, Plains]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings ['Ancestral Blade'], Inspiring Captain]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Metropolis Sprite, Plains]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Metropolis Sprite
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island, Metropolis Sprite]
+Rand hand: [Plains]
+Rand life: 25
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Metropolis Sprite Effect, Metropolis Sprite Effect]
+Resolving Metropolis Sprite Effect
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite has taken lethal damage: 0
+Metropolis Sprite dies
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Plains]
+Rand life: 25
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Plains]
+Rand life: 25
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Plains]
+Rand life: 25
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Bishop of Wings ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Bishop of Wings ['Ancestral Blade']]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Plains, Renowned Weaponsmith]
+Rand life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings ['Ancestral Blade'], Inspiring Captain]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island]
+Rand hand: [Plains, Renowned Weaponsmith]
+Rand life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox ['Ancestral Blade'], Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Island]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 26
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Daybreak Chaplin ['Pacifism']
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Daybreak Chaplin ['Pacifism']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 26
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 26
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings ['Ancestral Blade'], Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 26
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Soulmender ability]
+Resolving Soulmender ability
+Rand gains 1 life
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Renowned Weaponsmith
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Renowned Weaponsmith]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 6
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith ['Ancestral Blade']]
+Rand hand: [Island]
+Rand life: 27
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Inspiring Captain, Octoprophet]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Octoprophet
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith ['Ancestral Blade']]
+Rand hand: [Island]
+Rand life: 27
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Inspiring Captain
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Inspiring Captain]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain ['Ancestral Blade'], Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: []
+Rand life: 27
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Spectral Sailor
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Spectral Sailor
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island, Spectral Sailor]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain ['Ancestral Blade'], Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: []
+Rand life: 27
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island, Spectral Sailor]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain ['Ancestral Blade'], Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: []
+Rand life: 27
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island, Spectral Sailor]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1, Plains, Island, Bishop of Wings, Island, Inspiring Captain ['Ancestral Blade'], Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: []
+Rand life: 27
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Stack: [Soulmender ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Soulmender ability
+Rand gains 1 life
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island, Spectral Sailor]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Dungeon Geists]
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Octoprophet]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor]
+Spectral Sailor is blocking Octoprophet
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Spectral Sailor has taken lethal damage: 3
+Spectral Sailor dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island]
+Rand hand: [Dungeon Geists]
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Daybreak Chaplin ['Pacifism', 'Ancestral Blade']
+ Targets:  []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Dungeon Geists ETB abil
+Phase: End Phase
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism', 'Ancestral Blade'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1, Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists]
+Rand hand: []
+Rand life: 28
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Daybreak Chaplin ['Pacifism', 'Ancestral Blade'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain, Plains]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists]
+Rand hand: []
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Island]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain, Plains]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists]
+Rand hand: []
+Rand life: 28
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Ancestral Blade equip abil
+{'C': 1}
+{'C': 1}
+{'C': 1}
+Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Ancestral Blade equip abil targeting Soldier 1/1 ['Ancestral Blade']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Ancestral Blade equip abil
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Island, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists]
+Rand hand: []
+Rand life: 28
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 0}
+{'C': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Island, Plains]
+Robo hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists, Island]
+Rand hand: []
+Rand life: 28
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Dungeon Geists]
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Robo  battlefield: [Plains, Island, Angelic Gift, Daybreak Chaplin ['Pacifism'], Plains, Yoked Ox, Pacifism, Island, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Island, Plains]
+Robo  hand: [Frost Lynx, Aether Gust, Steadfast Sentry, Inspiring Captain]
+Robo  deck: [Island, Island, Plains, Island, Island, Inspired Charge, Island, Angel of Vitality, Plains, Cavalier of Gales, Aerial Assault, Island, Hanged Executioner, Tale's End, Island, Plains, Cloudkin Seer, Plains, Scholar of the Ages, Planar Cleansing, Flood of Tears, Plains, Raise the Alarm, Plains, Island, Island, Fortress Crab, Island, Glaring Aegis, Island, Plains, Brineborn Cutthroat, Plains, Plains, Soulmender, Drawn from Dreams, Island, Captivating Gyre, Hard Cover, Plains, Island, Plains, Gauntlet of Light, Disenchant, Air Elemental, Moorland Inquisitor, Island, Winged Words, Sage's Row Denizen, Plains, Island, Squad Captain, Loxodon Lifechanter, Plains, Island, Plains, Zephyr Charge, Brought Back, Island, Island, Unsummon, Island, Plains, Plains, Agent of Treachery, Sephara, Sky's Blade, Master Splicer, Island, Island, Island, Mu Yanling, Sky Dancer, Warden of Evos Isle, Island, Plains, Atemis, All-Seeing, Plains, Island, Bone to Ash, Octoprophet, Plains, Portal of Sanctuary, Island, Eternal Isolation, Cavalier of Dawn, Battalion Foot Soldier, Faerie Miscreant, Plains, Plains, Plains, Plains, Griffin Sentinel, Plains, Island, Sleep Paralysis, Rule of Law, Island, Moat Piranhas, Plains, Anticipate, Leyline of Sanctity, Plains, Island, Plains, Plains, Fencing Ace, Masterful Replication, Loyal Pegasus, Apostle of Purifying Light, Island, Convolute, Island, Renowned Weaponsmith, Griffin Protector, Plains, Boreal Elemental, Island, Island, Cerulean Drake, Island, Island, Plains, Plains, Dungeon Geists, Yarok's Wavecrasher, Ajani, Strength of the Pride, Bishop of Wings, Island, Devout Decree, Frilled Sea Serpent, Gods Willing, Plains, Starfield Mystic, Plains, Plains, Island, Plains, Island, Negate, Metropolis Sprite, Plains, Herald of the Sun, Plains, Dawning Angel]
+Robo  graveyard: [Moment of Heroism, Spectral Sailor]
+Rand  battlefield: [Plains, Soulmender ['Angelic Gift'], Plains, Ancestral Blade, Soldier 1/1 ['Ancestral Blade'], Plains, Island, Bishop of Wings, Island, Inspiring Captain, Plains, Octoprophet, Island, Plains, Renowned Weaponsmith, Island, Dungeon Geists, Island]
+Rand  hand: []
+Rand  deck: [Island, Disenchant, Convolute, Yoked Ox, Plains, Fencing Ace, Hard Cover, Brought Back, Loyal Pegasus, Captivating Gyre, Apostle of Purifying Light, Plains, Plains, Herald of the Sun, Plains, Plains, Frilled Sea Serpent, Plains, Unsummon, Island, Island, Atemis, All-Seeing, Island, Moat Piranhas, Warden of Evos Isle, Plains, Steadfast Sentry, Island, Island, Portal of Sanctuary, Tale's End, Plains, Island, Plains, Island, Leyline of Sanctity, Hanged Executioner, Raise the Alarm, Island, Aerial Assault, Plains, Plains, Island, Air Elemental, Aether Gust, Bone to Ash, Frost Lynx, Island, Gods Willing, Plains, Plains, Island, Moorland Inquisitor, Plains, Cavalier of Gales, Starfield Mystic, Plains, Faerie Miscreant, Island, Daybreak Chaplin, Island, Island, Island, Island, Gauntlet of Light, Plains, Brineborn Cutthroat, Island, Plains, Plains, Fortress Crab, Masterful Replication, Glaring Aegis, Island, Sage's Row Denizen, Zephyr Charge, Pacifism, Loxodon Lifechanter, Sleep Paralysis, Griffin Sentinel, Dawning Angel, Ajani, Strength of the Pride, Island, Plains, Anticipate, Island, Drawn from Dreams, Island, Cloudkin Seer, Winged Words, Sephara, Sky's Blade, Plains, Island, Island, Island, Angelic Gift, Plains, Angel of Vitality, Plains, Plains, Plains, Planar Cleansing, Plains, Island, Island, Battalion Foot Soldier, Flood of Tears, Squad Captain, Plains, Agent of Treachery, Plains, Plains, Plains, Plains, Island, Island, Spectral Sailor, Yarok's Wavecrasher, Island, Eternal Isolation, Griffin Protector, Cavalier of Dawn, Island, Cerulean Drake, Plains, Plains, Island, Boreal Elemental, Island, Plains, Master Splicer, Mu Yanling, Sky Dancer, Island, Devout Decree, Plains, Scholar of the Ages, Island, Rule of Law, Island, Negate, Plains, Moment of Heroism, Plains]
+Rand  graveyard: [Inspired Charge, Metropolis Sprite]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:03.823530
+Seed: 3984999489

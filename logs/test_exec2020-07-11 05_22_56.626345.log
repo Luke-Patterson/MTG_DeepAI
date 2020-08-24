@@ -1,0 +1,7377 @@
+Seed: 8923937306
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+{'W': 2}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Brought Back, Inspiring Captain, Island, Island, Plains, Island, Island, Fencing Ace]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Brought Back, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Brought Back, Inspiring Captain, Island, Island, Plains, Island, Island, Fencing Ace]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Brought Back
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Brought Back, Inspiring Captain, Island, Island, Plains, Island, Island, Fencing Ace]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Inspiring Captain, Island, Plains, Island, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Inspiring Captain, Island, Plains, Island, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand discards Inspiring Captain
+Robo battlefield: [Plains]
+Robo hand: [Tale's End, Island, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Island, Fencing Ace, Plains]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'W': 2}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island]
+Robo hand: [Tale's End, Griffin Sentinel, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Sentinel
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Griffin Sentinel
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island]
+Rand hand: [Plains, Brought Back, Island, Plains, Fencing Ace, Plains, Aerial Assault]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'W': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Fencing Ace
+{'W': 2}
+Rand Passes
+Robo Passes
+Resolving Fencing Ace
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Sleep Paralysis, Plains, Island, Sephara, Sky's Blade]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Griffin Sentinel
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Griffin Sentinel]
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Sleep Paralysis
+{'C': 1, 'U': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Resolving Sleep Paralysis ETB
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'W': 2}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'W': 2}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace]
+Rand hand: [Plains, Brought Back, Island, Plains, Aerial Assault, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'W': 2}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+Robo Passes
+Resolving Brought Back
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis]
+Robo hand: [Tale's End, Mu Yanling, Sky Dancer, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Griffin Sentinel ['Sleep Paralysis'] does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 2}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Mu Yanling, Sky Dancer
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling, Sky Dancer
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Tale's End, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Tale's End, Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Fencing Ace
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Fencing Ace]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Mu Yanling +2 ability
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Tale's End
+ Targets:  [Tale's End targeting Mu Yanling +2 ability]
+Robo Passes
+Rand Passes
+Stack: [Mu Yanling +2 ability, Tale's End]
+Resolving Tale's End
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Griffin Sentinel ['Sleep Paralysis'], Island, Sleep Paralysis, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains]
+Rand hand: [Plains, Island, Plains, Aerial Assault, Island]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Griffin Sentinel ['Sleep Paralysis']
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Griffin Sentinel ['Sleep Paralysis']]
+Rand Passes
+Robo Passes
+Resolving Aerial Assault
+Griffin Sentinel is destroyed
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+Mu Yanling +2 ability targeting Fencing Ace
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Fencing Ace]
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island]
+Rand hand: [Plains, Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses -1 loyalty from combat
+Mu Yanling, Sky Dancer loses -1 loyalty from combat
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling -3 ability
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling -3 ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Robo hand: [Plains, Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains]
+Rand hand: [Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Squad Captain
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Battalion Foot Soldier]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Squad Captain ['+1/+1 counter']
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Squad Captain ['+1/+1 counter']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Elemental Bird 4/4 Flying]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter']]
+Rand hand: [Island, Plains, Plains]
+Rand life: 16
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moat Piranhas
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Battalion Foot Soldier, Plains]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 16
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Battalion Foot Soldier
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Battalion Foot Soldier
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Battalion Foot Soldier ETB, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Elemental Bird 4/4 Flying]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Moat Piranhas
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Moat Piranhas]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas]
+Rand hand: [Island, Plains]
+Rand life: 12
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 18
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Battalion Foot Soldier, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Battalion Foot Soldier]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Squad Captain ['+1/+1 counter'], Moat Piranhas]
+Squad Captain ['+1/+1 counter'] is blocking Battalion Foot Soldier
+Moat Piranhas is blocking Battalion Foot Soldier
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Battalion Foot Soldier has taken lethal damage: 6
+Battalion Foot Soldier dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Mu Yanling -8 ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Mu Yanling -8 ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains]
+Rand hand: [Island, Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses 3 loyalty from combat
+Mu Yanling, Sky Dancer has no loyalty
+Mu Yanling, Sky Dancer dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspired Charge
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Inspired Charge
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 16
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace, Squad Captain ['+1/+1 counter']]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Robo loses 3 life
+Robo loses 5 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Fencing Ace, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Elemental Bird 4/4 Flying]
+Elemental Bird 4/4 Flying is blocking Fencing Ace
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Fencing Ace has taken lethal damage: 4
+Fencing Ace dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Island]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island]
+Robo hand: [Sephara, Sky's Blade, Plains, Squad Captain]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Cerulean Drake
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Squad Captain ['+1/+1 counter'], Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Elemental Bird 4/4 Flying]
+Elemental Bird 4/4 Flying is blocking Squad Captain ['+1/+1 counter']
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Squad Captain ['+1/+1 counter'] has taken lethal damage: 4
+Squad Captain ['+1/+1 counter'] dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Warden of Evos Isle
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 5
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Elemental Bird 4/4 Flying, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Warden of Evos Isle
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Cerulean Drake
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Elemental Bird 4/4 Flying
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Warden of Evos Isle, Captivating Gyre targeting Cerulean Drake, Captivating Gyre targeting Elemental Bird 4/4 Flying]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Captivating Gyre
+Warden of Evos Isle bounced
+Cerulean Drake bounced
+Elemental Bird 4/4 Flying bounced
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant, Warden of Evos Isle, Cerulean Drake]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant, Warden of Evos Isle, Cerulean Drake]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+Robo Passes
+Resolving Cerulean Drake
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains]
+Robo hand: [Sephara, Sky's Blade, Squad Captain, Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant, Warden of Evos Isle]
+Rand life: 12
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+Robo Passes
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 0 +1/+1 counters
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain]
+Robo hand: [Sephara, Sky's Blade, Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant, Warden of Evos Isle]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain]
+Robo hand: [Sephara, Sky's Blade, Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant, Warden of Evos Isle]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sephara, Sky's Blade
+Robo Passes
+Rand Passes
+Resolving Sephara, Sky's Blade
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake]
+Rand hand: [Disenchant, Warden of Evos Isle]
+Rand life: 12
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Warden of Evos Isle
+Rand Passes
+Robo Passes
+Resolving Warden of Evos Isle
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle]
+Rand hand: [Disenchant, Plains]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Warden of Evos Isle, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Warden of Evos Isle]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Sephara, Sky's Blade]
+Sephara, Sky's Blade is blocking Warden of Evos Isle
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Rand gains 2 life
+Warden of Evos Isle has taken lethal damage: 7
+Warden of Evos Isle dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 14
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 14
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fencing Ace
+Robo Passes
+Rand Passes
+Resolving Fencing Ace
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Squad Captain, Sephara, Sky's Blade, Island, Fencing Ace]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain, Sephara, Sky's Blade]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas, Cerulean Drake]
+Moat Piranhas is blocking Squad Captain
+Cerulean Drake is blocking Squad Captain
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 7 life
+Squad Captain has taken lethal damage: 4
+Squad Captain dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace]
+Robo hand: [Aether Gust, Plains]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Cerulean Drake, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Fencing Ace]
+Fencing Ace is blocking Cerulean Drake
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Cerulean Drake has taken lethal damage: 1
+Cerulean Drake dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Portal of Sanctuary
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Moat Piranhas, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Portal of Sanctuary]
+Rand hand: [Disenchant]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Moat Piranhas
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Moat Piranhas]
+{'C': 1, 'W': 1}
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Moat Piranhas bounced
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Portal of Sanctuary
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Portal of Sanctuary]
+Rand Passes
+Robo Passes
+Resolving Disenchant
+Portal of Sanctuary is destroyed
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island]
+Rand hand: [Moat Piranhas]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+Robo Passes
+Resolving Moat Piranhas
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 7
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sephara, Sky's Blade
+Rand Passes
+Robo Passes
+Resolving Sephara, Sky's Blade
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas, Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas, Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas, Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Moat Piranhas
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Moat Piranhas]
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Moat Piranhas
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis ETB
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade]
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fencing Ace
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fencing Ace]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fencing Ace
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fencing Ace]
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade, Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade]
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Sephara, Sky's Blade
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Sephara, Sky's Blade]
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: []
+Rand life: 5
+stack: []
+None
+Turn 24 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fencing Ace
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fencing Ace]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Turn 24 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge]
+Rand hand: [Air Elemental]
+Rand life: 5
+stack: []
+None
+Turn 25 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fencing Ace
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fencing Ace]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 3, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Air Elemental
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Air Elemental, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Air Elemental
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Sephara, Sky's Blade, Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sephara, Sky's Blade]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Sephara, Sky's Blade ['Gauntlet of Light'], Fencing Ace]
+Sephara, Sky's Blade ['Gauntlet of Light'] is blocking Sephara, Sky's Blade
+Fencing Ace is blocking Sephara, Sky's Blade
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo gains 1 life
+Rand gains 7 life
+Robo gains 9 life
+Robo gains 1 life
+Sephara, Sky's Blade has taken lethal damage: 11
+Sephara, Sky's Blade dies
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 12
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 12
+stack: []
+None
+Turn 25 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Fencing Ace, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 12
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sephara, Sky's Blade ['Gauntlet of Light'], Fencing Ace]
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas ['Glaring Aegis']]
+Moat Piranhas ['Glaring Aegis'] is blocking Fencing Ace
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Combat Damage
+Rand loses 9 life
+Fencing Ace has taken lethal damage: 4
+Fencing Ace dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 3
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 3
+stack: []
+None
+Turn 26 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Sephara, Sky's Blade ['Gauntlet of Light']
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Moment of Heroism
+Phase: First Main
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge, Air Elemental]
+Rand hand: [Devout Decree]
+Rand life: 3
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Air Elemental]
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Sephara, Sky's Blade ['Gauntlet of Light']]
+Sephara, Sky's Blade ['Gauntlet of Light'] is blocking Air Elemental
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Rand gains 4 life
+Air Elemental has taken lethal damage: 11
+Air Elemental dies
+Phase: End of Combat Step
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moat Piranhas ['Glaring Aegis']]
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge]
+Rand hand: [Devout Decree]
+Rand life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge]
+Rand hand: [Devout Decree]
+Rand life: 7
+stack: []
+None
+Turn 26 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo hand: [Aether Gust, Plains, Angel of Vitality]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge]
+Rand hand: [Devout Decree]
+Rand life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Sephara, Sky's Blade ['Gauntlet of Light']]
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 9 life
+Robo  battlefield: [Plains, Island, Plains, Island, Island, Plains, Plains, Plains, Plains, Island, Island, Island, Plains, Plains, Plains, Sephara, Sky's Blade ['Gauntlet of Light'], Island, Plains, Island, Plains, Glaring Aegis, Gauntlet of Light, Plains]
+Robo  hand: [Aether Gust, Plains, Angel of Vitality]
+Robo  deck: [Winged Words, Island, Island, Island, Sage's Row Denizen, Plains, Island, Faerie Miscreant, Plains, Bone to Ash, Island, Island, Island, Spectral Sailor, Plains, Island, Island, Island, Plains, Apostle of Purifying Light, Moorland Inquisitor, Island, Plains, Planar Cleansing, Plains, Zephyr Charge, Frost Lynx, Island, Angelic Gift, Moment of Heroism, Island, Plains, Leyline of Sanctity, Drawn from Dreams, Plains, Soulmender, Plains, Dungeon Geists, Plains, Plains, Plains, Plains, Pacifism, Cerulean Drake, Island, Starfield Mystic, Island, Island, Island, Plains, Dawning Angel, Air Elemental, Island, Boreal Elemental, Plains, Plains, Hard Cover, Inspired Charge, Loxodon Lifechanter, Plains, Agent of Treachery, Negate, Fortress Crab, Plains, Island, Island, Plains, Island, Plains, Brineborn Cutthroat, Ajani, Strength of the Pride, Island, Plains, Inspiring Captain, Cavalier of Dawn, Island, Island, Metropolis Sprite, Scholar of the Ages, Yarok's Wavecrasher, Ancestral Blade, Island, Convolute, Plains, Island, Plains, Island, Island, Island, Aerial Assault, Steadfast Sentry, Anticipate, Masterful Replication, Plains, Portal of Sanctuary, Cloudkin Seer, Plains, Eternal Isolation, Herald of the Sun, Bishop of Wings, Plains, Devout Decree, Yoked Ox, Hanged Executioner, Island, Master Splicer, Gods Willing, Island, Frilled Sea Serpent, Island, Griffin Protector, Warden of Evos Isle, Plains, Disenchant, Daybreak Chaplin, Captivating Gyre, Loyal Pegasus, Island, Moat Piranhas, Rule of Law, Renowned Weaponsmith, Cavalier of Gales, Octoprophet, Unsummon, Raise the Alarm, Flood of Tears, Plains, Atemis, All-Seeing]
+Robo  graveyard: [Brought Back, Tale's End, Sleep Paralysis, Griffin Sentinel, Battalion Foot Soldier, Mu Yanling, Sky Dancer, Squad Captain, Fencing Ace]
+Rand  battlefield: [Island, Island, Plains, Plains, Island, Plains, Plains, Plains, Plains, Island, Plains, Plains, Island, Plains, Plains, Island, Moat Piranhas ['Glaring Aegis'], Zephyr Charge]
+Rand  hand: [Devout Decree]
+Rand  deck: [Island, Master Splicer, Plains, Island, Eternal Isolation, Bone to Ash, Island, Plains, Boreal Elemental, Island, Tale's End, Pacifism, Frost Lynx, Island, Plains, Ajani, Strength of the Pride, Island, Plains, Flood of Tears, Plains, Plains, Island, Hanged Executioner, Plains, Plains, Plains, Renowned Weaponsmith, Plains, Island, Plains, Island, Angelic Gift, Island, Plains, Rule of Law, Island, Island, Steadfast Sentry, Island, Island, Island, Metropolis Sprite, Plains, Agent of Treachery, Plains, Island, Loyal Pegasus, Starfield Mystic, Cavalier of Gales, Yarok's Wavecrasher, Glaring Aegis, Masterful Replication, Plains, Plains, Plains, Plains, Moorland Inquisitor, Ancestral Blade, Gauntlet of Light, Island, Frilled Sea Serpent, Plains, Plains, Atemis, All-Seeing, Island, Aether Gust, Plains, Fortress Crab, Island, Gods Willing, Anticipate, Island, Yoked Ox, Battalion Foot Soldier, Island, Island, Island, Convolute, Plains, Leyline of Sanctity, Daybreak Chaplin, Griffin Protector, Plains, Cavalier of Dawn, Island, Apostle of Purifying Light, Sage's Row Denizen, Island, Faerie Miscreant, Dungeon Geists, Island, Spectral Sailor, Plains, Winged Words, Brineborn Cutthroat, Unsummon, Cloudkin Seer, Plains, Sleep Paralysis, Island, Plains, Island, Island, Island, Loxodon Lifechanter, Island, Plains, Island, Plains, Scholar of the Ages, Soulmender, Drawn from Dreams, Negate, Plains, Bishop of Wings, Planar Cleansing, Angel of Vitality, Island, Mu Yanling, Sky Dancer, Octoprophet, Island, Dawning Angel, Hard Cover, Griffin Sentinel, Raise the Alarm, Herald of the Sun, Plains, Plains]
+Rand  graveyard: [Island, Inspiring Captain, Brought Back, Aerial Assault, Inspired Charge, Fencing Ace, Squad Captain, Captivating Gyre, Warden of Evos Isle, Cerulean Drake, Portal of Sanctuary, Disenchant, Sephara, Sky's Blade, Moment of Heroism, Air Elemental]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:11.119108
+Seed: 8923937306

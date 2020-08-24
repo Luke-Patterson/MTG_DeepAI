@@ -1,0 +1,4635 @@
+Seed: 9721642735
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Robo draws 4 card
+Robo mulligans to 4
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Moorland Inquisitor, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Moorland Inquisitor, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Moorland Inquisitor, Plains, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Moorland Inquisitor, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Moorland Inquisitor, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Moorland Inquisitor
+Rand battlefield: [Plains]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Bishop of Wings, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+Rand Passes
+Robo Passes
+Resolving Bishop of Wings
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings]
+Rand hand: [Plains, Angel of Vitality, Griffin Protector, Plains, Cavalier of Dawn, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angel of Vitality
+Rand Passes
+Robo Passes
+Resolving Angel of Vitality
+Rand Passes
+Robo Passes
+Resolving Bishop of Wings Angel ETB
+applying replacement effect Angel of Vitality +1 Gain Life
+Rand gains 5 life
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner ETB
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality]
+Rand hand: [Griffin Protector, Plains, Cavalier of Dawn, Plains, Island]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Protector
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Protector
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Hanged Executioner, Spirit 1/1 Flying, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Hanged Executioner, Spirit 1/1 Flying]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Angel of Vitality, Griffin Protector]
+Angel of Vitality is blocking Hanged Executioner
+Griffin Protector is blocking Spirit 1/1 Flying
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Hanged Executioner has taken lethal damage: 4
+Hanged Executioner dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Spirit 1/1 Flying has taken lethal damage: 2
+Spirit 1/1 Flying dies
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector]
+Rand hand: [Plains, Cavalier of Dawn, Plains, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+{'W': 1, 'C': 2}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+{'W': 1, 'C': 2}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Rule of Law
+Rand Passes
+Robo Passes
+Resolving Rule of Law
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality, Griffin Protector]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Angel of Vitality, Boreal Elemental, Apostle of Purifying Light]
+Robo life: 14
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Angel of Vitality
+Robo Passes
+Rand Passes
+Resolving Angel of Vitality
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Angel of Vitality, Island, Griffin Protector, Plains, Rule of Law]
+Rand hand: [Plains, Cavalier of Dawn, Frilled Sea Serpent]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 14
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+Rand Playing Plains
+{'C': 2, 'W': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Angel of Vitality
+ Targets:  []
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Cavalier of Dawn ETB]
+Resolving Cavalier of Dawn ETB
+Angel of Vitality is destroyed
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Griffin Protector Creature ETB]
+Resolving Griffin Protector Creature ETB
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Sleep Paralysis, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 13
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+Sleep Paralysis targeting Golem 3/3
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Sleep Paralysis
+ Targets:  [Sleep Paralysis targeting Golem 3/3]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sleep Paralysis
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Sleep Paralysis ETB
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Angel of Vitality, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Protector]
+Griffin Protector is blocking Angel of Vitality
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Angel of Vitality has taken lethal damage: 3
+Angel of Vitality dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 13
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 13
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Golem 3/3 ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 13
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector, Cavalier of Dawn]
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Dungeon Geists]
+Robo life: 7
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dungeon Geists
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Dungeon Geists ETB abil targeting Bishop of Wings
+ Targets:  []
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Dungeon Geists]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Dungeon Geists]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis']]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Dungeon Geists]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Bishop of Wings does not untap during untap step
+Golem 3/3 ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Dungeon Geists]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Dungeon Geists]
+Dungeon Geists is blocking Cavalier of Dawn
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Dungeon Geists has taken lethal damage: 4
+Dungeon Geists dies
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island]
+Robo hand: [Squad Captain, Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 0 +1/+1 counters
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Island]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication, Island]
+Robo life: 7
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain, Island]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Bishop of Wings does not untap during untap step
+Golem 3/3 ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain, Island]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 7
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain, Island]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain, Island]
+Robo hand: [Atemis, All-Seeing, Boreal Elemental, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Boreal Elemental
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Boreal Elemental
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Squad Captain, Island, Boreal Elemental]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication, Island]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain]
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Cavalier of Dawn]
+Cavalier of Dawn is blocking Squad Captain
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Squad Captain has taken lethal damage: 4
+Squad Captain dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication, Island]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Bishop of Wings does not untap during untap step
+Golem 3/3 ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Griffin Protector, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Protector]
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Boreal Elemental]
+Boreal Elemental is blocking Griffin Protector
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Griffin Protector has taken lethal damage: 3
+Griffin Protector dies
+Phase: End of Combat Step
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 2}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Apostle of Purifying Light, Masterful Replication]
+Robo life: 5
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Atemis, All-Seeing
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Atemis, All-Seeing
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 25
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Apostle of Purifying Light, Masterful Replication, Cavalier of Dawn]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Boreal Elemental]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Apostle of Purifying Light, Masterful Replication, Cavalier of Dawn]
+Robo life: 5
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Inspired Charge, Octoprophet, Renowned Weaponsmith]
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Apostle of Purifying Light, Masterful Replication, Cavalier of Dawn]
+Robo life: 5
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Bishop of Wings does not untap during untap step
+Golem 3/3 ['Sleep Paralysis'] does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspired Charge
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Inspired Charge]
+Resolving Inspired Charge
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island, Plains]
+Rand hand: [Frilled Sea Serpent, Cavalier of Gales, Octoprophet, Renowned Weaponsmith]
+Rand life: 22
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Apostle of Purifying Light, Masterful Replication, Cavalier of Dawn]
+Robo life: 5
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Rand  battlefield: [Plains, Plains, Bishop of Wings, Plains, Island, Plains, Rule of Law, Plains, Cavalier of Dawn, Golem 3/3 ['Sleep Paralysis'], Island, Plains]
+Rand  hand: [Frilled Sea Serpent, Cavalier of Gales, Octoprophet, Renowned Weaponsmith]
+Rand  deck: [Air Elemental, Apostle of Purifying Light, Island, Faerie Miscreant, Island, Sage's Row Denizen, Island, Plains, Island, Devout Decree, Plains, Island, Hard Cover, Island, Inspiring Captain, Plains, Plains, Eternal Isolation, Aerial Assault, Island, Island, Ancestral Blade, Angelic Gift, Battalion Foot Soldier, Aether Gust, Island, Boreal Elemental, Convolute, Island, Fencing Ace, Drawn from Dreams, Island, Dungeon Geists, Island, Brineborn Cutthroat, Loxodon Lifechanter, Island, Island, Plains, Loyal Pegasus, Sleep Paralysis, Zephyr Charge, Island, Island, Raise the Alarm, Yarok's Wavecrasher, Daybreak Chaplin, Island, Plains, Gauntlet of Light, Captivating Gyre, Plains, Island, Masterful Replication, Island, Sephara, Sky's Blade, Island, Cloudkin Seer, Plains, Tale's End, Brought Back, Plains, Island, Plains, Island, Plains, Squad Captain, Soulmender, Plains, Island, Plains, Island, Frost Lynx, Master Splicer, Plains, Gods Willing, Plains, Bone to Ash, Island, Cerulean Drake, Disenchant, Island, Island, Plains, Plains, Winged Words, Scholar of the Ages, Moorland Inquisitor, Island, Plains, Plains, Island, Plains, Island, Plains, Plains, Plains, Starfield Mystic, Island, Plains, Ajani, Strength of the Pride, Glaring Aegis, Flood of Tears, Plains, Plains, Steadfast Sentry, Moat Piranhas, Negate, Fortress Crab, Plains, Hanged Executioner, Mu Yanling, Sky Dancer, Island, Island, Plains, Plains, Yoked Ox, Spectral Sailor, Dawning Angel, Island, Plains, Unsummon, Warden of Evos Isle, Island, Herald of the Sun, Leyline of Sanctity, Griffin Sentinel, Moment of Heroism, Plains, Metropolis Sprite, Agent of Treachery, Portal of Sanctuary, Plains, Anticipate, Island, Planar Cleansing, Plains, Plains, Atemis, All-Seeing, Island, Plains, Pacifism, Island]
+Rand  graveyard: [Island, Angel of Vitality, Griffin Protector, Inspired Charge]
+Robo  battlefield: [Plains, Plains, Island, Island, Sleep Paralysis, Island, Island, Boreal Elemental, Island, Atemis, All-Seeing]
+Robo  hand: [Apostle of Purifying Light, Masterful Replication, Cavalier of Dawn]
+Robo  deck: [Angelic Gift, Island, Island, Octoprophet, Plains, Cloudkin Seer, Brought Back, Moment of Heroism, Plains, Frost Lynx, Agent of Treachery, Plains, Plains, Hard Cover, Flood of Tears, Island, Metropolis Sprite, Plains, Ancestral Blade, Fortress Crab, Aerial Assault, Daybreak Chaplin, Mu Yanling, Sky Dancer, Plains, Herald of the Sun, Warden of Evos Isle, Plains, Cerulean Drake, Island, Island, Plains, Brineborn Cutthroat, Plains, Island, Portal of Sanctuary, Zephyr Charge, Pacifism, Island, Disenchant, Winged Words, Rule of Law, Island, Soulmender, Plains, Battalion Foot Soldier, Plains, Bone to Ash, Plains, Moat Piranhas, Plains, Plains, Captivating Gyre, Plains, Island, Island, Frilled Sea Serpent, Plains, Negate, Yoked Ox, Raise the Alarm, Plains, Planar Cleansing, Island, Plains, Island, Inspiring Captain, Air Elemental, Eternal Isolation, Unsummon, Starfield Mystic, Steadfast Sentry, Island, Sage's Row Denizen, Plains, Island, Gods Willing, Island, Island, Griffin Sentinel, Island, Spectral Sailor, Drawn from Dreams, Island, Island, Island, Tale's End, Loyal Pegasus, Plains, Griffin Protector, Plains, Ajani, Strength of the Pride, Faerie Miscreant, Plains, Loxodon Lifechanter, Bishop of Wings, Island, Scholar of the Ages, Aether Gust, Plains, Island, Inspired Charge, Island, Yarok's Wavecrasher, Island, Plains, Plains, Devout Decree, Island, Plains, Plains, Convolute, Island, Leyline of Sanctity, Island, Plains, Glaring Aegis, Plains, Gauntlet of Light, Island, Plains, Plains, Island, Dawning Angel, Anticipate, Renowned Weaponsmith, Island, Plains, Fencing Ace, Sephara, Sky's Blade, Plains, Plains, Island, Island, Plains, Master Splicer, Island, Island, Island, Plains, Island, Plains, Plains, Cavalier of Gales, Plains]
+Robo  graveyard: [Moorland Inquisitor, Hanged Executioner, Angel of Vitality, Dungeon Geists, Squad Captain]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.175239
+Seed: 9721642735

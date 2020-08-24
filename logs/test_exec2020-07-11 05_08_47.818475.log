@@ -1,0 +1,2659 @@
+Seed: 8434779719
+Robo draws 7 card
+Rand draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sage's Row Denizen, Octoprophet, Island, Island, Cavalier of Gales, Plains, Island, Pacifism, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sage's Row Denizen, Octoprophet, Island, Island, Cavalier of Gales, Plains, Island, Pacifism, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Sage's Row Denizen, Octoprophet, Island, Island, Cavalier of Gales, Plains, Island, Pacifism, Island]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 3}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 3}
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Octoprophet, Island, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Octoprophet, Island, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Octoprophet
+Rand discards Island
+Robo battlefield: [Island]
+Robo hand: [Island, Renowned Weaponsmith, Plains, Hanged Executioner, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Renowned Weaponsmith
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island]
+Rand hand: [Sage's Row Denizen, Island, Cavalier of Gales, Plains, Pacifism, Island, Hard Cover]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 4, 'U': 2}
+{'U': 1}
+Hard Cover targeting Renowned Weaponsmith
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Renowned Weaponsmith]
+Rand Passes
+{'U': 1}
+Robo Passes
+Resolving Hard Cover
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover']]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover']]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 2}
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover']]
+Robo hand: [Island, Hanged Executioner, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Rule of Law
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Hanged Executioner
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner ETB
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Plains, Pacifism, Island, Flood of Tears]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 1, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Hanged Executioner
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Hanged Executioner]
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Pacifism
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner ['Pacifism'], Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Pacifism]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner ['Pacifism'], Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Pacifism]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Hanged Executioner ['Pacifism'], Spirit 1/1 Flying]
+Robo hand: [Island, Inspiring Captain, Plains, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Pacifism]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Plains
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Hanged Executioner ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Hanged Executioner ability targeting Spirit 1/1 Flying
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo exiles Hanged Executioner
+ Targets:  [Hanged Executioner ability targeting Spirit 1/1 Flying]
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Hanged Executioner ability
+Robo exiles Spirit 1/1 Flying
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains]
+Rand hand: [Sage's Row Denizen, Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Sage's Row Denizen
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Resolving Sage's Row Denizen
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island]
+Robo hand: [Island, Inspiring Captain, Plains, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 0}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains]
+Robo hand: [Island, Inspiring Captain, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains]
+Robo hand: [Island, Inspiring Captain, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspiring Captain
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Inspiring Captain
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Inspiring Captain Creature ETB
+Phase: End Phase
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain]
+Robo hand: [Island, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen]
+Rand hand: [Cavalier of Gales, Island, Flood of Tears, Plains]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 2, 'U': 3}
+{'C': 4, 'U': 2}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Gales
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Gales
+Sages Row Denizen Creature ETB trigger not put on stack, no legal targets for trigger
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Resolving Cavalier of Gales ETB
+Rand draws 3 card
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain]
+Robo hand: [Island, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Sage's Row Denizen, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Sage's Row Denizen]
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Inspiring Captain]
+Inspiring Captain is blocking Sage's Row Denizen
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Sage's Row Denizen has taken lethal damage: 3
+Sage's Row Denizen dies
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain]
+Robo hand: [Island, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'W': 1}
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain]
+Robo hand: [Island, Aerial Assault, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 0}
+Robo Activating Hard Cover ability
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Hard Cover ability
+Robo draws 1 card
+Robo discards Island
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 0}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moorland Inquisitor
+{'U': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain, Island, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain, Island, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Renowned Weaponsmith ['Hard Cover'], Plains, Island, Plains, Inspiring Captain, Island, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Hard Cover, Plains, Island, Plains, Cavalier of Gales]
+Rand hand: [Flood of Tears, Plains, Island, Soulmender]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'W': 1}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Flood of Tears
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Flood of Tears
+Renowned Weaponsmith ['Hard Cover'] bounced
+Inspiring Captain bounced
+Moorland Inquisitor bounced
+Cavalier of Gales bounced
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Robo hand: [Aerial Assault, Negate, Renowned Weaponsmith, Inspiring Captain, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Robo hand: [Aerial Assault, Negate, Renowned Weaponsmith, Inspiring Captain, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'U': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island]
+Robo hand: [Aerial Assault, Negate, Renowned Weaponsmith, Inspiring Captain, Moorland Inquisitor]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Renowned Weaponsmith
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Aerial Assault, Negate, Inspiring Captain, Moorland Inquisitor, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith]
+Robo hand: [Aerial Assault, Negate, Inspiring Captain, Moorland Inquisitor, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moorland Inquisitor
+{'U': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island]
+Rand hand: [Plains, Island, Soulmender, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'U': 3}
+{'W': 2}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Soulmender
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Soulmender]
+Rand hand: [Plains, Island, Cavalier of Gales, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Negate, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Soulmender]
+Rand hand: [Plains, Island, Cavalier of Gales, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 3}
+{'W': 2}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'U': 3}
+{'W': 2}
+{'C': 0}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Gales
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Cavalier of Gales
+{'C': 0}
+Rand Passes
+{'C': 1, 'U': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Negate targeting Cavalier of Gales ETB
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Cavalier of Gales ETB]
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Cavalier of Gales ETB, Negate]
+Resolving Negate
+Phase: End Phase
+{'C': 0}
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor]
+Robo hand: [Aerial Assault, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Soulmender, Island, Cavalier of Gales]
+Rand hand: [Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Stack: [Renowned Weaponsmith fetch ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Loyal Pegasus
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Loyal Pegasus
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus]
+Robo hand: [Aerial Assault, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Soulmender, Island, Cavalier of Gales]
+Rand hand: [Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Soulmender, Cavalier of Gales]
+Soulmender is blocking Moorland Inquisitor
+Cavalier of Gales is blocking Moorland Inquisitor
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Soulmender has taken lethal damage: 1
+Soulmender dies
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus]
+Robo hand: [Aerial Assault, Inspiring Captain, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Cavalier of Gales]
+Rand hand: [Plains, Bishop of Wings]
+Rand life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Yarok's Wavecrasher
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Yarok's Wavecrasher ETB effect
+Cavalier of Gales bounced
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher]
+Rand hand: [Plains, Bishop of Wings, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher]
+Rand hand: [Plains, Bishop of Wings, Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 2, 'U': 3}
+Rand Playing Plains
+{'W': 2}
+{'C': 2, 'U': 3}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Bishop of Wings
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Bishop of Wings
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Renowned Weaponsmith fetch ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor]
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yarok's Wavecrasher, Bishop of Wings]
+Yarok's Wavecrasher is blocking Moorland Inquisitor
+Bishop of Wings is blocking Moorland Inquisitor
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains]
+Robo hand: [Aerial Assault, Inspiring Captain, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains, Island]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings]
+Rand hand: [Cavalier of Gales]
+Rand life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cavalier of Gales
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Cavalier of Gales
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Cavalier of Gales ETB
+Rand draws 3 card
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains, Island]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains, Island]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Battalion Foot Soldier
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Battalion Foot Soldier
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Phase: End Phase
+Rand Passes
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Renowned Weaponsmith, Moorland Inquisitor, Loyal Pegasus, Plains, Island]
+Robo hand: [Aerial Assault, Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Renowned Weaponsmith
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Renowned Weaponsmith]
+{'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Aerial Assault
+Renowned Weaponsmith is destroyed
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Loyal Pegasus, Plains, Island]
+Robo hand: [Inspiring Captain, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Moorland Inquisitor, Loyal Pegasus]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Yarok's Wavecrasher, Cavalier of Gales, Battalion Foot Soldier]
+Yarok's Wavecrasher is blocking Loyal Pegasus
+Cavalier of Gales is blocking Moorland Inquisitor
+Battalion Foot Soldier is blocking Moorland Inquisitor
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Loyal Pegasus has taken lethal damage: 4
+Loyal Pegasus dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island]
+Robo hand: [Inspiring Captain, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island]
+Robo hand: [Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Anticipate
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Anticipate
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island]
+Robo hand: [Inspiring Captain]
+Robo life: 20
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Gales]
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 5 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island]
+Robo hand: [Inspiring Captain]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island]
+Robo hand: [Inspiring Captain]
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Moorland Inquisitor ability
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspiring Captain
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Inspiring Captain
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Inspiring Captain Creature ETB
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island, Plains, Inspiring Captain]
+Robo hand: []
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island, Plains, Inspiring Captain]
+Robo hand: []
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island, Plains, Inspiring Captain]
+Robo hand: []
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 2}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspired Charge
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspired Charge
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Moorland Inquisitor, Plains, Island, Island, Plains, Inspiring Captain]
+Robo hand: []
+Robo life: 15
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Battalion Foot Soldier, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher, Bishop of Wings, Battalion Foot Soldier]
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moorland Inquisitor, Inspiring Captain]
+Moorland Inquisitor is blocking Bishop of Wings
+Inspiring Captain is blocking Battalion Foot Soldier
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 6 life
+Moorland Inquisitor has taken lethal damage: 3
+Moorland Inquisitor dies
+Inspiring Captain has taken lethal damage: 4
+Inspiring Captain dies
+Battalion Foot Soldier has taken lethal damage: 3
+Battalion Foot Soldier dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Cavalier of Gales
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Cavalier of Gales]
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Yarok's Wavecrasher, Bishop of Wings]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Robo battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Robo hand: []
+Robo life: 4
+stack: []
+Rand battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island, Plains]
+Rand hand: []
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Gales]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 5 life
+Robo  battlefield: [Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Plains, Plains, Island]
+Robo  hand: []
+Robo  deck: [Boreal Elemental, Gauntlet of Light, Plains, Plains, Sephara, Sky's Blade, Masterful Replication, Brought Back, Gods Willing, Mu Yanling, Sky Dancer, Metropolis Sprite, Plains, Portal of Sanctuary, Plains, Apostle of Purifying Light, Eternal Isolation, Devout Decree, Plains, Island, Disenchant, Island, Plains, Brineborn Cutthroat, Island, Island, Plains, Spectral Sailor, Frilled Sea Serpent, Battalion Foot Soldier, Anticipate, Island, Bone to Ash, Island, Plains, Cerulean Drake, Island, Plains, Plains, Sleep Paralysis, Pacifism, Island, Agent of Treachery, Captivating Gyre, Plains, Cloudkin Seer, Island, Island, Island, Faerie Miscreant, Plains, Flood of Tears, Plains, Island, Frost Lynx, Island, Plains, Atemis, All-Seeing, Convolute, Island, Moment of Heroism, Island, Island, Winged Words, Plains, Plains, Steadfast Sentry, Plains, Fortress Crab, Raise the Alarm, Cavalier of Dawn, Plains, Plains, Plains, Plains, Island, Island, Planar Cleansing, Griffin Sentinel, Loxodon Lifechanter, Air Elemental, Island, Plains, Angel of Vitality, Plains, Octoprophet, Plains, Sage's Row Denizen, Leyline of Sanctity, Bishop of Wings, Soulmender, Island, Island, Zephyr Charge, Glaring Aegis, Island, Plains, Island, Plains, Island, Plains, Dungeon Geists, Island, Drawn from Dreams, Island, Island, Aether Gust, Starfield Mystic, Inspired Charge, Island, Island, Island, Scholar of the Ages, Plains, Griffin Protector, Yoked Ox, Island, Plains, Warden of Evos Isle, Ajani, Strength of the Pride, Herald of the Sun, Unsummon, Squad Captain, Ancestral Blade, Tale's End, Island, Angelic Gift, Yarok's Wavecrasher, Plains, Moat Piranhas, Island, Dawning Angel, Plains, Cavalier of Gales, Plains, Island, Plains, Daybreak Chaplin, Fencing Ace, Plains, Hard Cover, Master Splicer]
+Robo  graveyard: [Rule of Law, Plains, Island, Negate, Renowned Weaponsmith, Aerial Assault, Loyal Pegasus, Moorland Inquisitor, Inspiring Captain]
+Rand  battlefield: [Island, Island, Plains, Island, Plains, Island, Island, Yarok's Wavecrasher, Plains, Bishop of Wings, Cavalier of Gales, Plains, Island, Plains]
+Rand  hand: []
+Rand  deck: [Moment of Heroism, Tale's End, Ajani, Strength of the Pride, Plains, Island, Island, Plains, Devout Decree, Plains, Cloudkin Seer, Winged Words, Island, Plains, Frilled Sea Serpent, Leyline of Sanctity, Griffin Protector, Planar Cleansing, Yoked Ox, Air Elemental, Scholar of the Ages, Moorland Inquisitor, Plains, Warden of Evos Isle, Island, Masterful Replication, Plains, Island, Renowned Weaponsmith, Plains, Island, Apostle of Purifying Light, Plains, Sleep Paralysis, Raise the Alarm, Herald of the Sun, Aether Gust, Atemis, All-Seeing, Island, Drawn from Dreams, Plains, Boreal Elemental, Plains, Plains, Brineborn Cutthroat, Plains, Plains, Island, Aerial Assault, Island, Master Splicer, Zephyr Charge, Plains, Dungeon Geists, Island, Fortress Crab, Island, Inspiring Captain, Portal of Sanctuary, Plains, Negate, Faerie Miscreant, Island, Island, Island, Plains, Island, Unsummon, Angelic Gift, Island, Island, Island, Plains, Eternal Isolation, Island, Metropolis Sprite, Sephara, Sky's Blade, Frost Lynx, Brought Back, Captivating Gyre, Moat Piranhas, Gauntlet of Light, Plains, Plains, Island, Island, Ancestral Blade, Plains, Mu Yanling, Sky Dancer, Agent of Treachery, Island, Plains, Plains, Cavalier of Dawn, Convolute, Plains, Plains, Island, Plains, Island, Cerulean Drake, Angel of Vitality, Starfield Mystic, Plains, Plains, Spectral Sailor, Glaring Aegis, Island, Plains, Island, Plains, Steadfast Sentry, Plains, Daybreak Chaplin, Plains, Island, Fencing Ace, Island, Hanged Executioner, Plains, Island, Island, Squad Captain, Loyal Pegasus, Island, Plains, Griffin Sentinel, Disenchant, Island, Bone to Ash, Island, Dawning Angel, Plains, Plains, Plains, Rule of Law, Island, Loxodon Lifechanter]
+Rand  graveyard: [Octoprophet, Island, Pacifism, Sage's Row Denizen, Hard Cover, Flood of Tears, Soulmender, Anticipate, Inspired Charge, Battalion Foot Soldier, Gods Willing]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:02.928208
+Seed: 8434779719

@@ -1,0 +1,3441 @@
+Seed: 3477452830
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Gauntlet of Light, Island, Plains, Master Splicer, Island, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Gauntlet of Light, Island, Plains, Master Splicer, Island, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Plains
+Rand battlefield: [Plains]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Gauntlet of Light, Island, Plains, Master Splicer, Island, Bishop of Wings, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Playing Plains
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Island, Cavalier of Dawn, Inspiring Captain, Starfield Mystic, Mu Yanling, Sky Dancer]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Starfield Mystic
+Rand Passes
+Robo Passes
+Resolving Starfield Mystic
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Bishop of Wings, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 2}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Bishop of Wings
+Robo Passes
+Rand Passes
+Resolving Bishop of Wings
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Starfield Mystic]
+Rand hand: [Portal of Sanctuary, Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+Rand Playing Plains
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Portal of Sanctuary
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Steadfast Sentry
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Starfield Mystic, Plains, Portal of Sanctuary]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Starfield Mystic
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Starfield Mystic]
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Starfield Mystic bounced
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+Rand Playing Plains
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Rand Passes
+Robo Passes
+Resolving Brought Back
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry]
+Robo hand: [Gauntlet of Light, Island, Master Splicer, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer
+Robo Passes
+Rand Passes
+Resolving Master Splicer ETB
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Inspiring Captain, Mu Yanling, Sky Dancer, Starfield Mystic]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Inspiring Captain
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Inspiring Captain]
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Inspiring Captain bounced
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry, Island, Master Splicer, Golem 3/3]
+Robo hand: [Gauntlet of Light, Island, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Steadfast Sentry
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Steadfast Sentry]
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light]
+Robo hand: [Island, Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light]
+Robo hand: [Island, Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light, Island]
+Robo hand: [Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light, Island]
+Robo hand: [Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Inspiring Captain
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Inspiring Captain]
+{'C': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Portal of Sanctuary effect
+Inspiring Captain bounced
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light, Island]
+Robo hand: [Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Bishop of Wings, Island, Steadfast Sentry ['Gauntlet of Light'], Island, Master Splicer, Golem 3/3, Gauntlet of Light, Island]
+Robo hand: [Island, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Golem 3/3
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Steadfast Sentry ['Gauntlet of Light']
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Bishop of Wings
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Golem 3/3, Captivating Gyre targeting Steadfast Sentry ['Gauntlet of Light'], Captivating Gyre targeting Bishop of Wings]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Captivating Gyre
+Golem 3/3 bounced
+Steadfast Sentry ['Gauntlet of Light'] bounced
+Bishop of Wings bounced
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Inspiring Captain
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Inspiring Captain]
+{'C': 1}
+Rand Passes
+Robo Passes
+Stack: [Inspiring Captain Creature ETB, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Inspiring Captain bounced
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Island, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains]
+Robo hand: [Island, Island, Steadfast Sentry, Bishop of Wings]
+Robo life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'W': 2}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Bishop of Wings
+Robo Passes
+Rand Passes
+Resolving Bishop of Wings
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings]
+Robo hand: [Island, Steadfast Sentry, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings]
+Robo hand: [Island, Steadfast Sentry, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Steadfast Sentry
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Cavalier of Dawn, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Steadfast Sentry]
+Robo hand: [Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Steadfast Sentry
+ Targets:  []
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Cavalier of Dawn
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cavalier of Dawn]
+{'C': 1}
+Rand Passes
+Robo Passes
+Stack: [Cavalier of Dawn ETB, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Cavalier of Dawn bounced
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Steadfast Sentry is destroyed
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Island, Cavalier of Dawn]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3]
+Robo hand: [Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Island, Cavalier of Dawn]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3]
+Robo hand: [Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Cavalier of Dawn]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3]
+Robo hand: [Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Cavalier of Dawn]
+Rand life: 17
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Cavalier of Dawn]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Starfield Mystic, Inspiring Captain, Cavalier of Dawn]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Starfield Mystic
+Rand Passes
+Robo Passes
+Resolving Starfield Mystic
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Starfield Mystic]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Inspiring Captain, Cavalier of Dawn, Plains]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Starfield Mystic
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Starfield Mystic]
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Starfield Mystic bounced
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Inspiring Captain, Cavalier of Dawn, Plains, Starfield Mystic]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Phase: End Phase
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Cavalier of Dawn, Plains, Starfield Mystic]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains]
+Robo hand: [Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frost Lynx
+Robo Passes
+Rand Passes
+Resolving Frost Lynx
+{'C': 0}
+Frost Lynx Creature ETB targeting Inspiring Captain
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Frost Lynx Creature ETB
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Cavalier of Dawn, Plains, Starfield Mystic]
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Cavalier of Dawn, Plains, Starfield Mystic]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Inspiring Captain]
+Rand hand: [Drawn from Dreams, Mu Yanling, Sky Dancer, Cavalier of Dawn, Plains, Starfield Mystic]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Inspiring Captain does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Inspiring Captain
+{'C': 1}
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Portal of Sanctuary effect targeting Inspiring Captain]
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Portal of Sanctuary effect
+Inspiring Captain bounced
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Drawn from Dreams
+Rand Passes
+Robo Passes
+Resolving Drawn from Dreams
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Starfield Mystic, Island, Inspiring Captain, Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Starfield Mystic, Island, Inspiring Captain, Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Starfield Mystic
+Rand Passes
+Robo Passes
+Resolving Starfield Mystic
+Phase: End Phase
+{'C': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Starfield Mystic]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Island, Inspiring Captain, Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Starfield Mystic]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Island, Inspiring Captain, Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Frost Lynx, Island]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Bishop of Wings, Golem 3/3, Frost Lynx]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Starfield Mystic]
+Starfield Mystic is blocking Frost Lynx
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Starfield Mystic has taken lethal damage: 2
+Starfield Mystic dies
+Frost Lynx has taken lethal damage: 2
+Frost Lynx dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Island, Inspiring Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Cavalier of Dawn, Island, Inspiring Captain, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Bishop of Wings, Golem 3/3, Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 2}
+{'C': 2, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Bishop of Wings
+ Targets:  []
+{'C': 1}
+Rand Activating Portal of Sanctuary effect
+{'C': 1}
+Portal of Sanctuary effect targeting Cavalier of Dawn
+{'C': 1}
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Portal of Sanctuary effect targeting Cavalier of Dawn]
+{'C': 1}
+Rand Passes
+Robo Passes
+Stack: [Cavalier of Dawn ETB, Portal of Sanctuary effect]
+Resolving Portal of Sanctuary effect
+Cavalier of Dawn bounced
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Bishop of Wings is destroyed
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Golem 3/3]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Golem 3/3]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Mu Yanling, Sky Dancer
+Rand Passes
+Robo Passes
+Resolving Mu Yanling, Sky Dancer
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Golem 3/3]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Golem 3/3
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Golem 3/3]
+Robo Passes
+Rand Passes
+Resolving Disenchant
+Golem 3/3 is destroyed
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island]
+Robo hand: [Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Portal of Sanctuary, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Inspiring Captain, Island, Plains, Cavalier of Dawn]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 3}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Portal of Sanctuary
+ Targets:  []
+{'C': 1}
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Portal of Sanctuary is destroyed
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Inspiring Captain, Island, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Inspiring Captain, Island, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Master Splicer
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Master Splicer]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Inspiring Captain, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Island]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Inspiring Captain, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Golem 3/3, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Cavalier of Dawn]
+Cavalier of Dawn is blocking Golem 3/3
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Golem 3/3 has taken lethal damage: 4
+Golem 3/3 dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Inspiring Captain, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island]
+Rand hand: [Inspiring Captain, Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain
+Rand Passes
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Cavalier of Dawn
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Cavalier of Dawn]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angel of Vitality
+Rand Passes
+Robo Passes
+Resolving Angel of Vitality
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality]
+Rand hand: [Plains, Island, Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling -3 ability
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Mu Yanling -3 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Cloudkin Seer]
+Robo hand: [Leyline of Sanctity]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Cloudkin Seer]
+Robo hand: [Leyline of Sanctity]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'W': 2, 'C': 2}
+{'W': 2, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Leyline of Sanctity
+Robo Passes
+Rand Passes
+Resolving Leyline of Sanctity
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Cloudkin Seer, Leyline of Sanctity]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Golem 3/3
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Golem 3/3]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Master Splicer, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Cloudkin Seer, Leyline of Sanctity]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Inspiring Captain]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Master Splicer, Cloudkin Seer]
+Master Splicer is blocking Cavalier of Dawn
+Cloudkin Seer is blocking Inspiring Captain
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 4
+Master Splicer dies
+Cloudkin Seer has taken lethal damage: 3
+Cloudkin Seer dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Moat Piranhas
+Robo Passes
+Rand Passes
+Resolving Moat Piranhas
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Moat Piranhas]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Moat Piranhas]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Moat Piranhas]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Angel of Vitality
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Angel of Vitality]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Inspiring Captain, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island, Hard Cover]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Moat Piranhas]
+Robo hand: []
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3, Inspiring Captain, Angel of Vitality]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Moat Piranhas]
+Moat Piranhas is blocking Inspiring Captain
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Inspiring Captain has taken lethal damage: 3
+Inspiring Captain dies
+Moat Piranhas has taken lethal damage: 3
+Moat Piranhas dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Plains, Island, Hard Cover]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Playing Island
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Angel of Vitality
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Hard Cover
+ Targets:  [Hard Cover targeting Angel of Vitality]
+Rand Passes
+Robo Passes
+Resolving Hard Cover
+Phase: End Phase
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Daybreak Chaplin
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Daybreak Chaplin]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Daybreak Chaplin]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover]
+Rand hand: [Plains]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Daybreak Chaplin]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Elemental Bird 4/4 Flying
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Elemental Bird 4/4 Flying]
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains]
+Rand hand: [Renowned Weaponsmith]
+Rand life: 10
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Daybreak Chaplin]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Golem 3/3]
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Daybreak Chaplin]
+Daybreak Chaplin is blocking Golem 3/3
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+applying replacement effect Angel of Vitality +1 Gain Life
+Rand gains 4 life
+Daybreak Chaplin has taken lethal damage: 3
+Daybreak Chaplin dies
+Phase: End of Combat Step
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains]
+Rand hand: [Renowned Weaponsmith]
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Soulmender
+{'C': 0}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Soulmender
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 14
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Elemental Bird 4/4 Flying]
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Mu Yanling -8 ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Mu Yanling -8 ability
+Phase: End Phase
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: []
+Robo life: 6
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Drawn from Dreams
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Resolving Drawn from Dreams
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: [Angelic Gift]
+Robo life: 6
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains]
+Robo hand: [Angelic Gift]
+Robo life: 6
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Soulmender
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Soulmender]
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Resolving Angelic Gift
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Resolving Angelic Gift ETB
+Robo draws 1 card
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender ['Angelic Gift']]
+Rand hand: []
+Rand life: 14
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains, Angelic Gift]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 6
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Cavalier of Gales
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Soulmender ability]
+Resolving Soulmender ability
+applying replacement effect Angel of Vitality +1 Gain Life
+Rand gains 2 life
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Playing Plains
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Elemental Bird 4/4 Flying
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Elemental Bird 4/4 Flying]
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Rand battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender ['Angelic Gift'], Plains]
+Rand hand: []
+Rand life: 16
+stack: []
+Robo battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains, Angelic Gift]
+Robo hand: [Frilled Sea Serpent]
+Robo life: 6
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cavalier of Dawn, Golem 3/3, Elemental Bird 4/4 Flying]
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'U': 1}
+{'C': 0}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 3 life
+Robo loses 2 life
+Rand  battlefield: [Plains, Island, Plains, Plains, Island, Island, Island, Island, Plains, Island, Mu Yanling, Sky Dancer, Cavalier of Dawn, Golem 3/3, Island, Angel of Vitality ['Hard Cover'], Plains, Elemental Bird 4/4 Flying, Island, Island, Hard Cover, Plains, Renowned Weaponsmith, Soulmender ['Angelic Gift'], Plains]
+Rand  hand: []
+Rand  deck: [Pacifism, Loxodon Lifechanter, Island, Island, Gods Willing, Plains, Griffin Protector, Plains, Daybreak Chaplin, Island, Island, Island, Atemis, All-Seeing, Tale's End, Ancestral Blade, Negate, Frilled Sea Serpent, Convolute, Plains, Plains, Sleep Paralysis, Island, Winged Words, Master Splicer, Plains, Spectral Sailor, Plains, Island, Boreal Elemental, Yarok's Wavecrasher, Island, Island, Island, Flood of Tears, Plains, Island, Plains, Island, Herald of the Sun, Ajani, Strength of the Pride, Sage's Row Denizen, Island, Squad Captain, Eternal Isolation, Plains, Plains, Rule of Law, Island, Brineborn Cutthroat, Plains, Planar Cleansing, Inspired Charge, Disenchant, Island, Moorland Inquisitor, Island, Island, Aether Gust, Plains, Island, Island, Island, Island, Island, Steadfast Sentry, Battalion Foot Soldier, Octoprophet, Plains, Aerial Assault, Gauntlet of Light, Moment of Heroism, Island, Plains, Frost Lynx, Island, Yoked Ox, Hanged Executioner, Island, Leyline of Sanctity, Apostle of Purifying Light, Plains, Island, Bone to Ash, Island, Glaring Aegis, Griffin Sentinel, Plains, Island, Plains, Dawning Angel, Plains, Island, Sephara, Sky's Blade, Plains, Air Elemental, Plains, Devout Decree, Anticipate, Island, Plains, Warden of Evos Isle, Plains, Angelic Gift, Moat Piranhas, Bishop of Wings, Cerulean Drake, Masterful Replication, Agent of Treachery, Fortress Crab, Captivating Gyre, Scholar of the Ages, Plains, Plains, Loyal Pegasus, Dungeon Geists, Raise the Alarm, Island, Plains, Plains, Unsummon, Plains, Island, Fencing Ace, Plains, Plains, Metropolis Sprite, Faerie Miscreant, Plains, Cloudkin Seer, Zephyr Charge, Plains]
+Rand  graveyard: [Plains, Brought Back, Drawn from Dreams, Starfield Mystic, Portal of Sanctuary, Inspiring Captain, Plains, Plains, Cavalier of Gales]
+Robo  battlefield: [Plains, Plains, Island, Island, Island, Plains, Island, Plains, Island, Island, Island, Plains, Plains, Leyline of Sanctity, Plains, Angelic Gift]
+Robo  hand: [Frilled Sea Serpent]
+Robo  deck: [Gods Willing, Island, Island, Island, Island, Fencing Ace, Rule of Law, Planar Cleansing, Brineborn Cutthroat, Plains, Brought Back, Hard Cover, Herald of the Sun, Island, Island, Island, Ancestral Blade, Plains, Island, Plains, Plains, Mu Yanling, Sky Dancer, Inspired Charge, Angel of Vitality, Zephyr Charge, Plains, Griffin Sentinel, Island, Flood of Tears, Island, Cavalier of Dawn, Glaring Aegis, Sleep Paralysis, Scholar of the Ages, Plains, Dungeon Geists, Raise the Alarm, Pacifism, Loyal Pegasus, Plains, Plains, Cavalier of Gales, Plains, Atemis, All-Seeing, Plains, Masterful Replication, Starfield Mystic, Plains, Island, Eternal Isolation, Plains, Plains, Island, Battalion Foot Soldier, Hanged Executioner, Cerulean Drake, Octoprophet, Island, Air Elemental, Portal of Sanctuary, Negate, Griffin Protector, Island, Yoked Ox, Plains, Island, Island, Warden of Evos Isle, Winged Words, Unsummon, Inspiring Captain, Island, Apostle of Purifying Light, Moment of Heroism, Metropolis Sprite, Island, Plains, Plains, Island, Tale's End, Plains, Plains, Fortress Crab, Sephara, Sky's Blade, Plains, Moorland Inquisitor, Island, Plains, Convolute, Island, Plains, Plains, Plains, Island, Aether Gust, Renowned Weaponsmith, Island, Island, Island, Spectral Sailor, Plains, Anticipate, Island, Plains, Yarok's Wavecrasher, Island, Island, Plains, Plains, Island, Dawning Angel, Island, Island, Plains, Plains, Plains, Agent of Treachery, Devout Decree, Aerial Assault, Soulmender, Island, Plains, Island, Plains, Plains, Faerie Miscreant, Loxodon Lifechanter, Squad Captain, Plains, Ajani, Strength of the Pride, Bone to Ash, Island, Boreal Elemental, Sage's Row Denizen]
+Robo  graveyard: [Gauntlet of Light, Captivating Gyre, Steadfast Sentry, Frost Lynx, Bishop of Wings, Disenchant, Master Splicer, Cloudkin Seer, Moat Piranhas, Daybreak Chaplin, Drawn from Dreams]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:10.329822
+Seed: 3477452830

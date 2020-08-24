@@ -1,0 +1,4784 @@
+Seed: 6581049751
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Island, Plains, Negate, Cerulean Drake]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Island, Plains, Negate, Cerulean Drake]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Island, Plains, Negate, Cerulean Drake]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Island, Island, Plains, Island, Glaring Aegis, Cerulean Drake, Griffin Sentinel]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Cerulean Drake
+Rand Passes
+Robo Passes
+Resolving Cerulean Drake
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Atemis, All-Seeing, Island, Cloudkin Seer, Plains, Negate, Cerulean Drake, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+Robo Passes
+Rand Passes
+Resolving Cerulean Drake
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake]
+Rand hand: [Island, Island, Island, Glaring Aegis, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'W': 1}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Cerulean Drake
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Cerulean Drake]
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Glaring Aegis
+{'C': 0}
+Glaring Aegis ETB targeting Cerulean Drake
+ Targets:  []
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Glaring Aegis ETB
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Plains, Steadfast Sentry]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Steadfast Sentry
+Robo Passes
+Rand Passes
+Resolving Steadfast Sentry
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis]
+Rand hand: [Island, Island, Island, Griffin Sentinel, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Sentinel
+Rand Passes
+Robo Passes
+Resolving Griffin Sentinel
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry]
+Robo hand: [Atemis, All-Seeing, Cloudkin Seer, Plains, Negate, Aerial Assault]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Steadfast Sentry, Cloudkin Seer]
+Robo hand: [Atemis, All-Seeing, Plains, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Cerulean Drake ['Glaring Aegis'], Griffin Sentinel]
+Cerulean Drake ['Glaring Aegis'] is blocking Steadfast Sentry
+Griffin Sentinel is blocking Steadfast Sentry
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Steadfast Sentry has taken lethal damage: 3
+Steadfast Sentry dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Cloudkin Seer]
+Robo hand: [Atemis, All-Seeing, Plains, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'U': 3}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel]
+Rand hand: [Island, Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Cloudkin Seer, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Griffin Sentinel
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Griffin Sentinel]
+Rand Passes
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Gods Willing
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Cloudkin Seer, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake ['Glaring Aegis'], Griffin Sentinel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Cloudkin Seer]
+Cloudkin Seer is blocking Griffin Sentinel
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Cloudkin Seer has taken lethal damage: 1
+Cloudkin Seer dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Plains, Griffin Protector]
+Robo life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Protector
+Robo Passes
+Rand Passes
+Resolving Griffin Protector
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island]
+Rand hand: [Island, Island, Plains]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Griffin Protector]
+Griffin Protector is blocking Griffin Sentinel
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+Robo Playing Plains
+{'C': 3, 'U': 3}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Cerulean Drake, Plains, Plains, Plains, Griffin Protector, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake, Griffin Protector]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel]
+Griffin Sentinel is blocking Cerulean Drake
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Cerulean Drake has taken lethal damage: 1
+Cerulean Drake dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Griffin Protector, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Aerial Assault, Island]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Griffin Protector
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Griffin Protector]
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Aerial Assault
+Griffin Protector is destroyed
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island]
+Rand hand: [Island, Plains, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 18
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake ['Glaring Aegis'], Griffin Sentinel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 15
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Air Elemental
+Robo Passes
+Rand Passes
+Resolving Air Elemental
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental]
+Robo hand: [Atemis, All-Seeing, Negate, Island]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+Robo Playing Island
+{'C': 3, 'U': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Negate]
+Robo life: 15
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Negate]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Negate]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island]
+Robo hand: [Atemis, All-Seeing, Negate]
+Robo life: 15
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Atemis, All-Seeing
+Robo Passes
+Rand Passes
+Resolving Atemis, All-Seeing
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Negate, Island]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing]
+Robo hand: [Negate, Island]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Negate]
+Robo life: 15
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Griffin Sentinel, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Negate]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Air Elemental, Atemis, All-Seeing]
+Air Elemental is blocking Griffin Sentinel
+Atemis, All-Seeing is blocking Griffin Sentinel
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Griffin Sentinel has taken lethal damage: 8
+Griffin Sentinel dies
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Negate]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Negate]
+Robo life: 15
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Atemis draw cards abil
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Atemis draw cards abil]
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Stack: [Atemis draw cards abil, Negate]
+Resolving Negate
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 17
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Eternal Isolation]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Phase: Combat Damage
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Eternal Isolation, Agent of Treachery]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island]
+Rand hand: [Island, Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing, Island]
+Robo hand: [Eternal Isolation, Agent of Treachery]
+Robo life: 15
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+Rand Playing Island
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Atemis, All-Seeing
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Atemis, All-Seeing]
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Angelic Gift
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Angelic Gift ETB
+Rand draws 1 card
+Rand battlefield: [Island, Plains, Cerulean Drake ['Glaring Aegis'], Island, Glaring Aegis, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift]
+Rand hand: [Island, Island, Raise the Alarm]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing ['Angelic Gift'], Island]
+Robo hand: [Eternal Isolation, Agent of Treachery]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Raise the Alarm
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Raise the Alarm
+Phase: Declare Attackers
+Attackers: [Cerulean Drake ['Glaring Aegis']]
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Blockers
+Blockers: [Air Elemental]
+Air Elemental is blocking Cerulean Drake ['Glaring Aegis']
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Cerulean Drake ['Glaring Aegis'] has taken lethal damage: 4
+Cerulean Drake ['Glaring Aegis'] dies
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing ['Angelic Gift'], Island]
+Robo hand: [Eternal Isolation, Agent of Treachery]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Air Elemental, Island, Atemis, All-Seeing ['Angelic Gift'], Island]
+Robo hand: [Eternal Isolation, Agent of Treachery]
+Robo life: 15
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Agent of Treachery
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Air Elemental
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Air Elemental]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Eternal Isolation
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island]
+Robo hand: [Squad Captain, Yoked Ox, Plains, Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island]
+Robo hand: [Squad Captain, Yoked Ox, Plains, Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Yoked Ox
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox]
+Robo hand: [Squad Captain, Octoprophet]
+Robo life: 15
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox]
+Robo hand: [Squad Captain, Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox]
+Robo hand: [Squad Captain, Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox]
+Robo hand: [Squad Captain, Octoprophet]
+Robo life: 15
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Brineborn Cutthroat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Brineborn Cutthroat
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 3 +1/+1 counters
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+Robo hand: [Octoprophet]
+Robo life: 15
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Sage's Row Denizen
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Cavalier of Dawn
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Hanged Executioner
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Atemis, All-Seeing ['Angelic Gift']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Atemis, All-Seeing ['Angelic Gift']]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+Glaring Aegis ETB targeting Soldier 1/1
+ Targets:  []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Glaring Aegis ETB
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Yoked Ox]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains]
+Rand hand: [Island, Island]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Soldier 1/1 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains]
+Robo life: 15
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Metropolis Sprite
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Island
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Plains
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Yoked Ox]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis]
+Robo hand: [Octoprophet, Island, Plains, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island]
+Rand hand: [Island, Plains]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat, Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains]
+Robo hand: [Octoprophet, Island, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Soldier 1/1 does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Anticipate
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Stack: [Anticipate, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Anticipate
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island, Island]
+Rand hand: [Plains, Island]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat ['+1/+1 counter'], Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains]
+Robo hand: [Octoprophet, Island, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island, Island]
+Rand hand: [Plains, Island]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat ['+1/+1 counter'], Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains]
+Robo hand: [Octoprophet, Island, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island, Island]
+Rand hand: [Plains, Island]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat ['+1/+1 counter'], Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains]
+Robo hand: [Octoprophet, Island, Island, Plains, Zephyr Charge, Island]
+Robo life: 15
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Disenchant
+{'C': 2, 'U': 1}
+Robo Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Octoprophet
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Resolving Atemis draw cards abil
+Robo draws 2 card
+Robo discards Plains
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island, Island]
+Rand hand: [Plains, Island]
+Rand life: 3
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat ['+1/+1 counter'], Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains, Plains]
+Robo hand: [Island, Island, Plains, Zephyr Charge, Island, Renowned Weaponsmith, Plains, Plains, Plains]
+Robo life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Yoked Ox]
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Rand loses 5 life
+Rand  battlefield: [Island, Plains, Island, Plains, Island, Island, Plains, Island, Island, Island, Angelic Gift, Soldier 1/1, Island, Plains, Island, Island]
+Rand  hand: [Plains, Island]
+Rand  deck: [Plains, Island, Ancestral Blade, Island, Island, Plains, Brought Back, Island, Hard Cover, Pacifism, Yoked Ox, Plains, Metropolis Sprite, Rule of Law, Plains, Apostle of Purifying Light, Plains, Warden of Evos Isle, Ajani, Strength of the Pride, Griffin Protector, Scholar of the Ages, Portal of Sanctuary, Plains, Plains, Island, Island, Island, Plains, Captivating Gyre, Dungeon Geists, Loyal Pegasus, Island, Plains, Island, Boreal Elemental, Plains, Island, Cavalier of Dawn, Cavalier of Gales, Starfield Mystic, Negate, Hanged Executioner, Moat Piranhas, Fencing Ace, Plains, Plains, Island, Plains, Frost Lynx, Island, Daybreak Chaplin, Island, Island, Atemis, All-Seeing, Loxodon Lifechanter, Island, Fortress Crab, Devout Decree, Convolute, Sage's Row Denizen, Masterful Replication, Island, Island, Leyline of Sanctity, Plains, Inspiring Captain, Bishop of Wings, Faerie Miscreant, Dawning Angel, Cloudkin Seer, Yarok's Wavecrasher, Spectral Sailor, Octoprophet, Island, Plains, Zephyr Charge, Bone to Ash, Plains, Island, Aerial Assault, Sephara, Sky's Blade, Island, Inspired Charge, Plains, Sleep Paralysis, Island, Unsummon, Master Splicer, Squad Captain, Drawn from Dreams, Island, Plains, Battalion Foot Soldier, Steadfast Sentry, Island, Island, Disenchant, Plains, Plains, Renowned Weaponsmith, Frilled Sea Serpent, Agent of Treachery, Plains, Island, Air Elemental, Island, Moment of Heroism, Plains, Moorland Inquisitor, Tale's End, Soulmender, Plains, Plains, Brineborn Cutthroat, Aether Gust, Plains, Plains, Plains, Flood of Tears, Island, Island, Gauntlet of Light, Plains, Winged Words, Plains, Angel of Vitality, Island, Eternal Isolation, Plains, Plains, Planar Cleansing, Plains, Island, Herald of the Sun, Mu Yanling, Sky Dancer, Plains, Plains, Plains, Plains]
+Rand  graveyard: [Gods Willing, Griffin Sentinel, Raise the Alarm, Glaring Aegis, Cerulean Drake, Anticipate]
+Robo  battlefield: [Island, Island, Plains, Plains, Plains, Plains, Island, Atemis, All-Seeing ['Angelic Gift', 'Glaring Aegis'], Island, Plains, Yoked Ox, Brineborn Cutthroat ['+1/+1 counter'], Squad Captain ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Glaring Aegis, Plains, Plains]
+Robo  hand: [Island, Island, Plains, Zephyr Charge, Island, Renowned Weaponsmith, Plains, Plains, Plains]
+Robo  deck: [Griffin Sentinel, Island, Inspired Charge, Island, Ajani, Strength of the Pride, Island, Herald of the Sun, Yarok's Wavecrasher, Mu Yanling, Sky Dancer, Island, Plains, Frost Lynx, Sleep Paralysis, Plains, Plains, Pacifism, Island, Moorland Inquisitor, Daybreak Chaplin, Plains, Island, Plains, Bishop of Wings, Soulmender, Plains, Island, Island, Plains, Raise the Alarm, Island, Devout Decree, Moat Piranhas, Island, Plains, Anticipate, Winged Words, Island, Captivating Gyre, Plains, Plains, Warden of Evos Isle, Plains, Masterful Replication, Bone to Ash, Hard Cover, Island, Island, Plains, Island, Leyline of Sanctity, Plains, Island, Island, Fortress Crab, Dungeon Geists, Loxodon Lifechanter, Inspiring Captain, Plains, Plains, Cavalier of Gales, Loyal Pegasus, Plains, Brought Back, Plains, Portal of Sanctuary, Island, Plains, Island, Plains, Faerie Miscreant, Moment of Heroism, Angelic Gift, Plains, Flood of Tears, Island, Island, Sephara, Sky's Blade, Fencing Ace, Spectral Sailor, Island, Drawn from Dreams, Gods Willing, Scholar of the Ages, Island, Gauntlet of Light, Battalion Foot Soldier, Tale's End, Plains, Convolute, Plains, Ancestral Blade, Angel of Vitality, Frilled Sea Serpent, Island, Planar Cleansing, Dawning Angel, Aether Gust, Island, Plains, Rule of Law, Boreal Elemental, Apostle of Purifying Light, Master Splicer, Island, Island, Plains, Island, Island, Island, Island, Starfield Mystic, Island, Plains, Plains, Unsummon, Air Elemental, Plains]
+Robo  graveyard: [Steadfast Sentry, Cloudkin Seer, Cerulean Drake, Griffin Protector, Aerial Assault, Negate, Island, Agent of Treachery, Island, Eternal Isolation, Sage's Row Denizen, Cavalier of Dawn, Hanged Executioner, Metropolis Sprite, Island, Plains, Disenchant, Octoprophet, Plains]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:09.734944
+Seed: 6581049751

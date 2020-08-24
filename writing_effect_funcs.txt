@@ -1,0 +1,31 @@
+effect_func expected args:
+
+Glob_Static_Effect:
+	effect_func(applied_obj [object effect is being applied on], source_abil [Glob_Static_Effect object that effect originates from])
+	effect_condition(source_abil [ability object effect originates from])
+	apply_condition(applied_obj [object effect is being applied on])
+
+Local_Static_Effect:
+	effect_func(source_abil [Local_Static_Effect object effect originates from])
+	effect_condition(source_abil [Local_Static_Effect object effect originates from])
+
+Triggered_Ability:
+	trigger_condition(source_abil [ability object effect originates from], obj [object under evaluation by condition], **kwargs)
+	abil_effect(source_abil [ability object effect originates from])
+
+Target:
+	criteria(obj [object under evaluation for targetting])
+Cost:
+	non_mana(source_abil [ability cost originates from])
+
+Activated_Ability:
+	effect_func(source_abil [ability object effect originates from])
+
+Attached_Effect:
+	effect_func(applied_obj [the "attached to" object that the effect is being applied to])
+
+Instant/Sorcery:
+	effect_func(source_card [the instant/sorcery effect originates from])
+
+Replacement_Effect:
+	effect_func(source_obj [Replacement_Effect object replacement effect originates from], **kwargs)

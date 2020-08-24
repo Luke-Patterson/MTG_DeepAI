@@ -1,0 +1,2065 @@
+Seed: 6737729347
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Robo draws 6 card
+Robo mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loyal Pegasus
+Rand Passes
+Robo Passes
+Resolving Loyal Pegasus
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Plains, Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Plains
+Robo discards Plains
+Rand battlefield: [Plains, Loyal Pegasus]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Plains, Island, Dawning Angel, Angelic Gift]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Angelic Gift targeting Loyal Pegasus
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Angelic Gift
+ Targets:  [Angelic Gift targeting Loyal Pegasus]
+Rand Passes
+Robo Passes
+Resolving Angelic Gift
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Angelic Gift ETB
+Rand draws 1 card
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Island]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus ['Angelic Gift'], Plains, Angelic Gift]
+Rand hand: [Metropolis Sprite, Masterful Replication, Disenchant, Island, Dawning Angel, Griffin Sentinel, Pacifism]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Angelic Gift
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Angelic Gift]
+Rand Passes
+Robo Passes
+Resolving Disenchant
+Angelic Gift is destroyed
+Rand battlefield: [Plains, Loyal Pegasus, Plains]
+Rand hand: [Metropolis Sprite, Masterful Replication, Island, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains]
+Rand hand: [Metropolis Sprite, Masterful Replication, Island, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island]
+Rand hand: [Metropolis Sprite, Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Frost Lynx, Planar Cleansing, Island, Plains, Island, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+Robo Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Frost Lynx
+Robo Passes
+Rand Passes
+Resolving Frost Lynx
+{'C': 0}
+Frost Lynx Creature ETB targeting Loyal Pegasus
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Frost Lynx Creature ETB
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island]
+Rand hand: [Metropolis Sprite, Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island]
+Rand hand: [Metropolis Sprite, Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island]
+Rand hand: [Metropolis Sprite, Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Loyal Pegasus does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Metropolis Sprite
+Rand Passes
+Robo Passes
+Resolving Metropolis Sprite
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Pacifism, Sephara, Sky's Blade, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Pacifism targeting Metropolis Sprite
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Pacifism
+ Targets:  [Pacifism targeting Metropolis Sprite]
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Pacifism
+Phase: End Phase
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite ['Pacifism'], Plains, Pacifism]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx]
+Robo hand: [Planar Cleansing, Plains, Island, Island, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite ['Pacifism'], Plains, Pacifism]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite ['Pacifism'], Plains, Pacifism]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Metropolis Sprite ['Pacifism'], Plains, Pacifism]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'U': 1}
+Rand Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Metropolis Sprite Effect
+Metropolis Sprite ['Pacifism'] has taken lethal damage: 0
+Metropolis Sprite ['Pacifism'] dies
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island]
+Rand hand: [Masterful Replication, Dawning Angel, Griffin Sentinel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Sentinel
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Griffin Sentinel
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel]
+Rand hand: [Masterful Replication, Dawning Angel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel]
+Rand hand: [Masterful Replication, Dawning Angel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel]
+Rand hand: [Masterful Replication, Dawning Angel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel]
+Rand hand: [Masterful Replication, Dawning Angel, Sephara, Sky's Blade]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Dawning Angel
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island]
+Robo hand: [Planar Cleansing, Plains, Island, Plains, Plains, Moment of Heroism]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 3}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Moment of Heroism targeting Griffin Sentinel
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Moment of Heroism
+ Targets:  [Moment of Heroism targeting Griffin Sentinel]
+Robo Passes
+Rand Passes
+Resolving Moment of Heroism
+Rand battlefield: [Plains, Loyal Pegasus, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Frost Lynx, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Frost Lynx]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Loyal Pegasus, Griffin Sentinel, Dawning Angel]
+Loyal Pegasus is blocking Frost Lynx
+Griffin Sentinel is blocking Frost Lynx
+Dawning Angel is blocking Frost Lynx
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Robo gains 1 life
+Loyal Pegasus has taken lethal damage: 1
+Loyal Pegasus dies
+Frost Lynx has taken lethal damage: 8
+Frost Lynx dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 21
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 21
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Gods Willing targeting Dawning Angel
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gods Willing
+ Choices:  [choice object]
+ Targets:  [Gods Willing targeting Dawning Angel]
+Rand Passes
+Robo Passes
+Resolving Gods Willing
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 21
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains]
+Robo hand: [Planar Cleansing, Island, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Sentinel
+Robo Passes
+Rand Passes
+Resolving Griffin Sentinel
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Dawning Angel]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade, Cavalier of Dawn]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+Rand Playing Island
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 3}
+{'C': 2, 'W': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Cavalier of Dawn
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Cavalier of Dawn ETB targeting Dawning Angel
+ Targets:  []
+Rand Passes
+Robo Passes
+Resolving Cavalier of Dawn ETB
+Dawning Angel is destroyed
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel]
+Robo hand: [Planar Cleansing, Plains, Plains, Griffin Protector]
+Robo life: 19
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+Robo Playing Plains
+{'C': 3, 'W': 3}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Protector
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Griffin Protector
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel, Plains, Griffin Protector]
+Robo hand: [Planar Cleansing, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel, Plains, Griffin Protector]
+Robo hand: [Planar Cleansing, Plains, Island]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 3}
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Island, Plains, Island, Griffin Sentinel, Island, Cavalier of Dawn, Golem 3/3]
+Rand hand: [Masterful Replication, Sephara, Sky's Blade]
+Rand life: 22
+stack: []
+Robo battlefield: [Island, Island, Island, Island, Island, Plains, Island, Griffin Sentinel, Plains, Griffin Protector]
+Robo hand: [Planar Cleansing, Plains, Island]
+Robo life: 19
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 5, 'U': 1}
+{'C': 5, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 5, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Masterful Replication
+ Targets:  [Masterful Replication targeting None]
+ Mode:  Create Golems
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Masterful Replication
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Uncaught exception. Entering post mortem debugging
+Running 'cont' or 'step' will restart the program
+(Pdb) 

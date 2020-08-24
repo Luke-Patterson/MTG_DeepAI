@@ -1,0 +1,2667 @@
+Seed: 5794934326
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Robo draws 6 card
+Robo mulligans to 6
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Moment of Heroism, Gauntlet of Light, Island, Island, Island, Convolute, Boreal Elemental, Island, Fencing Ace]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Moment of Heroism, Gauntlet of Light, Island, Island, Island, Convolute, Boreal Elemental, Island, Fencing Ace]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Moment of Heroism, Gauntlet of Light, Island, Island, Island, Convolute, Boreal Elemental, Island, Fencing Ace]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Moment of Heroism, Gauntlet of Light, Island, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Moment of Heroism, Gauntlet of Light, Island, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Island
+Robo discards Moment of Heroism
+Rand battlefield: [Island]
+Rand hand: [Moat Piranhas, Island, Island, Plains, Herald of the Sun, Island, Master Splicer]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Gauntlet of Light, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moat Piranhas
+Rand Passes
+{'C': 2, 'U': 1}
+Robo Passes
+Resolving Moat Piranhas
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Gauntlet of Light, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Gauntlet of Light, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Gauntlet of Light, Island, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island]
+Robo hand: [Gauntlet of Light, Island, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Master Splicer, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Convolute, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Master Splicer
+Rand Passes
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+Convolute targeting Master Splicer
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Convolute
+ Targets:  [Convolute targeting Master Splicer]
+Rand Passes
+Robo Passes
+Stack: [Master Splicer, Convolute]
+Resolving Convolute
+{'C': 4}
+Rand does not pay for Convolute
+Master Splicer is countered
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas, Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island]
+Robo hand: [Gauntlet of Light, Boreal Elemental, Fencing Ace, Squad Captain, Plains, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Moat Piranhas
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hard Cover
+ Targets:  [Hard Cover targeting Moat Piranhas]
+Robo Passes
+Rand Passes
+Resolving Hard Cover
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover'], Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Island, Griffin Protector]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover]
+Robo hand: [Gauntlet of Light, Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+Rand Activating Hard Cover ability
+{'C': 0}
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover'], Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Griffin Protector, Faerie Miscreant]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover]
+Robo hand: [Gauntlet of Light, Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Moat Piranhas ['Hard Cover']
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Moat Piranhas ['Hard Cover']]
+Robo Passes
+{'C': 0}
+Rand Passes
+Resolving Gauntlet of Light
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island]
+Rand hand: [Island, Island, Herald of the Sun, Griffin Protector, Faerie Miscreant]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light]
+Robo hand: [Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Griffin Protector
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 1, 'C': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'W': 2}
+{'U': 1}
+{'W': 1, 'C': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Herald of the Sun
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains]
+Rand hand: [Island, Island, Faerie Miscreant, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light]
+Robo hand: [Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains]
+Rand hand: [Island, Island, Faerie Miscreant, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light]
+Robo hand: [Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'W': 1, 'C': 2}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Faerie Miscreant
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Faerie Miscreant
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Island, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light]
+Robo hand: [Boreal Elemental, Fencing Ace, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Playing Island
+{'C': 4, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fencing Ace
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Fencing Ace
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Island, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Island, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 1}
+{'C': 4, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant]
+Rand hand: [Island, Island, Rule of Law, Hanged Executioner]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Hanged Executioner
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'W': 1, 'C': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'W': 1, 'C': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'W': 1, 'C': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Rule of Law
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Rule of Law
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Island, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Plains, Brineborn Cutthroat]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Plains, Brineborn Cutthroat]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace]
+Robo hand: [Boreal Elemental, Squad Captain, Aether Gust]
+Robo life: 19
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Squad Captain
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Squad Captain
+Squad Captain enters the battlefield with 1 +1/+1 counters
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Plains, Brineborn Cutthroat]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter']]
+Robo hand: [Boreal Elemental, Aether Gust, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Plains, Brineborn Cutthroat]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter']]
+Robo hand: [Boreal Elemental, Aether Gust, Plains]
+Robo life: 19
+stack: []
+None
+Phase: Second Main
+Robo Playing Plains
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law]
+Rand hand: [Island, Plains, Brineborn Cutthroat]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Boreal Elemental, Aether Gust]
+Robo life: 19
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brineborn Cutthroat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Brineborn Cutthroat, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Brineborn Cutthroat
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Brineborn Cutthroat, Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Boreal Elemental, Aether Gust]
+Robo life: 19
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Brineborn Cutthroat, Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Boreal Elemental, Aether Gust]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Brineborn Cutthroat, Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter'], Plains]
+Robo hand: [Boreal Elemental, Aether Gust]
+Robo life: 18
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 1}
+Robo Playing Plains
+{'C': 4, 'U': 1}
+{'C': 4, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Boreal Elemental
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Boreal Elemental, Brineborn Cutthroat ability]
+Resolving Brineborn Cutthroat ability
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Boreal Elemental
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Brineborn Cutthroat ['+1/+1 counter'], Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Squad Captain ['+1/+1 counter'], Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Squad Captain ['+1/+1 counter']]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Brineborn Cutthroat ['+1/+1 counter']]
+Brineborn Cutthroat ['+1/+1 counter'] is blocking Squad Captain ['+1/+1 counter']
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Brineborn Cutthroat ['+1/+1 counter'] has taken lethal damage: 3
+Brineborn Cutthroat ['+1/+1 counter'] dies
+Squad Captain ['+1/+1 counter'] has taken lethal damage: 3
+Squad Captain ['+1/+1 counter'] dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 18
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains]
+Rand hand: [Island, Steadfast Sentry]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 18
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith]
+Rand hand: [Steadfast Sentry, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Yoked Ox
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith]
+Rand hand: [Steadfast Sentry, Plains]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Steadfast Sentry
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Island]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Boreal Elemental]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Island]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: First Main
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Dungeon Geists
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Loyal Pegasus]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 17
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Plains, Loyal Pegasus]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Loyal Pegasus
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Loyal Pegasus
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Loyal Pegasus]
+Rand hand: [Plains]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Griffin Protector
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Griffin Protector
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Loyal Pegasus]
+Rand hand: [Plains]
+Rand life: 15
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Boreal Elemental]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Loyal Pegasus]
+Rand hand: [Plains]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Loyal Pegasus]
+Rand hand: [Plains]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Disenchant
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Faerie Miscreant, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Loyal Pegasus]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Faerie Miscreant, Loyal Pegasus]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Fencing Ace, Griffin Protector]
+Fencing Ace is blocking Loyal Pegasus
+Griffin Protector is blocking Faerie Miscreant
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Loyal Pegasus has taken lethal damage: 1
+Loyal Pegasus dies
+Faerie Miscreant has taken lethal damage: 2
+Faerie Miscreant dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 12
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace, Boreal Elemental, Griffin Protector]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Rand loses 3 life
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains]
+Rand hand: [Sage's Row Denizen, Aerial Assault]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Renowned Weaponsmith fetch ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Renowned Weaponsmith fetch ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Hard Cover ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Sage's Row Denizen
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Aerial Assault
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'W': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Island
+{'W': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Moat Piranhas ['Hard Cover', 'Gauntlet of Light']
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Moat Piranhas ['Hard Cover', 'Gauntlet of Light']]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+{'C': 0}
+Glaring Aegis ETB targeting Renowned Weaponsmith
+ Targets:  []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Resolving Glaring Aegis ETB
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 5
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace, Griffin Protector]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 1 life
+Rand loses 2 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island]
+Rand hand: [Island, Bishop of Wings]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Bishop of Wings
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Octoprophet
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Stack: [Renowned Weaponsmith fetch ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Angel of Vitality
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Plains]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Plains]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Plains]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Rand battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island, Island]
+Rand hand: [Drawn from Dreams, Plains]
+Rand life: 1
+stack: []
+Robo battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis, Island]
+Robo hand: [Aether Gust]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fencing Ace]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand  battlefield: [Island, Plains, Moat Piranhas ['Hard Cover', 'Gauntlet of Light', 'Glaring Aegis'], Island, Island, Plains, Plains, Rule of Law, Plains, Renowned Weaponsmith, Plains, Island, Island]
+Rand  hand: [Drawn from Dreams, Plains]
+Rand  deck: [Island, Plains, Plains, Plains, Island, Angelic Gift, Hard Cover, Zephyr Charge, Winged Words, Plains, Island, Island, Island, Plains, Leyline of Sanctity, Island, Yarok's Wavecrasher, Plains, Plains, Mu Yanling, Sky Dancer, Cloudkin Seer, Sleep Paralysis, Plains, Island, Island, Inspiring Captain, Convolute, Plains, Island, Plains, Island, Plains, Plains, Plains, Loxodon Lifechanter, Apostle of Purifying Light, Daybreak Chaplin, Plains, Island, Island, Bone to Ash, Plains, Plains, Island, Plains, Inspired Charge, Boreal Elemental, Plains, Starfield Mystic, Spectral Sailor, Ajani, Strength of the Pride, Atemis, All-Seeing, Raise the Alarm, Plains, Glaring Aegis, Island, Masterful Replication, Island, Plains, Island, Gauntlet of Light, Plains, Planar Cleansing, Captivating Gyre, Aether Gust, Island, Sephara, Sky's Blade, Island, Island, Negate, Plains, Island, Plains, Devout Decree, Island, Frost Lynx, Island, Island, Pacifism, Cavalier of Dawn, Island, Ancestral Blade, Anticipate, Portal of Sanctuary, Battalion Foot Soldier, Cavalier of Gales, Island, Plains, Fencing Ace, Brought Back, Plains, Plains, Frilled Sea Serpent, Plains, Plains, Plains, Griffin Sentinel, Plains, Squad Captain, Dawning Angel, Warden of Evos Isle, Island, Island, Eternal Isolation, Soulmender, Fortress Crab, Plains, Island, Island, Scholar of the Ages, Island, Plains, Cerulean Drake, Tale's End, Moorland Inquisitor, Gods Willing, Moment of Heroism, Flood of Tears, Air Elemental, Plains, Agent of Treachery, Metropolis Sprite, Island, Unsummon]
+Rand  graveyard: [Master Splicer, Island, Griffin Protector, Herald of the Sun, Hanged Executioner, Island, Island, Plains, Brineborn Cutthroat, Island, Yoked Ox, Steadfast Sentry, Island, Dungeon Geists, Plains, Disenchant, Loyal Pegasus, Faerie Miscreant, Sage's Row Denizen, Aerial Assault, Bishop of Wings, Octoprophet, Angel of Vitality]
+Robo  battlefield: [Island, Island, Island, Plains, Hard Cover, Gauntlet of Light, Island, Fencing Ace, Plains, Plains, Boreal Elemental, Plains, Griffin Protector, Plains, Glaring Aegis, Island]
+Robo  hand: [Aether Gust]
+Robo  deck: [Renowned Weaponsmith, Plains, Anticipate, Spectral Sailor, Island, Apostle of Purifying Light, Herald of the Sun, Yoked Ox, Ajani, Strength of the Pride, Plains, Island, Plains, Plains, Island, Dungeon Geists, Plains, Gods Willing, Island, Devout Decree, Starfield Mystic, Captivating Gyre, Faerie Miscreant, Island, Island, Island, Plains, Loyal Pegasus, Air Elemental, Zephyr Charge, Plains, Island, Plains, Plains, Fortress Crab, Eternal Isolation, Plains, Plains, Unsummon, Drawn from Dreams, Soulmender, Atemis, All-Seeing, Bishop of Wings, Island, Sage's Row Denizen, Island, Plains, Warden of Evos Isle, Island, Angelic Gift, Island, Cavalier of Dawn, Aerial Assault, Plains, Hanged Executioner, Flood of Tears, Plains, Master Splicer, Daybreak Chaplin, Inspired Charge, Octoprophet, Plains, Frilled Sea Serpent, Island, Cerulean Drake, Plains, Inspiring Captain, Plains, Cavalier of Gales, Agent of Treachery, Island, Island, Plains, Plains, Island, Plains, Plains, Moorland Inquisitor, Metropolis Sprite, Island, Island, Bone to Ash, Plains, Mu Yanling, Sky Dancer, Plains, Island, Cloudkin Seer, Scholar of the Ages, Tale's End, Raise the Alarm, Island, Plains, Plains, Island, Island, Brineborn Cutthroat, Negate, Planar Cleansing, Plains, Island, Plains, Frost Lynx, Plains, Steadfast Sentry, Leyline of Sanctity, Plains, Island, Plains, Brought Back, Island, Island, Island, Island, Sephara, Sky's Blade, Plains, Plains, Masterful Replication, Island, Plains, Battalion Foot Soldier, Griffin Sentinel, Island, Yarok's Wavecrasher, Island, Portal of Sanctuary, Loxodon Lifechanter, Dawning Angel, Rule of Law, Plains, Moat Piranhas, Plains, Island, Winged Words, Island, Plains, Pacifism, Disenchant, Island, Angel of Vitality, Island, Ancestral Blade, Sleep Paralysis]
+Robo  graveyard: [Island, Moment of Heroism, Convolute, Squad Captain]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:06.482378
+Seed: 5794934326

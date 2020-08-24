@@ -1,0 +1,4212 @@
+Seed: 3359827670
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Rand draws 4 card
+Rand mulligans to 4
+Robo draws 6 card
+Robo mulligans to 6
+Robo draws 5 card
+Robo mulligans to 5
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Disenchant, Herald of the Sun, Griffin Protector, Plains, Plains, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Disenchant, Herald of the Sun, Griffin Protector, Plains, Plains, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Plains, Disenchant, Herald of the Sun, Griffin Protector, Plains, Plains, Plains, Plains, Plains]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Griffin Protector, Plains, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Griffin Protector, Plains, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Griffin Protector
+Robo discards Plains
+Rand battlefield: [Plains]
+Rand hand: [Plains, Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Plains, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+Robo Playing Plains
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Apostle of Purifying Light
+Rand Passes
+Robo Passes
+Resolving Apostle of Purifying Light
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2}
+{'C': 2}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Raise the Alarm
+Robo Passes
+{'C': 2}
+{'C': 2}
+Rand Passes
+Resolving Raise the Alarm
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light]
+Rand hand: [Plains, Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Plains
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Plains]
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Plains
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Griffin Protector
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Griffin Protector]
+{'C': 2}
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Griffin Protector
+Phase: Declare Attackers
+Attackers: []
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Plains, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Resolving Yoked Ox
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains]
+Rand hand: [Plains, Captivating Gyre, Plains, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Raise the Alarm
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Raise the Alarm]
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Raise the Alarm
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Raise the Alarm]
+{'C': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Raise the Alarm
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Yoked Ox]
+Yoked Ox is blocking Apostle of Purifying Light
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox]
+Robo hand: [Plains, Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Battalion Foot Soldier]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Battalion Foot Soldier
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Battalion Foot Soldier
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Battalion Foot Soldier ETB
+No cards found
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Yoked Ox, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Apostle of Purifying Light, Battalion Foot Soldier]
+Apostle of Purifying Light is blocking Yoked Ox
+Battalion Foot Soldier is blocking Yoked Ox
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Yoked Ox has taken lethal damage: 4
+Yoked Ox dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Yoked Ox
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2}
+Rand Passes
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Yoked Ox
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Sage's Row Denizen, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Sage's Row Denizen
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Sage's Row Denizen
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Battalion Foot Soldier]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite]
+Robo life: 16
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 16
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 16
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Moorland Inquisitor
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 16
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Battalion Foot Soldier, Sage's Row Denizen]
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor]
+Rand hand: [Plains, Captivating Gyre, Zephyr Charge, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge]
+Rand hand: [Plains, Captivating Gyre, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge]
+Rand hand: [Plains, Captivating Gyre, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge]
+Rand hand: [Plains, Captivating Gyre, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge]
+Rand hand: [Plains, Captivating Gyre, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Moorland Inquisitor
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Moorland Inquisitor]
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 10
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Stack: [Moorland Inquisitor ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Sage's Row Denizen, Moorland Inquisitor]
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Robo loses 2 life
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Metropolis Sprite, Squad Captain]
+Robo life: 4
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Metropolis Sprite
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Metropolis Sprite
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 4
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains]
+Rand hand: [Captivating Gyre, Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 4
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Moorland Inquisitor ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Sage's Row Denizen
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Sage's Row Denizen]
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 4
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light]
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Zephyr Charge, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite]
+Robo hand: [Disenchant, Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Activating Metropolis Sprite Effect
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Metropolis Sprite Effect
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Playing Island
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Zephyr Charge
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Zephyr Charge]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Disenchant
+Zephyr Charge is destroyed
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 20
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite, Island]
+Robo hand: [Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Metropolis Sprite]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 2 life
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite, Island]
+Robo hand: [Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite, Island]
+Robo hand: [Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Disenchant
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Disenchant]
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Activating Moorland Inquisitor ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Disenchant
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Disenchant]
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Activating Apostle of Purifying Light exile ability
+{'C': 2}
+{'C': 2}
+Apostle of Purifying Light exile ability targeting Disenchant
+{'C': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Apostle of Purifying Light exile ability targeting Disenchant]
+{'C': 2}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Moorland Inquisitor ability, Apostle of Purifying Light exile ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Robo exiles Disenchant
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Moorland Inquisitor ability, Apostle of Purifying Light exile ability]
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Stack: [Apostle of Purifying Light exile ability, Moorland Inquisitor ability]
+Resolving Moorland Inquisitor ability
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Resolving Apostle of Purifying Light exile ability
+Apostle of Purifying Light exile ability countered due to no legal targets
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Plains, Island]
+Rand hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages, Starfield Mystic]
+Rand life: 18
+stack: []
+Robo battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite, Island]
+Robo hand: [Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo life: 2
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Apostle of Purifying Light, Battalion Foot Soldier, Moorland Inquisitor]
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'U': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Rand  battlefield: [Plains, Plains, Plains, Apostle of Purifying Light, Plains, Plains, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Moorland Inquisitor, Plains, Island]
+Rand  hand: [Captivating Gyre, Masterful Replication, Scholar of the Ages, Starfield Mystic]
+Rand  deck: [Anticipate, Island, Disenchant, Master Splicer, Plains, Loyal Pegasus, Plains, Moment of Heroism, Ancestral Blade, Squad Captain, Plains, Hanged Executioner, Island, Island, Plains, Negate, Plains, Island, Island, Plains, Soulmender, Gods Willing, Island, Inspiring Captain, Glaring Aegis, Inspired Charge, Plains, Island, Plains, Island, Flood of Tears, Daybreak Chaplin, Warden of Evos Isle, Moat Piranhas, Portal of Sanctuary, Convolute, Mu Yanling, Sky Dancer, Plains, Gauntlet of Light, Yarok's Wavecrasher, Bone to Ash, Griffin Sentinel, Island, Island, Leyline of Sanctity, Island, Island, Herald of the Sun, Island, Island, Plains, Island, Angelic Gift, Plains, Island, Rule of Law, Plains, Spectral Sailor, Island, Island, Unsummon, Metropolis Sprite, Cerulean Drake, Island, Brought Back, Island, Plains, Aerial Assault, Plains, Plains, Plains, Plains, Island, Plains, Island, Frilled Sea Serpent, Agent of Treachery, Fencing Ace, Air Elemental, Yoked Ox, Cloudkin Seer, Plains, Boreal Elemental, Plains, Plains, Plains, Bishop of Wings, Plains, Renowned Weaponsmith, Island, Cavalier of Gales, Sephara, Sky's Blade, Island, Plains, Plains, Hard Cover, Cavalier of Dawn, Plains, Island, Dawning Angel, Devout Decree, Island, Octoprophet, Plains, Island, Island, Island, Island, Island, Pacifism, Steadfast Sentry, Plains, Dungeon Geists, Plains, Fortress Crab, Island, Island, Winged Words, Ajani, Strength of the Pride, Island, Island, Plains, Island, Loxodon Lifechanter, Raise the Alarm, Plains, Island, Drawn from Dreams, Eternal Isolation, Griffin Protector, Island, Angel of Vitality, Faerie Miscreant, Sleep Paralysis, Atemis, All-Seeing, Plains, Island, Plains, Tale's End, Plains, Aether Gust, Planar Cleansing, Brineborn Cutthroat, Frost Lynx]
+Rand  graveyard: [Zephyr Charge]
+Robo  battlefield: [Plains, Plains, Plains, Soldier 1/1, Plains, Plains, Island, Plains, Island, Metropolis Sprite, Island]
+Robo  hand: [Herald of the Sun, Planar Cleansing, Sleep Paralysis, Squad Captain]
+Robo  deck: [Leyline of Sanctity, Daybreak Chaplin, Island, Pacifism, Plains, Brought Back, Island, Angelic Gift, Plains, Plains, Plains, Plains, Warden of Evos Isle, Bone to Ash, Island, Tale's End, Island, Dawning Angel, Fortress Crab, Plains, Negate, Island, Devout Decree, Aether Gust, Plains, Atemis, All-Seeing, Plains, Angel of Vitality, Octoprophet, Island, Island, Starfield Mystic, Island, Mu Yanling, Sky Dancer, Hanged Executioner, Island, Scholar of the Ages, Agent of Treachery, Loxodon Lifechanter, Island, Island, Island, Plains, Island, Plains, Rule of Law, Island, Moat Piranhas, Inspiring Captain, Moorland Inquisitor, Island, Plains, Island, Battalion Foot Soldier, Soulmender, Plains, Island, Boreal Elemental, Island, Cerulean Drake, Island, Island, Cloudkin Seer, Plains, Cavalier of Gales, Aerial Assault, Convolute, Plains, Loyal Pegasus, Faerie Miscreant, Unsummon, Gauntlet of Light, Island, Sage's Row Denizen, Island, Air Elemental, Ajani, Strength of the Pride, Portal of Sanctuary, Eternal Isolation, Glaring Aegis, Island, Winged Words, Fencing Ace, Plains, Plains, Anticipate, Island, Island, Master Splicer, Moment of Heroism, Plains, Island, Sephara, Sky's Blade, Island, Plains, Plains, Gods Willing, Plains, Plains, Island, Zephyr Charge, Bishop of Wings, Plains, Plains, Inspired Charge, Island, Drawn from Dreams, Spectral Sailor, Plains, Island, Island, Plains, Plains, Cavalier of Dawn, Island, Plains, Island, Ancestral Blade, Plains, Dungeon Geists, Island, Flood of Tears, Apostle of Purifying Light, Plains, Steadfast Sentry, Captivating Gyre, Island, Yarok's Wavecrasher, Hard Cover, Frilled Sea Serpent, Brineborn Cutthroat, Frost Lynx, Plains, Island, Renowned Weaponsmith, Plains, Plains, Griffin Sentinel, Plains, Island, Island, Plains, Masterful Replication]
+Robo  graveyard: []
+Robo loses! Player has 0 or less life
+Runtime: 0:00:01.393437
+Seed: 3359827670

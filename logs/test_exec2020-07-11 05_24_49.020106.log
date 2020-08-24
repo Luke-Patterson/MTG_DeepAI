@@ -1,0 +1,2589 @@
+Seed: 4129609545
+Robo draws 7 card
+Rand draws 7 card
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Daybreak Chaplin, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Daybreak Chaplin
+Robo Passes
+Rand Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Plains, Griffin Protector]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin]
+Robo hand: [Angel of Vitality, Plains, Eternal Isolation, Island, Island]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Angel of Vitality
+Robo Passes
+Rand Passes
+Resolving Angel of Vitality
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains]
+Rand hand: [Plains, Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent]
+Rand life: 19
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 19
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Angel of Vitality]
+Robo hand: [Plains, Eternal Isolation, Island, Aerial Assault]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 19
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'U': 1}
+Robo Playing Island
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Unsummon targeting Angel of Vitality
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Unsummon
+ Targets:  [Unsummon targeting Angel of Vitality]
+Robo Passes
+Rand Passes
+Resolving Unsummon
+Angel of Vitality bounced
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Aerial Assault, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 19
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Daybreak Chaplin, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Aerial Assault, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Aerial Assault targeting Daybreak Chaplin
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Aerial Assault
+ Targets:  [Aerial Assault targeting Daybreak Chaplin]
+Robo Passes
+Rand Passes
+Resolving Aerial Assault
+Daybreak Chaplin is destroyed
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Plains, Griffin Protector, Frilled Sea Serpent, Master Splicer]
+Rand life: 18
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Griffin Protector
+Rand Passes
+Robo Passes
+Resolving Griffin Protector
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island]
+Robo hand: [Plains, Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+Robo Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Dungeon Geists
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists
+{'C': 0}
+Dungeon Geists ETB abil targeting Griffin Protector
+ Targets:  []
+Robo Passes
+Rand Passes
+Resolving Dungeon Geists ETB abil
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector]
+Rand hand: [Mu Yanling, Sky Dancer, Plains, Devout Decree, Frilled Sea Serpent, Master Splicer, Island]
+Rand life: 18
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Master Splicer
+Rand Passes
+Robo Passes
+Resolving Master Splicer
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Master Splicer ETB]
+Resolving Master Splicer ETB
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Griffin Protector Creature ETB]
+Resolving Griffin Protector Creature ETB
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 18
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Air Elemental
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Air Elemental
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 18
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dungeon Geists]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Plains]
+Rand life: 15
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental]
+Robo hand: [Eternal Isolation, Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Golem 3/3, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 15
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Eternal Isolation targeting Golem 3/3
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Eternal Isolation
+ Targets:  [Eternal Isolation targeting Golem 3/3]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Eternal Isolation
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains]
+Robo hand: [Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 15
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dungeon Geists, Air Elemental]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 4 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains]
+Robo hand: [Angel of Vitality]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Angel of Vitality
+Robo Passes
+Rand Passes
+Resolving Angel of Vitality
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality]
+Robo hand: []
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Plains, Island]
+Rand life: 8
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Playing Plains
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Master Splicer, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Master Splicer]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Air Elemental]
+Air Elemental is blocking Master Splicer
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Master Splicer has taken lethal damage: 4
+Master Splicer dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Octoprophet
+Robo Passes
+Rand Passes
+Resolving Octoprophet
+Robo Passes
+Rand Passes
+Resolving Octoprophet ETB abil
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains]
+Rand hand: [Mu Yanling, Sky Dancer, Devout Decree, Frilled Sea Serpent, Island, Captivating Gyre]
+Rand life: 8
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Rand Playing Island
+{'C': 1, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Mu Yanling, Sky Dancer
+Rand Passes
+Robo Passes
+Resolving Mu Yanling, Sky Dancer
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling +2 ability
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Mu Yanling +2 ability targeting Angel of Vitality
+{'C': 0}
+ Targets:  [Mu Yanling +2 ability targeting Angel of Vitality]
+Rand Passes
+Robo Passes
+Resolving Mu Yanling +2 ability
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Plains]
+Rand life: 8
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Playing Plains
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+Rand Activating Mu Yanling -3 ability
+{'C': 0}
+Rand Passes
+Robo Passes
+Resolving Mu Yanling -3 ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Griffin Protector Creature ETB, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Griffin Protector Creature ETB
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Mu Yanling, Sky Dancer, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Angel of Vitality]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses 2 loyalty from combat
+Mu Yanling, Sky Dancer has no loyalty
+Mu Yanling, Sky Dancer dies
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Griffin Protector does not untap during untap step
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Ajani, Strength of the Pride
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Ajani, Strength of the Pride
+Robo battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake, Ajani, Strength of the Pride]
+Robo hand: []
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying, Island]
+Rand hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand life: 8
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Dungeon Geists, Air Elemental, Octoprophet]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Rand loses 4 life
+Rand loses 3 life
+Robo  battlefield: [Plains, Plains, Island, Island, Plains, Dungeon Geists, Air Elemental, Plains, Angel of Vitality, Island, Octoprophet, Plains, Cerulean Drake, Ajani, Strength of the Pride]
+Robo  hand: []
+Robo  deck: [Bishop of Wings, Griffin Protector, Bone to Ash, Plains, Hanged Executioner, Sleep Paralysis, Island, Hard Cover, Convolute, Boreal Elemental, Glaring Aegis, Island, Plains, Zephyr Charge, Island, Steadfast Sentry, Island, Leyline of Sanctity, Yoked Ox, Renowned Weaponsmith, Moat Piranhas, Island, Island, Island, Cloudkin Seer, Plains, Plains, Plains, Plains, Herald of the Sun, Plains, Island, Moorland Inquisitor, Griffin Sentinel, Flood of Tears, Island, Plains, Mu Yanling, Sky Dancer, Agent of Treachery, Masterful Replication, Frilled Sea Serpent, Rule of Law, Island, Island, Plains, Starfield Mystic, Anticipate, Island, Metropolis Sprite, Soulmender, Squad Captain, Island, Plains, Apostle of Purifying Light, Island, Plains, Master Splicer, Plains, Plains, Island, Plains, Island, Plains, Scholar of the Ages, Cavalier of Dawn, Plains, Island, Brineborn Cutthroat, Portal of Sanctuary, Island, Moment of Heroism, Island, Plains, Island, Spectral Sailor, Plains, Island, Faerie Miscreant, Island, Plains, Island, Plains, Island, Island, Pacifism, Winged Words, Island, Drawn from Dreams, Planar Cleansing, Gauntlet of Light, Devout Decree, Plains, Plains, Plains, Plains, Plains, Atemis, All-Seeing, Loxodon Lifechanter, Island, Disenchant, Inspired Charge, Island, Fortress Crab, Battalion Foot Soldier, Plains, Island, Island, Island, Island, Plains, Plains, Island, Negate, Island, Plains, Sephara, Sky's Blade, Yarok's Wavecrasher, Sage's Row Denizen, Plains, Island, Plains, Cavalier of Gales, Gods Willing, Plains, Captivating Gyre, Dawning Angel, Plains, Plains, Raise the Alarm, Plains, Frost Lynx, Island, Warden of Evos Isle, Island, Aether Gust, Fencing Ace, Tale's End, Loyal Pegasus, Angelic Gift, Island, Brought Back, Inspiring Captain, Plains, Ancestral Blade]
+Robo  graveyard: [Unsummon, Daybreak Chaplin, Aerial Assault, Eternal Isolation]
+Rand  battlefield: [Plains, Plains, Plains, Plains, Griffin Protector, Plains, Island, Plains, Plains, Island, Plains, Elemental Bird 4/4 Flying, Island]
+Rand  hand: [Devout Decree, Frilled Sea Serpent, Captivating Gyre, Island]
+Rand  deck: [Fortress Crab, Masterful Replication, Aerial Assault, Rule of Law, Boreal Elemental, Island, Ancestral Blade, Brineborn Cutthroat, Plains, Winged Words, Island, Squad Captain, Plains, Island, Island, Island, Plains, Plains, Island, Bishop of Wings, Plains, Plains, Island, Island, Griffin Sentinel, Island, Moment of Heroism, Plains, Island, Island, Warden of Evos Isle, Plains, Island, Island, Disenchant, Brought Back, Island, Leyline of Sanctity, Bone to Ash, Faerie Miscreant, Convolute, Sage's Row Denizen, Plains, Angel of Vitality, Plains, Spectral Sailor, Atemis, All-Seeing, Island, Loxodon Lifechanter, Island, Hanged Executioner, Plains, Flood of Tears, Renowned Weaponsmith, Island, Dungeon Geists, Island, Drawn from Dreams, Cavalier of Gales, Frost Lynx, Gauntlet of Light, Island, Plains, Moorland Inquisitor, Cloudkin Seer, Plains, Dawning Angel, Moat Piranhas, Island, Island, Metropolis Sprite, Scholar of the Ages, Agent of Treachery, Island, Island, Plains, Eternal Isolation, Raise the Alarm, Yoked Ox, Plains, Glaring Aegis, Starfield Mystic, Plains, Plains, Plains, Plains, Soulmender, Island, Island, Plains, Plains, Plains, Island, Anticipate, Sephara, Sky's Blade, Loyal Pegasus, Angelic Gift, Daybreak Chaplin, Island, Pacifism, Island, Island, Battalion Foot Soldier, Octoprophet, Sleep Paralysis, Island, Plains, Planar Cleansing, Portal of Sanctuary, Gods Willing, Island, Inspired Charge, Zephyr Charge, Unsummon, Plains, Plains, Steadfast Sentry, Plains, Plains, Ajani, Strength of the Pride, Island, Island, Plains, Plains, Island, Yarok's Wavecrasher, Inspiring Captain, Tale's End, Plains, Cerulean Drake, Hard Cover, Cavalier of Dawn, Plains, Island, Apostle of Purifying Light, Plains, Plains, Aether Gust, Island, Island, Negate, Herald of the Sun, Fencing Ace, Air Elemental]
+Rand  graveyard: [Master Splicer, Mu Yanling, Sky Dancer]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:09.815393
+Seed: 4129609545

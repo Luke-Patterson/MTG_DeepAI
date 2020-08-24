@@ -1,0 +1,4472 @@
+Seed: 7061300613
+Robo draws 7 card
+Rand draws 7 card
+Robo draws 6 card
+Robo mulligans to 6
+Turn 1 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+{'C': 1, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Soulmender
+{'C': 1, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Soulmender
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: []
+Rand hand: [Plains, Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute]
+Rand life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Raise the Alarm, Plains, Dawning Angel, Plains]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 0}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Raise the Alarm
+{'C': 0}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Raise the Alarm
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains]
+Rand hand: [Inspiring Captain, Island, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing]
+Rand life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island]
+Rand hand: [Inspiring Captain, Griffin Sentinel, Plains, Island, Convolute, Atemis, All-Seeing, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Griffin Sentinel
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Griffin Sentinel
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 3}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Plains, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 23
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 23
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel]
+Rand hand: [Inspiring Captain, Plains, Convolute, Atemis, All-Seeing, Island, Island]
+Rand life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Playing Island
+{'C': 3, 'W': 1}
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Inspiring Captain
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Inspiring Captain Creature ETB
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 23
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 2 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation]
+Robo life: 21
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Plains, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 22
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Plains]
+Robo life: 19
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains]
+Rand hand: [Plains, Convolute, Atemis, All-Seeing, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+Rand Playing Plains
+{'C': 3, 'U': 3}
+{'C': 5, 'U': 2}
+{'C': 3, 'U': 3}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Atemis, All-Seeing
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis, All-Seeing
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 20
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Inspiring Captain]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 17
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing]
+Rand hand: [Plains, Convolute, Island, Agent of Treachery]
+Rand life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Glaring Aegis
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Convolute
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 18
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words]
+Robo life: 14
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Dawning Angel, Island]
+Rand life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Plains
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 4, 'W': 1}
+{'C': 2, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Dawning Angel
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Dawning Angel ETB
+Rand gains 4 life
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Winged Words, Griffin Protector]
+Robo life: 15
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Winged Words, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Battalion Foot Soldier, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo discards Battalion Foot Soldier
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Island]
+Rand life: 24
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Island
+Phase: First Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+Tale's End targeting Atemis draw cards abil
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Tale's End
+ Targets:  [Tale's End targeting Atemis draw cards abil]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Tale's End]
+Resolving Tale's End
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 16
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Atemis, All-Seeing]
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 4 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Cerulean Drake, Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cerulean Drake
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Cerulean Drake
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island]
+Rand hand: [Plains, Island, Agent of Treachery, Island, Island, Disenchant]
+Rand life: 24
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Island
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Disenchant
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Agent of Treachery
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Island, Captivating Gyre, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel]
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Phase: End of Combat Step
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Island, Captivating Gyre, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'W': 2}
+{'C': 1, 'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Captivating Gyre
+Rand discards Island
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 11
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Soulmender ability
+Robo gains 1 life
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Cerulean Drake]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication, Plains]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Cerulean Drake]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Griffin Sentinel, Inspiring Captain, Atemis, All-Seeing, Dawning Angel]
+Griffin Sentinel is blocking Cerulean Drake
+Inspiring Captain is blocking Cerulean Drake
+Atemis, All-Seeing is blocking Cerulean Drake
+Dawning Angel is blocking Cerulean Drake
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Cerulean Drake has taken lethal damage: 11
+Cerulean Drake dies
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication, Plains]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island]
+Rand hand: [Plains, Island, Loxodon Lifechanter, Plains, Metropolis Sprite, Brought Back, Renowned Weaponsmith]
+Rand life: 24
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'W': 2}
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'W': 2}
+{'C': 2, 'U': 1}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Brought Back, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Metropolis Sprite
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Brought Back, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Island
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Brought Back
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'C': 5, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Renowned Weaponsmith
+{'C': 2, 'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Renowned Weaponsmith
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 12
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Inspiring Captain, Atemis, All-Seeing, Dawning Angel]
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Robo loses 4 life
+Robo loses 3 life
+Phase: End of Combat Step
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 1
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Soulmender ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Soulmender ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Soulmender ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Soulmender ability]
+Resolving Soulmender ability
+Robo gains 1 life
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith]
+Rand hand: [Loxodon Lifechanter, Plains, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Plains]
+Rand life: 24
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Activating Renowned Weaponsmith fetch ability
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Activating Atemis draw cards abil
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Renowned Weaponsmith fetch ability, Atemis draw cards abil, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Plains
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Renowned Weaponsmith fetch ability, Atemis draw cards abil]
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Plains
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Atemis draw cards abil, Renowned Weaponsmith fetch ability]
+Resolving Renowned Weaponsmith fetch ability
+No cards found
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Atemis draw cards abil
+Rand draws 2 card
+Rand discards Starfield Mystic
+Phase: Draw Step
+Rand draws 1 card
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Playing Island
+{'C': 5, 'W': 1}
+{'C': 2, 'W': 1}
+{'W': 2}
+{'C': 5, 'U': 2}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 4, 'W': 3}
+{'W': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Daybreak Chaplin
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Daybreak Chaplin
+Robo battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo life: 2
+stack: []
+Rand battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith, Island, Daybreak Chaplin]
+Rand hand: [Loxodon Lifechanter, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Island, Griffin Protector, Plains, Sephara, Sky's Blade]
+Rand life: 24
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Griffin Sentinel, Dawning Angel]
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'U': 1}
+{'U': 1}
+Rand Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Robo loses 1 life
+Robo loses 3 life
+Robo  battlefield: [Plains, Soulmender, Plains, Soldier 1/1, Plains, Plains, Plains, Plains, Island, Island, Plains, Island]
+Robo  hand: [Dawning Angel, Sleep Paralysis, Eternal Isolation, Griffin Protector, Sephara, Sky's Blade, Steadfast Sentry, Masterful Replication]
+Robo  deck: [Zephyr Charge, Cavalier of Gales, Plains, Island, Master Splicer, Plains, Island, Loxodon Lifechanter, Island, Warden of Evos Isle, Plains, Herald of the Sun, Cavalier of Dawn, Aerial Assault, Portal of Sanctuary, Plains, Island, Yoked Ox, Island, Island, Starfield Mystic, Fencing Ace, Island, Plains, Dungeon Geists, Island, Captivating Gyre, Plains, Spectral Sailor, Island, Island, Flood of Tears, Plains, Island, Island, Island, Angel of Vitality, Island, Unsummon, Island, Hanged Executioner, Boreal Elemental, Atemis, All-Seeing, Ancestral Blade, Moorland Inquisitor, Plains, Island, Drawn from Dreams, Plains, Leyline of Sanctity, Yarok's Wavecrasher, Plains, Plains, Island, Plains, Mu Yanling, Sky Dancer, Metropolis Sprite, Sage's Row Denizen, Brineborn Cutthroat, Island, Inspired Charge, Island, Faerie Miscreant, Octoprophet, Island, Plains, Rule of Law, Daybreak Chaplin, Plains, Renowned Weaponsmith, Island, Fortress Crab, Island, Plains, Island, Island, Agent of Treachery, Plains, Tale's End, Plains, Scholar of the Ages, Plains, Frost Lynx, Island, Plains, Island, Moat Piranhas, Plains, Apostle of Purifying Light, Plains, Plains, Convolute, Loyal Pegasus, Island, Plains, Plains, Cloudkin Seer, Gods Willing, Island, Ajani, Strength of the Pride, Plains, Planar Cleansing, Island, Inspiring Captain, Brought Back, Plains, Island, Air Elemental, Plains, Glaring Aegis, Moment of Heroism, Griffin Sentinel, Negate, Island, Devout Decree, Island, Island, Plains, Island, Gauntlet of Light, Plains, Plains, Angelic Gift, Plains, Plains, Anticipate, Aether Gust, Pacifism, Disenchant, Island, Bone to Ash, Plains, Plains, Hard Cover, Bishop of Wings, Squad Captain, Frilled Sea Serpent, Island, Island, Island]
+Robo  graveyard: [Raise the Alarm, Winged Words, Battalion Foot Soldier, Cerulean Drake]
+Rand  battlefield: [Plains, Island, Island, Griffin Sentinel, Island, Inspiring Captain, Plains, Plains, Atemis, All-Seeing, Island, Island, Dawning Angel, Island, Island, Plains, Renowned Weaponsmith, Island, Daybreak Chaplin]
+Rand  hand: [Loxodon Lifechanter, Hanged Executioner, Bishop of Wings, Scholar of the Ages, Plains, Island, Griffin Protector, Plains, Sephara, Sky's Blade]
+Rand  deck: [Cerulean Drake, Raise the Alarm, Angelic Gift, Island, Plains, Eternal Isolation, Zephyr Charge, Plains, Plains, Yoked Ox, Soulmender, Loyal Pegasus, Plains, Plains, Moment of Heroism, Octoprophet, Frost Lynx, Sleep Paralysis, Island, Plains, Yarok's Wavecrasher, Island, Island, Flood of Tears, Angel of Vitality, Island, Plains, Fortress Crab, Plains, Plains, Fencing Ace, Cloudkin Seer, Plains, Drawn from Dreams, Devout Decree, Moorland Inquisitor, Plains, Island, Aether Gust, Portal of Sanctuary, Island, Cavalier of Dawn, Island, Squad Captain, Ancestral Blade, Boreal Elemental, Plains, Island, Plains, Island, Plains, Island, Spectral Sailor, Master Splicer, Steadfast Sentry, Moat Piranhas, Island, Island, Pacifism, Mu Yanling, Sky Dancer, Island, Island, Cavalier of Gales, Winged Words, Island, Island, Bone to Ash, Plains, Anticipate, Plains, Island, Island, Plains, Plains, Plains, Dungeon Geists, Plains, Plains, Plains, Island, Plains, Apostle of Purifying Light, Rule of Law, Island, Negate, Battalion Foot Soldier, Plains, Island, Sage's Row Denizen, Herald of the Sun, Island, Planar Cleansing, Ajani, Strength of the Pride, Island, Plains, Gods Willing, Island, Masterful Replication, Hard Cover, Island, Brineborn Cutthroat, Warden of Evos Isle, Island, Plains, Island, Plains, Air Elemental, Gauntlet of Light, Plains, Plains, Leyline of Sanctity, Faerie Miscreant, Inspired Charge, Frilled Sea Serpent, Plains, Unsummon, Plains, Plains, Aerial Assault]
+Rand  graveyard: [Glaring Aegis, Convolute, Plains, Island, Tale's End, Island, Disenchant, Agent of Treachery, Captivating Gyre, Island, Metropolis Sprite, Island, Brought Back, Plains, Plains, Starfield Mystic]
+Robo loses! Player has 0 or less life
+Runtime: 0:00:00.587429
+Seed: 7061300613

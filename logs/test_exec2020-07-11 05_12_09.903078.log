@@ -1,0 +1,7231 @@
+Seed: 1913337707
+Rand draws 7 card
+Robo draws 7 card
+Rand draws 6 card
+Rand mulligans to 6
+Rand draws 5 card
+Rand mulligans to 5
+Turn 1 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'U': 1}
+Rand Playing Plains
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains]
+Rand hand: [Island, Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand discards Island
+Rand battlefield: [Plains]
+Rand hand: [Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: []
+Robo hand: [Island, Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge]
+Robo life: 20
+stack: []
+None
+Turn 2 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains]
+Rand hand: [Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains]
+Rand hand: [Spectral Sailor, Island, Plains, Island, Plains, Plains, Plains]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Turn 2 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island]
+Robo hand: [Island, Plains, Brought Back, Glaring Aegis, Winged Words, Zephyr Charge, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Turn 3 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Island
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Zephyr Charge
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Zephyr Charge
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Turn 3 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Plains
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge]
+Robo hand: [Plains, Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Turn 4 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+Robo Playing Plains
+{'W': 2}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cloudkin Seer
+{'W': 2}
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains]
+Rand hand: [Spectral Sailor, Island, Island, Plains, Plains, Frost Lynx, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Zephyr Charge, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 4 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Zephyr Charge
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Disenchant
+ Targets:  [Disenchant targeting Zephyr Charge]
+Rand Passes
+{'W': 2}
+{'C': 1, 'U': 1}
+Robo Passes
+Resolving Disenchant
+Zephyr Charge is destroyed
+Phase: First Main
+{'U': 1}
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'U': 1}
+{'C': 2, 'U': 1}
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Rand Playing Spectral Sailor
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Spectral Sailor
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: First Main
+{'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Playing Plains
+{'W': 2}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Fortress Crab
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 2}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor]
+Rand hand: [Island, Island, Plains, Plains, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 5 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frost Lynx
+{'C': 2, 'U': 2}
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Frost Lynx
+{'C': 0}
+{'C': 0}
+Frost Lynx Creature ETB targeting Cloudkin Seer
+ Targets:  []
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Resolving Frost Lynx Creature ETB
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'U': 1}
+Rand Passes
+{'W': 2}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Brought Back, Glaring Aegis, Winged Words, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 6 - Robo
+Phase: Untap
+Cloudkin Seer does not untap during untap step
+Robo untaps for turn
+Phase: Upkeep
+{'W': 2}
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'W': 2}
+{'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Brought Back
+ Targets:  [Brought Back targeting None, Brought Back targeting None]
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Brought Back
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 1, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Winged Words
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Resolving Winged Words
+Robo draws 2 card
+Rand battlefield: [Plains, Plains, Plains, Island, Spectral Sailor, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Island, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Spectral Sailor]
+Spectral Sailor is blocking Fortress Crab
+Robo Passes
+{'C': 3, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Spectral Sailor has taken lethal damage: 1
+Spectral Sailor dies
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Island, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Playing Island
+{'W': 1}
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Frost Lynx]
+Rand hand: [Island, Plains, Plains, Bone to Ash]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab, Island]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 6 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Frost Lynx, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab, Island]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Frost Lynx, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab, Island]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Frost Lynx, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Cloudkin Seer, Plains, Fortress Crab, Island]
+Robo hand: [Glaring Aegis, Island, Plains, Yarok's Wavecrasher, Flood of Tears]
+Robo life: 20
+stack: []
+None
+Turn 7 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+Robo Playing Plains
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Flood of Tears
+Robo Passes
+Rand Passes
+Resolving Flood of Tears
+Frost Lynx bounced
+Cloudkin Seer bounced
+Fortress Crab bounced
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Plains, Plains, Bone to Ash, Island, Frost Lynx]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Turn 7 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'U': 1}
+Rand Playing Island
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Frost Lynx
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Frost Lynx
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Frost Lynx]
+Rand Passes
+Robo Passes
+Stack: [Frost Lynx, Bone to Ash]
+Resolving Bone to Ash
+Frost Lynx is countered
+Rand draws 1 card
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains]
+Robo hand: [Glaring Aegis, Island, Yarok's Wavecrasher, Island, Cloudkin Seer, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Turn 8 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Unsummon]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'U': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'U': 1}
+{'U': 1}
+Unsummon targeting Cloudkin Seer
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Unsummon
+ Targets:  [Unsummon targeting Cloudkin Seer]
+Robo Passes
+Rand Passes
+Resolving Unsummon
+Cloudkin Seer bounced
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Cloudkin Seer]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 2, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer
+Robo Passes
+Rand Passes
+Resolving Cloudkin Seer ETB abil
+Robo draws 1 card
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island]
+Rand hand: [Plains, Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 8 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Plains
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Gauntlet of Light targeting Cloudkin Seer
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Gauntlet of Light
+ Targets:  [Gauntlet of Light targeting Cloudkin Seer]
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light]
+Rand hand: [Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light']]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light]
+Rand hand: [Plains, Masterful Replication, Steadfast Sentry]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light']]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Steadfast Sentry
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Steadfast Sentry
+Phase: End Phase
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light']]
+Robo hand: [Glaring Aegis, Yarok's Wavecrasher, Island, Fortress Crab, Island, Plains]
+Robo life: 20
+stack: []
+None
+Turn 9 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'W': 1}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+{'W': 1}
+{'W': 1}
+Glaring Aegis targeting Steadfast Sentry
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Glaring Aegis
+ Targets:  [Glaring Aegis targeting Steadfast Sentry]
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis
+{'C': 0}
+Glaring Aegis ETB targeting Steadfast Sentry
+ Targets:  []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Resolving Glaring Aegis ETB
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis']]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis']]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis']]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 9 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 2}
+{'C': 4, 'W': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Herald of the Sun
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Herald of the Sun
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun]
+Rand hand: [Plains, Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Island, Captivating Gyre]
+Robo life: 20
+stack: []
+None
+Turn 10 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light'], Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Turn 10 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun]
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Herald of the Sun ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+Rand Playing Plains
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Cloudkin Seer ['Gauntlet of Light']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Cloudkin Seer ['Gauntlet of Light']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Herald of the Sun ability
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Gauntlet of Light, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Cloudkin Seer ['Gauntlet of Light', '+1/+1 counter'], Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry ['Glaring Aegis']]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: [Cloudkin Seer ['Gauntlet of Light', '+1/+1 counter']]
+Cloudkin Seer ['Gauntlet of Light', '+1/+1 counter'] is blocking Steadfast Sentry ['Glaring Aegis']
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+Rand Passes
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Cloudkin Seer ['Gauntlet of Light', '+1/+1 counter'] has taken lethal damage: 4
+Cloudkin Seer ['Gauntlet of Light', '+1/+1 counter'] dies
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island]
+Robo hand: [Yarok's Wavecrasher, Island, Fortress Crab, Captivating Gyre, Island]
+Robo life: 20
+stack: []
+None
+Turn 11 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Fortress Crab
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Fortress Crab
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Fortress Crab]
+Robo hand: [Yarok's Wavecrasher, Island, Captivating Gyre, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Fortress Crab]
+Robo hand: [Yarok's Wavecrasher, Island, Captivating Gyre, Island, Planar Cleansing]
+Robo life: 20
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+Robo Playing Island
+{'C': 3, 'U': 1}
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yarok's Wavecrasher
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Yarok's Wavecrasher ETB effect
+Fortress Crab bounced
+Phase: End Phase
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Island, Yarok's Wavecrasher]
+Robo hand: [Captivating Gyre, Island, Planar Cleansing, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Turn 11 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter']]
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Herald of the Sun ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 3, 'W': 1}
+Rand Activating Herald of the Sun ability
+{'C': 3, 'W': 1}
+Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']
+{'C': 3, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Herald of the Sun ability targeting Herald of the Sun ['+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Herald of the Sun ability
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Island, Yarok's Wavecrasher]
+Robo hand: [Captivating Gyre, Island, Planar Cleansing, Fortress Crab]
+Robo life: 20
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter']]
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Robo loses 4 life
+Robo loses 7 life
+Phase: End of Combat Step
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Plains]
+Rand hand: [Masterful Replication, Island]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Island, Yarok's Wavecrasher]
+Robo hand: [Captivating Gyre, Island, Planar Cleansing, Fortress Crab]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'W': 1}
+Rand Playing Island
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 3, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Steadfast Sentry ['Glaring Aegis'], Herald of the Sun ['+1/+1 counter', '+1/+1 counter', '+1/+1 counter'], Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Glaring Aegis, Island, Island, Yarok's Wavecrasher]
+Robo hand: [Captivating Gyre, Island, Planar Cleansing, Fortress Crab]
+Robo life: 9
+stack: []
+None
+Turn 12 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 3, 'W': 3}
+{'C': 3, 'U': 1}
+{'C': 3, 'W': 3}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Planar Cleansing
+Robo Passes
+{'C': 3, 'W': 1}
+Rand Passes
+Resolving Planar Cleansing
+Glaring Aegis is destroyed
+Yarok's Wavecrasher is destroyed
+Steadfast Sentry is destroyed
+Herald of the Sun ['+1/+1 counter'] is destroyed
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island]
+Robo hand: [Captivating Gyre, Island, Fortress Crab, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island]
+Robo hand: [Captivating Gyre, Island, Fortress Crab, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+Robo Playing Island
+{'C': 4, 'U': 2}
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fortress Crab
+Robo Passes
+Rand Passes
+Resolving Fortress Crab
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Captivating Gyre, Plains]
+Robo life: 9
+stack: []
+None
+Turn 12 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Captivating Gyre, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Captivating Gyre, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Captivating Gyre, Plains]
+Robo life: 9
+stack: []
+None
+Turn 13 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 4, 'U': 2}
+{'C': 4, 'U': 2}
+Captivating Gyre targeting Fortress Crab
+{'C': 4, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Captivating Gyre
+ Targets:  [Captivating Gyre targeting Fortress Crab, Captivating Gyre targeting None, Captivating Gyre targeting None]
+Robo Passes
+Rand Passes
+Resolving Captivating Gyre
+Fortress Crab bounced
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Plains, Island, Fortress Crab]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island]
+Robo hand: [Plains, Island, Fortress Crab]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 3, 'U': 1}
+{'C': 3, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Fortress Crab
+Robo Passes
+Rand Passes
+Resolving Fortress Crab
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Plains, Island]
+Robo life: 9
+stack: []
+None
+Turn 13 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Plains, Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Plains, Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab]
+Robo hand: [Plains, Island]
+Robo life: 9
+stack: []
+None
+Turn 14 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 20
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Turn 14 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains]
+Robo hand: [Island, Plains]
+Robo life: 9
+stack: []
+None
+Turn 15 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 3, 'U': 2}
+Robo Playing Plains
+{'C': 3, 'U': 2}
+{'C': 3, 'U': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Air Elemental
+Robo Passes
+Rand Passes
+Resolving Air Elemental
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 19
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Turn 15 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Turn 16 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 18
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Air Elemental]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Turn 16 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Turn 17 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 2, 'W': 2}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 2}
+{'C': 2, 'W': 2}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Inspired Charge
+Robo Passes
+Rand Passes
+Resolving Inspired Charge
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 13
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Rand loses 3 life
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island]
+Robo hand: [Island]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Playing Island
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 17 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 18 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: [Negate]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: [Negate]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: [Negate]
+Robo life: 9
+stack: []
+None
+Turn 18 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 4, 'W': 1}
+{'C': 4, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Dawning Angel
+Rand Passes
+Robo Passes
+Resolving Dawning Angel
+Rand Passes
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Negate targeting Dawning Angel ETB
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Negate
+ Targets:  [Negate targeting Dawning Angel ETB]
+Rand Passes
+Robo Passes
+Stack: [Dawning Angel ETB, Negate]
+Resolving Negate
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 19 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+{'W': 1}
+{'W': 1}
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Yoked Ox
+Robo Passes
+Rand Passes
+Resolving Yoked Ox
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 19 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Plains
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 20 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'U': 1}
+Robo Passes
+Rand Passes
+Phase: First Main
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Anticipate
+Robo Passes
+Rand Passes
+Resolving Anticipate
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: [Mu Yanling, Sky Dancer]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: [Dawning Angel]
+Dawning Angel is blocking Fortress Crab
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: [Mu Yanling, Sky Dancer]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'U': 2}
+{'C': 1, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Mu Yanling, Sky Dancer
+Robo Passes
+Rand Passes
+Resolving Mu Yanling, Sky Dancer
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Mu Yanling, Sky Dancer]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 20 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+Rand Passes
+Robo Passes
+Phase: First Main
+Rand Playing Island
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Mu Yanling, Sky Dancer]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: [Dawning Angel]
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Mu Yanling, Sky Dancer loses 3 loyalty from combat
+Mu Yanling, Sky Dancer has no loyalty
+Mu Yanling, Sky Dancer dies
+Phase: End of Combat Step
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Rand Passes
+Robo Passes
+Phase: End Phase
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 21 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+Rand Passes
+Phase: First Main
+Robo Playing Plains
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+Rand Passes
+Phase: Declare Attackers
+Attackers: []
+Robo Passes
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+Rand Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+Robo Passes
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+Rand Passes
+Phase: End Phase
+Robo Passes
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 21 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+Rand Passes
+Robo Passes
+Phase: Draw Step
+Rand draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Rand Playing Raise the Alarm
+Rand Passes
+Robo Passes
+Resolving Raise the Alarm
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel, Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 22 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+{'U': 1}
+Hard Cover targeting Dawning Angel
+{'U': 1}
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hard Cover
+ Targets:  [Hard Cover targeting Dawning Angel]
+Robo Passes
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hard Cover
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 10
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Island
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 22 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Fencing Ace
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Playing Island
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 23 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 9
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: End Phase
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Turn 23 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Bone to Ash]
+Robo life: 9
+stack: []
+None
+Turn 24 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Draw Step
+Robo draws 1 card
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Battalion Foot Soldier
+{'C': 2, 'U': 2}
+{'C': 2, 'U': 2}
+Bone to Ash targeting Battalion Foot Soldier
+{'C': 2, 'U': 2}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Bone to Ash
+ Targets:  [Bone to Ash targeting Battalion Foot Soldier]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Stack: [Battalion Foot Soldier, Bone to Ash]
+Resolving Bone to Ash
+Battalion Foot Soldier is countered
+Robo draws 1 card
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 8
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Hanged Executioner]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Yoked Ox]
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Phase: End of Combat Step
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover]
+Robo hand: [Hanged Executioner]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+Robo Playing Hanged Executioner
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner
+{'C': 3, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Resolving Hanged Executioner ETB
+Phase: End Phase
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island]
+Rand hand: [Masterful Replication, Battalion Foot Soldier]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 24 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Gauntlet of Light ability, Hard Cover ability]
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Masterful Replication
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: First Main
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+Rand Playing Zephyr Charge
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Air Elemental
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Air Elemental]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Dawning Angel ['Hard Cover']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Dawning Angel ['Hard Cover']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Spirit 1/1 Flying
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Spirit 1/1 Flying]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fortress Crab
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fortress Crab]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fortress Crab
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fortress Crab]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Dawning Angel ['Hard Cover']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Dawning Angel ['Hard Cover']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Turn 25 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 7
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Air Elemental, Yoked Ox]
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Phase: End of Combat Step
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: End Phase
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge]
+Rand hand: [Battalion Foot Soldier, Plains]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Turn 25 - Rand
+Phase: Untap
+Rand untaps for turn
+Phase: Upkeep
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Hard Cover ability
+{'C': 0}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Hard Cover ability
+Rand draws 1 card
+Rand discards Battalion Foot Soldier
+Phase: Draw Step
+Rand draws 1 card
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Phase: First Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Playing Plains
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Dawning Angel ['Hard Cover']
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Dawning Angel ['Hard Cover']]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Hanged Executioner
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+ Targets:  [Zephyr Charge ability targeting Hanged Executioner]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Yoked Ox
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Yoked Ox]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Soldier 1/1
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Soldier 1/1]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Air Elemental
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Air Elemental]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Air Elemental
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Air Elemental]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Fortress Crab
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Fortress Crab]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+Rand Activating Zephyr Charge ability
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Zephyr Charge ability targeting Air Elemental
+{'C': 1, 'U': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+ Targets:  [Zephyr Charge ability targeting Air Elemental]
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Stack: [Zephyr Charge ability, Zephyr Charge ability]
+Resolving Zephyr Charge ability
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Resolving Zephyr Charge ability
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge, Plains]
+Rand hand: [Plains, Island]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Attackers
+Attackers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Combat Damage
+Phase: End of Combat Step
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge, Plains]
+Rand hand: [Plains, Island]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Phase: Second Main
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: End Phase
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+Phase: Cleanup Phase
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Zephyr Charge, Plains]
+Rand hand: [Plains, Island]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying]
+Robo hand: [Disenchant]
+Robo life: 9
+stack: []
+None
+Turn 26 - Robo
+Phase: Untap
+Robo untaps for turn
+Phase: Upkeep
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Plains mana ability
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Activating Gauntlet of Light ability
+{'C': 2, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 0}
+Activating Island mana ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Stack: [Gauntlet of Light ability, Gauntlet of Light ability]
+Resolving Gauntlet of Light ability
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Gauntlet of Light ability
+Phase: Draw Step
+Robo draws 1 card
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Phase: First Main
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Playing Plains
+{'C': 1, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'W': 1}
+{'C': 1, 'W': 1}
+Disenchant targeting Zephyr Charge
+{'C': 1, 'W': 1}
+{'C': 0}
+Activating Plains mana ability
+{'C': 0}
+Activating Plains mana ability
+Robo Playing Disenchant
+ Targets:  [Disenchant targeting Zephyr Charge]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+{'C': 1, 'U': 1}
+Rand Passes
+Resolving Disenchant
+Zephyr Charge is destroyed
+Rand battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Plains]
+Rand hand: [Plains, Island]
+Rand life: 2
+stack: []
+Robo battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo hand: []
+Robo life: 9
+stack: []
+None
+Phase: Beginning of Combat
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Attackers
+Attackers: [Fortress Crab, Air Elemental, Yoked Ox]
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Declare Blockers
+Blockers: []
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 3, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Robo Passes
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 0}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+{'C': 2, 'W': 1}
+Rand Passes
+Phase: Combat Damage
+Rand loses 1 life
+Rand loses 4 life
+Rand  battlefield: [Plains, Plains, Plains, Island, Island, Island, Island, Plains, Plains, Plains, Island, Plains, Plains, Plains, Island, Island, Island, Dawning Angel ['Hard Cover'], Plains, Island, Soldier 1/1, Island, Plains]
+Rand  hand: [Plains, Island]
+Rand  deck: [Island, Plains, Negate, Griffin Protector, Plains, Island, Island, Cerulean Drake, Island, Plains, Plains, Atemis, All-Seeing, Plains, Island, Cavalier of Dawn, Tale's End, Plains, Ancestral Blade, Ajani, Strength of the Pride, Frilled Sea Serpent, Plains, Island, Sage's Row Denizen, Eternal Isolation, Apostle of Purifying Light, Cloudkin Seer, Plains, Island, Yarok's Wavecrasher, Anticipate, Island, Plains, Gods Willing, Flood of Tears, Plains, Plains, Island, Drawn from Dreams, Plains, Moorland Inquisitor, Convolute, Octoprophet, Boreal Elemental, Island, Master Splicer, Dungeon Geists, Glaring Aegis, Moat Piranhas, Loxodon Lifechanter, Island, Island, Cavalier of Gales, Plains, Island, Island, Planar Cleansing, Hanged Executioner, Devout Decree, Scholar of the Ages, Aerial Assault, Island, Plains, Plains, Plains, Island, Plains, Agent of Treachery, Leyline of Sanctity, Yoked Ox, Air Elemental, Sephara, Sky's Blade, Aether Gust, Island, Brought Back, Rule of Law, Unsummon, Angelic Gift, Island, Plains, Plains, Island, Plains, Island, Sleep Paralysis, Faerie Miscreant, Winged Words, Hard Cover, Brineborn Cutthroat, Island, Plains, Soulmender, Captivating Gyre, Squad Captain, Island, Plains, Plains, Inspiring Captain, Plains, Inspired Charge, Island, Pacifism, Angel of Vitality, Griffin Sentinel, Daybreak Chaplin, Moment of Heroism, Fortress Crab, Mu Yanling, Sky Dancer, Starfield Mystic, Bishop of Wings, Island, Plains, Warden of Evos Isle, Island, Island, Plains, Island, Portal of Sanctuary, Island, Renowned Weaponsmith, Loyal Pegasus, Plains, Metropolis Sprite, Plains]
+Rand  graveyard: [Island, Disenchant, Spectral Sailor, Frost Lynx, Bone to Ash, Gauntlet of Light, Steadfast Sentry, Herald of the Sun ['+1/+1 counter'], Raise the Alarm, Island, Fencing Ace, Plains, Masterful Replication, Battalion Foot Soldier, Zephyr Charge]
+Robo  battlefield: [Island, Island, Plains, Plains, Island, Plains, Island, Plains, Island, Island, Island, Fortress Crab, Plains, Plains, Air Elemental, Island, Island, Yoked Ox, Plains, Hard Cover, Hanged Executioner, Spirit 1/1 Flying, Plains]
+Robo  hand: []
+Robo  deck: [Plains, Island, Raise the Alarm, Island, Frilled Sea Serpent, Starfield Mystic, Plains, Island, Island, Agent of Treachery, Plains, Island, Leyline of Sanctity, Island, Ancestral Blade, Drawn from Dreams, Squad Captain, Faerie Miscreant, Plains, Island, Island, Herald of the Sun, Plains, Apostle of Purifying Light, Island, Soulmender, Island, Plains, Brineborn Cutthroat, Island, Loyal Pegasus, Plains, Masterful Replication, Plains, Plains, Island, Island, Tale's End, Cavalier of Dawn, Cavalier of Gales, Island, Island, Devout Decree, Island, Griffin Protector, Aether Gust, Plains, Eternal Isolation, Island, Atemis, All-Seeing, Island, Pacifism, Scholar of the Ages, Island, Plains, Plains, Island, Dungeon Geists, Angel of Vitality, Sephara, Sky's Blade, Spectral Sailor, Plains, Plains, Rule of Law, Plains, Plains, Island, Moat Piranhas, Convolute, Dawning Angel, Plains, Island, Plains, Aerial Assault, Island, Frost Lynx, Plains, Moment of Heroism, Plains, Master Splicer, Plains, Gods Willing, Boreal Elemental, Renowned Weaponsmith, Metropolis Sprite, Plains, Plains, Steadfast Sentry, Sleep Paralysis, Moorland Inquisitor, Plains, Gauntlet of Light, Sage's Row Denizen, Island, Plains, Island, Daybreak Chaplin, Island, Plains, Plains, Octoprophet, Island, Plains, Island, Inspiring Captain, Plains, Bishop of Wings, Fencing Ace, Plains, Plains, Angelic Gift, Ajani, Strength of the Pride, Plains, Warden of Evos Isle, Island, Island, Portal of Sanctuary, Plains, Griffin Sentinel, Loxodon Lifechanter, Island, Cerulean Drake, Island]
+Robo  graveyard: [Zephyr Charge, Brought Back, Winged Words, Flood of Tears, Unsummon, Cloudkin Seer ['+1/+1 counter'], Glaring Aegis, Yarok's Wavecrasher, Planar Cleansing, Captivating Gyre, Inspired Charge, Negate, Anticipate, Mu Yanling, Sky Dancer, Battalion Foot Soldier, Bone to Ash, Disenchant]
+Rand loses! Player has 0 or less life
+Runtime: 0:00:15.817909
+Seed: 1913337707
