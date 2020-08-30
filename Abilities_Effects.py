@@ -52,6 +52,8 @@ class Activated_Ability:
         self.lki_func=lki_func
         # tracking last known info
         self.last_known_info=[]
+        # misc info placeholdre
+        self.temp_memory=[]
         # potential mana tracking
         self.potential_mana=potential_mana
         if self.potential_mana!=None:
@@ -71,6 +73,9 @@ class Activated_Ability:
             i.assign_source(self)
         for i in self.requirements:
             i.assign_source(self)
+        if self.potential_mana != None:
+            self.potential_mana.assign_source(source)
+
         if self.potential_mana != None and self.potential_mana not in source.potential_mana:
             source.potential_mana=source.potential_mana+[self.potential_mana]
             source.potential_mana_values = source.potential_mana_values + [
@@ -94,7 +99,7 @@ class Activated_Ability:
                 # leads to these. To date (8/22/2020), the order only matters for
                 # selecting cards pre game. This will have to be sorted out
                 # if trying to a program a card with that fails this assert statement on its own,
-                # or there's a reason that potential mana must be sorted in game 
+                # or there's a reason that potential mana must be sorted in game
 
                 # ignore sorting if potential mana is multiple of the same color
                 # but can continue if not the above issue caught in an assert statement
@@ -117,6 +122,8 @@ class Activated_Ability:
             i.assign_ownership(new_owner)
         for i in self.targets:
             i.assign_ownership(new_owner)
+        if self.potential_mana!=None:
+            self.potential_mana.assign_ownership(new_owner)
 
     def assign_controller(self,new_controller):
         self.controller=new_controller
@@ -126,6 +133,9 @@ class Activated_Ability:
             i.assign_controller(new_controller)
         for i in self.targets:
             i.assign_controller(new_controller)
+        if self.potential_mana!=None:
+            self.potential_mana.assign_controller(new_controller)
+
     # =======================================================
     # Requirements functions
     # =======================================================
@@ -179,11 +189,13 @@ class Activated_Ability:
 
     # function to retrieve target object or list of target objects
     def get_targets(self,squeeze=True, check_illegal_targets=True):
-        if len(self.targets)==1 and squeeze:
-            target_objs=self.targets[0].target_obj
+        targets=[i for i in self.targets if self.selected_mode==None or
+            self.selected_mode==i.mode_num]
+
+        if len(targets)==1 and squeeze:
+            target_objs=targets[0].target_obj
         else:
-            targets=[i for i in self.targets]
-            if check_illegal_targets and len(self.targets)>1:
+            if check_illegal_targets and len(targets)>1:
                 # when we're checking targets right before resolution,
                 # need to handle the case where there are multiple targets,
                 # some of which are legal targets still, and some of which
@@ -310,7 +322,12 @@ class Activated_Ability:
         self.check_requirements()
         # pay costs - run check costs again to ensure we have set self.valid_costs
         self.check_costs()
-        self.controller.input_choose(self.valid_costs, label='alt cost selection').pay_costs()
+        selected=self.controller.input_choose(self.valid_costs, label='alt cost selection')
+        # make sure that check_potential_mana is up against the right cost
+        if len(self.valid_costs)>1:
+            self.controller.check_potential_mana(mana_cost=selected.mana_cost)
+
+        selected.pay_costs()
         if 'planeswalker' in self.source.types:
             self.source.activated_loyalty_abil=True
 
@@ -322,25 +339,31 @@ class Activated_Ability:
             if self.selected_mode!=None:
                 print(' Mode: ',  self.mode_labels[self.selected_mode-1])
 
-        # check for triggerd abils
-        self.controller.game.triggers('abil activated',activated_abil=self,
-            effect_kwargs={'activated_abil':self})
+
 
         # if a mana abil, just resolve directly
         if self.mana_abil:
             if self.source.controller.game.verbose>=2:
                 print('Activating', self.source, 'mana ability')
             self.apply_effect()
+            # check for triggerd abils
+            self.controller.game.triggers('abil activated',activated_abil=self,
+                effect_kwargs={'activated_abil':self})
         # pass choices to effect and put the effect on stack
         else:
             effect=Effect_Instance(name=self.name,source=self.source,
                 abil_effect=self.abil_effect,targets=self.targets,
                 controller=self.controller,types=self.types,
                 choices=self.choices, requirements=self.requirements,
-                colors=self.source.colors)
+                colors=self.source.colors, mode=self.selected_mode,
+                mana_abil=self.mana_abil)
             if self.lki_func!=None:
                 effect.last_known_info=self.lki_func(self, effect_kwargs)
             self.controller.game.stack.enter_zone(effect)
+
+            # check for triggerd abils
+            self.controller.game.triggers('abil activated',activated_abil=effect,
+                effect_kwargs={'activated_abil':effect})
 
     def apply_effect(self):
         self.abil_effect(self)
@@ -402,6 +425,8 @@ class Triggered_Ability:
         self.lki_func=lki_func
         # tracking last known info
         self.last_known_info=[]
+        # misc info placeholdre
+        self.temp_memory=[]
         # whether to remove ability once the source obj leaves current zone
         self.remove_on_leave_zone=remove_on_leave_zone
 
@@ -479,11 +504,13 @@ class Triggered_Ability:
 
     # function to retrieve target object or list of target objects
     def get_targets(self,squeeze=True, check_illegal_targets=True):
-        if len(self.targets)==1 and squeeze:
-            target_objs=self.targets[0].target_obj
+        targets=[i for i in self.targets if self.selected_mode==None or
+            self.selected_mode==i.mode_num]
+
+        if len(targets)==1 and squeeze:
+            target_objs=targets[0].target_obj
         else:
-            targets=[i for i in self.targets]
-            if check_illegal_targets and len(self.targets)>1:
+            if check_illegal_targets and len(targets)>1:
                 # when we're checking targets right before resolution,
                 # need to handle the case where there are multiple targets,
                 # some of which are legal targets still, and some of which
@@ -573,6 +600,10 @@ class Triggered_Ability:
     #     self.abil_effect(self)
 
     def put_trigger_on_stack(self, effect_kwargs={}):
+
+        # make choices for effect
+        self.make_choices()
+
         # choose targets
         try:
             self.set_targets()
@@ -580,8 +611,7 @@ class Triggered_Ability:
             if self.controller.game.verbose>=2:
                 print(self,'trigger not put on stack, no legal targets for trigger')
             return
-        # make choices for effect
-        self.make_choices()
+
         # check requirements
         self.check_requirements()
         # pay costs - run check costs again to ensure we have set self.valid_costs
@@ -600,10 +630,12 @@ class Triggered_Ability:
             abil_effect=self.abil_effect,targets=self.targets,
             controller=self.controller,types=self.types,
             choices=self.choices, requirements=self.requirements,
-            colors=self.source.colors)
+            colors=self.source.colors, mode=self.selected_mode
+            ,trigger_points=self.trigger_points, trigger_condition=self.trigger_condition)
         if self.lki_func!=None:
             effect.last_known_info=self.lki_func(self, effect_kwargs)
         self.controller.game.stack.enter_zone(effect)
+
 
     # using Effect_Instance class to resolve so don't need these any more
     # def resolve(self):
@@ -637,7 +669,8 @@ class Triggered_Ability:
 # class that is ability's effect on the stack
 class Effect_Instance:
     def __init__(self,name,source, abil_effect,targets,controller,types,
-        choices,requirements,colors):
+        choices,requirements,colors,mode=None, trigger_points=None,
+        trigger_condition = None, mana_abil=None):
         self.name=name
         self.source=source
         self.abil_effect=abil_effect
@@ -653,7 +686,12 @@ class Effect_Instance:
         self.choices=choices
         self.requirements=requirements
         self.colors=colors
-
+        self.selected_mode=mode
+        self.trigger_points=trigger_points
+        self.trigger_condition= trigger_condition
+        # misc info placeholdre
+        self.temp_memory=[]
+        self.mana_abil=mana_abil
 
     def assign_source(self,source):
         self.source=source
@@ -665,12 +703,14 @@ class Effect_Instance:
     # for use when spell copies an ability
     def make_copy(self, choose_new_targets=True):
         clone = Effect_Instance(name=self.name,source=self.source,
-            abil_effect=self.abil_effect,targets=self.targets,
+            abil_effect=self.abil_effect,targets=[i.make_copy() for i in self.targets],
             controller=self.controller,types=self.types,
             choices=self.choices, requirements=self.requirements,
-            colors=self.source.colors)
+            colors=self.source.colors,mode=self.selected_mode,
+            trigger_points=self.trigger_points,trigger_condition=self.trigger_condition,
+            mana_abil=self.mana_abil)
         if choose_new_targets:
-            clone.set_targets()
+            clone.set_targets(make_copy=True)
         self.controller.game.stack.enter_zone(clone)
 
     def check_costs(self,pay_mana_cost=True):
@@ -726,9 +766,9 @@ class Effect_Instance:
         return target_objs
 
     # select targets
-    def set_targets(self):
+    def set_targets(self, make_copy=False):
         for i in self.targets:
-            i.set_possible_target()
+            i.set_possible_target(make_copy)
 
     def check_target_zones(self):
         if self.targets==[]:

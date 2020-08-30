@@ -23,6 +23,8 @@ class Player:
         self.name=name
         self.deck=deck
         self.game=None
+        self.owner=self
+        self.controller=self
         # assign deck
         self.lib=Library(self)
         self.deck=deck
@@ -261,7 +263,7 @@ class Player:
                 if 'planeswalker' in i.types:
                     atk_targets.append(i)
             self.attacking=True
-            self.atk_target=self.input_choose(targets, label='attack target')
+            self.atk_target=self.input_choose(atk_targets, label='attack target')
 
     # search library
     def search_library(self,elig_condition, select_effect, select_num=1,shuffle=True):
@@ -657,16 +659,16 @@ class Player:
         for atker in menace_atkers:
             legal_blockers=[]
             for blk in blck_cand:
-                legal=blk.legal_block_pair(attacker, other_blockers=[])
+                legal=blk.legal_block_pair(atker, other_blockers=[])
                 if legal:
                     legal_blockers.append(blk)
             if len(legal_blockers)>=2:
-                to_block = self.input_bool(label= 'double block menace attacker: ' + atker)
+                to_block = self.input_bool(label= 'double block menace attacker: ' + str(atker))
                 if to_block:
                     num_block= self.input_choose([i for i in range(2, len(legal_blockers)+1)],
-                        'num of blocks for menace attacker: ' + atker)
+                        'num of blocks for menace attacker: ' + str(atker))
                     blockers = self.input_choose(legal_blockers, n=num_block, label=
-                        'which blocker for menace attacker: ' + atker)
+                        'which blocker for menace attacker: ' + str(atker))
                     for i in blockers:
                         i.declare_as_blocker(atker)
 
@@ -774,6 +776,16 @@ class Player:
                 potential_mana_sets.append(card.potential_mana)
 
         self.potential_mana_permutes=list(product(*potential_mana_sets))
+        if len(self.potential_mana_permutes)>10000:
+            print('warning: large number of potential mana permutations, disregarding treasure to bring combinations down')
+            # if really large, try disregarding treasures
+            potential_mana_sets=[]
+            for card in self.field:
+                if card.potential_mana!=[] and card.name!='Treasure':
+                    potential_mana_sets.append(card.potential_mana)
+            self.potential_mana_permutes=list(product(*potential_mana_sets))
+
+
         self.potential_mana_permutes=[list(i) for i in self.potential_mana_permutes]
         for n,p in enumerate(self.potential_mana_permutes):
             remove_p = []
@@ -820,6 +832,9 @@ class Player:
     def tap_sources_for_cost(self,mana_cost,cost_object):
         # make a copy of the cost to keep track of source selection
         clone_cost=deepcopy(mana_cost)
+        # make sure that pmana_can_pay is properly set to object
+        self.get_potential_mana(cost_object.source)
+        self.check_potential_mana(mana_cost)
         # reduce cost by whatever is currently in mana pool
         if sum(self.mana_pool.values())>0:
             for key in self.mana_pool.keys():
@@ -846,19 +861,29 @@ class Player:
 
         # of the valid permutations, select one
         selected=self.input_choose(valid_permutes, label='select sources to pay with')
-
+        # if any(['Gift of Paradise' in i.linked_abil.name for i in selected]):
+        #     print(selected)
         # for each ability of selected permutation activate and reduce cost
         for pmana in selected:
             if pmana.source in sources:
+                abil_activated=False
                 for i in pmana.mana.keys():
-                    # first try to pay a colored mana
-                    if i in clone_cost.keys() and pmana.mana[i]>0 and clone_cost[i]>0:
-                        clone_cost[i]-=pmana.mana[i]
-                        pmana.linked_abil.activate_ability()
-                    # next try to pay a colorless mana
-                    elif 'C' in clone_cost.keys() and pmana.mana[i]>0 and clone_cost['C']>0:
-                        clone_cost['C']-=pmana.mana[i]
-                        pmana.linked_abil.activate_ability()
+                    if abil_activated==False:
+                        # first try to pay a colored mana
+                        if i in clone_cost.keys() and pmana.mana[i]>0 and clone_cost[i]>0:
+                            clone_cost[i]-=pmana.mana[i]
+                            pmana.linked_abil.activate_ability()
+                            abil_activated=True
+                        # next try to pay a colorless mana
+                        elif 'C' in clone_cost.keys() and pmana.mana[i]>0 and clone_cost['C']>0:
+                            clone_cost['C']-=pmana.mana[i]
+                            pmana.linked_abil.activate_ability()
+                            abil_activated=True
+
+        # below can be removed, just checking in htis function that cost can be paid
+        pool=deepcopy(self.mana_pool)
+        self.pay_mana(mana_cost)
+        self.mana_pool=pool
 
     # pay a cost with mana in pool
     def pay_mana(self,cost,partial=False):

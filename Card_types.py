@@ -12,7 +12,7 @@ class Card:
         keyword_static_abils=[],nonkeyword_static_abils=[],
         activated_abils=[],triggered_abils=[],replace_effects=[],
         colors=None,protection_effects=[],requirements=[], moded=False, n_modes=1,
-        mode_labels=[],lki_func=None, power=None, toughness=None):
+        mode_labels=[],lki_func=None, power=None, toughness=None, copy=False):
         # print_name is what is printed on object
         self.print_name=name
         # name is an identifier of identical objects; modifying effects will change this
@@ -119,6 +119,8 @@ class Card:
         self.lki_func=lki_func
         # tracking last known info
         self.last_known_info=None
+        # misc info placeholdre
+        self.temp_memory=[]
         # whether to exile on resolve
         self.exile_on_resolve=False
         # creature-specific attributes
@@ -134,6 +136,8 @@ class Card:
         self.power=power
         self.toughness=toughness
         self.tapped=False
+        # whether card is a copy of another (instants/sorceries only)
+        self.copy=copy
         self.assign_sources()
 
     # for representing attached objs, we don't want them to appear separately,
@@ -496,10 +500,11 @@ class Card:
             self.dies()
 
     def fight(self, other):
-        self.take_damage(other.power,source=other, deathtouch=
-            other.check_keyword('deathtouch'), combat=False)
-        other.take_damage(self.power,source=self, deathtouch=
-            self.check_keyword('deathtouch'), combat=False)
+        if other!=None:
+            self.take_damage(other.power,source=other, deathtouch=
+                other.check_keyword('deathtouch'), combat=False)
+            other.take_damage(self.power,source=self, deathtouch=
+                self.check_keyword('deathtouch'), combat=False)
 
     def take_damage(self,num,source,deathtouch=False, combat=True):
         protect=False
@@ -539,7 +544,7 @@ class Card:
             if self.controller.game.verbose>=2:
                 print(self, 'is exiled')
         else:
-            self.controller.game.triggers('dies', obj=self)
+            self.controller.game.triggers('dies', obj=self,effect_kwargs={'obj':self})
             self.owner.yard.enter_zone(self)
 
     def change_power(self,num):
@@ -598,11 +603,14 @@ class Card:
 
     # function to retrieve target object or list of target objects
     def get_targets(self,squeeze=True, check_illegal_targets=True):
-        if len(self.targets)==1 and squeeze:
-            target_objs=self.targets[0].target_obj
+        # filter to only those targets with selected_mode
+        targets=[i for i in self.targets if self.selected_mode==None or
+            self.selected_mode==i.mode_num]
+
+        if len(targets)==1 and squeeze:
+            target_objs=targets[0].target_obj
         else:
-            targets=[i for i in self.targets]
-            if check_illegal_targets and len(self.targets)>1:
+            if check_illegal_targets and len(targets)>1:
                 # when we're checking targets right before resolution,
                 # need to handle the case where there are multiple targets,
                 # some of which are legal targets still, and some of which
@@ -716,8 +724,13 @@ class Card:
         self.check_requirements()
         # pay costs - run check costs again to ensure we have set self.valid_costs
         self.check_costs(pay_mana_cost=pay_mana_cost)
-        self.controller.input_choose(self.valid_costs, label='alt cost selection') \
-            .pay_costs(pay_mana_cost=pay_mana_cost)
+        selected=self.controller.input_choose(self.valid_costs, label='alt cost selection')
+        # make sure that check_potential_mana is up against the right cost
+        if len(self.valid_costs)>1:
+            self.controller.check_potential_mana(mana_cost=selected.mana_cost)
+
+        # pay costs
+        selected.pay_costs(pay_mana_cost=pay_mana_cost)
         from_zone.leave_zone(self)
         if self.lki_func!=None:
             self.last_known_info=self.lki_func(self)
@@ -777,9 +790,17 @@ class Card:
 
     def resolve(self, to_zone='field'):
         self.controller.game.stack.leave_zone(self)
-        self.controller.__dict__[to_zone].enter_zone(self)
-        self.summoning_sick=True
-        self.controller=self.controller
+        # if copy of a spell, delete object entirely
+        if self.copy:
+            del self
+        else:
+            self.controller.__dict__[to_zone].enter_zone(self)
+            self.summoning_sick=True
+            self.controller=self.controller
+            for i in self.cost:
+                if i.reverse_mana_x_modfunc!=None:
+                    i.reverse_mana_x_modfunc(i.mana_cost, i.x_value)
+
 
     def discard_from_hand(self):
         if self.controller.game.verbose>=2:
@@ -1047,6 +1068,15 @@ class Sorcery(Card):
         self.reset_choices()
         self.reset_targets()
 
+    def make_copy(self, choose_new_targets=True):
+        clone = Card(name=self.name)
+        for key in self.__dict__.keys():
+            clone.__dict__[key]=self.__dict__[key]
+        clone.copy=True
+        if choose_new_targets:
+            clone.set_targets()
+        self.controller.game.stack.enter_zone(clone)
+
 class Instant(Sorcery):
     def __init__(self,spell_effect,types=['instant'],**kwargs):
         Sorcery.__init__(self,spell_effect,types=types,**kwargs)
@@ -1235,7 +1265,7 @@ class Planeswalker(Card):
             if self.controller.game.verbose>=2:
                 print(self, 'is exiled')
         else:
-            self.controller.game.triggers('dies', obj=self)
+            self.controller.game.triggers('dies', obj=self, effect_kwargs={'obj':self})
             self.owner.yard.enter_zone(self)
         self.loyalty=self.starting_loyalty
 
@@ -1333,6 +1363,7 @@ class Emblem:
         self.owner=None
         self.add_static_zones=[]
         self.remove_static_zones=[]
+        self.types=['emblem']
         self.static_abils=static_abils
         self.add_trigger_zones=[]
         self.remove_trigger_zones=[]

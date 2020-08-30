@@ -51,6 +51,7 @@ colors=['W','U','B','R','G']
 # cards key is alpha sorted, so we'll alpha sort colors here too
 # making some code easily editable for different num of colors. starting with trips
 num_colors = 3
+#color_select = [tuple(sorted(i)) for i in itertools.combinations(colors,num_colors) if 'G' in i and 'U' in i and 'B' in i]
 color_select = [tuple(sorted(i)) for i in itertools.combinations(colors,num_colors)]
 color_select = random.sample(color_select, 1)
 deckA_cols = color_select

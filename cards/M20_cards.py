@@ -4,6 +4,7 @@ from Card_types import *
 from Abilities_Effects import *
 from Player import *
 import inspect
+import itertools
 
 
 
@@ -3082,7 +3083,9 @@ def Cavalier_of_Night_ETB_effect(source_abil):
             types=source_abil.types,
             choices=source_abil.choices,
             requirements=source_abil.requirements,
-            colors=source_abil.source.colors)
+            colors=source_abil.source.colors,
+            trigger_points=source_abil.trigger_points,
+            trigger_condition=source_abil.trigger_condition)
         effect.assign_source(source_abil.source)
         effect.assign_controller(source_abil.controller)
         try:
@@ -3191,7 +3194,8 @@ def Duress_effect(source_card):
     target=source_card.get_targets()
     target.reveal_cards(target.hand, zone='hand')
     cands= [i for i in target.hand if 'land' not in i.types and 'creature' not in i.types]
-    source_card.controller.input_choose(cands, label='Duress select').discard_from_hand()
+    if cands!=[]:
+        source_card.controller.input_choose(cands, label='Duress select').discard_from_hand()
 
 Duress= Sorcery(
     name='Duress',
@@ -3669,7 +3673,9 @@ def Sorin_IB_plus1_sac_drn_effect(source_abil):
             types=source_abil.types,
             choices=source_abil.choices,
             requirements=source_abil.requirements,
-            colors=source_abil.source.colors)
+            colors=source_abil.source.colors,
+            trigger_points=source_abil.trigger_points,
+            trigger_condition=source_abil.trigger_condition)
         effect.assign_source(source_abil.source)
         effect.assign_controller(source_abil.controller)
         try:
@@ -4359,7 +4365,7 @@ def Chandras_Regulator_activated_cost(source_abil):
     source_abil.source.tap()
     elig_cards=[i for i in source_abil.controller.hand if 'Mountain' in i.types or
         'R' in i.colors]
-    selected=source_abil.controller.input_select(elig_cards,
+    selected=source_abil.controller.input_choose(elig_cards,
         label="Chandra's Regulator discard")
     selected.discard_from_hand()
 
@@ -4415,7 +4421,7 @@ def EOTr_Chandras_Spitfire_effect(creature):
 
 def Chandras_Spitfire_effect(source_abil):
     source_abil.source.change_power(3)
-    source_abil.EOT_reverse_effects.append(EOT_reverse_effects)
+    source_abil.source.EOT_reverse_effects.append(EOTr_Chandras_Spitfire_effect)
 
 Chandras_Spitfire= Creature(
     name="Chandra's Spitfire",
@@ -4538,9 +4544,12 @@ Dragon_Mage = Creature(
 # 7/7
 def Drakuseth_Maw_of_Flames_effect(source_abil):
     targets = source_abil.get_targets()
-    targets[0].take_damage(4, source=source_abil.source, combat=False)
-    targets[1].take_damage(3, source=source_abil.source, combat=False)
-    targets[2].take_damage(3, source=source_abil.source, combat=False)
+    if len(targets)>0 and targets[0]!=None:
+        targets[0].take_damage(4, source=source_abil.source, combat=False)
+    if len(targets)>1 and targets[1]!=None:
+        targets[1].take_damage(3, source=source_abil.source, combat=False)
+    if len(targets)>2 and targets[2]!=None:
+        targets[2].take_damage(3, source=source_abil.source, combat=False)
 
 Drakuseth_Maw_of_Flames = Creature(
     name='Drakuseth, Maw of Flames',
@@ -4551,7 +4560,7 @@ Drakuseth_Maw_of_Flames = Creature(
     keyword_static_abils=['flying'],
     triggered_abils=[
         Triggered_Ability(
-            name='Dragon Mage triggered abil',
+            name='Drakuseth, Maw of Flames triggered abil',
             trigger_points=['on attack'],
             trigger_condition=lambda source_abil, obj, **kwargs:
                 source_abil.source==obj,
@@ -4679,7 +4688,7 @@ Glint_Horn_Buccaneer = Creature(
                 non_mana=[lambda source_abil: source_abil.controller.discard_cards(1)],
                 non_mana_check=[lambda source_abil: source_abil.controller.has_cards_in_hand()]
             ),
-            requirements=[Requirement(lambda source: source.controller.attacking)],
+            requirements=[Requirement(lambda source_abil: source_abil.source.attacking)],
             abil_effect = lambda source_abil: source_abil.controller.draw_card()
         )
     ],
@@ -5195,7 +5204,8 @@ def Reckless_Air_Strike_effect(source_card):
     if source_card.selected_mode==1:
         target.take_damage(3, source=source_card, combat=False)
     if source_card.selected_mode==2:
-        target.destroy()
+        if source_card.targets[1].check_target_zones():
+            target.destroy()
 
 Reckless_Air_Strike = Instant (
     name='Reckless Air Strike',
@@ -5218,7 +5228,7 @@ Reckless_Air_Strike = Instant (
 # Reduce to Ashes deals 5 damage to target creature. If that creature would die
 # this turn, exile it instead.
 def EOTr_Reduce_to_Ashes(creature):
-    target.remove_keyword('exile_on_death')
+    creature.remove_keyword('exile_on_death')
 
 def Reduce_to_Ashes_effect(source_card):
     target=source_card.get_targets()
@@ -5252,9 +5262,12 @@ def Repeated_Reverberation_trigger_effect(source_abil):
         source_abil.last_known_info.make_copy()
 
 def EOTr_Repeated_Reverberation_effect(player):
+    abils= [i for i in player.triggered_abils if i.name==
+        'Repeated Reverberation trigger']
+    for abil in abils:
+        abil.remove_trigger_points()
     player.triggered_abils = [i for i in player.triggered_abils if i.name!=
         'Repeated Reverberation trigger']
-    abil.remove_trigger_points()
 
 def Repeated_Reverberation_effect(source_card):
     abil = Triggered_Ability(
@@ -5383,15 +5396,15 @@ Shock= Instant(
 def EOTr_Tectonic_Rift_effect(creature):
     creature.remove_keyword('cant_block')
 def Tectonic_Rift_effect(source_card):
-    target.get_targets().destroy()
+    source_card.get_targets().destroy()
     for i in source_card.owner.field:
         if 'creature' in i.types:
-            creature.add_keyword('cant_block')
-            creature.EOT_reverse_effects.append(EOTr_Tectonic_Rift_effect)
+            i.add_keyword('cant_block')
+            i.EOT_reverse_effects.append(EOTr_Tectonic_Rift_effect)
     for i in source_card.owner.opponent.field:
         if 'creature' in i.types:
-            creature.add_keyword('cant_block')
-            creature.EOT_reverse_effects.append(EOTr_Tectonic_Rift_effect)
+            i.add_keyword('cant_block')
+            i.EOT_reverse_effects.append(EOTr_Tectonic_Rift_effect)
 
 Tectonic_Rift= Sorcery(
     name='Tectonic Rift',
@@ -5852,28 +5865,77 @@ Gargos_Vicious_Watcher= Creature(
 # Enchanted land has “{T}: Add two mana of any one color.”
 
 def Gift_of_Paradise_effect(attached_to):
+    abil={}
+    abil['W']=Activated_Ability(
+            name='Gift of Paradise '+ 'W'+ ' ability',
+            mana_abil=True,
+            cost=Cost(
+                non_mana=[lambda source_abil: source_abil.source.tap()],
+                non_mana_check=[lambda source_abil: source_abil.source.tapped==False
+                and (source_abil.source.summoning_sick==False or 'creature' not in
+                source_abil.source.types)]
+            ),
+            abil_effect= lambda source_abil: source_abil.source.controller.add_mana('W',2),
+            potential_mana=Potential_Mana({'W':2})
+        )
+    abil['U']=Activated_Ability(
+            name='Gift of Paradise '+ 'U'+ ' ability',
+            mana_abil=True,
+            cost=Cost(
+                non_mana=[lambda source_abil: source_abil.source.tap()],
+                non_mana_check=[lambda source_abil: source_abil.source.tapped==False
+                and (source_abil.source.summoning_sick==False or 'creature' not in
+                source_abil.source.types)]
+            ),
+            abil_effect= lambda source_abil: source_abil.source.controller.add_mana('U',2),
+            potential_mana=Potential_Mana({'U':2})
+        )
+    abil['B']=Activated_Ability(
+            name='Gift of Paradise '+ 'B'+ ' ability',
+            mana_abil=True,
+            cost=Cost(
+                non_mana=[lambda source_abil: source_abil.source.tap()],
+                non_mana_check=[lambda source_abil: source_abil.source.tapped==False
+                and (source_abil.source.summoning_sick==False or 'creature' not in
+                source_abil.source.types)]
+            ),
+            abil_effect= lambda source_abil: source_abil.source.controller.add_mana('B',2),
+            potential_mana=Potential_Mana({'B':2})
+        )
+    abil['R']=Activated_Ability(
+            name='Gift of Paradise '+ 'R'+ ' ability',
+            mana_abil=True,
+            cost=Cost(
+                non_mana=[lambda source_abil: source_abil.source.tap()],
+                non_mana_check=[lambda source_abil: source_abil.source.tapped==False
+                and (source_abil.source.summoning_sick==False or 'creature' not in
+                source_abil.source.types)]
+            ),
+            abil_effect= lambda source_abil: source_abil.source.controller.add_mana('R',2),
+            potential_mana=Potential_Mana({'R':2})
+        )
+    abil['G']=Activated_Ability(
+            name='Gift of Paradise '+ 'G'+ ' ability',
+            mana_abil=True,
+            cost=Cost(
+                non_mana=[lambda source_abil: source_abil.source.tap()],
+                non_mana_check=[lambda source_abil: source_abil.source.tapped==False
+                and (source_abil.source.summoning_sick==False or 'creature' not in
+                source_abil.source.types)]
+            ),
+            abil_effect= lambda source_abil: source_abil.source.controller.add_mana('G',2),
+            potential_mana=Potential_Mana({'G':2})
+        )
+
     for c in ['W','U','B','R','G']:
-        abil=Activated_Ability(
-                name='Gift of Paradise '+ c+ ' ability',
-                mana_abil=True,
-                cost=Cost(
-                    non_mana=[lambda source_abil: source_abil.source.tap()],
-                    non_mana_check=[lambda source_abil: source_abil.source.tapped==False
-                    and (source_abil.source.summoning_sick==False or 'creature' not in
-                    source_abil.source.types)]
-                ),
-                abil_effect= lambda source_abil: source_abil.source.controller.add_mana(c,2),
-                potential_mana=Potential_Mana({c:2})
-            )
-        attached_to.activated_abils=attached_to.activated_abils+[abil]
-        abil.assign_source(attached_to)
-        abil.assign_ownership(attached_to.controller)
+        attached_to.activated_abils=attached_to.activated_abils+[abil[c]]
+        abil[c].assign_source(attached_to)
+        abil[c].assign_ownership(attached_to.controller)
 
 def r_Gift_of_Paradise_effect(attached_to):
     # remove granted activated ability (remove only one copy in case multiples
     # of this aura are attached to the target)
-    abil_instances=[i for i in attached_to.activated_abils if i.name==
-        'Gift of Paradise ability']
+    abil_instances=[i for i in attached_to.activated_abils if 'Gift of Paradise' in i.name]
     attached_to.activated_abils.remove(abil_instances[0])
 
 Gift_of_Paradise= Aura(
@@ -6132,10 +6194,10 @@ def Loaming_Shaman_effect(source_abil):
     permutes=[]
     for n in range(len(player.yard)+1):
         permutes = permutes + [i for i in itertools.combinations(player.yard,n)]
-    selected = source_abil.controller.input_select(permutes, label='Loaming Shaman gyard abil')
+    selected = source_abil.controller.input_choose(permutes, label='Loaming Shaman gyard abil')
     for i in selected:
-        player.yard.leave_zone(selected)
-        player.lib.enter_zone(selected)
+        player.yard.leave_zone(i)
+        player.lib.enter_zone(i)
     player.shuffle_lib()
 
 Loaming_Shaman= Creature(
@@ -6395,9 +6457,11 @@ Pulse_of_Murasa= Instant(
 # Target creature you control deals damage equal to its power to target creature
 #  you don’t control.
 def Rabid_Bite_effect(source_card):
-    self_target=source_card.get_targets()[0]
-    opp_target=source_card.get_targets()[1]
-    opp_target.take_damage(self_target.power, source=self_target, combat=False)
+    targets= source_card.get_targets()
+    if len(targets)==2:
+        self_target=source_card.get_targets()[0]
+        opp_target=source_card.get_targets()[1]
+        opp_target.take_damage(self_target.power, source=self_target, combat=False)
 
 Rabid_Bite= Sorcery(
     name='Rabid_Bite',
@@ -6488,7 +6552,7 @@ Shared_Summons = Instant(
 # {G}: Shifting Ceratops gains your choice of reach, trample, or haste until end of turn.
 # 5/4
 def Shifting_Ceratops_effect(source_abil):
-    selected= source_abil.controller.input_select(['haste','reach','trample'],
+    selected= source_abil.controller.input_choose(['haste','reach','trample'],
         label='Shifting Ceratops ability select')
     source_abil.source.add_keyword(selected)
     source_abil.EOT_keywords.append(selected)
@@ -6633,11 +6697,13 @@ Veil_of_Summer = Instant(
 
 def Vivien_Arkbow_Ranger_plus1_effect(source_abil):
     targets=source_abil.get_targets()
+    targets=[i for i in targets if i!=None]
     if len(targets)==1:
-        target[0].add_keyword('trample')
-        target[0].EOT_keywords.append('trample')
+        targets[0].add_keyword('trample')
+        targets[0].EOT_keywords.append('trample')
         for _ in range(2):
             deepcopy(plus1_plus1_counter).attach_to(targets[0])
+
     # handle different split counters possibilities
     if len(targets)==2:
         for i in targets:
@@ -6647,9 +6713,11 @@ def Vivien_Arkbow_Ranger_plus1_effect(source_abil):
 
 
 def Vivien_Arkbow_Ranger_minus3_effect(source_abil):
-    self_target=source_abil.get_targets()[0]
-    opp_target=source_abil.get_targets()[1]
-    opp_target.take_damage(self_target.power, source=self_target, combat=False)
+    targets = source_abil.get_targets()
+    if len(targets) == 2:
+        self_target=source_abil.get_targets()[0]
+        opp_target=source_abil.get_targets()[1]
+        opp_target.take_damage(self_target.power, source=self_target, combat=False)
 
 def Vivien_Arkbow_Ranger_minus5_effect(source_abil):
     selected = source_abil.controller.input_choose(source_abil.controller.sideboard,
@@ -6715,7 +6783,7 @@ Vivien_Arkbow_Ranger = Planeswalker(
 # 0/1
 
 def Voracious_Hydra_ETB(source_abil):
-    for _ in range(source_abil.source.x_value):
+    for _ in range(source_abil.source.cost[0].x_value):
         deepcopy(plus1_plus1_counter).attach_to(source_abil.source)
 
 def Voracious_Hydra_ETB_effect(source_abil):
@@ -6961,8 +7029,8 @@ def Creeping_Trailblazer_activated_effect(source_abil):
     elems = len([i for i in source_abil.controller.field if 'elemental' in i.subtypes])
     source_abil.source.change_power(elems)
     source_abil.source.change_toughness(elems)
-    source_abil.EOT_power_pump+=elems
-    source_abil.EOT_toughness_pump+=elems
+    source_abil.source.EOT_power_pump+=elems
+    source_abil.source.EOT_toughness_pump+=elems
 
 
 Creeping_Trailblazer= Creature(
@@ -6986,7 +7054,7 @@ Creeping_Trailblazer= Creature(
     activated_abils=[
         Activated_Ability(
             name='Creeping Trailblazer activated abil',
-            cost=Cost({'C':2, 'R':1, 'G':1}),
+            cost=Cost(mana={'C':2, 'R':1, 'G':1}),
             abil_effect= Creeping_Trailblazer_activated_effect
         )
     ]
@@ -7198,8 +7266,8 @@ Kethis_the_Hidden_Hand=Creature(
         Activated_Ability(
             name="Kethis the Hidden Hand activated abil",
             cost=Cost(
-                non_mana= Kethis_activated_cost,
-                non_mana_check= Kethis_activated_cost_check,
+                non_mana= [Kethis_activated_cost],
+                non_mana_check= [Kethis_activated_cost_check],
             ),
             abil_effect= Kethis_activated_effect
         )
@@ -7507,10 +7575,15 @@ Tomebound_Lich = Creature(
 
 def Yarok_the_Desecrated_effect(source_abil):
     # check for effect instances generated by triggered abils with trigger points caused by obj etb'ing
+    copies=[]
     for obj in source_abil.controller.game.stack:
-        if 'triggered_abil' in obj.types and 'enter field' in obj.source.trigger_points \
-        and obj.source.trigger_condition(source_abil = obj.source, obj = source_abil.last_known_info):
-            obj.make_copy(choose_new_targets=False)
+        if 'triggered_abil' in obj.types and 'enter field' in obj.trigger_points \
+        and source_abil.last_known_info != None \
+        and obj.trigger_condition(source_abil = obj.source, obj = source_abil.last_known_info) \
+        and obj != source_abil:
+            copies.append(obj)
+    for obj in copies:
+        obj.make_copy(choose_new_targets=False)
 
 Yarok_the_Desecrated= Creature(
     name='Yarok, the Desecrated',
@@ -8813,7 +8886,7 @@ Rugged_Highlands= Land(
             potential_mana=Potential_Mana({'R':1})
         ),
         Activated_Ability(
-            name='Jungle Hollow {G} ability',
+            name='Rugged Highlands {G} ability',
             cost=Cost(
                 non_mana=[lambda source_abil: source_abil.source.tap()],
                 non_mana_check=[lambda source_abil: source_abil.source.tapped==False

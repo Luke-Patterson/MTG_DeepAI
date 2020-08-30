@@ -10,7 +10,7 @@ import inspect
 class Cost:
     def __init__(self,non_mana=[],non_mana_check=[],mana={'C':0}, alt_cost=None,
         cost_mods=[], mana_x_value=False,nonmana_x_value=False, xrange_func= None,
-        mana_x_modfunc= None):
+        mana_x_modfunc= None, reverse_mana_x_modfunc=None):
         self.non_mana_cost=non_mana
         self.non_mana_check=non_mana_check
         self.mana_cost=mana
@@ -28,7 +28,7 @@ class Cost:
 
         # create a default X function for those spells/abils with X colorless in cost
         def _get_possible_x_mana(self_mana_cost, source):
-            source.controller.get_potential_mana()
+            source.controller.get_potential_mana(for_cost=self_mana_cost)
             # max X value is the largest total mana player can create minus
             # non x costs
             max_X = max([sum(i.values()) for i in source.controller.potential_mana]) - \
@@ -36,19 +36,29 @@ class Cost:
             return([i for i in range(max_X+1)])
 
         def _mana_x_modfunc_default(cost, xval):
-            cost['C'] += xval
+            if 'C' in cost.keys():
+                cost['C'] += xval
+            else:
+                cost['C'] = xval
+
+        def _r_mana_x_modfunc_default(cost, xval):
+            if 'C' in cost.keys():
+                cost['C'] -= xval
 
         if mana_x_value and xrange_func==None:
             self.xrange_func= _get_possible_x_mana
             self.mana_x_modfunc = _mana_x_modfunc_default
+            self.reverse_mana_x_modfunc= _r_mana_x_modfunc_default
         elif mana_x_value:
             self.xrange_func=xrange_func
             self.mana_x_modfunc= mana_x_modfunc
+            self.reverse_mana_x_modfunc= reverse_mana_x_modfunc
         elif nonmana_x_value:
             self.xrange_func=xrange_func
         else:
             self.xrange_func=None
             self.mana_x_modfunc=None
+            self.reverse_mana_x_modfunc= None
         self.x_value=0
 
     def assign_source(self,source):
@@ -113,23 +123,28 @@ class Cost:
         if pay_mana_cost:
             # select value for X if present
             if self.mana_x_value:
-                self.x_value=self.controller.input_choose(self.xrange_func(
+                self.x_value=self.source.controller.input_choose(self.xrange_func(
                     self.mana_cost, self.source))
-                if self.controller.game.verbose>=2:
+                if self.source.controller.game.verbose>=2:
                     print('X value set at', self.x_value)
-                mod_cost= self.mana_x_modfunc(mod_cost, self)
+                self.mana_x_modfunc(mod_cost, self.x_value)
             self.source.controller.tap_sources_for_cost(mana_cost=mod_cost,cost_object=self)
             self.source.controller.pay_mana(mod_cost)
         # paying non-mana costs
         # if there's a non-mana X to specify, select value for X
         if self.nonmana_x_value:
-            self.x_value= self.controller.input_choose(self.xrange_func(self.source))
-            if self.controller.game.verbose>=2:
+            self.x_value= self.source.controller.input_choose(self.xrange_func(self.source))
+            if self.source.controller.game.verbose>=2:
                 print('X value set at', self.x_value)
         #for each non-mana cost, call function
         for cost in self.non_mana_cost:
             cost(self.source)
 
+    def __repr__(self):
+        return str(self.source) + ' Cost Object: ' + str(self.mana_cost)
+
+    def __str__(self):
+        return str(self.source) + ' Cost Object: ' + str(self.mana_cost)
 # class that represents cost modification for certain costs
 class Cost_Modification:
     def __init__(self, name, cost_mod, mod_condition, cost_mod_source=None):
@@ -176,14 +191,27 @@ class Potential_Mana:
         self.use_condition=use_condition
         self.source=None
         self.linked_abil=None
+        self.controller=None
+        self.owner=None
 
     def assign_source(self, source):
         self.source=source
 
+    def assign_controller(self, controller):
+        self.controller=controller
+
+    def assign_ownership(self, owner):
+        self.controller=owner
+        self.owner=owner
+
     def check_condition(self):
         return self.condition(self.source)
 
+    def __repr__(self):
+        return str(self.source) + ' Potential Mana: ' + str(self.mana)
 
+    def __str__(self):
+        return str(self.source) + ' Potential Mana: ' + str(self.mana)
 # requirement to meet
 class Requirement:
     def __init__(self,condition,source=None):
@@ -256,7 +284,7 @@ class Choice:
 class Target:
     def __init__(self,criteria,name=None,c_zones=['field'],c_players=None,c_own=True,
         c_opponent=True,c_source=None,c_different=False,c_required=True,
-        c_self_target=True,c_stack=False, mode_linked=False, mode_num=0, any_num_of_target=False):
+        c_self_target=True,c_stack=False, mode_linked=False, mode_num=None):
         self.name=name
         # source and controller to be defined by source of target
         self.source=None
@@ -294,6 +322,8 @@ class Target:
         # whether the target is linked to a mode, and if so what mode
         self.mode_linked=mode_linked
         self.mode_num=mode_num
+        if self.mode_num!=None:
+            self.mode_linked=True
 
     def make_copy(self):
         # not using deepcopy which would copy too much; instead create new instance
@@ -315,6 +345,9 @@ class Target:
         clone.c_different=self.c_different
         clone.c_required=self.c_required
         clone.c_self_target=self.c_self_target
+        clone.c_stack=self.c_stack
+        clone.mode_linked=self.mode_linked
+        clone.mode_num=self.mode_num
         return clone
 
     def assign_source(self,source):
@@ -343,7 +376,7 @@ class Target:
         )
         return(possible_targets)
 
-    def set_possible_target(self):
+    def set_possible_target(self, make_copy=False):
 
         # if mode-linked, check to see if linked mode is selected. skip setting
         # target entirely if not
@@ -358,9 +391,14 @@ class Target:
         legal_targets=[]
         for i in possible_targets:
             self.target_obj=i
-            if self.source.check_costs() and self.source.check_choices() and \
-                self.source.check_requirements():
-                legal_targets.append(i)
+            if make_copy==False:
+                if self.source.check_costs() and self.source.check_choices() and \
+                    self.source.check_requirements():
+                    legal_targets.append(i)
+            # if making a copy, don't need to go through costs, choices, requirements
+            if make_copy:
+                    legal_targets.append(i)
+
             self.target_obj=None
 
         # if self.source.name=='Captivating Gyre':
