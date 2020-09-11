@@ -1,0 +1,7 @@
+pass to game:
+winner -> game.dcollect stores winner (None or Player)
+runtime -> game.dcollect stores runtime (None or float)
+spells_cast -> game.dcollect stores data frame of spells cast. game.dcollect['spells_cast'] is a nested dict of two dicts, each subdict assigned to a player. 
+Keys of subdict are every possible card
+
+pass to nn_logic:

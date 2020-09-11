@@ -19,7 +19,7 @@ from collections import Counter
 from ai_sim.combat_logic import Combat_Logic
 
 class Player:
-    def __init__(self, name, deck, sideboard=[], logic=None, mana_shorthand=False,ignore_pass=True):
+    def __init__(self, name, deck=None, sideboard=[], logic=None, mana_shorthand=False,ignore_pass=True):
         self.name=name
         self.deck=deck
         self.game=None
@@ -109,6 +109,7 @@ class Player:
         self.check_exile_for_cast=False
         # trigger for checking if top of lib can be cast
         self.top_lib_cast_condition=[]
+
 
     #==========================================================================
     # Game Procedure Functions
@@ -407,11 +408,11 @@ class Player:
         # if check_exile_for_cast enabled, also check your yard for spells
         if self.top_lib_cast_condition!= None:
             if self.spell_cap==[] or min(self.spell_cap)>self.turn_spell_count:
-                if flash==False:
+                if flash==False and len(self.lib)>0:
                     spell = self.lib[0]
                     if any([f(spell) for f in self.top_lib_cast_condition]) and 'land' not in spell.types and spell.legal_req_tar_cho_costs():
                         spell_moves.append(spell)
-                if flash==True:
+                if flash==True and len(self.lib)>0:
                     spell = self.lib[0]
                     if spell.flash==True:
                         if any([f(spell) for f in self.top_lib_cast_condition]) and not 'land' in spell.types and spell.legal_req_tar_cho_costs():
@@ -605,6 +606,8 @@ class Player:
 
     # reveal cards to opponent
     def reveal_cards(self, cards, zone):
+        if isinstance(cards,list)==False:
+            cards=[cards]
         for i in cards:
             self.opponent.known_info=self.opponent.known_info.append(
                 pd.Series([i,zone]), ignore_index=True)

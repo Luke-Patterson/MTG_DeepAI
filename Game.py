@@ -3,10 +3,13 @@ import random
 from datetime import datetime
 from functools import partial
 import time
+import dill
 from Player import *
 from Zones import *
+from cards.M20_cards import *
 import sys
 import collections
+import itertools
 import copy
 import gc
 import time
@@ -14,7 +17,8 @@ import math
 
 # class for running a batch of MTG games
 class MTG_Game_Set:
-    def __init__(self, playerA, playerB, end_of_set_stop=False,
+    def __init__(self, playerA=None, playerB=None, end_of_set_stop=False,
+        decks=[],
         cards_file='C:/Users/lsp52/AnacondaProjects/card_sim/cards/M20_index.csv'):
         self.path='C:/Users/lsp52/AnacondaProjects/card_sim/'
         self.cards_file=pd.read_csv(cards_file)
@@ -23,21 +27,24 @@ class MTG_Game_Set:
         self.playerB=playerB
         self.end_of_set_stop=end_of_set_stop
         self.game_count=0
+        self.decks=decks
+        self.add_M20_index()
 
     # run a set of games. kwargs are game specific keyword arguments to pass
-    def execute_game_set(self, num_games, multicore=False, data_collector=None,**kwargs):
+    def execute_game_set(self, num_games, multicore=False,data_collector=None,**kwargs):
         processes = []
         start=datetime.now()
         if multicore==False:
-            for n in range(num_games):
-                dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games))
-                    for n in range(num_games)]
-                self.execute_game(dc_wrapper=data_collector, **kwargs)
+            dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games),
+                n+1) for n in range(num_games)]
+            for dc in dc_wrapper:
+                self.execute_game(dc_wrapper=dc, **kwargs)
         if multicore:
             n_nodes=5
             pool = ProcessPool(nodes=n_nodes)
             #games_per_node= math.floor(num_games/n_nodes)
-            dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games))
+            dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games),
+                n+1)
                 for n in range(num_games)]
             results = pool.map(partial(self.execute_game,**kwargs), dc_wrapper)
             data_collector.compile_results(results)
@@ -45,17 +52,25 @@ class MTG_Game_Set:
         if self.end_of_set_stop:
             import pdb; pdb.set_trace()
 
-    def execute_game(self,dc_wrapper=None,**kwargs):
-        if dc_wrapper!=None:
+    def execute_game(self,dc_wrapper=None, give_random_decks=False,**kwargs):
+        if dc_wrapper[0]!=None:
             data_collector=dc_wrapper[0]
             print('Game #', dc_wrapper[1])
         else:
             data_collector=None
+        game_n = dc_wrapper[2]
+
+        if give_random_decks:
+            # give players random decks
+            self.playerA.deck=random.choice(self.decks)
+            self.playerB.deck=random.choice(self.decks)
+
+        # option to generate a random deck of 2 colors and 40 cards  at the start of each game
         g=MTG_Game(**kwargs,cards_file=self.cards_file)
         g.play_game()
         if 'dcollect_points' in kwargs.keys() and dc_wrapper!=None:
             for j in g.plyrs:
-                if n==0:
+                if game_n==1:
                     self.data_dfs[str(j)]=pd.DataFrame()
                     self.data_dfs['runtime']=pd.Series()
                 data=pd.Series(g.dcollect['spells_cast'][j])
@@ -67,8 +82,6 @@ class MTG_Game_Set:
             self.data_dfs['runtime']=self.data_dfs['runtime'].append(pd.Series(g.dcollect['runtime'])
                 , ignore_index=True)
         gc.collect()
-        if data_collector!=None:
-            return([data_collector.all_xtrain, data_collector.all_ytrain])
 
     def export_results(self):
         # export out num of spells cast and whether they won or not
@@ -83,7 +96,103 @@ class MTG_Game_Set:
             self.data_dfs['runtime'].to_csv(self.path+'output/runtime_'+
                 time.strftime("%Y_%m_%d-%H_%M_%S"+'.csv'), index=False)
 
+    # =========================================================================
+    # Functions to generate decks for players
+    #==========================================================================
 
+    # Load M20 index
+    def add_M20_index(self):
+        self.M20_df=pd.read_csv('C:/Users/lsp52/AnacondaProjects/card_sim/cards/M20_index.csv')
+        # transform some columns into python objects we will need
+        self.M20_df['colors']=self.M20_df['colors'].apply(lambda x: eval(x))
+        self.M20_df['types']=self.M20_df['types'].apply(lambda x: eval(x))
+        self.M20_df['potential_mana_values']=self.M20_df['potential_mana_values'].apply(lambda x: eval(x))
+
+        # single color cards
+        self.M20_cards={}
+        # multi colored cards
+        for n,card in self.M20_df.iterrows():
+            if tuple(card.colors) not in self.M20_cards.keys():
+                self.M20_cards[tuple(card.colors)]=[card.object_name]
+            else:
+                self.M20_cards[tuple(card.colors)].append(card.object_name)
+
+        # colorless non land cards
+        self.M20_cards[('C')]=self.M20_df.loc[(self.M20_df.colors.apply(lambda x: 'C' in x)) &
+            (self.M20_df.types.apply(lambda x: 'land' not in x)),'object_name'].tolist()
+
+        # lands
+        lands = self.M20_df.loc[self.M20_df.types.apply(lambda x: 'land' in x and 'basic' not in x)]
+        for n,card in lands.iterrows():
+            mana_produced = card.potential_mana_values
+            mana_produced = tuple(list(i.keys())[0] for i in mana_produced)
+            if mana_produced not in self.M20_cards.keys():
+                self.M20_cards[mana_produced]=[card.object_name]
+            else:
+                self.M20_cards[mana_produced].append(card.object_name)
+
+    # generate and return a limited deck of three colors with a reasonable mix of lands
+    def gen_M20_deck(self):
+        # randomly pick colors for decks
+        colors=['W','U','B','R','G']
+
+        # pick three colors and generate deck of cards
+        # cards key is alpha sorted, so we'll alpha sort colors here too
+        # making some code easily editable for different num of colors. starting with trips
+        num_colors = 3
+        #color_select = [tuple(sorted(i)) for i in itertools.combinations(colors,num_colors) if 'G' in i and 'U' in i and 'B' in i]
+        color_select = [tuple(sorted(i)) for i in itertools.combinations(colors,num_colors)]
+        color_select = random.sample(color_select, 1)
+        deckA_cols = color_select
+        # if 2 or more colors, add subsets within selected color combo (pairs in triple,
+        # single color in pair, etc.)
+        for n in range(num_colors-1,0,-1):
+            color_sub = [tuple(sorted(i)) for i in itertools.combinations(color_select[0],n)]
+            deckA_cols = deckA_cols + color_sub
+
+        # first add cards to pool
+        pool = []
+        for c in deckA_cols:
+            if c in self.M20_cards.keys():
+                for name in self.M20_cards[c]:
+                    pool.append(name)
+
+        # then sample w replacement from pool
+        deck = random.choices(pool,k=22)
+        deck = [eval(i) for i in deck]
+        # next, determine basic lands to add to the deck
+        basic_lands={
+            'W':'Plains',
+            'U':'Island',
+            'B':'Swamp',
+            'R':'Mountain',
+            'G':'Forest'
+        }
+
+        # count number cards of each color
+        colors = [i.colors for i in deck]
+        colors = [i for j in colors for i in j if i!='C']
+        color_counts= collections.Counter(colors)
+
+        # multiply by 18/22 to get number of lands
+        land_counts={}
+        for c in color_counts.keys():
+            land_counts[c]= round(18/22 * color_counts[c])
+        # in case rounding doesn't give us 18 lands, just remove/add randomly to get there
+        num_lands = sum([i for i in land_counts.values()])
+        if num_lands > 18:
+            while num_lands > 18:
+                land_counts[random.choice(list(land_counts.keys()))] -=1
+                num_lands = sum([i for i in land_counts.values()])
+        if num_lands < 18:
+            while num_lands < 18:
+                land_counts[random.choice(list(land_counts.keys()))] +=1
+                num_lands = sum([i for i in land_counts.values()])
+
+        for c in land_counts.keys():
+            for _ in range(land_counts[c]):
+                deck.append(eval(basic_lands[c]))
+        return(deck)
 # object for individual game
 class MTG_Game:
     def __init__(self, playerA, playerB, verbose=1,seed=None,logged=False,
@@ -155,6 +264,7 @@ class MTG_Game:
             p.sideboard.load_sideboard(p.sb)
             p.verbose=verbose
             p.shuffle_lib()
+
         # store when/where to check for triggers
         self.trigger_points={}
         # store where to check for replacement effects
