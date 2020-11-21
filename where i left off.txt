@@ -1,1 +1,5 @@
-sorting out data collection not working anymore
+working on improving gamestate model to predict who will win a game 
+
+Moving xtrain and ytrain to data collector - nn_logic should be model only
+
+getting data collector to store xtrain/ytrain as pickle

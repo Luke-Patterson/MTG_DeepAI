@@ -1,6 +1,7 @@
 from pathos.pools import ProcessPool
 import random
 from datetime import datetime
+#from numba import jit, cuda
 from functools import partial
 import time
 import dill
@@ -31,28 +32,36 @@ class MTG_Game_Set:
         self.add_M20_index()
 
     # run a set of games. kwargs are game specific keyword arguments to pass
-    def execute_game_set(self, num_games, multicore=False,data_collector=None,**kwargs):
+    def execute_game_set(self, num_games, multicore=False,gpu=False, data_collector=None,
+        export_check_points=None,**kwargs):
         processes = []
         start=datetime.now()
-        if multicore==False:
-            dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games),
-                n+1) for n in range(num_games)]
-            for dc in dc_wrapper:
+        dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games),
+            n+1) for n in range(num_games)]
+        if multicore==False and gpu==False:
+            for n, dc in enumerate(dc_wrapper):
                 self.execute_game(dc_wrapper=dc, **kwargs)
+
+                # option to save training files every # gaames
+                if export_check_points!=None and n % export_check_points==0 \
+                    and data_collector!=None:
+                    print('exporting results after game', n)
+                    data_collector.model.export_results()
         if multicore:
             n_nodes=5
             pool = ProcessPool(nodes=n_nodes)
             #games_per_node= math.floor(num_games/n_nodes)
-            dc_wrapper = [(data_collector, 'game: '+str(n+1)+' of '+str(num_games),
-                n+1)
-                for n in range(num_games)]
+            kwargs['gs_collect']=False
             results = pool.map(partial(self.execute_game,**kwargs), dc_wrapper)
             data_collector.compile_results(results)
+        if gpu:
+            for dc in dc_wrapper:
+                self.execute_game(dc_wrapper=dc, gpu=gpu, **kwargs)
         print('Total runtime:',datetime.now()-start)
         if self.end_of_set_stop:
             import pdb; pdb.set_trace()
 
-    def execute_game(self,dc_wrapper=None, give_random_decks=False,**kwargs):
+    def execute_game(self,dc_wrapper=None, give_random_decks=False,gpu=False,gs_collect=True,**kwargs):
         if dc_wrapper[0]!=None:
             data_collector=dc_wrapper[0]
             print('Game #', dc_wrapper[1])
@@ -66,9 +75,12 @@ class MTG_Game_Set:
             self.playerB.deck=random.choice(self.decks)
 
         # option to generate a random deck of 2 colors and 40 cards  at the start of each game
-        g=MTG_Game(**kwargs,cards_file=self.cards_file)
-        g.play_game()
-        if 'dcollect_points' in kwargs.keys() and dc_wrapper!=None:
+        g=MTG_Game(**kwargs,cards_file=self.cards_file, data_collector=data_collector)
+        if gpu:
+            g.gpu_play_game()
+        else:
+            g.play_game()
+        if gs_collect and 'dcollect_points' in kwargs.keys() and dc_wrapper!=None:
             for j in g.plyrs:
                 if game_n==1:
                     self.data_dfs[str(j)]=pd.DataFrame()
@@ -197,9 +209,10 @@ class MTG_Game_Set:
 class MTG_Game:
     def __init__(self, playerA, playerB, verbose=1,seed=None,logged=False,
         pause_at_turn=None, stop_at_end=True, save_post_game_data=False,
-        dcollect_points=[], cards_file=None, combat_eval=False):
+        dcollect_points=[], cards_file=None, combat_eval=False, data_collector=None):
 
         # initialize logging and data collection
+        self.data_collector=data_collector
         self.path='C:/Users/lsp52/AnacondaProjects/card_sim/'
         self.logged=logged
         if self.logged:
@@ -273,9 +286,8 @@ class MTG_Game:
         self.addl_state_effects=[]
 
         # instantiate game start in logic
-        for p in self.plyrs:
-            if p.logic!=None:
-                p.logic.game_start()
+        if self.data_collector!=None:
+            self.data_collector.game_start()
 
         # draw opening hand of 7 cards
         for p in self.plyrs:
@@ -287,6 +299,11 @@ class MTG_Game:
 
         if 'begin game' in self.trigger_points.keys():
             self.triggers('begin game')
+
+    # gpu play_game
+    #@jit(target ="cuda")
+    def gpu_play_game(self):
+        self.play_game()
 
     # play game until someone loses
     def play_game(self):
@@ -549,8 +566,8 @@ class MTG_Game:
                             keep=i.input_choose(others)
                             for k in others:
                                 if k!=keep:
-                                    i.field.leave_zone(j)
-                                    i.yard.enter_zone(j)
+                                    i.field.leave_zone(k)
+                                    i.yard.enter_zone(k)
                                     if self.verbose>=2:
                                         print(k,'legend rule applied')
 
@@ -621,9 +638,8 @@ class MTG_Game:
             self.dcollect['runtime']=end-self.start
         if self.stop_at_end:
             import pdb; pdb.set_trace()
-        for p in self.plyrs:
-            if p.logic!=None:
-                p.logic.end_game(winner=plyr.opponent)
+        if self.data_collector!=None:
+            self.data_collector.end_game(winner=plyr.opponent)
         for p in self.plyrs:
             p.reset_self()
         raise GameExit()

@@ -971,10 +971,11 @@ class Card:
         self.tapped=False
 
     def sacrifice(self):
-        self.controller.field.leave_zone(self)
-        self.owner.yard.enter_zone(self)
-        if self.owner.game.verbose>=2:
-            print(self.controller,'sacrifices',self)
+        if self.zone.zone_type=='field':
+            self.controller.field.leave_zone(self)
+            self.owner.yard.enter_zone(self)
+            if self.owner.game.verbose>=2:
+                print(self.controller,'sacrifices',self)
 
     def exile(self):
         self.zone.leave_zone(self)

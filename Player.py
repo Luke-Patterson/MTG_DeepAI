@@ -2,6 +2,7 @@
 import random
 import numpy as np
 import pandas as pd
+from datetime import datetime
 import time
 import inspect
 import sys
@@ -60,6 +61,7 @@ class Player:
         self.logic=logic
         if logic!=None:
             self.logic.plyr=self
+            self.logic.data_collector.plyr=self
         # place to store hexproof and other (?) player-level abils
         self.keyword_static_abils=[]
         # keywords to expire at end of turn
@@ -109,11 +111,17 @@ class Player:
         self.check_exile_for_cast=False
         # trigger for checking if top of lib can be cast
         self.top_lib_cast_condition=[]
+        # data collector
+        self.data_collector=None
 
 
     #==========================================================================
     # Game Procedure Functions
     #==========================================================================
+    # assign data collector
+    def assign_data_collector(self, data_collector):
+        self.data_collector=data_collector
+        data_collector.plyr=self
 
     # enter the game
     def enter_game(self, game):
@@ -126,8 +134,9 @@ class Player:
 
     # reset self for in between games
     def reset_self(self):
+        dc = self.data_collector
         self.__init__(name=self.name,deck=self.deck,sideboard=self.sb,logic=self.logic)
-
+        self.data_collector = dc
     # shuffle library
     def shuffle_lib(self):
         return(random.shuffle(self.lib))
@@ -182,8 +191,10 @@ class Player:
 
     def mill_card(self,num=1):
         for i in range(num):
-            if len(self.lib)<1:
-                self.yard.append(self.lib.pop())
+            if len(self.lib)>=1:
+                card= self.lib[0]
+                self.lib.leave_zone(card)
+                self.yard.enter_zone(card)
         if self.game.verbose>=2:
             print(self,'mills',num,'card')
 
@@ -298,6 +309,9 @@ class Player:
             cards=self.lib
 
         if len(cards) != 0:
+            # can only select as many cards as we have
+            if n_selected> len(cards):
+                n_selected=len(cards)
             # select n cards from them
             selected = self.input_choose(cards, n=n_selected, label='select cards')
             if isinstance(selected, list)==False:
@@ -740,8 +754,8 @@ class Player:
         self.turn_spell_count=0
         self.turn_spell_colors=[]
         self.life_lost_this_turn=0
-        if self.logic!=None and self.logic.gather_gamestate:
-            self.logic.get_gamestate()
+        if self.data_collector!= None and self.data_collector.gather_gamestate:
+            self.data_collector.get_gamestate()
 
         # do clean up in other zones
         for obj, effect in zip(self.EOT_effects_cleanup['objs'],self.EOT_effects_cleanup['effects']):
