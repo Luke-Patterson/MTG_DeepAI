@@ -1,0 +1,23 @@
+certifi==2020.6.20
+dill==0.3.3
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multiprocess==0.70.11.1
+numpy==1.19.4
+olefile==0.46
+pandas==1.1.4
+pathos==0.2.7
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+pox==0.2.9
+ppft==1.6.6.3
+python-dateutil==2.8.1
+pytz==2020.4
+PyYAML==5.3.1
+scipy==1.5.4
+six @ file:///C:/ci/six_1605205426665/work
+torch==1.7.0
+torchaudio==0.7.0
+torchvision==0.8.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+wincertstore==0.2

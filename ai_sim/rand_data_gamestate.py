@@ -27,7 +27,7 @@ if __name__ == '__main__':
     Robo.assign_data_collector(dc)
 
     gs=MTG_Game_Set(playerA=Rand,playerB=Robo,decks=decks, end_of_set_stop=False)
-    gs.execute_game_set(2, playerA=Rand,playerB=Robo,verbose=2,stop_at_end=False,
+    gs.execute_game_set(100000, playerA=Rand,playerB=Robo,verbose=2,stop_at_end=False,
         multicore=False,gpu=False,data_collector=nn_logic.data_collector, give_random_decks=True,
         dcollect_points=['game_state','attackers','spells_cast','winner','runtime'], export_check_points=100)
     nn_logic.export_results()

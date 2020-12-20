@@ -100,12 +100,12 @@ for c in single_colors:
     deckB+=[copy.deepcopy(eval(basic_lands[c])) for _ in range(num_lands)]
 
 #
-# deckA=  [copy.deepcopy(Leafkin_Druid) for i in range(20)] + \
-#         [copy.deepcopy(Leyline_of_Abundance) for i in range(20)] + \
-#         [copy.deepcopy(Forest) for i in range(20)]
-# deckB=  [copy.deepcopy(Leafkin_Druid) for i in range(20)] + \
-#         [copy.deepcopy(Leyline_of_Abundance) for i in range(20)] + \
-#         [copy.deepcopy(Forest) for i in range(20)]
+deckA=  [copy.deepcopy(Leafkin_Druid) for i in range(20)] + \
+        [copy.deepcopy(Leyline_of_Abundance) for i in range(20)] + \
+        [copy.deepcopy(Forest) for i in range(20)]
+deckB=  [copy.deepcopy(Gift_of_Paradise) for i in range(20)] + \
+        [copy.deepcopy(Voracious_Hydra) for i in range(20)] + \
+        [copy.deepcopy(Forest) for i in range(20)]
 
 Bob=Player("Bob", deckA)
 Jim=Player("Jim", deckB)

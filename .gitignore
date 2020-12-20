@@ -4,3 +4,7 @@ ai_sim/output/xtrain_game_state_sparse.p
 ai_sim/output/xtrain_sparse_attackers.p
 ai_sim/output/old
 ai_sim/models
+__pycache__
+ai_sim/__pycache__
+cards/__pycache__
+decks/__pycache__

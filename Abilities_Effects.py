@@ -710,7 +710,10 @@ class Effect_Instance:
             trigger_points=self.trigger_points,trigger_condition=self.trigger_condition,
             mana_abil=self.mana_abil)
         if choose_new_targets:
-            clone.set_targets(make_copy=True)
+            try:
+                clone.set_targets(make_copy=True)
+            except GameActionError:
+                self.counterspelled()
         self.controller.game.stack.enter_zone(clone)
 
     def check_costs(self,pay_mana_cost=True):

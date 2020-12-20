@@ -556,7 +556,7 @@ class MTG_Game:
                                 if abil.hexproof_from==False and abil.check_protect(obj):
                                     protect=True
                             if protect:
-                                obj.detach_from(j)
+                                obj.detach_from()
 
                     # check if two legendary permanents exist
                     if 'legendary' in j.types:
